@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" fill="none">
+  <rect width="120" height="120" rx="12" fill="#E8E4DC"/>
+  <circle cx="60" cy="48" r="18" fill="#8B7355"/>
+  <path d="M30 92c0-16.569 13.431-30 30-30s30 13.431 30 30" fill="#8B7355"/>
+  <text x="60" y="110" text-anchor="middle" font-family="system-ui,sans-serif" font-size="8" fill="#6B5B4A">Agency</text>
+</svg>

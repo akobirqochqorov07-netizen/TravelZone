@@ -1,0 +1,1476 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Hiking vacation in Upper Austria | Wanderhotels</title>
+<base href="https://www.wanderhotels.com/">
+<meta name="robots" content="index,follow">
+<meta name="description" content="Hiking vacation in Upper Austria ✔ At the hiking, wellness, and romance hotel ✔ Hiking in the Kalkalpen National Park ▶ Discover now!">
+<meta name="generator" content="Contao Open Source CMS">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Hiking vacation in Upper Austria | Wanderhotels">
+<meta property="og:description" content="Hiking vacation in Upper Austria ✔ At the hiking, wellness, and romance hotel ✔ Hiking in the Kalkalpen National Park ▶ Discover now!">
+<meta property="og:url" content="https://www.wanderhotels.com/en/austria/upper-austria">
+<meta property="og:image" content="https://www.wanderhotels.com/files/content/graphics/og-default.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:site_name" content="Wanderhotels">
+<meta property="og:locale" content="en">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Hiking vacation in Upper Austria | Wanderhotels">
+<meta name="twitter:description" content="Hiking vacation in Upper Austria ✔ At the hiking, wellness, and romance hotel ✔ Hiking in the Kalkalpen National Park ▶ Discover now!">
+<meta name="twitter:image" content="https://www.wanderhotels.com/files/content/graphics/og-default.jpg">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://consentcdn.cookiebot.com">
+<link rel="canonical" href="https://www.wanderhotels.com/en/austria/upper-austria">
+<script>(function(){var KEY="wh-season";var params=new URLSearchParams(window.location.search);var seasonFromUrl=params.get("season");function isValidSeason(value){return value==="summer"||value==="winter"}
+function dayOfYear(date){var start=new Date(date.getFullYear(),0,0);return Math.floor((date-start+(start.getTimezoneOffset()-date.getTimezoneOffset())*60000)/86400000)}
+function getCurrentSeason(){var now=new Date();var day=dayOfYear(now);var year=now.getFullYear();var summerStart=dayOfYear(new Date(year,0,31));var winterStart=dayOfYear(new Date(year,8,30));return day>=summerStart&&day<winterStart?"summer":"winter"}
+var storedSeason=null;try{storedSeason=sessionStorage.getItem(KEY)}catch(e){}
+var initialSeason=isValidSeason(seasonFromUrl)?seasonFromUrl:isValidSeason(storedSeason)?storedSeason:getCurrentSeason();try{sessionStorage.setItem(KEY,initialSeason)}catch(e){}
+document.documentElement.classList.remove("season-summer","season-winter");document.documentElement.classList.add("season-"+initialSeason);document.documentElement.setAttribute("data-season",initialSeason);window.__INITIAL_SEASON__=initialSeason})()</script>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,shrink-to-fit=no">
+<link rel="stylesheet" href="/bundles/daesigncalendarfield/flatpickr/flatpickr.min.css?v=7e9ac4f9"><link rel="preload" as="style" href="/bundles/contaowowjs/animate.min.css?v=cc65f6e2" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="/bundles/contaowowjs/animate.min.css?v=cc65f6e2"></noscript><link rel="stylesheet" href="/assets/css/layout.min.css,responsive.min.css,rocksolid-slider.min.css,defau...-f53f866c.css"><script>window.ACTIVITY_LINK_MAP={"sommer":{"13":"https://www.wanderhotels.com/en/active-in-summer/pure-hiking","18":"https://www.wanderhotels.com/en/active-in-summer/hiking-biking","14":"https://www.wanderhotels.com/en/active-in-summer/hiking-climbing","15":"https://www.wanderhotels.com/en/active-in-summer/hiking-wellness","16":"https://www.wanderhotels.com/en/active-in-summer/hiking-yoga","17":"https://www.wanderhotels.com/en/active-in-summer/hiking-golfing"},"winter":{"3":"https://www.wanderhotels.com/en/active-in-winter/pure-winter-hiking","6":"https://www.wanderhotels.com/en/active-in-winter/snowshoe-hiking","7":"https://www.wanderhotels.com/en/active-in-winter/cross-country-skiing","9":"https://www.wanderhotels.com/en/active-in-winter/skiing","8":"https://www.wanderhotels.com/en/active-in-winter/ski-tours","4":"https://www.wanderhotels.com/en/active-in-winter/winter-hiking-wellness","5":"https://www.wanderhotels.com/en/active-in-winter/winter-hiking-yoga"}}</script><script src="/assets/js/nav-accordion.js,modal-overlay.js-b1c2bfbf.js" defer></script><script src="/assets/js/jquery.min.js,rocksolid-slider.min.js-49acb026.js"></script><script src="/bundles/daesigncalendarfield/flatpickr/flatpickr.min.js?v=7e9ac4f9"></script><script src="/bundles/daesigncalendarfield/flatpickr/l10n/en.js"></script><script defer src="/bundles/terminal42conditionalformfields/conditionalformfields.js?v=f9a36529"></script><link rel="alternate" hreflang="de" href="https://www.wanderhotels.com/de/wanderurlaub-in-oberoesterreich">
+<link rel="alternate" hreflang="x-default" href="https://www.wanderhotels.com/de/wanderurlaub-in-oberoesterreich">
+<link rel="alternate" hreflang="en" href="https://www.wanderhotels.com/en/austria/upper-austria">
+<link rel="alternate" hreflang="it" href="https://www.wanderhotels.com/it/austria/alta-austria">
+<link rel="preconnect" href="https://privacy-analytics-proxy.cookiebot.com" crossorigin>
+<link rel="preload" href="https://use.typekit.net/ire6qmm.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://use.typekit.net/ire6qmm.css"></noscript>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-KL8FXTN')</script>
+<!-- End Google Tag Manager -->
+</head>
+<body id="top" class="full parallax">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KL8FXTN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="wrapper">
+<header id="header">
+<div class="inside">
+<nav class="nav-overlay main-nav" aria-label="Main">
+<ul class="nav-root">
+<li
+class="nav-col mod_customnav gap-after-1 gap-after-4"
+id="nav-hotel-finden"        >
+<div class="nav-col-inner">
+<a href="/en/hotels" title="Find Wanderhotels in the Alps | Wanderhotels" class="trail">Find Wanderhotels</a>
+<ul class="level_1">
+<li><a href="/en/book-a-wanderhotel" title="Book a Wanderhotel | Wanderhotels" class="dark-header merkliste">Check availability &amp; book</a></li>
+<li class="has-children">
+<div class="nav-item">
+<a href="/en/austria" title="Hiking vacation in Austria | Wanderhotels" class="full parallax trail">Austria</a>
+<button
+class="submenu-toggle"
+aria-expanded="false"
+aria-label="Open submenu">
+<span class="chevron" aria-hidden="true"></span>
+</button>
+</div>
+<ul class="level_2">
+<li><a href="/en/austria/vorarlberg" title="Hiking vacation in Vorarlberg | Wanderhotels" class="full parallax">Vorarlberg</a></li>
+<li><a href="/en/austria/tyrol" title="Hiking vacation in Tyrol | Wanderhotels" class="full parallax">Tyrol</a></li>
+<li><a href="/en/austria/salzburg-region" title="Hiking vacation in the Salzburg region | Wanderhotels" class="full parallax">Salzburg region</a></li>
+<li><a href="/en/austria/carinthia" title="Hiking vacation in Carinthia | Wanderhotels" class="full parallax">Carinthia</a></li>
+<li><a href="/en/austria/styria" title="Hiking vacation in Styria | Wanderhotels" class="full parallax">Styria</a></li>
+<li><strong class="active full parallax" aria-current="page">Upper Austria</strong></li>
+</ul>
+</li>
+<li class="has-children">
+<div class="nav-item">
+<a href="/en/south-tyrol" title="Hiking vacation in South Tyrol | Wanderhotels" class="full parallax">South Tyrol</a>
+<button
+class="submenu-toggle"
+aria-expanded="false"
+aria-label="Open submenu">
+<span class="chevron" aria-hidden="true"></span>
+</button>
+</div>
+<ul class="level_2">
+<li><a href="/en/south-tyrol/vinschgau" title="Hiking vacation in Val Venosta | Wanderhotels" class="full parallax">Vinschgau</a></li>
+<li><a href="/en/south-tyrol/merano-bolzano" title="Hiking vacation in Merano &amp; Bolzano | Wanderhotels" class="full parallax">Merano / Bolzano</a></li>
+<li><a href="/en/south-tyrol/eisack-valley" title="Hiking vacation in the Eisack Valley | Wanderhotels" class="full parallax">Eisack Valley</a></li>
+<li><a href="/en/south-tyrol/dolomites" title="Hiking vacation in the Dolomites | Wanderhotels" class="full parallax">Dolomites</a></li>
+</ul>
+</li>
+<li><a href="/en/black-forest" title="Hiking vacation in the Black Forest | Wanderhotels" class="full parallax">Black Forest</a></li>
+<li><a href="/en/hotels-for-solo-travelers" title="Travel alone – hike together | Wanderhotels" class="kriterien vertical-text parallax">Hotels for solo travelers</a></li>
+<li><a href="/en/dog-friendly-hotels" title="Dog-friendly hotels - Hiking with your dog | Wanderhotels" class="white kriterien vertical-text parallax">Dog-friendly hotels</a></li>
+<li><a href="/en/hotels-for-family-vacations" title="Hiking vacation with children | Wanderhotels" class="kriterien vertical-text parallax">Hotels for family vacations</a></li>
+<li><a href="/en/eco-friendly-hotels" title="Eco-friendly hotels in Austria and South Tyrol" class="white kriterien vertical-text parallax">Eco-friendly hotels</a></li>
+</ul>
+</div>
+</li>
+<li
+class="nav-col mod_customnav"
+id="nav-aktiv-sommer"        >
+<div class="nav-col-inner">
+<strong aria-current="page">Active in summer</strong>
+<ul class="level_1">
+<li><a href="/en/active-in-summer/pure-hiking" title="Hiking in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Pure hiking</a></li>
+<li><a href="/en/active-in-summer/hiking-biking" title="Mountain bike vacation in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Hiking &amp; Biking</a></li>
+<li><a href="/en/active-in-summer/hiking-climbing" title="Climbing vacation in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Hiking &amp; Climbing</a></li>
+<li><a href="/en/active-in-summer/hiking-wellness" title="Hiking &amp; Wellness | Wanderhotels" class="vertical-text dark-header parallax">Hiking &amp; Wellness</a></li>
+<li><a href="/en/active-in-summer/hiking-yoga" title="Yoga and hiking in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Hiking &amp; Yoga</a></li>
+<li><a href="/en/active-in-summer/hiking-golfing" title="Hiking &amp; Golfing | Wanderhotels" class="vertical-text dark-header parallax">Hiking &amp; Golfing</a></li>
+</ul>
+</div>
+</li>
+<li
+class="nav-col mod_customnav"
+id="nav-aktiv-winter"        >
+<div class="nav-col-inner">
+<strong aria-current="page">Active in winter</strong>
+<ul class="level_1">
+<li><a href="/en/active-in-winter/pure-winter-hiking" title="Pure winter hiking in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Pure winter hiking</a></li>
+<li><a href="/en/active-in-winter/snowshoe-hiking" title="Snowshoe hiking in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Snowshoe hiking</a></li>
+<li><a href="/en/active-in-winter/cross-country-skiing" title="Cross-country skiing vacation in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Cross-country skiing</a></li>
+<li><a href="/en/active-in-winter/skiing" title="Hotels for a perfect skiing vacation | Wanderhotels" class="vertical-text dark-header parallax">Skiing</a></li>
+<li><a href="/en/active-in-winter/ski-tours" title="Ski touring in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Ski tours</a></li>
+<li><a href="/en/active-in-winter/winter-hiking-wellness" title="Winter hiking &amp; wellness | Wanderhotels" class="vertical-text dark-header parallax">Winter hiking &amp; wellness</a></li>
+<li><a href="/en/active-in-winter/winter-hiking-yoga" title="Winter hiking &amp; yoga in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Winter hiking &amp; yoga</a></li>
+</ul>
+</div>
+</li>
+<li
+class="nav-col mod_customnav gap-after-3 gap-after-5"
+id="nav-wanderlust"        >
+<div class="nav-col-inner">
+<strong aria-current="page">Wanderlust</strong>
+<ul class="level_1">
+<li><a href="/en/the-gipfelclub" title="The Gipfelclub – Bonus Program of the Hiking Hotels | Hiking Hotels" class="no-big-einleitung">The Gipfelclub</a></li>
+<li><a href="/en/the-quality-pledge" title="The Wanderhotels quality promise – Naturally high quality. Noticeably better. | Wanderhotels" class="vertical-text">The quality pledge</a></li>
+<li><a href="/en/wanderhotels-wanderconcierge" title="Your Wanderhotels Wanderconcierge | Wanderhotels" class="vertical-text parallax">Wanderconcierge</a></li>
+<li><a href="/en/voucher-shop" title="Voucher shop | Wanderhotels">Voucher</a></li>
+<li><a href="/en/map" title="Overview of Wanderhotels | Wanderhotels" class="white parallax">Map</a></li>
+<li><a href="/en/tips-for-hiking" title="Tips for hiking | Wanderhotels" class="parallax">Tips for hiking</a></li>
+<li><a href="/en/delicious-recipes" title="Delicious recipes | Wanderhotels">Delicious recipes</a></li>
+<li><a href="/en/from-the-wanderhotels" title="From the Wanderhotels | Wanderhotels">From the Wanderhotels</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</nav>    <div id="loader"><div class="spinner"></div></div>    <div class="before-header">
+<div class="flex">
+<div class="menu">
+<div class="clicker menupc">
+<button class="lines-button x" aria-label="Toggle Navigation">
+<span class="lines"></span>
+<span class="navname">MENU</span>
+</button>
+</div>
+<a href="/en/hotels" title="Find Wanderhotels">Hotels</a>
+<a href="/en/offers" title="Wanderhotels Offers">Offers</a>
+</div>
+<nav class="mod_changelanguage block">
+<ul class="level_1">
+<li class="lang-de"><a href="/de/wanderurlaub-in-oberoesterreich" title="Wanderurlaub in Oberösterreich | Wanderhotels" class="lang-de" hreflang="de" aria-label="Go to current page in German">DE</a></li>
+<li class="lang-it"><a href="/it/austria/alta-austria" title="Vacanze escursionistiche in Alta Austria | Wanderhotels" class="lang-it" hreflang="it" aria-label="Go to current page in Italian">IT</a></li>
+</ul>
+</nav>
+</div>
+<div class="logo">
+<a href="/en/" title="Wanderhotels">
+<img loading="lazy" src="files/content/graphics/wanderhotels-logo-white.svg" alt="Wanderhotels Logo" title="Wanderhotels">
+</a>
+</div>
+<div class="logo-beige">
+<a href="/en/" title="Wanderhotels">
+<img loading="lazy" src="files/content/graphics/wanderhotels-logo-beige.svg" alt="Wanderhotels Logo" title="Wanderhotels">
+</a>
+</div>
+<div class="switcher">
+<button class="season-switch" data-season="summer" title="Wanderhotels Summer">
+<img loading="lazy" src="files/content/graphics/summer.svg" height="15" width="15" alt="Summer">
+<span>Summer</span>
+</button>
+<button class="season-switch" data-season="winter" title="Wanderhotels Winter">
+<img loading="lazy" src="files/content/graphics/winter.svg" height="15" width="15" alt="Winter">
+<span>Winter</span>
+</button>
+</div>
+</div>
+<div class="mod_article block" id="article-1003">
+<div class="mod_rocksolid_slider img-opaci winter block">
+<div data-rsts-name="Unterwegs im Nationalpark Kalkalpen" data-rsts-center="true">
+<div class="heading--hero center content-text">
+<div class="rte">
+<p>On the road in the<br><span style="text-decoration: underline;">Kalkalpen National Park</span></p>
+</div>
+</div>
+<div class="heading--meta center content-text">
+<div class="rte">
+<p>Hiking vacation in Upper Austria</p>
+</div>
+</div>
+<picture>
+<source srcset="/assets/images/h/schneeschuhwanderung-berg-landschaft-hinterstoder-kalk-alpen-wanderhotel-poppengut-2020%28c%29kernmayr-eghh69x9hnenn7x.webp" media="(min-width: 1200px) and (max-width: 1500px)" type="image/webp" width="1500" height="1000">
+<source srcset="/assets/images/z/schneeschuhwanderung-berg-landschaft-hinterstoder-kalk-alpen-wanderhotel-poppengut-2020%28c%29kernmayr-drdqf7sntf5makw.jpg" media="(min-width: 1200px) and (max-width: 1500px)" width="1500" height="1000">
+<source srcset="/assets/images/w/schneeschuhwanderung-berg-landschaft-hinterstoder-kalk-alpen-wanderhotel-poppengut-2020%28c%29kernmayr-3pc036nx5qfag1s.webp" media="(min-width: 800px) and (max-width: 1199px)" type="image/webp" width="1200" height="800">
+<source srcset="/assets/images/m/schneeschuhwanderung-berg-landschaft-hinterstoder-kalk-alpen-wanderhotel-poppengut-2020%28c%29kernmayr-cdmh6c6ttj09hms.jpg" media="(min-width: 800px) and (max-width: 1199px)" width="1200" height="800">
+<source srcset="/assets/images/g/schneeschuhwanderung-berg-landschaft-hinterstoder-kalk-alpen-wanderhotel-poppengut-2020%28c%29kernmayr-aqy4tkh7b405hyr.webp" media="(min-width: 600px) and (max-width: 799px)" type="image/webp" width="1000" height="600">
+<source srcset="/assets/images/0/schneeschuhwanderung-berg-landschaft-hinterstoder-kalk-alpen-wanderhotel-poppengut-2020%28c%29kernmayr-0a0mvjm33m5v6bq.jpg" media="(min-width: 600px) and (max-width: 799px)" width="1000" height="600">
+<source srcset="/assets/images/h/schneeschuhwanderung-berg-landschaft-hinterstoder-kalk-alpen-wanderhotel-poppengut-2020%28c%29kernmayr-2751zgwnctw2ty4.webp" media="(max-width: 599px)" type="image/webp" width="600" height="900">
+<source srcset="/assets/images/t/schneeschuhwanderung-berg-landschaft-hinterstoder-kalk-alpen-wanderhotel-poppengut-2020%28c%29kernmayr-zyzrbrgzc3fx9tv.jpg" media="(max-width: 599px)" width="600" height="900">
+<source srcset="/assets/images/t/schneeschuhwanderung-berg-landschaft-hinterstoder-kalk-alpen-wanderhotel-poppengut-2020%28c%29kernmayr-f4ebbfpy2c4y521.webp" type="image/webp" width="2000" height="1300">
+<img src="/assets/images/n/schneeschuhwanderung-berg-landschaft-hinterstoder-kalk-alpen-wanderhotel-poppengut-2020%28c%29kernmayr-c5yhd8d2h1k3sb1.jpg" width="2000" height="1300" alt="Man snowshoeing with an impressive panorama of the Kalkalpen mountains in the background during a hiking holiday in Hinterstoder at the Wanderhotel Poppengut." loading="lazy" data-rsts-background data-rsts-scale-mode="crop" data-rsts-position="center">
+</picture>
+<span class="rsts-copyright">© Kernmayr</span>
+</div>
+</div>
+<script>(function(){var sliderElement=[].slice.call(document.getElementsByClassName('mod_rocksolid_slider'),-1)[0];if(window.jQuery&&jQuery.fn.rstSlider){init()}else{document.addEventListener('DOMContentLoaded',init)}
+function init(){var $=jQuery;var slider=$(sliderElement);slider.find('video[data-rsts-background], [data-rsts-type=video] video').each(function(){this.player=!0});slider.rstSlider({"type":"slide","direction":"x","width":"100%","height":"100vh","navType":"none","scaleMode":"crop","imagePosition":"center","centerContent":!0,"random":!1,"loop":!1,"videoAutoplay":!1,"autoplayProgress":!1,"pauseAutoplayOnHover":!1,"keyboard":!0,"captions":!1,"controls":!1,"thumbControls":!1,"combineNavItems":!0,"visibleAreaAlign":0.5,"gapSize":"0%"});$(function(){if(!$.fn.colorbox){return}
+var lightboxConfig={loop:!1,rel:function(){return $(this).attr('data-lightbox')},maxWidth:'95%',maxHeight:'95%'};var update=function(links){links.colorbox(lightboxConfig)};slider.on('rsts-slidestart rsts-slidestop',function(event){update(slider.find('a[data-lightbox]'))});update(slider.find('a[data-lightbox]'))})}})()</script><div class="mod_rocksolid_slider img-opaci summer block">
+<div data-rsts-name="Unterwegs im Nationalpark Kalkalpen" data-rsts-center="true">
+<div class="heading--hero center content-text">
+<div class="rte">
+<p>On the road in the<br><span style="text-decoration: underline;">Kalkalpen National Park</span></p>
+</div>
+</div>
+<div class="heading--meta center content-text">
+<div class="rte">
+<p>Hiking vacation in Upper Austria</p>
+</div>
+</div>
+<picture>
+<source srcset="/assets/images/p/sommer-wandern-urlaub-wanderhotel-poppengut-2020%28c%29stefan-mayerhofer-4wg885mb5r9893q.webp" media="(min-width: 1200px) and (max-width: 1500px)" type="image/webp" width="1500" height="1000">
+<source srcset="/assets/images/7/sommer-wandern-urlaub-wanderhotel-poppengut-2020%28c%29stefan-mayerhofer-cex4m32cdy7dfsr.jpg" media="(min-width: 1200px) and (max-width: 1500px)" width="1500" height="1000">
+<source srcset="/assets/images/3/sommer-wandern-urlaub-wanderhotel-poppengut-2020%28c%29stefan-mayerhofer-rz01y3tbh30b9g0.webp" media="(min-width: 800px) and (max-width: 1199px)" type="image/webp" width="1200" height="800">
+<source srcset="/assets/images/y/sommer-wandern-urlaub-wanderhotel-poppengut-2020%28c%29stefan-mayerhofer-pnh9r52q9ctbxzr.jpg" media="(min-width: 800px) and (max-width: 1199px)" width="1200" height="800">
+<source srcset="/assets/images/8/sommer-wandern-urlaub-wanderhotel-poppengut-2020%28c%29stefan-mayerhofer-q7119jdzn0ms6sm.webp" media="(min-width: 600px) and (max-width: 799px)" type="image/webp" width="1000" height="600">
+<source srcset="/assets/images/b/sommer-wandern-urlaub-wanderhotel-poppengut-2020%28c%29stefan-mayerhofer-e5xqt21qjmgq38j.jpg" media="(min-width: 600px) and (max-width: 799px)" width="1000" height="600">
+<source srcset="/assets/images/m/sommer-wandern-urlaub-wanderhotel-poppengut-2020%28c%29stefan-mayerhofer-5sfsygpkss18b0j.webp" media="(max-width: 599px)" type="image/webp" width="600" height="900">
+<source srcset="/assets/images/y/sommer-wandern-urlaub-wanderhotel-poppengut-2020%28c%29stefan-mayerhofer-n82yz2thdrvt8bq.jpg" media="(max-width: 599px)" width="600" height="900">
+<source srcset="/assets/images/q/sommer-wandern-urlaub-wanderhotel-poppengut-2020%28c%29stefan-mayerhofer-8rx4377ddjsptbh.webp" type="image/webp" width="2000" height="1300">
+<img src="/assets/images/y/sommer-wandern-urlaub-wanderhotel-poppengut-2020%28c%29stefan-mayerhofer-m8t2tnknp89dvrk.jpg" width="2000" height="1300" alt="Two female hikers on summer trails during a stay at the Relax &amp; Wanderhotel Poppengut." loading="lazy" data-rsts-background data-rsts-scale-mode="crop" data-rsts-position="center">
+</picture>
+<span class="rsts-copyright">© Stefan Mayerhofer</span>
+</div>
+</div>
+<script>(function(){var sliderElement=[].slice.call(document.getElementsByClassName('mod_rocksolid_slider'),-1)[0];if(window.jQuery&&jQuery.fn.rstSlider){init()}else{document.addEventListener('DOMContentLoaded',init)}
+function init(){var $=jQuery;var slider=$(sliderElement);slider.find('video[data-rsts-background], [data-rsts-type=video] video').each(function(){this.player=!0});slider.rstSlider({"type":"slide","direction":"x","width":"100%","height":"100vh","navType":"none","scaleMode":"crop","imagePosition":"center","centerContent":!0,"random":!1,"loop":!1,"videoAutoplay":!1,"autoplayProgress":!1,"pauseAutoplayOnHover":!1,"keyboard":!0,"captions":!1,"controls":!1,"thumbControls":!1,"combineNavItems":!0,"visibleAreaAlign":0.5,"gapSize":"0%"});$(function(){if(!$.fn.colorbox){return}
+var lightboxConfig={loop:!1,rel:function(){return $(this).attr('data-lightbox')},maxWidth:'95%',maxHeight:'95%'};var update=function(links){links.colorbox(lightboxConfig)};slider.on('rsts-slidestart rsts-slidestop',function(event){update(slider.find('a[data-lightbox]'))});update(slider.find('a[data-lightbox]'))})}})()</script>
+</div>
+<!-- indexer::stop -->
+<div class="mod_form buchungsleiste block">
+<form action="/en/book-a-wanderhotel" method="get" enctype="application/x-www-form-urlencoded">
+<div class="formbody">
+<div class="widget widget-text widget-calendar mandatory">
+<div id="ctrl_526_wrapper">
+<input
+type="text"
+name="date_from"
+id="ctrl_526"
+class="text mandatory"
+placeholder="Arrival"
+value=""
+required  data-input
+autocomplete="off"
+>
+<a class="input-button" style="cursor: pointer;" title="" data-toggle="">
+<!-- Fallback-SVG -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 17" style="width: 16px; height: 16px;">
+<path d="M14 2V1h-3v1H6V1H3v1H0v15h17V2h-3zM12 2h1v2h-1V2zM4 2h1v2H4V2zM16 16H1v-8.921h15V16zM1 6.079v-3.079h2v2h3V3h5v2h3V3h2v3.079H1z" fill="#000"></path>
+</svg>
+</a>
+</div>
+<script>picker_526=flatpickr("#ctrl_526_wrapper",{"locale":"en","dateFormat":"d.m.Y","allowInput":!0,"weekNumbers":!0,"minDate":new Date().fp_incr(0),"wrap":!0,})</script>
+</div>
+<div class="widget widget-text widget-calendar mandatory">
+<div id="ctrl_527_wrapper">
+<input
+type="text"
+name="date_to"
+id="ctrl_527"
+class="text mandatory"
+placeholder="Departure"
+value=""
+required  data-input
+autocomplete="off"
+>
+<a class="input-button" style="cursor: pointer;" title="" data-toggle="">
+<!-- Fallback-SVG -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 17" style="width: 16px; height: 16px;">
+<path d="M14 2V1h-3v1H6V1H3v1H0v15h17V2h-3zM12 2h1v2h-1V2zM4 2h1v2H4V2zM16 16H1v-8.921h15V16zM1 6.079v-3.079h2v2h3V3h5v2h3V3h2v3.079H1z" fill="#000"></path>
+</svg>
+</a>
+</div>
+<script>picker_527=flatpickr("#ctrl_527_wrapper",{"locale":"en","dateFormat":"d.m.Y","allowInput":!0,"weekNumbers":!0,"minDate":new Date().fp_incr(0),"wrap":!0,})</script>
+</div>
+<div class="widget widget-select select">
+<select name="persons_adults" id="ctrl_528" class="select">
+<option value="1">1</option>
+<option value="2" selected>2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+</select>
+</div>
+<div class="widget widget-submit btn-buchen">
+<button type="submit" id="ctrl_529" class="violett submit btn-buchen">book</button>
+</div>
+</div>
+</form>
+</div>
+<!-- indexer::continue -->
+<script>(function(){var wrapper=document.currentScript.previousElementSibling;var form=wrapper?wrapper.querySelector('form'):null;if(!form)return;var button=form.querySelector('.btn-buchen');if(!button)return;function value(name){var el=form.querySelector('[name="'+name+'"]');return el&&el.value?el.value.trim():''}
+function toIso(v){var m=v.match(/^(\d{2})\.(\d{2})\.(\d{4})$/);return m?m[3]+'-'+m[2]+'-'+m[1]:''}
+button.addEventListener('click',function(e){e.preventDefault();if(typeof form.reportValidity==='function'&&!form.reportValidity())return;var params=['vri_x=1'];var from=toIso(value('date_from'));var to=toIso(value('date_to'));var adults=parseInt(value('persons_adults'),10);if(from)params.push('hotel_crits[date_from]='+from);if(to)params.push('hotel_crits[date_to]='+to);if(adults>0)params.push('hotel_crits[persons_adults]='+adults);var target=form.getAttribute('action')||'';if(!target)return;window.location.href=target.split('#')[0]+'#?'+params.join('&')})})()</script>
+</div>
+</header>
+<div id="bread">
+<div class="inside">
+<!-- indexer::stop -->
+<nav class="mod_breadcrumb block" aria-label="Breadcrumb">
+<ul>
+<li><a href="/en/" title="Wanderhotels">Wanderhotels</a></li>
+<li><a href="/en/hotels" title="Find Wanderhotels in the Alps | Wanderhotels">Find Wanderhotels</a></li>
+<li><a href="/en/austria" title="Hiking vacation in Austria | Wanderhotels">Austria</a></li>
+<li class="active" aria-current="page">Upper Austria</li>
+</ul>
+</nav>
+<!-- indexer::continue -->
+</div>
+</div>
+<div id="container">
+<main id="main">
+<div class="inside">
+<div class="mod_article block" id="article-1004">
+<div class="rs-columns ce_rs_columns_start padd2 flex">
+<div class="rs-column -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row"><div class="rs-columns ce_rs_columns_start flex-center flex-end">
+<div class="rs-column -large-col-1-1 -large-first -large-last -large-first-row -medium-col-1-1 -medium-first -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
+<div class="content-element-group">
+<div class="violett-underline content-text">
+<div class="rte">
+<h1>The best Wanderhotel<br><strong>in Upper Austria </strong></h1>
+<p>Hiking in Upper Austria rightly bears the motto &#34;Landscapes for passions.&#34; And anyone who has ever spent a hiking vacation in Upper Austria and hiked through the <strong>untouched landscape</strong> of the <a href="/en/austria/upper-austria/kalkalpen-national-park"><strong>Kalkalpen National Park</strong></a> knows why. Because here, hiking becomes an immersion: into a world full of <strong>peace, power</strong> and <strong>lively nature.</strong></p>
+<p>The south of the province offers evergreen beech forests, <strong>mystical gorges</strong> and <strong>hidden paths</strong>. When hiking in the Kalkalpen National Park, your gaze will not only wander over impressive mountain panoramas – with a little luck, you may see majestic eagles circling high in the sky. These and other fascinating impressions are reason enough for a relaxing break in one of the best Wanderhotel in Upper Austria.</p>
+</div>
+</div>
+<div class="buttn content-hyperlink">
+<a href="/en/austria/upper-austria#hoteluebersicht" title="Wanderhotels in Upper Austria">Find a Wanderhotel in Upper Austria</a>            </div>
+<section class="ce_accordionStart akkord ce_accordion block">
+<div class="toggler">
+Our hiking region in Upper Austria  </div>
+<div class="accordion">
+<div>
+<div class="content-text">
+<div class="rte">
+<p><a href="/en/austria/upper-austria/kalkalpen-national-park">Kalkalpen National Park</a></p>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div></div>
+</div><div class="rs-column -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last"><div class="ce_rsce_laenderkarte_austria laender-karte-wrapper" >
+<svg id="Ebene_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 831.481 632.59" width="100%">
+<defs>
+<style>.st0,.st1{fill:none}.st2{fill:#e0e0e0}.st3{font-family:"acumin-pro",sans-serif;font-weight:700}.st3,.st4{font-size:20px}.st3,.st4,.st6{fill:#fff}.st4{font-family:"acumin-pro",sans-serif;font-weight:600}.st7{fill:#b4a28d;transition:fill 0.3s ease}.st8{fill:#ccc}.st9{fill:#5c0040}.st10{fill:#cccbcb}.st1{stroke:#fff;stroke-width:2px}.st11{fill:#890c64;transition:fill 0.3s ease}#Gruppe_2300:hover .st11,#Gruppe_2295:hover .st11,#Gruppe_2291:hover .st11,#Gruppe_2296:hover .st11,#Gruppe_2297:hover .st11,#Gruppe_2298:hover .st11{fill:#5c0040}#Gruppe_2312,#Gruppe_2313,#Gruppe_2310,#Gruppe_2305,#Gruppe_2282,#Gruppe_2311{opacity:0;transition:all 0.5s ease}#Gruppe_2291:hover #Gruppe_2312,#Gruppe_2300:hover #Gruppe_2313,#Gruppe_2296:hover #Gruppe_2310,#Gruppe_2298:hover #Gruppe_2305,#Gruppe_2297:hover #Gruppe_2282,#Gruppe_2295:hover #Gruppe_2311{opacity:1}#Gruppe_2290:hover .st7,#Gruppe_2303:hover .st7{fill:#890C64}.active .st11{fill:#5c0040}.active #Gruppe_2312,.active #Gruppe_2313,.active #Gruppe_2310,.active #Gruppe_2305,.active #Gruppe_2282,.active #Gruppe_2311{opacity:1!important}.map-label-bg{fill:#890c64}.active .map-label-bg,#Gruppe_2300:hover .map-label-bg,#Gruppe_2295:hover .map-label-bg,#Gruppe_2291:hover .map-label-bg,#Gruppe_2296:hover .map-label-bg,#Gruppe_2297:hover .map-label-bg,#Gruppe_2298:hover .map-label-bg{fill:#5c0040}.map-label-border{fill:none;stroke:#fff;stroke-width:2px}</style>
+</defs>
+<g id="Gruppe_2304">
+<path id="Pfad_15117" class="st2" d="M194.741,119.85c-4.562,1.372-6.016,6.089-6.055,8.246s10.02,4.283,6.055,8.621c-2.57.9-5.186,1.109-9.47,3.7s-3.424,6.452-6.577,6.963c-2.736.444-6.6,2.332-9.756,2.512-2.349.134-2.469,7.147-5.114,7.068-3.683.286-7.193,1.683-10.065,4.006-5.07,4.211-8.706,11.943-10.336,10.685-3.427-2.89,6.929-6.125,2.921-12.053-1.97-2.914-7.848-3.23-11.83-6.322-4.235-3.29-6.491-9.11-6.722-9.2-2.6-1.017,3.515-5.247,3.635-5.881.693-3.669,1.855-9.811-3.028-15.583-1.578-2.022-4.127-2.547-5.953-2.757-2.195-.45-4.422-.734-6.66-.847-.831-.06-1.668-.123-2.512-.2-.526-.532-.868-2.714-1.038-3.808-.385-2.455-.782-4.994-2.869-5.851-2.044-.834-4.18.742-4.9,1.278-1.484,1.125-3.256.6-6-.409-.974-.379-1.971-.696-2.986-.948-2.677-.442-5.416-.356-8.06.253-2.828.364-5.269,2.161-6.454,4.755-.761,1.781-.413,3.842.89,5.274l.151.153c.909.753,2,1.253,3.164,1.449.588.082,1.148.305,1.632.65,1.258.97.2,3.166.122,3.326-.834,1.45-2.306,1.871-4.638,2.437-1.948.337-3.798,1.099-5.419,2.232-1.282,1.083-2.454,2.288-3.5,3.6-1.915,2.28-3.3,3.927-6.583,4.25-2.81.447-4.946.982-6.267,2.056-4.124-2.594-4.647-9.58-1.6-15.847.9-3.748,2.647-7.865,1.453-11.671-1.078-3.819-3.136-7.4-4.914-10.959-4.7-7.612-2.592-16.9-4.038-25.271-2.456-6.3-.846-13.766,7.039-14.143,4.634.654,7.627.645,11.93-1.622,7.777-3.792,14.829,1.9,21.652,4.78,15.763,2.016-.895-19.023,10.036-18.8,4.444.393,7.227,1.191,10.18-3.023,6.17-5.927,6.473-14.56,9.983-21.654,1.072-1.052,2.556-1.572,4.05-1.419,12.366,3.435,18.534-7.876,23.741-16.841l.35-.384c8.866-9.27,22.556,8.242,27.967,14.743,3.211,3.744,7.089,6.859,11.437,9.187,11.8,4.539,3.632,16.714,14.176,21.448,2.286,1.1,4.93.48,7.128-.653,2.567-1.644,5.623-2.308,8.036-4.134.542-4.445-12.969-7.078-5.836-14.935,9.52-8.028,21.964-.268,32.3,1.464,4.4,1.67,4.749,9.537,10.183,8.863,9.763-4.368,1.862-17.806,4.791-25.384,1.92-4.192,8.809-8.573,12.794-4.877,2.244,3.018,2.548,7.114,4.731,10.119,7.592,9.876,21.156,1.36,31.4,2.53,5.053.811,11.2-3.233,15.336.736,11.748,12.25,18.8,26.976,25.608,42.672,6.827,9.794,22.452,13.912,26.824,25.7.979,3.938.527,8.097-1.277,11.732-12.344,15.932,6.041,26.255,11.184,40.993,8.224,22.236,20.011,27.677,40.363,35.6,7.288,6.133,11.373,15.413,18.614,21.752,5.388,4.525,13.427,6.165,17.721,12.154,4.441,9.144,12.045,13.114,21.509,15.327,11.797,5.363,20.289,16.078,22.815,28.788-1.609,2.3-2.369,5.725-2.133,10.027-.108,7.174-2.324,15.6-6.987,18.207-2.692,1.409-5.506.127-8.765-1.358-2.133-1.132-4.446-1.886-6.836-2.229-4.508-.6-10.415.9-12.969,11.371l-.031.154c-2.351,15.169-4.838,24.694-19.5,29.038-1.256.359-2.529.68-3.8,1-2.565.601-5.096,1.343-7.579,2.224-5.324,2.035-10.128,5.026-14.773,7.918-1.8,1.118-3.6,2.241-5.442,3.314l-.126.082c-9.2,6.414-13.056,10.839-13.752,15.777-.87,6.167,3.66,12.3,10.679,20.95.637.939,1.32,1.889,2.013,2.855,3.4,4.737,6.924,9.635,6.164,14.816l-.016.156c-.324,2.193-1.046,4.309-2.132,6.242-1.446,3.057-2.942,6.217-2.315,9.709l.056.227c1.061,3.379,4.025,4.93,6.641,6.3,1.17.558,2.28,1.233,3.314,2.015,6.1,4.607,2.366,17.308-.832,24.163-.533,1.014-1.487,1.74-2.607,1.982-3.28.6-8.092-3.335-10.369-5.182-2.885-2.37-5.024-5.523-6.162-9.079-.188-.6-.354-1.21-.52-1.816-.764-2.777-1.554-5.648-4.022-7.731-6.395-5.87-15.209-3.044-21.027,2.2-3.377-.513-6.3-2.366-9.386-4.319-2.001-1.329-4.09-2.518-6.254-3.56-1.925-.708-3.95-1.108-6-1.186-1.412-.069-2.812-.294-4.174-.67-.857-.373-1.628-.918-2.266-1.6-1.055-.961-2.249-2.031-3.894-1.961-1.21.127-2.311.758-3.031,1.739-1.906,2.48-2.124,5.755-2.3,8.384l-.031.464v.1c.077,1.949-.27,3.3-1.028,4.005-1.471,1.375-5.017.99-8.449.619-.6-.065-1.206-.13-1.8-.187-3.94-.371-7.91-.3-11.834.212-8.22,1.249-17,1.972-24.516,2.517-4.765.361-8.238,3.4-11.3,6.087-1.666,1.63-3.561,3.008-5.625,4.091-1.483.545-3.02.933-4.584,1.157-.951.175-2.754.332-3.535.532-3.729.625-8,9.3-7.844,6.326s2.714-5.857-2.735-24.209c-1.173-4.379-1.173-8.989,0-13.368,1.577-6.609-2.321-10.867,0-18.678.388-1.3,4.778-8.2,3.161-18.442s-7.572-28.793-10.908-36.71.919-15.071,8.315-15.376c7.396-.305,12.822-5.5,17.7-12.9s-3.6-16.67,1-17.852c1.273-.327,5.715,4.669,14.035,1.57,2.28-.849,2.621-4.03,2.428-8.219s-4.139-8.05-3-12.563,1.859-19.167,0-24.681-13.039-9.86-15.277-15.706-9.267-18.749-12.089-21.968-2.191-12.748-2.2-18.1c0-1.83,1.272-3.119,1.191-7.639s-5.331-21.218-6.8-21.921c-2.231-1.068-9.242,7.337-11.1,5.173-.544-.634-.966-4.328-3.164-7.1s-5-1.989-5.628-3.977c-1.168-3.711,3.52-3.84-3.418-16.76-2.945-5.478-13.235-.458-15.532-5.031-1.25-4.119-1.518-6.431-10.03-6.625-7.726-1.619-13.155-3-17.716-1.626" />
+<path id="Pfad_15120" class="st8" d="M330.534,368.064v.017l.041.026-.041-.043Z" />
+<g id="Gruppe_2299">
+<path id="Pfad_15122" class="st11" d="M737.364,338.439c.368,1.152.417,2.382.143,3.559-.114.416-.136.851-.065,1.276.116.258.611.518,1.4.734.486.13.988.193,1.491.187,1.663-.103,3.306-.417,4.89-.934,2.015-.646,4.108-1.02,6.222-1.11.424,0,.848.023,1.269.071,3.455.4,4.326,2.123,4.9,3.265.386.762.43.762.73.762.085.001.169-.004.253-.017.03-.089.063-.231.088-.342.314-1.652,1.482-3.014,3.067-3.576,1.666-.65,3.457-.92,5.241-.789h.429c2.147,0,3.765-.124,4.977-1.743,1.9-2.528,1.331-4.772.478-8.169-.229-.9-.464-1.839-.671-2.863l-.038-.184c-.952-4.7-1.122-5.547-3.434-6.869-.204-.133-.438-.212-.681-.229-.348,0-.7.277-1.24.732-.73.759-1.716,1.218-2.767,1.288-.41-.003-.816-.078-1.2-.22-1.824-.658-2.675-2.3-3.363-3.623-.451-.868-.878-1.688-1.342-1.773-.033-.007-.066-.011-.1-.012-.146.254-.266.522-.358.8-.365,1.39-1.348,2.535-2.666,3.107-.462.183-.953.277-1.45.28-.724-.027-1.434-.203-2.086-.518-.423-.212-.884-.339-1.356-.372-.555.033-1.09.215-1.55.528-1.254.895-2.209,2.148-2.74,3.594-.635,1.65-1.722,3.088-3.135,4.15-.717.52-1.574.813-2.459.839-.748-.027-1.479-.233-2.131-.6-.266-.16-.56-.267-.867-.316-.128.005-.252.045-.358.116-1.493.859-1.581,1.218-1.581,3.616-.03.945.244,1.875.781,2.654.508.86.934,1.766,1.273,2.706" />
+<path id="Pfad_15130" class="st11" d="M595.06,286.4c2.419,1.733,5.6,2.228,8.685,2.707,3.666.57,7.458,1.159,9.846,3.911,2.677,3.086.96,5.34-.422,7.151-1.18,1.555-2.3,3.025-1.635,5.321s1.973,3.1,3.624,4.12c1.182.657,2.255,1.494,3.18,2.48,1.215,1.455,2.028,3.203,2.36,5.069.839,3.924,1.2,7.935,1.073,11.946.019,3.189-.69,6.341-2.072,9.215-.359.815-1.117,1.383-2,1.5h-.136c-1.379,0-2.448-1.4-3.578-2.889-.556-.793-1.193-1.526-1.9-2.188-.68-.562-.977-.429-1.121-.365-.927.439-2.776,3.142-4.409,5.526-1.698,2.635-3.601,5.133-5.69,7.47-1.976,2.053-3.757,3.069-5.4,3.069-.478,0-.953-.088-1.4-.258-3.537-1.327-8.012-5.061-11.96-8.355-1.616-1.348-3.145-2.622-4.39-3.542-1.727-1.275-2.245-1.362-2.333-1.366-.198-.011-.39.072-.519.223-.339.375-.75,1.359-.765,3.922-.015,2.022.214,4.408.436,6.716.307,3.194.573,5.951.2,7.565-.543,2.367-2.5,3.621-4.073,4.629-1.944,1.246-2.65,1.836-2.36,3.1.409,1.825,1.287,2.3,4.293,3.7,2.695,1.209,5.297,2.615,7.784,4.208,3.498,2.025,7.216,3.646,11.081,4.83,2.474.776,4.882,1.749,7.2,2.91,2.36,1.318,3.5,2.839,3.5,4.65,0,2.991-1.671,5.474-3.285,7.869-1.451,2.154-2.952,4.382-3.371,7.067s-.607,4.578-.258,5.762c0,.014.01.026.014.039l.122.192-.042.027c.328.818,1.012,1.406,2.47,2.144.357.185.754.281,1.157.279,1.176-.138,2.308-.527,3.321-1.139,1.547-.902,3.282-1.432,5.068-1.55.437,0,.872.043,1.3.129,2.782.559,3.65,2.486,4.281,3.894.595,1.319.849,1.774,1.832,1.774,1.18,0,1.648-.475,2.576-1.423,1.873-2.032,4.281-3.494,6.948-4.217,2.537-.789,5.178-1.193,7.835-1.2,3.593-.029,7.153-.688,10.519-1.945,4.507-1.573,7.807-4.39,10.456-6.654,1.148-1.053,2.386-2.004,3.7-2.841,1.124-.796,2.581-.951,3.847-.409,1.635.789,2.882,2.343,4.461,4.31,2.616,3.605,5.971,6.611,9.84,8.818,2.608,1.554,5.6,2.342,8.635,2.274.289,0,.576,0,.86-.006,2.768-.268,5.544.432,7.854,1.981,3.957,2.639,4.595,6.018,5.063,8.486.255,1.351.456,2.418,1.073,2.933.122.141.326.176.488.084.471-.241.908-.544,1.3-.9.75-.687,1.631-1.215,2.591-1.553.314-.089.639-.135.966-.136,1.014.034,1.98.442,2.711,1.146,1.857,1.625,2.147,3.886,2.433,6.074.352,2.71.715,5.511,3.891,7.874,3.13,2.329,6.318,2.457,9.693,2.591,2.868.115,5.834.233,8.645,1.825,2.978,1.688,4.623,2.809,5.329,4.249.422.935.512,1.985.254,2.978,2.193.508,7.492,1.394,10.844-.9,1.633-1.02,2.991-2.425,3.953-4.093.756-1.552,1.31-3.195,1.648-4.888.09-.357.182-.727.281-1.109.447-1.723-.2-2.505-1.1-3.589-1.474-1.396-2.067-3.486-1.546-5.448.613-2.469,2.7-3.633,4.375-4.571,2.135-1.2,3.141-1.854,2.7-3.783-.3-1.3-2.683-2.9-4.983-4.452-2.723-1.834-5.811-3.914-7.674-6.654-1.015-1.436-1.599-3.132-1.683-4.888-.013-2.114.566-4.19,1.67-5.993,2.52-4.713,5.407-9.22,8.633-13.481,2.462-3.068,5.44-5.683,8.8-7.728,2.136-1.354,3.995-1.67,5.679-.966,1.324.682,2.461,1.678,3.312,2.9,1.081,1.319,1.716,1.986,2.469,1.986.135-.001.27-.021.4-.059,1.4-.394,1.564-1.334,1.649-3.542.062-1.7.142-3.813,1.932-5.031,1.959-1.329,3.637-.312,4.864.429,1.419.859,2.154,1.221,3.385.254s1.5-2.469,1.836-4.372c.457-2.564,1.027-5.756,4.476-8.264,3.959-2.885,6.8-3.358,9.521-3.358.658,0,1.308.028,1.964.056s1.32.056,2.006.056c1.981,0,2.214-.4,3.189-2.074.888-1.601,1.962-3.091,3.2-4.439,2.521-2.55,5.608-4.469,9.011-5.6-.23-.723-.567-1.408-1-2.032-4.033-4.793-8.527-10.718-10.733-17.63-.871-2.196-1.923-4.317-3.145-6.339-2.221-3.927-4.518-7.992-4.528-13.315-.151-4.876,1.655-9.338,3.4-13.651,1.76-4.345,3.421-8.448,3.089-12.816-.18-1.192-.346-2.45-.5-3.631-1.415-10.685-1.945-14.682-14.468-15.745-4.7-.719-8.315-3-11.814-5.2-1.737-1.146-3.543-2.186-5.407-3.113-9.97-4.48-12.594-2.1-16.225,1.181-3.534,3.2-7.934,7.172-18.911,5.969-16.044.8-24.147-5.166-35.369-13.453l-1.251-.925c-2.608-1.865-5.493-1.906-8.833-1.956-.68-.01-1.367-.019-2.064-.044-5.291-.173-10.456-1.664-15.026-4.337-2.354-1.159-4.838-2.6-7.239-4-6.428-3.731-13.07-7.6-19.919-7.6h-.371c-1.357.161-2.689.49-3.964.981-2.088.865-4.344,1.243-6.6,1.107-2.192-.386-4.327-1.044-6.356-1.959-5.375-2.133-8.83-3.207-11.465-.137-1.386,1.582-1.538,6.662-1.645,10.024l-.023.716c-.015,15.168-4.4,18.045-11.086,20.7-4.259,1.689-8.659,3.438-12.038,12.33l-.085.19c-1.278,2.929-2.083,6.042-2.386,9.223-.034,1.828-.908,3.539-2.37,4.638-.573.344-1.223.537-1.891.561.019.186.04.372.074.557.425,2.253,1.745,4.237,3.658,5.5M733.569,329.857c.466-.991,1.263-1.788,2.254-2.254.433-.258.928-.396,1.432-.4.637.033,1.257.217,1.809.537.362.217.769.349,1.189.387.46-.033.901-.2,1.268-.48,1.088-.859,1.918-2.001,2.4-3.3.7-1.826,1.943-3.394,3.561-4.492.791-.519,1.71-.808,2.656-.836.755.026,1.497.209,2.178.537.395.198.824.319,1.264.355.234-.003.466-.05.683-.138.785-.3,1.061-.9,1.425-1.864.154-.463.371-.903.644-1.308.394-.556,1.036-.883,1.717-.874.165,0,.33.016.493.046,1.5.273,2.222,1.666,2.861,2.9.592,1.143,1.155,2.222,2.186,2.594.149.058.307.089.467.092.43,0,.807-.3,1.381-.785.692-.723,1.627-1.165,2.625-1.24.619.014,1.223.191,1.751.513,3.148,1.806,3.48,3.444,4.465,8.305l.038.184c.2.975.429,1.885.644,2.765.894,3.56,1.668,6.634-.841,9.982-.794,1.09-1.933,1.881-3.232,2.243-1.132.281-2.298.402-3.464.358h-.872c-1.327-.088-2.658.114-3.9.591-1.543.713-1.707,1.4-1.88,2.126-.076.484-.279.94-.587,1.321-.485.488-1.161.736-1.847.678-1.208-.008-2.275-.791-2.646-1.941-.475-.945-.926-1.835-3.23-2.1-.341-.038-.683-.057-1.026-.057-1.922.099-3.822.449-5.653,1.04-1.767.575-3.603.915-5.459,1.01-.696.006-1.389-.082-2.061-.264-3.455-.953-3.119-2.964-2.874-4.433.21-.815.194-1.672-.046-2.478-.298-.825-.672-1.62-1.119-2.375-.723-1.1-1.093-2.395-1.06-3.711-.078-1.091.058-2.186.4-3.225" />
+<path id="Pfad_15132" class="st11" d="M823.874,344.38l-.177-.14c-.513-.483-.953-1.039-1.306-1.649-4.802,1.423-8.834,4.711-11.192,9.13-1.06,1.825-1.823,3.14-5.043,3.14-.732,0-1.425-.029-2.1-.058-1.545-.132-3.101-.06-4.627.215-2.003.494-3.878,1.409-5.5,2.683-2.752,2.006-3.2,4.5-3.629,6.912-.368,2.068-.75,4.208-2.62,5.681-.917.799-2.138,1.157-3.341.98-.888-.201-1.729-.568-2.48-1.082-1.287-.775-1.808-1-2.549-.49-.834.567-.933,1.638-1,3.336.019,1.054-.135,2.103-.456,3.107-.46,1.214-1.491,2.122-2.753,2.425-1.07.312-2.226.098-3.113-.577-.753-.595-1.425-1.285-2-2.053-.644-.939-1.493-1.719-2.483-2.28-.313-.131-.65-.197-.99-.194-.977.077-1.914.42-2.71.991-6.893,4.372-10.067,8.723-16.72,20.454-1.841,3.247-1.866,5.985-.078,8.616,1.631,2.4,4.537,4.358,7.1,6.085,2.9,1.948,5.391,3.631,5.875,5.755.402,1.405.084,2.919-.851,4.043-.835.864-1.817,1.572-2.9,2.092-1.518.849-2.952,1.651-3.339,3.215-.424,1.7.222,2.484,1.115,3.562,1.49,1.408,2.076,3.526,1.522,5.5-.1.374-.189.74-.279,1.094-.985,3.916-1.764,7.009-6.471,10.229-2.131,1.306-4.603,1.949-7.1,1.846-1.862-.019-3.715-.251-5.524-.69-.049.147-.1.291-.15.442-.327,1.046-1.223,1.812-2.307,1.972-.898.103-1.806.069-2.694-.1-1.49-.2-2.9-.386-3.838.439-1.052.921-1.584,3.085-1.584,6.433,0,7.593,3.242,18.377,6.1,27.892,2.351,7.814,4.379,14.561,4.379,18.568.099,3.29-.296,6.577-1.172,9.75-.778,2.346-1.807,4.601-3.069,6.726l-.251.464c-.983,1.8-1.48,5.182-1.438,9.767.009.994.043,1.942.087,2.8,1.648-1.745,3.402-3.387,5.251-4.918,1.261-1.094,2.642-2.291,4.13-3.664,2.455-2.141,4.8-4.615,7.07-7s4.615-4.857,7.03-6.968c3.736-3.516,8.554-3.748,12.8-3.952.639-.036,1.274-.065,1.905-.107,3.113-.269,3.491-1.9,4.052-5.562.165-1.305.433-2.594.8-3.857l.065-.172c2.179-5.034-.5-10.043-3.718-14.7l-.152-.266c-1.74-3.7-.974-7.275-.237-10.728.509-2.016.787-4.083.829-6.161v-.083l.005-.082c.055-1.355.011-2.712-.132-4.06-.3-3.861-.679-8.665,3.327-11.821,1.665-1.157,3.404-2.204,5.205-3.136,3.093-1.683,6.013-3.27,7.989-5.924l.107-.132c3.057-3.417,4.399-8.035,3.649-12.558-.602-3.593-2.872-6.687-6.118-8.34l-.129-.074c-1.811-1.02-3.733-1.83-5.728-2.415-.753-.255-1.506-.51-2.245-.782-3.675-1.2-5.741-2.963-6.251-5.367-.922-4.331,3.862-8.655,7.7-12.128,6.672-5.688,14.146-2.041,20.151.884,2.335,1.269,4.809,2.265,7.373,2.967,2.179.424,4.396.628,6.616.608,1.335.034,2.713.07,4.216.187,3.45.378,9.446-.309,10.452-5.367.385-2.431.303-4.914-.24-7.315-.612-2.796-.687-5.682-.222-8.506.607-3.255,1.532-6.443,2.762-9.517,1.237-3.054,2.142-6.232,2.7-9.48l.043-.215c1.336-5.19-4.089-14-7.417-16.314" />
+</g>
+<path id="Pfad_15134" class="st6" d="M390.294,418.141" />
+<rect id="Rechteck_5" class="st0" x="8.585" y="0" width="822.894" height="632.18" />
+<a href="/en/south-tyrol" title="South Tyrol">
+<g id="Gruppe_2303" class="">
+<g id="Gruppe_2302">
+<path id="Pfad_15119" class="st10" d="M364.967,547.322c-.271-.593-.537-1.188-.8-1.784h.009c-.988-2.486-2.236-4.86-3.722-7.084-1.153-1.379-2.493-2.591-3.98-3.6-1.28-.914-2.484-1.931-3.6-3.04-.528-.528-1.008-1.101-1.436-1.713-2.377-5.017-2.435-13.088.392-17.462,1.859-2.723,1.9-4.174,1.671-4.568s-1.345-.8-3.675-.581c-9.982,1.648-19.461,6.051-26.587,9.7-3.1,1.733-6.488,2.891-10,3.418-.923.036-1.845.036-2.767.012-2.986-.218-5.957-.617-8.895-1.194-3.393-.846-6.886-1.228-10.382-1.137-1.839.18-3.663.513-5.6.865-2.637.546-5.311.895-8,1.044-2.471.309-4.96.459-7.451.447-4.131.071-8.4.147-11.936,1.64l-.16.059c-5.371,1.709-8.977,8.1-11.282,13.2-.255.6-.51,1.206-.764,1.817-.745,1.785-1.515,3.631-2.361,5.361-1.107,2.174-4.732,5.286-6.713,6.711-4.666,2.367-11,2.739-18.79,1.042-3.032-.715-7.314-3.987-9.46-6.246-.773-.926-1.511-1.91-2.253-2.932l-.1-.153c-2-3.428-5.327-3.569-10.568-3.4-2.141.14-4.292.062-6.417-.234l-.222-.054c-.728-.232-1.423-.557-2.068-.966-4.781,4.523-6.6,12.357-8.615,18.864-3.335,8.981-3.9,12.427,3.66,18.069,4.134,3.206,2.119,8.289,2.018,12.625.117,3.144,3.782,4.427,6.912,7.513,1.603,1.467,2.811,3.315,3.51,5.373l16.614-3.88,13.777,7.584,7.711-7.656s4.139,6.373,8.387,5.749c3.8-.559-3.737-9.821,0-9.934,3.327-.1,3.713,8.277,6.752,8.141,7.442-.334.644-3.313,6.262-2.078,4.581,1.008-5.3,11.558-1.977,13.118,6.808,3.192.491,12.93-2.587,15.571,4.891,2.051,1.366,4.983,6.448,6.5,3.872,1.155,3.355-5.645,7.406-4.656,3.72.907,2.961,4.109,6.819,4.656,2.469.35-2.765-8.663,0-8.4,2.512.242,8.157-3,13.376-5.8,3.314-1.729,8.159-4.078,9.73-3.921,6.943.7,8.264,7,13.416,7.1,3.794-4.38,10.818-5.945,9.488-7.1.581-12.987.265-5.208,5.13-18.944,1.118-5.677-2.6-11.893,5.474-13.487,3.327-.96,7.026-1.766,9.376-4.508,3.077-3.378,4.564-9.133,8.9-10.045,4.991-.842,10.314,1.841,15.422,1.477,5.222-.167,10.58-3.808,13.05-8.513-3.523-3.692-6.409-7.943-8.542-12.579" />
+</g>
+<g id="Gruppe_2301">
+<g id="Pfad_15137">
+<path class="st7" d="M284.208,589.656c-3.686,0-7.262-.722-10.627-2.145-3.251-1.375-6.171-3.344-8.679-5.852-2.508-2.508-4.477-5.428-5.852-8.679-1.423-3.365-2.145-6.941-2.145-10.627s.722-7.262,2.145-10.627c1.375-3.251,3.344-6.171,5.852-8.679,2.508-2.508,5.428-4.477,8.679-5.852,3.365-1.423,6.941-2.145,10.627-2.145s7.262.722,10.627,2.145c3.251,1.375,6.171,3.344,8.679,5.852,2.508,2.508,4.477,5.428,5.852,8.679,1.423,3.365,2.145,6.941,2.145,10.627s-.722,7.262-2.145,10.627c-1.375,3.251-3.344,6.171-5.852,8.679-2.508,2.508-5.428,4.477-8.679,5.852-3.365,1.423-6.941,2.145-10.627,2.145Z" />
+<path class="st7" d="M284.208,536.301c-3.518,0-6.93.688-10.14,2.046-3.102,1.312-5.888,3.191-8.282,5.584-2.393,2.393-4.272,5.18-5.584,8.282-1.358,3.21-2.046,6.622-2.046,10.14s.688,6.93,2.046,10.14c1.312,3.102,3.191,5.888,5.584,8.282,2.393,2.393,5.18,4.272,8.282,5.584,3.21,1.358,6.622,2.046,10.14,2.046s6.93-.688,10.14-2.046c3.102-1.312,5.888-3.191,8.282-5.584,2.393-2.393,4.272-5.18,5.584-8.282,1.358-3.21,2.046-6.622,2.046-10.14s-.688-6.93-2.046-10.14c-1.312-3.102-3.191-5.888-5.584-8.282-2.393-2.393-5.18-4.272-8.282-5.584-3.21-1.358-6.622-2.046-10.14-2.046M284.208,533.801c15.769,0,28.553,12.783,28.553,28.553s-12.783,28.553-28.553,28.553-28.553-12.783-28.553-28.553,12.783-28.553,28.553-28.553Z" />
+</g>
+<path id="Pfad_10531" class="st6" d="M274.963,554.69v15.205h2.857v-15.205h-2.857ZM285.356,569.895h2.852v-12.832h4.7v-2.373h-12.254v2.373h4.7l.002,12.832Z" />
+</g>
+</g>
+</a>
+<a href="/en/black-forest" title="Black Forest">
+<g id="Gruppe_2290" class="">
+<path id="Pfad_15118" class="st10" d="M259.611,418.132c-.433-1.614-.734-3.261-.9-4.924-.1-2.368.059-4.74.475-7.073.191-1.341.37-2.612.452-3.88.004-1.317-.076-2.634-.238-3.941-.236-1.812-.307-3.643-.21-5.468.283-4.585,1.059-9.127,2.315-13.546.314-1.278.628-2.555.918-3.835,1.342-7.314-.831-14.575-3.132-22.263-.926-3.1-1.883-6.293-2.576-9.474-.375-.961-.8-1.974-1.231-3.023-3.58-8.632-8.989-21.675,3.174-27.646,1.757-.667,3.592-1.111,5.46-1.32.715-.108,1.43-.215,2.124-.355,3.6-.9,6.6-3.8,9.488-6.6l.65-.629c1.7-2.061,3.623-5.156,3.243-8.329l-.016-.133v-.133c-.133-1.277-.412-2.534-.832-3.747-1.064-3.672-2.671-9.22,1.884-10.921l.244-.073c2.355-.53,4.5.465,6.386,1.341,1.063.58,2.216.977,3.411,1.174,1.859.158,3.294-.274,4.08-1.181,1.022-1.183.855-3.1.535-4.5-.258-.738-.554-1.462-.887-2.17-.422-.9-.786-1.826-1.09-2.772-1.167-3.872-.508-7.708.13-11.419.158-1.389.191-2.79.1-4.185-.031-.871-.061-1.734-.046-2.565.321-4.2.35-8.5-1.561-12.271-1.649-3.3-4.9-5.579-8.332-8-5.116-3.6-10.417-15.687-10.417-15.687,0,0-2.237-5.674-4.37-8.1-2.945-3.358-6.281-7.161-5.222-15.031-.037-2.974-.248-5.943-.63-8.892-.193-1.938.046-3.895.7-5.73.451-1.27.665-2.612.633-3.96-.3-1.592-.714-3.161-1.24-4.694-.469-1.409-.866-2.841-1.19-4.29-.213-.822-.384-1.655-.512-2.495-.305-1.779-.566-3.313-1.538-4.4-.332-.324-.874-.142-3.111,1.7-1.552,1.275-3.308,2.718-5.327,2.779-5.539.465-6.887-4.427-7.772-7.681-.947-3.478-5.26-2.728-6.533-3.913-1.4-1.3-1.025-3.272-.592-5.554.644-3.408,1.526-8.079-2.263-12.562-.615-.787-1.742-1.221-3.594-1.423l-.222-.039c-2.043-.422-4.116-.685-6.2-.784-1-.073-2-.149-3.019-.255l-.274-.029-.253-.108c-2.5-1.058-2.973-4.078-3.389-6.739-.142-.905-8.571-1.05-11.382-2.08-.807-.317-1.632-.584-2.472-.8-2.226-.349-4.499-.253-6.688.283l-.2.027c-1.475.218-2.755,1.134-3.437,2.46-.221.446-.153.981.172,1.357.449.271.947.451,1.466.53,1.132.195,2.197.669,3.1,1.378,2.185,1.683,2.625,4.829,1.044,7.955-1.717,2.99-4.536,3.675-7.023,4.279-1.421.229-2.779.749-3.989,1.527-1.085.937-2.08,1.975-2.969,3.1-2,2.385-4.271,5.085-8.946,5.54-2.369.378-3.891.8-4.423,1.246l-.241.233c-.58.796-1.054,1.663-1.411,2.581-1.043,2.3-2.472,5.45-6.512,5.49-3.988.113-7.141.858-9.449,4.111-.6.774-1.127,1.579-1.689,2.431-.954,1.557-2.062,3.014-3.308,4.349-.678.666-4.139,3.875-7.024,2.911-1.38-.512-2.325-1.793-2.407-3.263-.9-4.086,1.333-6.573,2.809-8.22s1.441-1.672.73-2.512l-.1-.131c-.958-1.366-3.078-1.8-4.989-2.1-2.228-.486-5.29-1.373-7.407-3.714-.985-1.24-1.816-2.595-2.475-4.035-.9-1.727-2.775-5.315-3.826-5.4-.12-.018-.477.139-1.059.876-.37.948-.595,1.946-.668,2.961-.25,1.927-.535,4.107-2.238,5.843l-.194.173c-1.849,1.413-4.45,1.1-6.978-.839-.952-.664-1.824-1.436-2.6-2.3-1.262-1.3-2.148-2.149-3.066-2.24-.056.081-.099.169-.129.263-1.135,4.259.116,8.788,1.324,13.164.258.93.511,1.852.742,2.762.784,2.63.4,5.205.031,7.694-.231,1.307-.36,2.63-.385,3.957l.036.3c.073.759.189,1.513.347,2.259,1.052,5.8-1.786,11.021-4.011,14.452-.5.78-1.064,1.575-1.631,2.372-.754,1.017-1.455,2.073-2.1,3.163-1.085,2.213-1.869,4.561-2.332,6.982-.238.984-.477,1.963-.745,2.919-3.628,11.772-8.212,20.12-14.438,26.311l-.141.124c-4.921,3.995-8.534,9.723-12.027,15.263-1.542,2.447-3,4.757-4.57,6.943l-.116.143c-2.954,3.222-6.071,6.289-9.341,9.19-6.841,6.283-13.915,12.779-16.8,21.427l-1.043,4.25c-3.551,14.448-7.224,29.388-13.918,43.1l-1.068,2.055c-5.253,10.068-10.685,20.474-8.7,31.774.784,7.472-1.548,15.97-3.8,24.188-3.915,14.261-7.612,27.733,2.348,36.922,1.193,1.08,2.296,2.254,3.3,3.511,2.8,3.325,4.425,5.011,7.916,3.9,9.221-3.407,14.529-1.92,19.211-.606,5.152,1.444,9.6,2.694,19.379-2.532l.163-.076c3.151-1.3,6.546-2.478,9.96-2.15l.339.064c4.1,1.181,7.137,2.14,9.574,2.914,21.858,14.627,15.924,5.463,21.336-.75s9.713-14.127,14.41-14.28c2.8-.093,6.441,2.6,11.637,5.774,3.029,1.847,7.481,4.3,11.795,9.256s4.632,7.6,6.164,11.547c1.433,3.7,4.2,5.461,11.682,7.38,3.421.562,8.724-6.918,10.4-11.974s-1.555-21.112,3.108-23.056c3.162-1.319,5.112,3.508,11.1,3.051,2.319-.178,6.607-1.153,12.057,0,7.848,1.658,12.264,3.944,19.058,6.561s10.266,16.6,14.891,18.784,10.2-1.239,14.412-1.149c3.513.08,12.9,2.042,15.547-5.709,2.141-6.239-2.186-22.1-2.8-24.694" />
+<g id="Gruppe_2289">
+<g id="Pfad_10678">
+<path class="st7" d="M146.542,345.163c-3.686,0-7.262-.722-10.627-2.145-3.251-1.375-6.171-3.344-8.679-5.852-2.508-2.508-4.477-5.428-5.852-8.679-1.423-3.365-2.145-6.941-2.145-10.627s.722-7.262,2.145-10.627c1.375-3.251,3.344-6.171,5.852-8.679,2.508-2.508,5.428-4.477,8.679-5.852,3.365-1.423,6.941-2.145,10.627-2.145s7.262.722,10.627,2.145c3.251,1.375,6.171,3.344,8.679,5.852,2.508,2.508,4.477,5.428,5.852,8.679,1.423,3.365,2.145,6.941,2.145,10.627s-.722,7.262-2.145,10.627c-1.375,3.251-3.344,6.171-5.852,8.679-2.508,2.508-5.428,4.477-8.679,5.852-3.365,1.423-6.941,2.145-10.627,2.145Z" />
+<path class="st7" d="M146.542,291.808c-3.518,0-6.93.688-10.14,2.046-3.102,1.312-5.888,3.191-8.282,5.584-2.393,2.393-4.272,5.18-5.584,8.282-1.358,3.21-2.046,6.622-2.046,10.14s.688,6.93,2.046,10.14c1.312,3.102,3.191,5.888,5.584,8.282s5.18,4.272,8.282,5.584c3.21,1.358,6.622,2.046,10.14,2.046s6.93-.688,10.14-2.046c3.102-1.312,5.888-3.191,8.282-5.584,2.393-2.393,4.272-5.18,5.584-8.282,1.358-3.21,2.046-6.622,2.046-10.14s-.688-6.93-2.046-10.14c-1.312-3.102-3.191-5.888-5.584-8.282s-5.18-4.272-8.282-5.584c-3.21-1.358-6.622-2.046-10.14-2.046M146.542,289.308c15.769,0,28.553,12.783,28.553,28.553s-12.783,28.553-28.553,28.553-28.553-12.783-28.553-28.553,12.783-28.553,28.553-28.553Z" />
+</g>
+<path id="Pfad_10532" class="st6" d="M132.931,325.464h5.713c4.57,0,7.383-3.318,7.383-7.779,0-4.5-2.9-7.427-7.273-7.427h-5.823v15.206ZM135.788,312.588h2.724c3.23,0,4.57,2.461,4.57,5.12,0,3.12-1.428,5.427-4.57,5.427h-2.724v-10.547ZM159.694,316.368h-7.361v-3.735h7.691v-2.373h-10.481v15.204h10.547l.352-2.351h-8.109v-4.394h7.361v-2.351Z" />
+</g>
+</g>
+</a>
+<a href="/en/austria/vorarlberg" title="Vorarlberg">
+<g id="Gruppe_2291" class="">
+<path id="Pfad_15124" class="st11" d="M146.407,512.334c1.032-1.133,1.783-2.493,2.19-3.971.515-1.615.783-3.299.794-4.994.017-2.246.493-4.465,1.4-6.52.781-2.007,2.026-3.8,3.634-5.232,1.816-1.545,2.969-3.729,3.22-6.1.419-2.659.084-5.383-.966-7.862-1.044-2.582-1.48-5.37-1.273-8.148.331-3.59,1.538-7.043,3.517-10.057-.419-.164-.846-.35-1.291-.572-.6-.261-1.293-.543-1.992-.826-1.365-.556-2.779-1.13-4.139-1.844-3.3-1.705-4.552-5.06-5.654-8.019-.148-.4-.294-.792-.445-1.181-1.339-3.638-3.447-6.944-6.181-9.692-3.321-3.125-6.976-5.091-10.84-7.171-1.932-1.04-3.932-2.117-5.9-3.358-1.919-1.075-3.4.222-6.181,3.775-.434.556-.854,1.092-1.263,1.57-3.318,4.2-6.024,7.8-7.728,12.122-.7,1.667-1.247,3.339-1.825,5.111-.624,1.907-1.269,3.883-2.107,5.8-.714,1.539-1.542,3.055-2.342,4.521-1.8,3.306-3.666,6.723-4.09,10.074-.762,3.581-.58,7.298.529,10.787.475,1.555,1.033,3.077,1.569,4.548.929,2.387,1.703,4.832,2.318,7.319.131.455.269.981.4,1.488.834,3.151,1.317,4.718,3.173,5.871,2.163,1.145,4.436,2.07,6.783,2.763,1.418.47,2.886.967,4.293,1.543,7.285,2.347,8.718,6.1,10.234,10.084.682,1.973,1.582,3.864,2.683,5.638,1.667,2.339,4.788,4.454,7.8,6.5l1.141.778c3.154,2.293,6.118,4.263,9,4.936-1.276-3.513-2.769-8.488-2.769-12.576,0-4.352,1.119-5.688,2.3-7.1" />
+<g id="_1" class="st5">
+<text class="st3" data-count-region="vorarlberg" transform="translate(123.584 482.139)">
+<tspan x="0" y="0">1</tspan>
+</text>
+</g>
+<g id="Gruppe_2312" transform="translate(19.999 525.412)">
+<g id="Rechteck_11-5" class="map-label" data-pad-x="16" data-pad-y="12" data-radius="26">
+<rect class="map-label-bg" x="0" y="0" width="10" height="10" rx="26" ry="26"></rect>
+<rect class="map-label-border" x="0" y="0" width="10" height="10" rx="25" ry="25"></rect>
+</g>
+<g id="Vorarlberg" class="st5">
+<text class="st4">
+<tspan x="0" y="0">Vorarlberg</tspan>
+</text>
+</g>
+</g>
+</g>
+</a>
+<a href="/en/austria/carinthia" title="Carinthia">
+<g id="Gruppe_2295" class="">
+<path id="Pfad_15133" class="st11" d="M627.785,543.187c-1.321-6.762-2.962-15.172-5.386-22.136-1.022-3.149-2.442-6.155-4.224-8.946-1.249-2.1-3.151-3.733-5.416-4.65-4.94-1.491-10.141-1.914-15.257-1.241-4.908.595-9.77,1.517-14.555,2.761-2.505.6-4.872,1.161-6.869,1.494-4.687.781-5.626,2.227-6.455,3.5-.664,1.351-2.006,2.238-3.509,2.319-.114.01-.226.015-.338.015-2.008,0-3.83-1.566-5.924-3.364-1.412-1.277-2.929-2.432-4.535-3.453-1.756-1.097-3.74-1.775-5.8-1.983-.107-.01-.221-.015-.336-.015-1.555,0-3.706.918-6.561,2.791-2.879,1.893-6.138,4.553-9.289,7.125-6.618,5.4-12.911,10.533-17.495,10.534-.546.004-1.089-.078-1.61-.242-4.1-1.32-6.356-4.377-8.744-7.614-1.295-1.847-2.733-3.589-4.3-5.211-1.878-1.869-4.072-3.391-6.482-4.493-2.574-1.232-5.33-2.039-8.162-2.391-2.202-.201-4.417-.204-6.62-.01-3.182.337-6.397.168-9.526-.5-4.878-1.168-6.345-2.856-7.316-3.97-.229-.325-.526-.596-.87-.795-.563-.16-1.158-.171-1.727-.031-1.326.207-1.438.653-1.742,1.841-.222,1.179-.751,2.278-1.535,3.186-1.467,1.408-3.312,2.36-5.31,2.74-2.996.616-6.067.788-9.113.508-3.84-.26-7.662-.747-11.444-1.461-6.863-1.172-13.597-3.001-20.109-5.462-3.896-1.479-7.226-4.15-9.515-7.632-.407-.583-.914-1.307-1.155-1.359h-.006c-.072,0-.75.058-2.237,1.9-.552.701-1.063,1.433-1.531,2.192l.017.043c.206.679.529,1.317.955,1.884.864.686,1.875,1.162,2.954,1.39,2.34.751,5.254,1.692,6.943,4.8,1.064,1.769,1.139,3.962.2,5.8-.9,2.006-.945,4.292-.126,6.332,2.054,6.258,4.042,8.87,8,14.072.273.356.552.724.843,1.107,1.1,1.444,2.41,2.967,3.679,4.44,1.985,2.158,3.784,4.48,5.377,6.942.639,1.013,1.067,2.145,1.26,3.327.178,1.148-.153,2.317-.908,3.2-1.322,1.549-3.543,1.073-4.272.919-1.758-.454-3.478-1.047-5.142-1.773-4.453-1.78-9.5-3.8-12.411-1.2-4.508,4.026-5.728,13.508-6.041,17.254,1.181.187,2.374.367,3.579.541,1.785.262,3.569.523,5.339.828,3.98.793,7.886,1.922,11.675,3.375,2.968,1.107,5.995,2.048,9.068,2.819,3.543.721,7.148,1.096,10.763,1.119,3.996.023,7.978.469,11.88,1.33,7.815,2.232,14.821,4.02,22.09,3.376,8.236-.734,16.339,1.326,24.174,3.327,4.073,1.041,8.288,2.119,12.36,2.739,2.45.266,5.054.349,7.574.429,4.651.148,9.459.3,14.228,1.676,5.385,1.341,10.654,3.109,15.759,5.285,3.713,1.472,7.556,2.992,11.44,4.126,3.02.472,6.08.634,9.133.483.82-.012,1.647-.023,2.477-.023,2.292-.04,4.583.123,6.846.487,3.111.272,6.155,1.058,9.008,2.327,3.443,1.8,5.744,2.139,7.1,1.086l.246-.163c1.675-1.106,3.202-2.422,4.544-3.915,1.601-1.732,3.386-3.284,5.323-4.629l.619-.381c5.332-3.28,10.367-6.381,13.678-11.5.301-.473.604-.953.909-1.439,2-3.188,4.066-6.486,7.3-8.71,4.284-2.837,6.736-9.418,6.762-9.485l.357-.971,1.014-.206c.359-.061.721-.1,1.081-.161-1.408-1.707-2.595-3.583-3.535-5.586-1.073-2.155-1.977-6.79-3.121-12.656" />
+<g id="_4" class="st5">
+<text class="st3" data-count-region="kaernten" transform="translate(510.584 562.139)">
+<tspan x="0" y="0">4</tspan>
+</text>
+</g>
+<g id="Gruppe_2311" transform="translate(496.936 612.59)">
+<g id="Rechteck_11-4" class="map-label" data-pad-x="16" data-pad-y="12" data-radius="26">
+<rect class="map-label-bg" x="0" y="0" width="10" height="10" rx="26" ry="26"></rect>
+<rect class="map-label-border" x="0" y="0" width="10" height="10" rx="25" ry="25"></rect>
+</g>
+<g id="Kärnten" class="st5">
+<text class="st4">
+<tspan x="0" y="0">Carinthia</tspan>
+</text>
+</g>
+</g>
+</g>
+</a>
+<a href="/en/austria/tyrol" title="Tyrol">
+<g id="Gruppe_2300" class="">
+<path id="Pfad_15126" class="st11" d="M340.833,480.309c-.392-3.983.143-6.571,1.635-7.911,1.594-1.434,4.625-2.384,9.534-2.99,4.08-.5,8.934-.7,13.22-.866,5.345-.215,10.875-.429,12.6-1.244,2.127-1,2.347-2.42,2.624-4.219.248-1.6.528-3.418,2.371-4.688.84-.604,1.903-.811,2.908-.565.803.225,1.569.567,2.274,1.014.669.456,1.426.765,2.223.909.46.03,1.2-.056,2.253-1.2,4.3-4.656,6.226-9.886,6.226-16.959,0-4.391-1.887-6.2-4.073-8.3-1.787-1.537-3.24-3.424-4.272-5.543-1.01-2.176-1.71-4.483-2.081-6.853-.709.529-1.384,1.103-2.019,1.718l-1.508.487c-4.581-.416-8.239-2.731-11.772-4.968-1.846-1.228-3.772-2.33-5.766-3.3-1.558-.532-3.185-.83-4.83-.886-1.687-.086-3.358-.366-4.981-.835-1.371-.516-2.609-1.329-3.627-2.382-.365-.358-.762-.681-1.186-.966-.141.105-.269.227-.381.362-1.142,1.5-1.308,3.929-1.464,6.283l-.018.269c.1,3.067-.617,5.28-2.206,6.761-2.713,2.533-7.115,2.054-11.377,1.6-.585-.063-1.177-.129-1.766-.185-3.654-.339-7.333-.272-10.972.2-8.288,1.254-17.161,1.991-24.74,2.543-3.527.265-6.251,2.653-9.135,5.179-1.952,1.897-4.182,3.485-6.612,4.711-1.733.659-3.533,1.129-5.367,1.4-.87.157-1.745.317-2.588.524-2.454.418-3.832,2.17-5.426,4.2-.636.813-1.294,1.643-2.039,2.423-2.142,2.057-4.593,3.766-7.263,5.067-4.2,2.319-8.054,2.8-11.713,1.417-1.117-.312-2.282-.409-3.435-.288-1.301.206-2.586.506-3.843.9-3.119.881-6.657,1.883-9.933.9-2.972-.866-4.978-3.28-6.225-5.021-2.528-3.548-4.872-7.224-7.022-11.013l-.1-.2c-1.65-4.133-5.093-4.844-9.45-5.743-1.411-.293-2.872-.6-4.326-1.035-1.242-.338-2.509-.756-3.736-1.161-2.843-.94-5.548-1.9-8.124-1.789-1.337.004-2.672.082-4,.235-2.849.284-5.794.577-8.562-1.041-.414-.242-.794-.476-1.156-.7-.682-.448-1.396-.844-2.136-1.186-.437,1.129-.7,2.318-.778,3.526.027.987.06,1.944.094,2.873.338,9.476.606,16.959-8.2,25.052-2.574,2.624-4.836,3.661-7.507,3.256-.431.601-.823,1.228-1.174,1.879-1.31,2.398-2.118,5.038-2.376,7.759-.177,2.482.222,4.97,1.167,7.272,1.171,2.814,1.534,5.9,1.049,8.909-.323,2.82-1.693,5.417-3.84,7.274-1.392,1.222-2.469,2.761-3.14,4.487-.818,1.825-1.243,3.801-1.249,5.8-.019,1.881-.316,3.75-.882,5.544-.489,1.76-1.379,3.382-2.6,4.741-1.046,1.249-1.8,2.147-1.8,5.723,0,4.126,1.724,9.431,3,12.8,1.485-.067,2.921-.549,4.144-1.393,3.163-2.12,6.17-4.463,9-7.01l.958-.966c3.8-3.82,7.72-7.749,12.271-7.3,2.7.277,5.073,2.046,7.261,5.4.995,1.799,1.776,3.708,2.327,5.688,1.075,3.367,2,6.271,4.9,7.231,1.834.229,3.686.281,5.53.157,4.96-.16,10.566-.342,13.834,5.152,2.783,3.828,5.109,6.618,9.492,7.668,10.934,2.387,18.136.435,21.366-5.807.784-1.593,1.5-3.306,2.254-5.121,2.822-6.762,6.016-14.423,14.266-17.091,4.173-1.741,8.78-1.82,13.237-1.9,2.36.015,4.719-.127,7.061-.424l.234-.019c2.54-.138,5.065-.468,7.555-.989,1.922-.351,3.91-.714,5.94-.911,3.845-.126,7.689.277,11.424,1.2,3.664.73,7.128,1.426,10.556,1.135,3.045-.482,5.98-1.503,8.666-3.017,6.983-3.577,16.134-7.84,26.08-9.771-.955-2.439-2.862-7.508-4.418-12.847-1.111-3.589-1.898-7.27-2.352-11" />
+<path id="Pfad_15129" class="st11" d="M402.725,548.806c1.773-1.586,4.119-2.109,7.177-1.6,2.562.542,5.062,1.346,7.46,2.4,2.871,1.148,6.134,2.452,6.983,1.455.454-.537.891-1.534-.573-4.051-1.53-2.345-3.251-4.559-5.146-6.62-1.293-1.5-2.629-3.048-3.764-4.544-.29-.381-.569-.751-.841-1.1-4.1-5.393-6.165-8.1-8.33-14.7-.983-2.505-.927-5.298.155-7.761.537-1.426.86-2.286-.079-4.011-1.278-2.349-3.534-3.076-5.714-3.778-1.469-.313-2.825-1.017-3.926-2.039-.594-.754-1.046-1.609-1.334-2.525-.632-1.679-1.287-3.415-5.129-5.045-1.768-.834-3.44-1.857-4.989-3.049-2.025-1.446-3.937-2.812-5.8-3.088-.224-.034-.45-.052-.676-.053-1.229,0-2.931.545-5.045,3.265-3.502,4.203-7.741,7.733-12.508,10.416-1.607.972-3.266,1.849-4.949,2.681.399.319.738.707,1,1.145.851,1.443,1.229,4.088-1.776,8.5-2.717,4.207-3.395,10.575.611,14.53.99.978,2.056,1.875,3.189,2.683,1.782,1.219,3.378,2.69,4.738,4.367,1.646,2.438,3.028,5.044,4.123,7.774.258.583.514,1.166.776,1.743,3.327,7.33,8.73,13.524,15.54,17.816,3.824,1.834,7.903,3.078,12.1,3.689.169-2.044.46-4.077.872-6.086,1.2-5.83,3.169-10.006,5.863-12.414" />
+<g id="_2" class="st5">
+<text class="st3" data-count-region="tirol" data-count-part="2" transform="translate(378.584 533.139)">
+<tspan x="0" y="0">2</tspan>
+</text>
+</g>
+<g id="_10" class="st5">
+<text class="st3" data-count-region="tirol" data-count-part="1" transform="translate(242.584 493.139)">
+<tspan x="0" y="0">10</tspan>
+</text>
+</g>
+<g id="Gruppe_2313" transform="translate(281.463 425.779)">
+<g id="Rechteck_11-6" class="map-label" data-pad-x="16" data-pad-y="12" data-radius="26">
+<rect class="map-label-bg" x="0" y="0" width="10" height="10" rx="26" ry="26"></rect>
+<rect class="map-label-border" x="0" y="0" width="10" height="10" rx="25" ry="25"></rect>
+</g>
+<g id="Tirol" class="st5">
+<text class="st4">
+<tspan x="0" y="0">Tyrol</tspan>
+</text>
+</g>
+</g>
+</g>
+</a>
+<a href="/en/austria/upper-austria" title="Upper Austria">
+<g id="Gruppe_2298" class="active">
+<path id="Pfad_15121" class="st11" d="M435.107,365.234c2.305.843,4.346,2.279,5.918,4.163,1.645,1.717,3.064,3.21,6.152,3.52.25.025.5.039.75.039,2.449,0,4.057-1.288,5.753-2.635,1.639-1.306,3.326-2.651,5.688-2.651.333,0,.665.025.994.077,1.616.253,3.14.919,4.425,1.932,1.144.885,2.101,1.99,2.813,3.249.921,1.334,1.205,3.006.778,4.569-.391.833-1.279,1.315-2.191,1.188h-.063c-.844-.048-1.683-.162-2.509-.341-1.086-.235-2.19-.375-3.3-.416-.244,0-.488.013-.73.041-1.015.015-1.903.686-2.194,1.658-1.036,2.663-1.461,5.524-1.244,8.373.163,1.561.607,3.079,1.311,4.482.878,1.697,2.053,3.224,3.469,4.508,1.666,1.464,3.83,2.235,6.046,2.152h.254c2.357-.09,4.699-.412,6.993-.961,1.688-.395,3.404-.663,5.133-.8.163-.007.322-.011.478-.011,1.372-.098,2.729.34,3.786,1.221,1.2.984,1.661,2.612,1.155,4.079-.494,1.248-1.186,2.408-2.05,3.435-1.22,1.637-2.373,3.181-1.848,4.522,1.138,2.914-.43,4.648-1.688,6.043-.907,1-1.689,1.87-1.689,3.128-.095.899.397,1.758,1.22,2.132,1.484.834,2.353,2.45,2.23,4.148-.088,1.689-.653,3.319-1.629,4.7-1.029,1.738-1.842,3.113-.909,5.568.761,2.006,2.207,2.714,4.037,3.611,2.111,1.034,4.5,2.211,5.969,5.622,1.524.226,3.06.356,4.6.389h.382c3.276,0,5.672-.584,6.768-1.655.338-.328.767-1.361-.128-4.584-.878-2.822-1.92-5.591-3.119-8.293-1.621-3.864-3.019-7.21-3.019-9.215.122-1.654.839-3.207,2.019-4.372,1.357-1.479,2.92-2.754,4.641-3.787,3.635-2.366,7.83-3.733,12.161-3.963,3.22-.092,6.441.109,9.624.6,2.978.536,5.792,1.747,8.228,3.542,3.164,2.3,2.918,5.319,2.738,7.525-.174,2.147-.107,2.683.977,3,.239.074.488.113.738.115,1.054,0,1.982-.736,3.433-1.966,1.973-1.669,4.425-3.747,8.542-3.747,3.834,0,6.245,1.664,8.373,3.132,1.9,1.312,3.568,2.461,6.075,2.461.251,0,.511-.012.779-.035,4.254-.38,5.874-2.37,7.748-4.675.822-1.066,1.733-2.06,2.723-2.972,3.037-2.679,16.071-11.1,20.249-13.778-.051-1.785.094-3.571.434-5.324.495-3.157,2.2-5.695,3.713-7.934,1.566-2.326,2.918-4.334,2.918-6.671,0-.615-.25-1.571-2.4-2.776-2.211-1.097-4.505-2.019-6.861-2.756-4.026-1.236-7.897-2.931-11.536-5.052-2.405-1.54-4.92-2.899-7.526-4.067-3.006-1.4-4.83-2.239-5.486-5.172-.306-1.206,0-2.486.817-3.424.728-.77,1.566-1.429,2.487-1.954,1.434-.92,2.79-1.789,3.138-3.3.293-1.274.018-4.124-.246-6.879-.227-2.361-.462-4.8-.447-6.935.017-2.676.438-4.377,1.322-5.352.537-.6,1.308-.938,2.113-.926,1.541,0,3.834,1.854,8.092,5.4,3.631,3.027,8.146,6.794,11.342,7.993,1.125.424,2.641-.351,4.507-2.289,2.003-2.253,3.829-4.657,5.463-7.191,2.36-3.452,3.88-5.6,5.259-6.254,1.157-.515,2.512-.259,3.4.644.839.763,1.59,1.616,2.241,2.544.384.526.794,1.033,1.23,1.517.174.205.383.378.617.51.121-.116.223-.251.3-.4,1.199-2.58,1.811-5.394,1.792-8.239.121-3.832-.224-7.664-1.027-11.412-.409-2.683-2.116-4.991-4.562-6.168-1.717-1.056-3.664-2.254-4.564-5.35-.439-1.401-.38-2.91.167-4.272.468-1.062,1.081-2.054,1.823-2.947,1.451-1.9,1.979-2.746.506-4.445-1.872-2.158-5.118-2.663-8.553-3.2-3.326-.517-6.77-1.052-9.6-3.084-2.408-1.613-4.05-4.143-4.542-7-.069-.416-.11-.836-.122-1.257-1.094-.34-2.318-.773-3.615-1.234-6.723-2.389-14.344-5.1-19.212-.09l-.131.121c-2.389,2.026-5.095,3.945-8.614,4.26-6.05.376-12.25-1.42-17.723-3.005-.823-.238-1.636-.471-2.44-.7-6-1.781-8.372-5.693-10.089-11.02-1.185-3.069-3.137-5.784-5.669-7.884-3.687-3.218-7-4.489-9.08-3.472-2.053,1-3.083,4.31-2.825,9.083-.112,7.762-2.52,17.951-8.926,21.536-4.343,2.274-8.443.4-12.062-1.244-1.774-.95-3.694-1.599-5.681-1.918-1.728-.221-6.661-.872-8.972,8.491-2.421,15.589-5.445,27.009-22.11,31.946-1.309.372-2.617.7-3.925,1.038-2.429.568-4.825,1.269-7.177,2.1-4.943,2.073-9.675,4.618-14.129,7.6-1.807,1.119-3.619,2.254-5.467,3.327-8.1,5.653-11.616,9.485-12.142,13.213-.6,4.293,2.721,9.277,9.937,18.162l.094.129c.144.211.3.427.445.64,1.44-1.11,2.945-2.133,4.506-3.064,4.577-2.671,8.263-3.567,10.962-2.663" />
+<g id="_1-2" class="st5">
+<text class="st3" data-count-region="oberoesterreich" transform="translate(514.584 353.139)">
+<tspan x="0" y="0">1</tspan>
+</text>
+</g>
+<g id="Gruppe_2305" transform="translate(364.278 306.363)">
+<g id="Rechteck_11-2" class="map-label" data-pad-x="18" data-pad-y="12" data-radius="26">
+<rect class="map-label-bg" x="0" y="0" width="10" height="10" rx="26" ry="26"></rect>
+<rect class="map-label-border" x="0" y="0" width="10" height="10" rx="25" ry="25"></rect>
+</g>
+<g id="Oberösterreich" class="st5">
+<text class="st4">
+<tspan x="0" y="0">Upper Austria</tspan>
+</text>
+</g>
+</g>
+</g>
+</a>
+<a href="/en/austria/styria" title="Styria">
+<g id="Gruppe_2297" class="">
+<path id="Pfad_15127" class="st11" d="M729.702,517.823l.253-.465c1.191-1.996,2.164-4.115,2.9-6.32.812-2.97,1.176-6.045,1.08-9.123,0-3.694-2.083-10.62-4.293-17.953-2.9-9.66-6.2-20.6-6.2-28.509,0-4.106.736-6.664,2.317-8.05,1.672-1.465,3.812-1.181,5.536-.952,2.01.268,2.47.192,2.692-.452.706-2.025.957-3.059.581-3.826-.455-.928-1.981-1.923-4.46-3.327-2.36-1.336-4.936-1.439-7.674-1.549-1.788-.022-3.571-.198-5.329-.527-2.014-.411-3.912-1.26-5.561-2.487-3.9-2.9-4.365-6.462-4.737-9.319-.264-2.039-.473-3.644-1.716-4.734-1.216-1.061-1.927-.675-3.514.6-.559.501-1.191.915-1.874,1.226-.887.374-1.91.208-2.633-.429-1.216-1.009-1.5-2.552-1.815-4.186-.44-2.325-.939-4.96-4.145-7.1-1.705-1.179-3.756-1.752-5.825-1.627-.266,0-.537,0-.816.006-3.691.22-7.364-.661-10.553-2.533-4.113-2.348-7.686-5.536-10.484-9.357-1.408-1.756-2.519-3.143-3.717-3.72-.161-.076-.337-.115-.515-.114-1.058,0-2.547,1.217-4.706,3.062-3.224,3.047-7.008,5.44-11.142,7.047-3.568,1.325-7.339,2.024-11.145,2.064-2.467-.002-4.921.368-7.277,1.1-2.327.621-4.427,1.894-6.053,3.67-.975,1.289-2.493,2.053-4.109,2.068-.986.037-1.941-.351-2.621-1.067-.495-.587-.889-1.252-1.165-1.969-.587-1.3-1.047-2.328-2.748-2.669-1.742-.35-3.327.429-5,1.244-1.922.941-4.1,2.007-6.394.846-1.399-.571-2.568-1.591-3.324-2.9-4.658,3-16.633,10.763-19.394,13.2-.9.836-1.729,1.745-2.479,2.718-2,2.457-4.065,5-9.22,5.459-.339.03-.666.045-.983.045-3.165,0-5.259-1.443-7.282-2.841-2.052-1.416-3.989-2.752-7.155-2.752-3.327,0-5.274,1.646-7.155,3.238-1.443,1.221-2.925,2.476-4.823,2.476-.461-.002-.919-.072-1.359-.208-1.163-.275-2.084-1.161-2.406-2.312-.201-.963-.231-1.954-.088-2.927.167-2.069.323-4.024-1.862-5.614-2.176-1.614-4.698-2.699-7.366-3.169-3.051-.469-6.139-.658-9.224-.565-3.929.242-7.728,1.496-11.028,3.641-3.433,2.125-5.646,4.615-5.646,6.332,0,1.575,1.449,5.037,2.852,8.387,1.236,2.784,2.308,5.638,3.209,8.548.367,1.198.572,2.439.61,3.691.076,1.103-.303,2.189-1.05,3.005-1.539,1.509-4.317,2.271-8.256,2.271h-.453c-1.294-.03-2.585-.126-3.869-.287.227,1.935-.076,3.895-.875,5.671-.8,2.23-1.549,4.33-.35,7.764,2.641,7.558,5.721,11.538,10.3,13.309.283.114.584.175.889.179,1.4,0,2.481-1.421,3.956-3.586.621-1.006,1.359-1.934,2.2-2.765.882-.927,2.249-1.203,3.422-.691,1.116.48,1.945,1.453,2.241,2.631.267,1.118.401,2.264.4,3.413.106,2.4.227,5.122,2.1,7.643,1.71,2.3,3.941,3.005,6.1,3.684,2.606.822,5.3,1.672,6.118,5.327.449,1.707.34,3.512-.312,5.152-.707,1.475-1.607,2.85-2.676,4.089-1.507,1.853-2.85,3.834-4.014,5.92-4.084,7.444-9.466,15.51-9.519,15.591l-.177-.118c1.475,2.119,3.566,3.732,5.99,4.621,1.5.483,3.88-.293,7.073-2.3,3.483-2.349,6.83-4.891,10.027-7.616,6.546-5.344,12.75-10.4,17.224-10.4.175,0,.344.008.516.024,5.164.479,8.694,3.51,11.527,5.946,1.774,1.522,3.312,2.845,4.535,2.845.047,0,.094-.001.141-.006,1.083-.1,1.322-.463,1.9-1.35.574-.979,1.351-1.823,2.279-2.476,1.709-1.058,3.628-1.732,5.623-1.975,1.922-.322,4.252-.877,6.722-1.465,4.876-1.268,9.832-2.206,14.834-2.808,5.417-.706,10.922-.25,16.149,1.339,4.409,1.463,8.006,6.345,10.994,14.928,2.469,7.108,4.131,15.6,5.464,22.432,1.073,5.482,1.994,10.218,2.935,12.112,1.06,2.25,2.45,4.329,4.125,6.168,4-.523,8.03-.781,12.064-.771,3.607-.093,7.335-.189,10.926-.589,3.049-.326,6.132-.035,9.067.853,2.406.586,4.492,1.1,6.8.6,2.094-1.034,4.052-2.325,5.828-3.842,3.377-2.634,6.869-5.356,11.7-5.558,2.052-.2,4.233-.483,6.428-.761,5.918-.753,12.047-1.53,18.057-1.053,2.009.198,3.976.701,5.833,1.492,1.483.527,4.182,1.494,5.054,1.3.062-.649-.011-1.303-.215-1.922-2.76-8.329-2.466-13.005-.231-16.771-.108-1.253-.24-3.2-.26-5.371-.048-5.032.524-8.678,1.7-10.84" />
+<g id="_1-3" class="st5">
+<text class="st3" data-count-region="steiermark" transform="translate(612.584 467.139)">
+<tspan x="0" y="0">1</tspan>
+</text>
+</g>
+<g id="Gruppe_2282" transform="translate(675.581 560.784)">
+<g id="Rechteck_11" class="map-label" data-pad-x="16" data-pad-y="12" data-radius="26">
+<rect class="map-label-bg" x="0" y="0" width="10" height="10" rx="26" ry="26"></rect>
+<rect class="map-label-border" x="0" y="0" width="10" height="10" rx="25" ry="25"></rect>
+</g>
+<g id="Steiermark" class="st5">
+<text class="st4">
+<tspan x="0" y="0">Styria</tspan>
+</text>
+</g>
+</g>
+</g>
+</a>
+<a href="/en/austria/salzburg-region" title="Salzburg">
+<g id="Gruppe_2296" class="">
+<path id="Pfad_15128" class="st11" d="M371.452,490.644c2.133-2.745,4.348-4.092,6.748-4.092.328,0,.656.025.98.073,2.378.351,4.6,1.932,6.739,3.465,1.424,1.098,2.959,2.043,4.58,2.821,2.104.74,3.925,2.118,5.208,3.943.3-.43.61-.852.935-1.261,1.656-2.055,3.086-2.92,4.363-2.649,1.073.229,1.685,1.112,2.469,2.23,2.055,3.151,5.063,5.563,8.586,6.883,6.372,2.391,12.955,4.175,19.662,5.328,3.697.695,7.433,1.173,11.186,1.43,2.824.264,5.671.115,8.452-.444,4.475-1.148,4.892-2.791,5.3-4.376.341-1.34.765-3.005,3.49-3.435.968-.221,1.979-.158,2.912.182.644.316,1.205.78,1.635,1.354.841.967,1.99,2.286,6.2,3.294,2.924.62,5.928.771,8.9.449,4.414-.269,9-.548,15.81,2.594,5.993,2.763,8.981,6.809,11.616,10.379l.442.6c1.261-1.915,5.618-8.612,9.033-14.862,1.218-2.187,2.624-4.265,4.2-6.21.946-1.088,1.746-2.294,2.381-3.589.484-1.232.554-2.588.2-3.864-.519-2.338-1.956-2.892-4.662-3.746-2.247-.709-5.043-1.593-7.173-4.448-2.271-3.05-2.413-6.255-2.527-8.83-.107-2.4-.214-3.67-1.364-4.173-.1-.045-.208-.069-.317-.07-.663,0-1.39.9-2.667,2.768-.771,1.266-1.72,2.415-2.817,3.412-1.248,1.119-3.026,1.426-4.576.789-2.761-1.08-5.157-2.924-6.908-5.316-2.021-2.836-3.587-5.97-4.643-9.288-1.09-2.995-.963-6.298.354-9.2.75-2.1,1.346-3.757.288-6.286-1.152-2.739-3.006-3.649-4.973-4.615-1.986-.972-4.038-1.977-5.1-4.776-1.3-3.424-.04-5.549,1.073-7.424.773-1.051,1.234-2.299,1.329-3.6.124-.991-.399-1.951-1.3-2.383-1.407-.778-2.242-2.295-2.147-3.9.121-1.757.926-3.397,2.243-4.567,1.273-1.409,1.907-2.22,1.28-3.822-.441-1.195-.355-2.52.235-3.649.526-1.043,1.161-2.028,1.893-2.939.713-.841,1.294-1.785,1.723-2.8.259-.678.026-1.445-.566-1.865-1.247-1.158-4.293-.537-7.513.118-2.437.577-4.926.912-7.429,1h-.279c-2.749.084-5.425-.892-7.475-2.726-3.035-2.651-4.977-6.334-5.451-10.336-.244-3.162.216-6.338,1.348-9.3.557-1.751,2.136-2.978,3.97-3.086,1.57-.097,3.145.038,4.675.4.644.12,1.26.234,1.753.281.225.028.452.032.677.011.04-.902-.208-1.793-.707-2.545-1.188-2.15-3.274-3.656-5.688-4.109-.217-.034-.436-.051-.655-.051-1.626,0-2.855.979-4.362,2.181-1.836,1.464-3.9,3.1-7.075,3.1-.326,0-.652-.016-.977-.049-3.878-.391-5.714-2.314-7.491-4.175-1.332-1.631-3.076-2.877-5.05-3.61-.499-.162-1.022-.24-1.547-.233-1.973,0-4.577.919-7.649,2.712-1.506.899-2.958,1.887-4.347,2.958l.318.444c3.642,5.065,7.765,10.8,6.831,17.437-.348,2.639-1.188,5.19-2.475,7.521-1.233,2.6-2.4,5.062-2.039,7.352.641,1.847,2.566,2.853,4.788,4.017,1.376.66,2.68,1.46,3.89,2.389,9.609,7.253,1.839,25.211.182,28.737l-.094.176c-1.073,1.977-2.977,3.368-5.187,3.788-4.945.866-10.424-3.6-13.369-5.985-3.413-2.814-5.948-6.546-7.307-10.756-.222-.706-.4-1.359-.58-2-.672-2.439-1.249-4.539-2.9-5.934-3.643-3.342-8.5-2.7-12.639-.337.246,2.532.93,5.002,2.022,7.3.918,1.868,2.212,3.526,3.8,4.871,2.327,2.237,4.731,4.55,4.731,9.854.069,3.605-.539,7.191-1.795,10.571-1.151,2.909-2.848,5.571-5,7.843-.901,1.138-2.25,1.831-3.7,1.9-.1,0-.189,0-.284-.01-1.121-.151-2.192-.555-3.134-1.181-1.474-.836-2.1-1.1-2.908-.547-1.027.708-1.227,1.695-1.465,3.248-.3,1.937-.671,4.349-3.833,5.833-2.125,1-7.114,1.2-13.435,1.446-4.241.169-9.05.36-13.042.852-4.331.537-7.144,1.361-8.362,2.457-.838.751-2.389,3.894,1.339,16.7,1.637,5.618,3.671,10.937,4.531,13.116,1.107-.103,2.223-.062,3.32.122,2.218-1.016,4.378-2.156,6.469-3.413,3.611-2.168,8.6-5.641,11.892-9.874" />
+<g id="_9" class="st5">
+<text class="st3" data-count-region="salzburg" transform="translate(434.584 477.139)">
+<tspan x="0" y="0">9</tspan>
+</text>
+</g>
+<g id="Gruppe_2310" transform="translate(476.17 510.162)">
+<g id="Rechteck_11-3" class="map-label" data-pad-x="16" data-pad-y="12" data-radius="26">
+<rect class="map-label-bg" x="0" y="0" width="10" height="10" rx="26" ry="26"></rect>
+<rect class="map-label-border" x="0" y="0" width="10" height="10" rx="25" ry="25"></rect>
+</g>
+<g id="Salzburg" class="st5">
+<text class="st4">
+<tspan x="0" y="0">Salzburg</tspan>
+</text>
+</g>
+</g>
+</g>
+</a>
+</g>
+</svg>
+</div>
+<script>window.__WANDERHOTELS_MAP_DE={"vorarlberg":"Vorarlberg","tirol":"Tirol","salzburg":"Salzburg","kaernten":"Kärnten","steiermark":"Steiermark","oberoesterreich":"Oberösterreich"}</script>
+<script>(function(){function sizeLabels(svg){if(!svg)return;svg.querySelectorAll('g.map-label').forEach((labelGroup)=>{const parent=labelGroup.parentNode;if(!parent||!parent.querySelector)return;const text=parent.querySelector('text');if(!text||typeof text.getBBox!=='function')return;const padX=parseFloat(labelGroup.getAttribute('data-pad-x')||'16');const padY=parseFloat(labelGroup.getAttribute('data-pad-y')||'12');const radius=parseFloat(labelGroup.getAttribute('data-radius')||'26');const bb=text.getBBox();const x=bb.x-padX;const y=bb.y-padY;const w=bb.width+padX*2;const h=bb.height+padY*2;const bg=labelGroup.querySelector('rect.map-label-bg');const border=labelGroup.querySelector('rect.map-label-border');if(!bg||!border)return;bg.setAttribute('x',x);bg.setAttribute('y',y);bg.setAttribute('width',w);bg.setAttribute('height',h);bg.setAttribute('rx',radius);bg.setAttribute('ry',radius);border.setAttribute('x',x+1);border.setAttribute('y',y+1);border.setAttribute('width',Math.max(0,w-2));border.setAttribute('height',Math.max(0,h-2));border.setAttribute('rx',Math.max(0,radius-1));border.setAttribute('ry',Math.max(0,radius-1))})}
+function setCountText(textEl,value){if(!textEl)return;const tspan=textEl.querySelector('tspan')||textEl;tspan.textContent=String(value)}
+async function fetchCount({baseUrl,land,bundesland,part}){const params=new URLSearchParams();params.set('land',land);params.set('bundesland',bundesland);if(part)params.set('part',String(part));const url=baseUrl+'?'+params.toString();const res=await fetch(url,{credentials:'omit'});if(!res.ok)throw new Error('HTTP '+res.status);const json=await res.json();if(!json||typeof json.count!=='number')throw new Error('Invalid JSON');return json.count}
+async function updateCounts(svg){if(!svg)return;const baseUrl='/api/hotelcount';const land='österreich';const targets=Array.from(svg.querySelectorAll('text[data-count-region]'));if(!targets.length)return;const regionToBundesland=(window.__WANDERHOTELS_MAP_DE||{});const tasks=targets.map(async(textEl)=>{const regionKey=(textEl.getAttribute('data-count-region')||'').trim();if(!regionKey)return;const bundesland=regionToBundesland[regionKey];if(!bundesland)return;const partAttr=(textEl.getAttribute('data-count-part')||'').trim();const part=partAttr!==''?parseInt(partAttr,10):undefined;try{const count=await fetchCount({baseUrl,land,bundesland,part});setCountText(textEl,count)}catch(e){console.warn('[Map] hotelcount failed for',{regionKey,bundesland,part,error:String(e)})}});await Promise.all(tasks)}
+async function run(){const svg=document.getElementById('Ebene_1');await updateCounts(svg);sizeLabels(svg)}
+window.addEventListener('load',run);requestAnimationFrame(run)})()</script></div></div>
+</div>
+</div>
+</main>
+</div>
+<div id="full">
+<div class="inside">
+<div class="mod_article block" id="article-1005">
+<div class="mod_rocksolid_slider land-highlight winter block">
+<div data-rsts-name="Oberösterreich Highlights">
+<div class="highlight-inner padd2 big-padd-top big-padd-bot">
+<div class="content-text">
+<div class="rte">
+<h2>Hiking in Upper Austria: your highlights</h2>
+</div>
+</div>
+<div class="list-big content-text">
+<div class="rte">
+<ul>
+<li>Follow in the footsteps of the graceful lynx in the Totes Gebirge</li>
+<li>Experience the wilderness of the UNESCO World Heritage Site Buchenwald</li>
+<li>Enjoy captivating views on the Stoderer Dolomitensteig trail in the Pyhrn-Priel region</li>
+</ul>
+</div>
+</div>
+</div>
+<picture>
+<source srcset="/assets/images/q/romantischer-winterurlaub-hinterstoder-rodeln-schnee-wanderhotel-poppengut-2020%28c%29selina-flasch-photography-gjdmwpj5shfdt04.webp" media="(min-width: 1200px) and (max-width: 1500px)" type="image/webp" width="1500" height="1000">
+<source srcset="/assets/images/3/romantischer-winterurlaub-hinterstoder-rodeln-schnee-wanderhotel-poppengut-2020%28c%29selina-flasch-photography-ch1t17557bgyb0r.jpg" media="(min-width: 1200px) and (max-width: 1500px)" width="1500" height="1000">
+<source srcset="/assets/images/m/romantischer-winterurlaub-hinterstoder-rodeln-schnee-wanderhotel-poppengut-2020%28c%29selina-flasch-photography-nvtv8thaetmhnt2.webp" media="(min-width: 800px) and (max-width: 1199px)" type="image/webp" width="1200" height="800">
+<source srcset="/assets/images/0/romantischer-winterurlaub-hinterstoder-rodeln-schnee-wanderhotel-poppengut-2020%28c%29selina-flasch-photography-e6cny39c9cr2m2n.jpg" media="(min-width: 800px) and (max-width: 1199px)" width="1200" height="800">
+<source srcset="/assets/images/b/romantischer-winterurlaub-hinterstoder-rodeln-schnee-wanderhotel-poppengut-2020%28c%29selina-flasch-photography-nykx4edf06dkvdj.webp" media="(min-width: 600px) and (max-width: 799px)" type="image/webp" width="1000" height="600">
+<source srcset="/assets/images/e/romantischer-winterurlaub-hinterstoder-rodeln-schnee-wanderhotel-poppengut-2020%28c%29selina-flasch-photography-dm7hqa3mk0r5dek.jpg" media="(min-width: 600px) and (max-width: 799px)" width="1000" height="600">
+<source srcset="/assets/images/1/romantischer-winterurlaub-hinterstoder-rodeln-schnee-wanderhotel-poppengut-2020%28c%29selina-flasch-photography-rnrynf2ntxz92x6.webp" media="(max-width: 599px)" type="image/webp" width="600" height="900">
+<source srcset="/assets/images/2/romantischer-winterurlaub-hinterstoder-rodeln-schnee-wanderhotel-poppengut-2020%28c%29selina-flasch-photography-fcv89158p46dvna.jpg" media="(max-width: 599px)" width="600" height="900">
+<source srcset="/assets/images/7/romantischer-winterurlaub-hinterstoder-rodeln-schnee-wanderhotel-poppengut-2020%28c%29selina-flasch-photography-x28hdyxfnktqc2d.webp" type="image/webp" width="1666" height="1083">
+<img src="/assets/images/s/romantischer-winterurlaub-hinterstoder-rodeln-schnee-wanderhotel-poppengut-2020%28c%29selina-flasch-photography-16mk5c67xcxh0yg.jpg" width="1666" height="1083" alt="Couple enjoying winter romance while sledding in the snow in Hinterstoder during a stay at the Relax &amp; Wanderhotel Poppengut." loading="lazy" data-rsts-background data-rsts-scale-mode="crop" data-rsts-position="center">
+</picture>
+<span class="rsts-copyright">© Selina Flasch Photography</span>
+</div>
+</div>
+<script>(function(){var sliderElement=[].slice.call(document.getElementsByClassName('mod_rocksolid_slider'),-1)[0];if(window.jQuery&&jQuery.fn.rstSlider){init()}else{document.addEventListener('DOMContentLoaded',init)}
+function init(){var $=jQuery;var slider=$(sliderElement);slider.find('video[data-rsts-background], [data-rsts-type=video] video').each(function(){this.player=!0});slider.rstSlider({"type":"slide","direction":"x","width":"100%","height":"css","navType":"none","scaleMode":"crop","imagePosition":"center","centerContent":!0,"random":!1,"loop":!1,"videoAutoplay":!1,"autoplayProgress":!1,"pauseAutoplayOnHover":!1,"keyboard":!0,"captions":!1,"controls":!1,"thumbControls":!1,"combineNavItems":!0,"visibleAreaAlign":0.5,"gapSize":"0%"});$(function(){if(!$.fn.colorbox){return}
+var lightboxConfig={loop:!1,rel:function(){return $(this).attr('data-lightbox')},maxWidth:'95%',maxHeight:'95%'};var update=function(links){links.colorbox(lightboxConfig)};slider.on('rsts-slidestart rsts-slidestop',function(event){update(slider.find('a[data-lightbox]'))});update(slider.find('a[data-lightbox]'))})}})()</script><div class="mod_rocksolid_slider land-highlight summer block">
+<div data-rsts-name="Oberösterreich Highlights">
+<div class="highlight-inner padd2 big-padd-top big-padd-bot">
+<div class="content-text">
+<div class="rte">
+<h2>Hiking in Upper Austria: your highlights</h2>
+</div>
+</div>
+<div class="list-big content-text">
+<div class="rte">
+<ul>
+<li>Follow in the footsteps of the graceful lynx in the Totes Gebirge</li>
+<li>Experience the wilderness of the UNESCO World Heritage Site Buchenwald</li>
+<li>Enjoy captivating views on the Stoderer Dolomitensteig trail in the Pyhrn-Priel region</li>
+</ul>
+</div>
+</div>
+</div>
+<picture>
+<source srcset="/assets/images/k/nationalpark-kalkalpen-luchstrail-tamischbachturm-wanderhotel-poppengut%28c%29oberoesterreich-tourismus-gmbh-max-mauthner-zxqjqsrhsk59qb3.webp" media="(min-width: 1200px) and (max-width: 1500px)" type="image/webp" width="1500" height="1000">
+<source srcset="/assets/images/x/nationalpark-kalkalpen-luchstrail-tamischbachturm-wanderhotel-poppengut%28c%29oberoesterreich-tourismus-gmbh-max-mauthner-av798q73pgkwss0.jpg" media="(min-width: 1200px) and (max-width: 1500px)" width="1500" height="1000">
+<source srcset="/assets/images/a/nationalpark-kalkalpen-luchstrail-tamischbachturm-wanderhotel-poppengut%28c%29oberoesterreich-tourismus-gmbh-max-mauthner-b3ftjnqs07wmb4m.webp" media="(min-width: 800px) and (max-width: 1199px)" type="image/webp" width="1200" height="800">
+<source srcset="/assets/images/w/nationalpark-kalkalpen-luchstrail-tamischbachturm-wanderhotel-poppengut%28c%29oberoesterreich-tourismus-gmbh-max-mauthner-qw3ebej4sa7t2hq.jpg" media="(min-width: 800px) and (max-width: 1199px)" width="1200" height="800">
+<source srcset="/assets/images/v/nationalpark-kalkalpen-luchstrail-tamischbachturm-wanderhotel-poppengut%28c%29oberoesterreich-tourismus-gmbh-max-mauthner-cn8tqpc6j3dgjbn.webp" media="(min-width: 600px) and (max-width: 799px)" type="image/webp" width="1000" height="600">
+<source srcset="/assets/images/q/nationalpark-kalkalpen-luchstrail-tamischbachturm-wanderhotel-poppengut%28c%29oberoesterreich-tourismus-gmbh-max-mauthner-bpxxq9pr3cbs9gh.jpg" media="(min-width: 600px) and (max-width: 799px)" width="1000" height="600">
+<source srcset="/assets/images/9/nationalpark-kalkalpen-luchstrail-tamischbachturm-wanderhotel-poppengut%28c%29oberoesterreich-tourismus-gmbh-max-mauthner-q0krz685w62b77q.webp" media="(max-width: 599px)" type="image/webp" width="600" height="900">
+<source srcset="/assets/images/w/nationalpark-kalkalpen-luchstrail-tamischbachturm-wanderhotel-poppengut%28c%29oberoesterreich-tourismus-gmbh-max-mauthner-j0f6bd0e2w837ff.jpg" media="(max-width: 599px)" width="600" height="900">
+<source srcset="/assets/images/6/nationalpark-kalkalpen-luchstrail-tamischbachturm-wanderhotel-poppengut%28c%29oberoesterreich-tourismus-gmbh-max-mauthner-g3nwv24m3bty553.webp" type="image/webp" width="2000" height="1300">
+<img src="/assets/images/c/nationalpark-kalkalpen-luchstrail-tamischbachturm-wanderhotel-poppengut%28c%29oberoesterreich-tourismus-gmbh-max-mauthner-7gxcrcjkgevedxm.jpg" width="2000" height="1300" alt="Overcast weather accompanies hikers on the way to the Tamischbachturm in the Kalkalpen National Park near the Relax &amp; Wanderhotel Poppengut." loading="lazy" data-rsts-background data-rsts-scale-mode="crop" data-rsts-position="center">
+</picture>
+<span class="rsts-copyright">© Oberoesterreich Tourismus/Max Mauthner</span>
+</div>
+</div>
+<script>(function(){var sliderElement=[].slice.call(document.getElementsByClassName('mod_rocksolid_slider'),-1)[0];if(window.jQuery&&jQuery.fn.rstSlider){init()}else{document.addEventListener('DOMContentLoaded',init)}
+function init(){var $=jQuery;var slider=$(sliderElement);slider.find('video[data-rsts-background], [data-rsts-type=video] video').each(function(){this.player=!0});slider.rstSlider({"type":"slide","direction":"x","width":"100%","height":"css","navType":"none","scaleMode":"crop","imagePosition":"center","centerContent":!0,"random":!1,"loop":!1,"videoAutoplay":!1,"autoplayProgress":!1,"pauseAutoplayOnHover":!1,"keyboard":!0,"captions":!1,"controls":!1,"thumbControls":!1,"combineNavItems":!0,"visibleAreaAlign":0.5,"gapSize":"0%"});$(function(){if(!$.fn.colorbox){return}
+var lightboxConfig={loop:!1,rel:function(){return $(this).attr('data-lightbox')},maxWidth:'95%',maxHeight:'95%'};var update=function(links){links.colorbox(lightboxConfig)};slider.on('rsts-slidestart rsts-slidestop',function(event){update(slider.find('a[data-lightbox]'))});update(slider.find('a[data-lightbox]'))})}})()</script>
+</div>
+<div class="mod_article big-padd-top big-padd-bot container block" id="hoteluebersicht">
+<div class="mod_listing-table block" id="catalog-list-container">
+<h2>Wanderhotels in Upper Austria:</h2>
+<div class="cm_listing default" data-watchlist-id="29">
+<div class="watchlist-wrapper">
+<div class="ce_watchlist-component">
+<div class="ce_watchlist-form">
+<div class="watchlist-form">
+<button
+type="button"
+class="watchlist-button add-button"
+data-id="29"
+data-table="ctlg_wanderhotels"
+data-added="0"
+aria-pressed="false"
+>
+<span>Zu Favoriten hinzufügen</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+<div class="cm_listing_header"><a href="/en/wanderhotels/relax-und-wanderhotel-poppengut">
+<figure class="hotel-image-wrapper">
+<picture class="image-summer">
+<source
+srcset="/assets/images/8/wellness-hotel-hinterstoder-wanderhotel-poppengut-c-sarah-kreutzhuber-min-fedm60750956c7z.webp"
+media="(min-width: 600px) and (max-width: 799px)"                 type="image/webp">
+<source
+srcset="/assets/images/k/wellness-hotel-hinterstoder-wanderhotel-poppengut-c-sarah-kreutzhuber-min-dejwwpnp0wvk4s4.jpg"
+media="(min-width: 600px) and (max-width: 799px)"                >
+<source
+srcset="/assets/images/r/wellness-hotel-hinterstoder-wanderhotel-poppengut-c-sarah-kreutzhuber-min-hsk1t5f2j5kfw2k.webp"
+media="(max-width: 799px)"                 type="image/webp">
+<source
+srcset="/assets/images/z/wellness-hotel-hinterstoder-wanderhotel-poppengut-c-sarah-kreutzhuber-min-eg3h41m7q0x7pny.jpg"
+media="(max-width: 799px)"                >
+<source
+srcset="/assets/images/q/wellness-hotel-hinterstoder-wanderhotel-poppengut-c-sarah-kreutzhuber-min-t3t4k1by1act6n0.webp"
+type="image/webp">
+<img
+src="/assets/images/5/wellness-hotel-hinterstoder-wanderhotel-poppengut-c-sarah-kreutzhuber-min-a5772s4ky1gv19a.jpg"
+width="500"
+height="500"
+loading="lazy"
+alt="A holiday alone as a woman, relaxing in absolute silence: this is how you spend your holiday at the Wanderhotel Poppengut."
+title="">
+</picture>
+<picture class="image-winter">
+<source
+srcset="/assets/images/j/ski-urlaub-hinterstoder-wanderhotel-poppengut-2020-21-min-c-selina-flasch-photography-min-t464x6b4gkezq09.webp"
+media="(min-width: 600px) and (max-width: 799px)"                 type="image/webp">
+<source
+srcset="/assets/images/8/ski-urlaub-hinterstoder-wanderhotel-poppengut-2020-21-min-c-selina-flasch-photography-min-06rr5yvs29wgk3f.jpg"
+media="(min-width: 600px) and (max-width: 799px)"                >
+<source
+srcset="/assets/images/a/ski-urlaub-hinterstoder-wanderhotel-poppengut-2020-21-min-c-selina-flasch-photography-min-0dz1vd16esdwdnx.webp"
+media="(max-width: 799px)"                 type="image/webp">
+<source
+srcset="/assets/images/t/ski-urlaub-hinterstoder-wanderhotel-poppengut-2020-21-min-c-selina-flasch-photography-min-v8pgsemy68q7vzf.jpg"
+media="(max-width: 799px)"                >
+<source
+srcset="/assets/images/m/ski-urlaub-hinterstoder-wanderhotel-poppengut-2020-21-min-c-selina-flasch-photography-min-mqhg4dq3ttcsymx.webp"
+type="image/webp">
+<img
+src="/assets/images/y/ski-urlaub-hinterstoder-wanderhotel-poppengut-2020-21-min-c-selina-flasch-photography-min-bepjrsdtgm6et6m.jpg"
+width="500"
+height="500"
+loading="lazy"
+alt="The Hinterstoder ski area attracts families, beginners and professionals."
+title="">
+</picture>
+</figure>
+<div class="hotel-name-star heading--block">
+<span class="sterne-wrapper"><svg xmlns="http://www.w3.org/2000/svg" width="15.282" height="14.645" viewBox="0 0 15.282 14.645" class="star-icon"><path d="M15.242,6.03a.811.811,0,0,0-.7-.558l-4.412-.4L8.388.99a.813.813,0,0,0-1.495,0L5.15,5.071l-4.412.4A.813.813,0,0,0,.277,6.893L3.611,9.817l-.983,4.331a.812.812,0,0,0,1.209.878l3.8-2.275,3.8,2.275a.813.813,0,0,0,1.209-.878L11.67,9.817l3.335-2.924A.813.813,0,0,0,15.242,6.03Z" transform="translate(0 -0.496)" fill="#ffba00"/></svg><svg xmlns="http://www.w3.org/2000/svg" width="15.282" height="14.645" viewBox="0 0 15.282 14.645" class="star-icon"><path d="M15.242,6.03a.811.811,0,0,0-.7-.558l-4.412-.4L8.388.99a.813.813,0,0,0-1.495,0L5.15,5.071l-4.412.4A.813.813,0,0,0,.277,6.893L3.611,9.817l-.983,4.331a.812.812,0,0,0,1.209.878l3.8-2.275,3.8,2.275a.813.813,0,0,0,1.209-.878L11.67,9.817l3.335-2.924A.813.813,0,0,0,15.242,6.03Z" transform="translate(0 -0.496)" fill="#ffba00"/></svg><svg xmlns="http://www.w3.org/2000/svg" width="15.282" height="14.645" viewBox="0 0 15.282 14.645" class="star-icon"><path d="M15.242,6.03a.811.811,0,0,0-.7-.558l-4.412-.4L8.388.99a.813.813,0,0,0-1.495,0L5.15,5.071l-4.412.4A.813.813,0,0,0,.277,6.893L3.611,9.817l-.983,4.331a.812.812,0,0,0,1.209.878l3.8-2.275,3.8,2.275a.813.813,0,0,0,1.209-.878L11.67,9.817l3.335-2.924A.813.813,0,0,0,15.242,6.03Z" transform="translate(0 -0.496)" fill="#ffba00"/></svg><svg xmlns="http://www.w3.org/2000/svg" width="15.282" height="14.645" viewBox="0 0 15.282 14.645" class="star-icon"><path d="M15.242,6.03a.811.811,0,0,0-.7-.558l-4.412-.4L8.388.99a.813.813,0,0,0-1.495,0L5.15,5.071l-4.412.4A.813.813,0,0,0,.277,6.893L3.611,9.817l-.983,4.331a.812.812,0,0,0,1.209.878l3.8-2.275,3.8,2.275a.813.813,0,0,0,1.209-.878L11.67,9.817l3.335-2.924A.813.813,0,0,0,15.242,6.03Z" transform="translate(0 -0.496)" fill="#ffba00"/></svg></span>        <p>Relax- & Wanderhotel Poppengut</p>
+</div>
+</a></div>
+<div class="list-aktiv">
+<div class="list-all">
+<div class="winter">
+<ul class="waktiv">
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-winter/pure-winter-hiking" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/wandern-pur.svg"
+alt="Pure winter hiking"
+title="Pure winter hiking">
+</a>                              </li>
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-winter/snowshoe-hiking" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/schneeschuh-wandern.svg"
+alt="Snowshoe hiking"
+title="Snowshoe hiking">
+</a>                              </li>
+</ul>
+</div>
+<div class="summer">
+<ul class="saktiv">
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-summer/pure-hiking" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/wandern-pur.svg"
+alt="Pure hiking"
+title="Pure hiking">
+</a>                              </li>
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-summer/hiking-climbing" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/wandern-klettern-und-bergsteigen.svg"
+alt="Hiking &amp; Climbing"
+title="Hiking &amp; Climbing">
+</a>                              </li>
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-summer/hiking-wellness" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/wandern-wellness.svg"
+alt="Hiking and Wellness"
+title="Hiking and Wellness">
+</a>                              </li>
+</ul>
+</div>
+<div class="hotel-kristall">
+<span class="kristalle-wrapper"><svg class="kristall-icon" xmlns="http://www.w3.org/2000/svg" width="19.842" height="19.313" viewBox="0 0 19.842 19.313">
+<path data-name="Pfad 46" d="M390.158-42.08H372.649a.954.954,0,0,1-.951-.951v-2.312a.954.954,0,0,1,.951-.951h17.509a.954.954,0,0,1,.951.951v2.312a.953.953,0,0,1-.951.951" transform="translate(-371.697 61.393)" fill="#890c64"/>
+<path data-name="Pfad 47" d="M391.93-106.147l2.123,1.983a.626.626,0,0,1,.2.434l.446,13.062-5.351.183-.445-13.062a.624.624,0,0,1,.167-.447l1.983-2.122a.623.623,0,0,1,.88-.03" transform="translate(-384.571 106.315)" fill="#890c64"/>
+<path data-name="Pfad 48" d="M431.167-75.905l.646,1.455a.342.342,0,0,1,.006.261l-3.534,9.17-2.738-1.055,3.534-9.17a.34.34,0,0,1,.18-.189l1.455-.646a.342.342,0,0,1,.451.174" transform="translate(-412 83.707)" fill="#890c64"/>
+<path data-name="Pfad 49" d="M414.094-97.889l1.761,2.3a.621.621,0,0,1,.123.459l-1.529,11.617-5.287-.7,1.53-11.617a.619.619,0,0,1,.238-.412L413.224-98a.621.621,0,0,1,.871.114" transform="translate(-399.737 100.19)" fill="#890c64"/>
+<path data-name="Pfad 50" d="M372.969-82.9l-1.195,1.749a.454.454,0,0,0-.071.34l1.587,8.432,3.838-.722-1.587-8.432a.453.453,0,0,0-.19-.291l-1.749-1.2a.455.455,0,0,0-.632.119" transform="translate(-371.695 88.942)" fill="#890c64"/>
+</svg><svg class="kristall-icon" xmlns="http://www.w3.org/2000/svg" width="19.842" height="19.313" viewBox="0 0 19.842 19.313">
+<path data-name="Pfad 46" d="M390.158-42.08H372.649a.954.954,0,0,1-.951-.951v-2.312a.954.954,0,0,1,.951-.951h17.509a.954.954,0,0,1,.951.951v2.312a.953.953,0,0,1-.951.951" transform="translate(-371.697 61.393)" fill="#890c64"/>
+<path data-name="Pfad 47" d="M391.93-106.147l2.123,1.983a.626.626,0,0,1,.2.434l.446,13.062-5.351.183-.445-13.062a.624.624,0,0,1,.167-.447l1.983-2.122a.623.623,0,0,1,.88-.03" transform="translate(-384.571 106.315)" fill="#890c64"/>
+<path data-name="Pfad 48" d="M431.167-75.905l.646,1.455a.342.342,0,0,1,.006.261l-3.534,9.17-2.738-1.055,3.534-9.17a.34.34,0,0,1,.18-.189l1.455-.646a.342.342,0,0,1,.451.174" transform="translate(-412 83.707)" fill="#890c64"/>
+<path data-name="Pfad 49" d="M414.094-97.889l1.761,2.3a.621.621,0,0,1,.123.459l-1.529,11.617-5.287-.7,1.53-11.617a.619.619,0,0,1,.238-.412L413.224-98a.621.621,0,0,1,.871.114" transform="translate(-399.737 100.19)" fill="#890c64"/>
+<path data-name="Pfad 50" d="M372.969-82.9l-1.195,1.749a.454.454,0,0,0-.071.34l1.587,8.432,3.838-.722-1.587-8.432a.453.453,0,0,0-.19-.291l-1.749-1.2a.455.455,0,0,0-.632.119" transform="translate(-371.695 88.942)" fill="#890c64"/>
+</svg><svg class="kristall-icon" xmlns="http://www.w3.org/2000/svg" width="19.842" height="19.313" viewBox="0 0 19.842 19.313">
+<path data-name="Pfad 46" d="M390.158-42.08H372.649a.954.954,0,0,1-.951-.951v-2.312a.954.954,0,0,1,.951-.951h17.509a.954.954,0,0,1,.951.951v2.312a.953.953,0,0,1-.951.951" transform="translate(-371.697 61.393)" fill="#890c64"/>
+<path data-name="Pfad 47" d="M391.93-106.147l2.123,1.983a.626.626,0,0,1,.2.434l.446,13.062-5.351.183-.445-13.062a.624.624,0,0,1,.167-.447l1.983-2.122a.623.623,0,0,1,.88-.03" transform="translate(-384.571 106.315)" fill="#890c64"/>
+<path data-name="Pfad 48" d="M431.167-75.905l.646,1.455a.342.342,0,0,1,.006.261l-3.534,9.17-2.738-1.055,3.534-9.17a.34.34,0,0,1,.18-.189l1.455-.646a.342.342,0,0,1,.451.174" transform="translate(-412 83.707)" fill="#890c64"/>
+<path data-name="Pfad 49" d="M414.094-97.889l1.761,2.3a.621.621,0,0,1,.123.459l-1.529,11.617-5.287-.7,1.53-11.617a.619.619,0,0,1,.238-.412L413.224-98a.621.621,0,0,1,.871.114" transform="translate(-399.737 100.19)" fill="#890c64"/>
+<path data-name="Pfad 50" d="M372.969-82.9l-1.195,1.749a.454.454,0,0,0-.071.34l1.587,8.432,3.838-.722-1.587-8.432a.453.453,0,0,0-.19-.291l-1.749-1.2a.455.455,0,0,0-.632.119" transform="translate(-371.695 88.942)" fill="#890c64"/>
+</svg><svg class="kristall-icon" xmlns="http://www.w3.org/2000/svg" width="19.842" height="19.313" viewBox="0 0 19.842 19.313">
+<path data-name="Pfad 46" d="M390.158-42.08H372.649a.954.954,0,0,1-.951-.951v-2.312a.954.954,0,0,1,.951-.951h17.509a.954.954,0,0,1,.951.951v2.312a.953.953,0,0,1-.951.951" transform="translate(-371.697 61.393)" fill="#890c64"/>
+<path data-name="Pfad 47" d="M391.93-106.147l2.123,1.983a.626.626,0,0,1,.2.434l.446,13.062-5.351.183-.445-13.062a.624.624,0,0,1,.167-.447l1.983-2.122a.623.623,0,0,1,.88-.03" transform="translate(-384.571 106.315)" fill="#890c64"/>
+<path data-name="Pfad 48" d="M431.167-75.905l.646,1.455a.342.342,0,0,1,.006.261l-3.534,9.17-2.738-1.055,3.534-9.17a.34.34,0,0,1,.18-.189l1.455-.646a.342.342,0,0,1,.451.174" transform="translate(-412 83.707)" fill="#890c64"/>
+<path data-name="Pfad 49" d="M414.094-97.889l1.761,2.3a.621.621,0,0,1,.123.459l-1.529,11.617-5.287-.7,1.53-11.617a.619.619,0,0,1,.238-.412L413.224-98a.621.621,0,0,1,.871.114" transform="translate(-399.737 100.19)" fill="#890c64"/>
+<path data-name="Pfad 50" d="M372.969-82.9l-1.195,1.749a.454.454,0,0,0-.071.34l1.587,8.432,3.838-.722-1.587-8.432a.453.453,0,0,0-.19-.291l-1.749-1.2a.455.455,0,0,0-.632.119" transform="translate(-371.695 88.942)" fill="#890c64"/>
+</svg></span>      </div>
+</div>
+</div>
+<div class="ort-kette">Austria - Upper Austria - Nationalpark Kalkalpen - Hinterstoder</div>
+<div class="list-buttons">
+<div class="hotel-details list-btn"><a href="/en/wanderhotels/relax-und-wanderhotel-poppengut">Details</a></div>
+<div class="bookinglink list-btn">
+<a href="/en/wanderhotels/relax-und-wanderhotel-poppengut?inquiry=1" rel="noopener">
+Inquire now    </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="last">
+<div class="inside">
+<div class="mod_article padd-top padd-bot block" id="article-1007">
+<div class="ce_rs_column_start grid-two rs-column">
+<div class="last-left content-element-group">
+<div class="last-big-text heading--section content-text">
+<div class="rte">
+<p>The <span style="text-decoration: underline;">Mountains</span> are calling.</p>
+</div>
+</div>
+<div class="content-element-group">
+<div class="last-small-text content-text">
+<div class="rte">
+<p>Flip through the Wanderhotels!</p>
+</div>
+</div>
+<div class="content-image">
+<figure>
+<picture>
+<source srcset="/assets/images/j/wanderhotels-suedtirol-oesterreich-schwarzwald-hoteltipp-auswahl%28c%29cam-poetry-6d6d0a7bbq4n00k.webp" type="image/webp" width="1000" height="1000">
+<img src="/assets/images/z/wanderhotels-suedtirol-oesterreich-schwarzwald-hoteltipp-auswahl%28c%29cam-poetry-hen1xrj11dsh9wf.jpg" alt="A woman looks at the hotel guide on the table and discovers tips for Wanderhotels in South Tyrol, Austria, and the Black Forest." width="1000" height="1000" loading="lazy">
+</picture>
+<figcaption>© Cam Poetry</figcaption>
+</figure>
+</div>
+</div>
+<div class="buttn bigbuttn content-hyperlink">
+<a
+href="/en/hotel-guide"
+data-open-overlay="#hotelguide-overlay"
+title="Order Wanderhotels hotel guide"
+>
+Order hotel guide
+</a>
+</div>
+</div>
+<div class="last-right content-element-group">
+<div class="buttn bigbuttn content-hyperlink">
+<a
+href="/en/newsletter-subscription"
+data-open-overlay="#newsletter-overlay"
+title="Wanderhotels newsletter – subscribe to Alpenpost"
+>
+Subscribe to newsletter
+</a>
+</div>
+<div class="content-element-group">
+<div class="last-small-text content-text">
+<div class="rte">
+<p>Subscribe to our newsletter &amp;<br>Win a hiking vacation</p>
+</div>
+</div>
+<div class="content-image">
+<figure>
+<picture>
+<source srcset="/assets/images/a/neu-website-wanderhotels-newsletteranmeldung%28c%29kwer-2kqeazpmc14my0j.webp" type="image/webp" width="1000" height="1000">
+<img src="/assets/images/h/neu-website-wanderhotels-newsletteranmeldung%28c%29kwer-yskwq71ntrmae54.jpg" alt="Newsletter sign-up on the Wanderhotels website." width="1000" height="1000" loading="lazy">
+</picture>
+<figcaption>© KWER</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div
+id="hotelguide-overlay"
+class="modal-overlay"
+aria-hidden="true"
+style="display: none;">
+<div class="modal-overlay__content">
+<button
+type="button"
+class="modal-overlay__close"
+aria-label="Close">
+&times;
+</button>
+<div class="modal-overlay__body center">
+<div class="flex-col intro content-element-group">
+<div class="einleitung content-text">
+<div class="rte heading">
+<p>The Wanderhotels <strong>Hotel Guide</strong></p>
+<div class="flex-col intro center content-element-group">
+<div class="introduction content-text">
+<div class="rte">
+<p>Your handy hotel guide to all hiking hotels in Austria, South Tyrol, and the Black Forest. You can order the catalog conveniently and free of charge to your home or <a href="https://online.fliphtml5.com/Wanderhotels/xrdv/" target="_blank" rel="noopener"><strong>browse through it online right away.</strong></a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- indexer::stop -->
+<div class="ce_form block">
+<form method="post" enctype="application/x-www-form-urlencoded" id="hotelguide-form" class="cff" data-ajax-form="18">
+<div class="formbody">
+<input type="hidden" name="FORM_SUBMIT" value="auto_auto_hotelguide">
+<input type="hidden" name="REQUEST_TOKEN" value="0ea20c747e57ab041e486.tK9Ur_Pmn1W5xz-obzD1bQ6MkMl9MS3OsnXCJ48Yrn0.1_sT26GD0grPmF7nWFecBmjo6bE8ZWCE3kCwd8AumBvF9xrHpo3RGvH-XA">
+<div class="widget widget-select select mandatory">
+<select name="anrede" id="ctrl_261" class="select mandatory" required>
+<option value="Frau">Ms.</option>
+<option value="Herr">Mr.</option>
+<option value="Familie">Family</option>
+<option value="Divers">Diverse</option>
+</select>
+</div>
+<div class="grid-two">
+<div class="widget widget-text mandatory">
+<input type="text" name="vorname" id="ctrl_263" class="text mandatory" value="" required placeholder="First name*">
+</div>
+<div class="widget widget-text mandatory">
+<input type="text" name="nachname" id="ctrl_264" class="text mandatory" value="" required placeholder="Last name*">
+</div>
+</div>
+<div class="widget widget-text mandatory">
+<input type="text" name="strasse" id="ctrl_266" class="text mandatory" value="" required placeholder="Street / House number*">
+</div>
+<div class="grid-two">
+<div class="widget widget-text mandatory">
+<input type="text" name="plz" id="ctrl_268" class="text mandatory" value="" required placeholder="Postal code*">
+</div>
+<div class="widget widget-text mandatory">
+<input type="text" name="ort" id="ctrl_269" class="text mandatory" value="" required placeholder="Location*">
+</div>
+</div>
+<div class="widget widget-select select mandatory">
+<select name="laender" id="ctrl_271" class="select mandatory" required>
+<option value="">Select country</option>
+<option value="AT">Austria</option>
+<option value="DE">Germany</option>
+<option value="IT">Italy</option>
+<option value="" disabled>---</option>
+<option value="AF">Afghanistan</option>
+<option value="AX">Åland Islands</option>
+<option value="AL">Albania</option>
+<option value="DZ">Algeria</option>
+<option value="AS">American Samoa</option>
+<option value="AD">Andorra</option>
+<option value="AO">Angola</option>
+<option value="AI">Anguilla</option>
+<option value="AQ">Antarctica</option>
+<option value="AG">Antigua & Barbuda</option>
+<option value="AR">Argentina</option>
+<option value="AM">Armenia</option>
+<option value="AW">Aruba</option>
+<option value="AU">Australia</option>
+<option value="AZ">Azerbaijan</option>
+<option value="BS">Bahamas</option>
+<option value="BH">Bahrain</option>
+<option value="BD">Bangladesh</option>
+<option value="BB">Barbados</option>
+<option value="BY">Belarus</option>
+<option value="BE">Belgium</option>
+<option value="BZ">Belize</option>
+<option value="BJ">Benin</option>
+<option value="BM">Bermuda</option>
+<option value="BT">Bhutan</option>
+<option value="BO">Bolivia</option>
+<option value="BA">Bosnia & Herzegovina</option>
+<option value="BW">Botswana</option>
+<option value="BV">Bouvet Island</option>
+<option value="BR">Brazil</option>
+<option value="IO">British Indian Ocean Territory</option>
+<option value="VG">British Virgin Islands</option>
+<option value="BN">Brunei</option>
+<option value="BG">Bulgaria</option>
+<option value="BF">Burkina Faso</option>
+<option value="BI">Burundi</option>
+<option value="KH">Cambodia</option>
+<option value="CM">Cameroon</option>
+<option value="CA">Canada</option>
+<option value="CV">Cape Verde</option>
+<option value="BQ">Caribbean Netherlands</option>
+<option value="KY">Cayman Islands</option>
+<option value="CF">Central African Republic</option>
+<option value="TD">Chad</option>
+<option value="CL">Chile</option>
+<option value="CN">China</option>
+<option value="CX">Christmas Island</option>
+<option value="CC">Cocos (Keeling) Islands</option>
+<option value="CO">Colombia</option>
+<option value="KM">Comoros</option>
+<option value="CG">Congo - Brazzaville</option>
+<option value="CD">Congo - Kinshasa</option>
+<option value="CK">Cook Islands</option>
+<option value="CR">Costa Rica</option>
+<option value="CI">Côte d’Ivoire</option>
+<option value="HR">Croatia</option>
+<option value="CU">Cuba</option>
+<option value="CW">Curaçao</option>
+<option value="CY">Cyprus</option>
+<option value="CZ">Czechia</option>
+<option value="DK">Denmark</option>
+<option value="DJ">Djibouti</option>
+<option value="DM">Dominica</option>
+<option value="DO">Dominican Republic</option>
+<option value="EC">Ecuador</option>
+<option value="EG">Egypt</option>
+<option value="SV">El Salvador</option>
+<option value="GQ">Equatorial Guinea</option>
+<option value="ER">Eritrea</option>
+<option value="EE">Estonia</option>
+<option value="SZ">Eswatini</option>
+<option value="ET">Ethiopia</option>
+<option value="FK">Falkland Islands</option>
+<option value="FO">Faroe Islands</option>
+<option value="FJ">Fiji</option>
+<option value="FI">Finland</option>
+<option value="FR">France</option>
+<option value="GF">French Guiana</option>
+<option value="PF">French Polynesia</option>
+<option value="TF">French Southern Territories</option>
+<option value="GA">Gabon</option>
+<option value="GM">Gambia</option>
+<option value="GE">Georgia</option>
+<option value="GH">Ghana</option>
+<option value="GI">Gibraltar</option>
+<option value="GR">Greece</option>
+<option value="GL">Greenland</option>
+<option value="GD">Grenada</option>
+<option value="GP">Guadeloupe</option>
+<option value="GU">Guam</option>
+<option value="GT">Guatemala</option>
+<option value="GG">Guernsey</option>
+<option value="GN">Guinea</option>
+<option value="GW">Guinea-Bissau</option>
+<option value="GY">Guyana</option>
+<option value="HT">Haiti</option>
+<option value="HM">Heard & McDonald Islands</option>
+<option value="HN">Honduras</option>
+<option value="HK">Hong Kong SAR China</option>
+<option value="HU">Hungary</option>
+<option value="IS">Iceland</option>
+<option value="IN">India</option>
+<option value="ID">Indonesia</option>
+<option value="IR">Iran</option>
+<option value="IQ">Iraq</option>
+<option value="IE">Ireland</option>
+<option value="IM">Isle of Man</option>
+<option value="IL">Israel</option>
+<option value="JM">Jamaica</option>
+<option value="JP">Japan</option>
+<option value="JE">Jersey</option>
+<option value="JO">Jordan</option>
+<option value="KZ">Kazakhstan</option>
+<option value="KE">Kenya</option>
+<option value="KI">Kiribati</option>
+<option value="KW">Kuwait</option>
+<option value="KG">Kyrgyzstan</option>
+<option value="LA">Laos</option>
+<option value="LV">Latvia</option>
+<option value="LB">Lebanon</option>
+<option value="LS">Lesotho</option>
+<option value="LR">Liberia</option>
+<option value="LY">Libya</option>
+<option value="LI">Liechtenstein</option>
+<option value="LT">Lithuania</option>
+<option value="LU">Luxembourg</option>
+<option value="MO">Macao SAR China</option>
+<option value="MG">Madagascar</option>
+<option value="MW">Malawi</option>
+<option value="MY">Malaysia</option>
+<option value="MV">Maldives</option>
+<option value="ML">Mali</option>
+<option value="MT">Malta</option>
+<option value="MH">Marshall Islands</option>
+<option value="MQ">Martinique</option>
+<option value="MR">Mauritania</option>
+<option value="MU">Mauritius</option>
+<option value="YT">Mayotte</option>
+<option value="MX">Mexico</option>
+<option value="FM">Micronesia</option>
+<option value="MD">Moldova</option>
+<option value="MC">Monaco</option>
+<option value="MN">Mongolia</option>
+<option value="ME">Montenegro</option>
+<option value="MS">Montserrat</option>
+<option value="MA">Morocco</option>
+<option value="MZ">Mozambique</option>
+<option value="MM">Myanmar (Burma)</option>
+<option value="NA">Namibia</option>
+<option value="NR">Nauru</option>
+<option value="NP">Nepal</option>
+<option value="NL">Netherlands</option>
+<option value="NC">New Caledonia</option>
+<option value="NZ">New Zealand</option>
+<option value="NI">Nicaragua</option>
+<option value="NE">Niger</option>
+<option value="NG">Nigeria</option>
+<option value="NU">Niue</option>
+<option value="NF">Norfolk Island</option>
+<option value="KP">North Korea</option>
+<option value="MK">North Macedonia</option>
+<option value="MP">Northern Mariana Islands</option>
+<option value="NO">Norway</option>
+<option value="OM">Oman</option>
+<option value="PK">Pakistan</option>
+<option value="PW">Palau</option>
+<option value="PS">Palestinian Territories</option>
+<option value="PA">Panama</option>
+<option value="PG">Papua New Guinea</option>
+<option value="PY">Paraguay</option>
+<option value="PE">Peru</option>
+<option value="PH">Philippines</option>
+<option value="PN">Pitcairn Islands</option>
+<option value="PL">Poland</option>
+<option value="PT">Portugal</option>
+<option value="PR">Puerto Rico</option>
+<option value="QA">Qatar</option>
+<option value="RE">Réunion</option>
+<option value="RO">Romania</option>
+<option value="RU">Russia</option>
+<option value="RW">Rwanda</option>
+<option value="WS">Samoa</option>
+<option value="SM">San Marino</option>
+<option value="ST">São Tomé & Príncipe</option>
+<option value="SA">Saudi Arabia</option>
+<option value="SN">Senegal</option>
+<option value="RS">Serbia</option>
+<option value="SC">Seychelles</option>
+<option value="SL">Sierra Leone</option>
+<option value="SG">Singapore</option>
+<option value="SX">Sint Maarten</option>
+<option value="SK">Slovakia</option>
+<option value="SI">Slovenia</option>
+<option value="SB">Solomon Islands</option>
+<option value="SO">Somalia</option>
+<option value="ZA">South Africa</option>
+<option value="GS">South Georgia & South Sandwich Islands</option>
+<option value="KR">South Korea</option>
+<option value="SS">South Sudan</option>
+<option value="ES">Spain</option>
+<option value="LK">Sri Lanka</option>
+<option value="BL">St. Barthélemy</option>
+<option value="SH">St. Helena</option>
+<option value="KN">St. Kitts & Nevis</option>
+<option value="LC">St. Lucia</option>
+<option value="MF">St. Martin</option>
+<option value="PM">St. Pierre & Miquelon</option>
+<option value="VC">St. Vincent & Grenadines</option>
+<option value="SD">Sudan</option>
+<option value="SR">Suriname</option>
+<option value="SJ">Svalbard & Jan Mayen</option>
+<option value="SE">Sweden</option>
+<option value="CH">Switzerland</option>
+<option value="SY">Syria</option>
+<option value="TW">Taiwan</option>
+<option value="TJ">Tajikistan</option>
+<option value="TZ">Tanzania</option>
+<option value="TH">Thailand</option>
+<option value="TL">Timor-Leste</option>
+<option value="TG">Togo</option>
+<option value="TK">Tokelau</option>
+<option value="TO">Tonga</option>
+<option value="TT">Trinidad & Tobago</option>
+<option value="TN">Tunisia</option>
+<option value="TR">Turkey</option>
+<option value="TM">Turkmenistan</option>
+<option value="TC">Turks & Caicos Islands</option>
+<option value="TV">Tuvalu</option>
+<option value="UM">U.S. Outlying Islands</option>
+<option value="VI">U.S. Virgin Islands</option>
+<option value="UG">Uganda</option>
+<option value="UA">Ukraine</option>
+<option value="AE">United Arab Emirates</option>
+<option value="GB">United Kingdom</option>
+<option value="US">United States</option>
+<option value="UY">Uruguay</option>
+<option value="UZ">Uzbekistan</option>
+<option value="VU">Vanuatu</option>
+<option value="VA">Vatican City</option>
+<option value="VE">Venezuela</option>
+<option value="VN">Vietnam</option>
+<option value="WF">Wallis & Futuna</option>
+<option value="EH">Western Sahara</option>
+<option value="YE">Yemen</option>
+<option value="ZM">Zambia</option>
+<option value="ZW">Zimbabwe</option>
+</select>
+</div>
+<div class="widget widget-checkbox mandatory">
+<fieldset id="ctrl_272" class="checkbox_container mandatory">
+<input type="hidden" name="dsgvo" value="">
+<span><input type="checkbox" name="dsgvo" id="opt_272_0" class="checkbox" value="ja" required> <label id="lbl_272_0" for="opt_272_0">I have read the <a href="/en/privacy-policy">Privacy Policy</a> and agree to it.*</label></span>
+</fieldset>
+</div>
+<div class="widget widget-checkbox">
+<fieldset id="ctrl_273" class="checkbox_container">
+<input type="hidden" name="newsletter" value="">
+<span><input type="checkbox" name="newsletter" id="opt_273_0" class="checkbox" value="ja" checked> <label id="lbl_273_0" for="opt_273_0">I would like to sign up for the Wanderhotels newsletter.</label></span>
+</fieldset>
+</div>
+<fieldset class="" data-cff-condition="newsletter == &apos;ja&apos;">
+<div class="widget widget-text mandatory">
+<input type="email" name="email" id="ctrl_275" class="text mandatory" value="" required placeholder="Email address*">
+</div>
+</fieldset>
+<div class="widget widget-captcha widget-friendly-captcha mandatory">
+<div id="ctrl_478" data-fc-version="v1" class="frc-captcha" data-sitekey="FCMIV9UN43V7BEU5" data-start="none" data-lang="en"></div>
+</div>
+<div class="widget widget-submit violett">
+<button type="submit" id="ctrl_278" class="submit violett">send</button>
+</div>
+</div>
+</form>
+</div>
+<!-- indexer::continue -->
+<script>window.addEventListener('DOMContentLoaded',()=>{const el=document.querySelector('[data-ajax-form="18"]');function request(form,body,callback){const xhr=new XMLHttpRequest();xhr.open('POST',form.action,!0);xhr.setRequestHeader('Accept','text/html');xhr.setRequestHeader('X-Requested-With','XMLHttpRequest');xhr.setRequestHeader('X-Contao-Ajax-Form',form.querySelector('[name="FORM_SUBMIT"]').value);form.ariaBusy='true';form.dataset.ajaxForm='loading';xhr.onload=()=>{form.dispatchEvent(new CustomEvent('ajax-form-onload',{bubbles:!0,detail:{body,form,xhr},}));form.ariaBusy='false';form.dataset.ajaxForm='';callback(xhr)};xhr.send(body||null)}
+function initForm(form){form.addEventListener('submit',e=>{e.preventDefault();const formData=new FormData(form);if(e.submitter){formData.append(e.submitter.name,e.submitter.value);e.submitter.disabled=!0;setTimeout(()=>e.submitter.disabled=!1,30000)}
+request(form,formData,xhr=>{const location=xhr.getResponseHeader('X-Ajax-Location');if(location){window.location.href=location;return}
+const range=document.createRange();range.selectNode(form.parentNode);const newForm=range.createContextualFragment(xhr.responseText).firstElementChild;form.replaceWith(newForm);if(!newForm.getAttribute('action')){newForm.action=xhr.responseURL}
+initForm(newForm)})})}
+initForm(el)})</script>
+</div>
+</div>
+</div><div
+id="newsletter-overlay"
+class="modal-overlay"
+aria-hidden="true"
+style="display: none;">
+<div class="modal-overlay__content">
+<button
+type="button"
+class="modal-overlay__close"
+aria-label="Close">
+&times;
+</button>
+<div class="modal-overlay__body center">
+<div class="flex-col intro content-element-group">
+<div class="einleitung content-text">
+<div class="rte heading">
+<p>Wanderhotels <strong>Alpenpost</strong></p>
+<div class="flex-col intro center content-element-group">
+<div class="introduction content-text">
+<div class="rte">
+<p>You will receive your Alpen-Post after confirming your email address. Please check your spam folder!</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- indexer::stop -->
+<div class="ce_form block">
+<form method="post" enctype="application/x-www-form-urlencoded" id="brevo" data-ajax-form="15">
+<div class="formbody">
+<input type="hidden" name="FORM_SUBMIT" value="auto_auto_newsletter_signup">
+<input type="hidden" name="REQUEST_TOKEN" value="0ea20c747e57ab041e486.tK9Ur_Pmn1W5xz-obzD1bQ6MkMl9MS3OsnXCJ48Yrn0.1_sT26GD0grPmF7nWFecBmjo6bE8ZWCE3kCwd8AumBvF9xrHpo3RGvH-XA">
+<div class="widget widget-text mandatory">
+<input type="email" name="email" id="ctrl_210" class="text mandatory" value="" required placeholder="Email*">
+</div>
+<div class="grid-two">
+<div class="widget widget-text mandatory">
+<input type="text" name="firstname" id="ctrl_212" class="text mandatory" value="" required placeholder="First name*">
+</div>
+<div class="widget widget-text mandatory">
+<input type="text" name="lastname" id="ctrl_213" class="text mandatory" value="" required placeholder="Last name*">
+</div>
+</div>
+<div class="widget widget-checkbox mandatory">
+<fieldset id="ctrl_215" class="checkbox_container mandatory">
+<input type="hidden" name="dsgvo" value="">
+<span><input type="checkbox" name="dsgvo" id="opt_215_0" class="checkbox" value="ja" required> <label id="lbl_215_0" for="opt_215_0">I have read the <a href="/en/privacy-policy">Privacy Policy</a> and agree to it.*</label></span>
+</fieldset>
+</div>
+<div class="widget widget-explanation explanation newserkl">
+<p>Every year, a hiking vacation is raffled off among all new newsletter subscriptions taken out between January 1 and December 31 of that year.</p></div>
+<div class="widget widget-captcha widget-friendly-captcha mandatory">
+<div id="ctrl_472" data-fc-version="v1" class="frc-captcha" data-sitekey="FCMIV9UN43V7BEU5" data-start="none" data-lang="en"></div>
+</div>
+<div class="widget widget-submit violett">
+<button type="submit" id="ctrl_217" class="submit violett">subscribe now</button>
+</div>
+</div>
+</form>
+</div>
+<!-- indexer::continue -->
+<script>window.addEventListener('DOMContentLoaded',()=>{const el=document.querySelector('[data-ajax-form="15"]');function request(form,body,callback){const xhr=new XMLHttpRequest();xhr.open('POST',form.action,!0);xhr.setRequestHeader('Accept','text/html');xhr.setRequestHeader('X-Requested-With','XMLHttpRequest');xhr.setRequestHeader('X-Contao-Ajax-Form',form.querySelector('[name="FORM_SUBMIT"]').value);form.ariaBusy='true';form.dataset.ajaxForm='loading';xhr.onload=()=>{form.dispatchEvent(new CustomEvent('ajax-form-onload',{bubbles:!0,detail:{body,form,xhr},}));form.ariaBusy='false';form.dataset.ajaxForm='';callback(xhr)};xhr.send(body||null)}
+function initForm(form){form.addEventListener('submit',e=>{e.preventDefault();const formData=new FormData(form);if(e.submitter){formData.append(e.submitter.name,e.submitter.value);e.submitter.disabled=!0;setTimeout(()=>e.submitter.disabled=!1,30000)}
+request(form,formData,xhr=>{const location=xhr.getResponseHeader('X-Ajax-Location');if(location){window.location.href=location;return}
+const range=document.createRange();range.selectNode(form.parentNode);const newForm=range.createContextualFragment(xhr.responseText).firstElementChild;form.replaceWith(newForm);if(!newForm.getAttribute('action')){newForm.action=xhr.responseURL}
+initForm(newForm)})})}
+initForm(el)})</script>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="before-footer">
+<div class="inside">
+<div class="before-buttons">
+<a href="/en/member-area" title="Wanderhotels Members Area"><img loading="lazy" src="files/content/graphics/member.svg" alt=""> Members Area</a>
+<a href="/en/wanderhotels-wanderconcierge" title="Hiking Concierge"><img loading="lazy" src="files/content/graphics/wanderer.svg" alt=""> Hiking Concierge</a>
+<a href="/en/hiking-scout" title="Wanderhotels Hiking Scout"><img loading="lazy" src="files/content/graphics/rucksack.svg" alt=""> Hiking Scout</a>
+<a href="/en/our-team" title="Wanderhotels Team"><img loading="lazy" src="files/content/graphics/partner.svg" alt=""> Our Team</a>
+<a href="/en/podcast-press" title="Wanderhotels Press & Podcast"><img loading="lazy" src="files/content/graphics/presse.svg" alt=""> Podcasts & Press</a>
+</div>  </div>
+</div>
+<footer id="footer">
+<div class="inside">
+<div class="footer-inner">
+<div>
+<div class="flogo">
+<a href="/en/"><img loading="lazy" src="files/content/graphics/wanderhotels-logo-black.svg" alt="Wanderhotels Logo"></a>
+</div>
+</div>
+<div>
+<div class="flinks">
+<a class="col" href="mailto:info@wanderhotels.com">info@wanderhotels.com</a>
+<a href="tel:+436763621179">+43 676 36 21 179</a>
+</div>
+</div>
+<div>
+<strong>Stay up to date.</strong><br>
+#wanderhotels #hikingholiday<br><br>
+<div class="social">
+<a href="https://www.facebook.com/wanderhotels/" target="_blank" rel="noopener" title="Facebook"><img loading="lazy" src="files/content/graphics/facebook.svg" alt="Facebook"></a>
+<a href="https://www.instagram.com/wanderhotels/" target="_blank" rel="noopener" title="Instagram"><img loading="lazy" src="files/content/graphics/instagram.svg" alt="Instagram"></a>
+<a href="https://www.youtube.com/c/wanderhotels" target="_blank" rel="noopener" title="YouTube"><img loading="lazy" src="files/content/graphics/youtube.svg" alt="YouTube"></a>
+<a href="https://at.pinterest.com/wanderhotels/" target="_blank" rel="noopener" title="Pinterest"><img loading="lazy" src="files/content/graphics/pinterest.svg" alt="Pinterest"></a>
+</div>
+</div>
+<div>
+<div>
+<strong><img loading="lazy" src="files/content/graphics/marker.svg" width="10" height="15" alt="Contact & Location"> Contact & Location</strong><br><br>
+Südtiroler Platz 2 / 3rd floor<br>
+9900 Lienz | Austria
+</div>
+</div>
+<div>
+<strong>Tourismusverein Wanderhotels in Europa e.V.</strong><br><br>
+Monday - Thursday | 09:00 - 15:00<br>
+Friday | 09:00 - 12:00
+</div>
+<div>
+<strong class="vio">Become part of the Wanderhotels!</strong>
+<div class="buttn violett"><a href="/en/become-a-member" title="Become a Wanderhotels member">Become a member</a></div>
+</div>
+</div>
+<div class="afterfooter">
+<div>
+© 2026 Wanderhotels
+</div>
+<div class="aflinks">
+<a href="/en/legal-notice" title="Legal notice">Legal notice</a>
+<a href="/en/privacy-policy" title="Privacy policy">Privacy policy</a>
+<a href="/en/sitemap" title="Sitemap">Sitemap</a>
+<a href="/en/terms-conditions" title="Terms & Conditions">Terms & Conditions</a>
+</div>
+<div class="copy-right">
+<a href="https://www.kwer.at" target="_blank" class="kwer-copyright" rel="noopener">
+created by <svg id="eMwvqfb2mHI1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 38.84 5.45" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+<g>
+<path id="eMwvqfb2mHI3" d="M2.55,2.44l2.42,3.01h-1.18L1.87,3.17l-.86,.89v1.39H0V0H1.01V2.8L3.7,0h1.13L2.55,2.44Z" opacity="0"/>
+<path id="eMwvqfb2mHI4" d="M14.44,0h.96l-1.8,5.44h-1.07l-1.34-4.03-1.37,4.03h-1.08L6.93,0h1.05l1.35,4.13L10.74,0h.93l1.38,4.16L14.44,0Z" opacity="0"/>
+<path id="eMwvqfb2mHI5" d="M18.57,4.6h3.07v.85h-4.08V0h3.97V.86h-2.96v1.41h2.63v.83h-2.63v1.5Z" opacity="0"/>
+<path id="eMwvqfb2mHI6" d="M28.9,3c.2-.3,.3-.65,.3-1.06s-.09-.74-.28-1.03c-.19-.29-.45-.51-.8-.67-.35-.16-.76-.23-1.23-.23h-2.24V5.45h1.01v-1.59h1.23c.09,0,.16,0,.21,0l1.11,1.59h1.09l-1.25-1.79c.37-.15,.66-.37,.86-.66Zm-1.06-.25c-.23,.19-.56,.28-1,.28h-1.18V.86h1.18c.44,0,.77,.09,1,.28,.23,.19,.34,.45,.34,.8s-.11,.62-.34,.8Z" opacity="0"/>
+</g>
+<g id="eMwvqfb2mHI7" transform="translate(0 4.9225)">
+<polygon points="36.1 2.72 38.84 5.45 38.84 0 36.1 2.72" transform="translate(-33.093671-4.922)"/>
+<polygon points="33.39 0 33.39 2.73 36.14 0 33.39 0" transform="translate(-33.09367-4.922)"/>
+<polygon points="33.39 5.45 36.12 5.45 33.39 2.73 33.39 5.45" transform="translate(-33.09367-4.931)"/>
+</g>
+<script>document.addEventListener('DOMContentLoaded',function(){var j=jQuery.noConflict();j(".kwer-copyright").hover(function(){<![CDATA[!function(t,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function"==typeof define&&define.amd?define(n):((t="undefined"!=typeof globalThis?globalThis:t||self).__SVGATOR_PLAYER__=t.__SVGATOR_PLAYER__||{},t.__SVGATOR_PLAYER__["5c7f360c"]=n())}(this,(function(){"use strict";function t(t,n){var r=Object.keys(t);if(Object.getOwnPropertySymbols){var e=Object.getOwnPropertySymbols(t);n&&(e=e.filter((function(n){return Object.getOwnPropertyDescriptor(t,n).enumerable}))),r.push.apply(r,e)}return r}function n(n){for(var r=1;r<arguments.length;r++){var e=null!=arguments[r]?arguments[r]:{};r%2?t(Object(e),!0).forEach((function(t){u(n,t,e[t])})):Object.getOwnPropertyDescriptors?Object.defineProperties(n,Object.getOwnPropertyDescriptors(e)):t(Object(e)).forEach((function(t){Object.defineProperty(n,t,Object.getOwnPropertyDescriptor(e,t))}))}return n}function r(t){return(r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t})(t)}function e(t,n){if(!(t instanceof n))throw new TypeError("Cannot call a class as a function")}function i(t,n){for(var r=0;r<n.length;r++){var e=n[r];e.enumerable=e.enumerable||!1,e.configurable=!0,"value"in e&&(e.writable=!0),Object.defineProperty(t,e.key,e)}}function o(t,n,r){return n&&i(t.prototype,n),r&&i(t,r),t}function u(t,n,r){return n in t?Object.defineProperty(t,n,{value:r,enumerable:!0,configurable:!0,writable:!0}):t[n]=r,t}function a(t){return(a=Object.setPrototypeOf?Object.getPrototypeOf:function(t){return t.__proto__||Object.getPrototypeOf(t)})(t)}function l(t,n){return(l=Object.setPrototypeOf||function(t,n){return t.__proto__=n,t})(t,n)}function f(){if("undefined"==typeof Reflect||!Reflect.construct)return!1;if(Reflect.construct.sham)return!1;if("function"==typeof Proxy)return!0;try{return Boolean.prototype.valueOf.call(Reflect.construct(Boolean,[],(function(){}))),!0}catch(t){return!1}}function s(t,n,r){return(s=f()?Reflect.construct:function(t,n,r){var e=[null];e.push.apply(e,n);var i=new(Function.bind.apply(t,e));return r&&l(i,r.prototype),i}).apply(null,arguments)}function c(t,n){if(n&&("object"==typeof n||"function"==typeof n))return n;if(void 0!==n)throw new TypeError("Derived constructors may only return object or undefined");return function(t){if(void 0===t)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return t}(t)}function h(t,n,r){return(h="undefined"!=typeof Reflect&&Reflect.get?Reflect.get:function(t,n,r){var e=function(t,n){for(;!Object.prototype.hasOwnProperty.call(t,n)&&null!==(t=a(t)););return t}(t,n);if(e){var i=Object.getOwnPropertyDescriptor(e,n);return i.get?i.get.call(r):i.value}})(t,n,r||t)}function v(t){return function(t){if(Array.isArray(t))return y(t)}(t)||function(t){if("undefined"!=typeof Symbol&&null!=t[Symbol.iterator]||null!=t["@@iterator"])return Array.from(t)}(t)||function(t,n){if(!t)return;if("string"==typeof t)return y(t,n);var r=Object.prototype.toString.call(t).slice(8,-1);"Object"===r&&t.constructor&&(r=t.constructor.name);if("Map"===r||"Set"===r)return Array.from(t);if("Arguments"===r||/^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(r))return y(t,n)}(t)||function(){throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.")}()}function y(t,n){(null==n||n>t.length)&&(n=t.length);for(var r=0,e=new Array(n);r<n;r++)e[r]=t[r];return e}var g=d(Math.pow(10,-6));function d(t){var n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:6;if(Number.isInteger(t))return t;var r=Math.pow(10,n);return Math.round((+t+Number.EPSILON)*r)/r}function p(t,n){var r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:g;return Math.abs(t-n)<r}var m=Math.PI/180;function b(t){return t}function w(t,n,r){var e=1-r;return 3*r*e*(t*e+n*r)+r*r*r}function A(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:0,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:0,r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:1,e=arguments.length>3&&void 0!==arguments[3]?arguments[3]:1;return t<0||t>1||r<0||r>1?null:p(t,n)&&p(r,e)?b:function(i){if(i<=0)return t>0?i*n/t:0===n&&r>0?i*e/r:0;if(i>=1)return r<1?1+(i-1)*(e-1)/(r-1):1===r&&t<1?1+(i-1)*(n-1)/(t-1):1;for(var o,u=0,a=1;u<a;){var l=w(t,r,o=(u+a)/2);if(p(i,l))break;l<i?u=o:a=o}return w(n,e,o)}}function x(){return 1}function k(t){return 1===t?1:0}function S(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:1,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:0;if(1===t){if(0===n)return k;if(1===n)return x}var r=1/t;return function(t){return t>=1?1:(t+=n*r)-t%r}}var _=Math.sin,O=Math.cos,j=Math.acos,M=Math.asin,P=Math.tan,E=Math.atan2,I=Math.PI/180,R=180/Math.PI,F=Math.sqrt,N=function(){function t(){var n=arguments.length>0&&void 0!==arguments[0]?arguments[0]:1,r=arguments.length>1&&void 0!==arguments[1]?arguments[1]:0,i=arguments.length>2&&void 0!==arguments[2]?arguments[2]:0,o=arguments.length>3&&void 0!==arguments[3]?arguments[3]:1,u=arguments.length>4&&void 0!==arguments[4]?arguments[4]:0,a=arguments.length>5&&void 0!==arguments[5]?arguments[5]:0;e(this,t),this.m=[n,r,i,o,u,a],this.i=null,this.w=null,this.s=null}return o(t,[{key:"determinant",get:function(){var t=this.m;return t[0]*t[3]-t[1]*t[2]}},{key:"isIdentity",get:function(){if(null===this.i){var t=this.m;this.i=1===t[0]&&0===t[1]&&0===t[2]&&1===t[3]&&0===t[4]&&0===t[5]}return this.i}},{key:"point",value:function(t,n){var r=this.m;return{x:r[0]*t+r[2]*n+r[4],y:r[1]*t+r[3]*n+r[5]}}},{key:"translateSelf",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:0,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:0;if(!t&&!n)return this;var r=this.m;return r[4]+=r[0]*t+r[2]*n,r[5]+=r[1]*t+r[3]*n,this.w=this.s=this.i=null,this}},{key:"rotateSelf",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:0;if(t%=360){var n=_(t*=I),r=O(t),e=this.m,i=e[0],o=e[1];e[0]=i*r+e[2]*n,e[1]=o*r+e[3]*n,e[2]=e[2]*r-i*n,e[3]=e[3]*r-o*n,this.w=this.s=this.i=null}return this}},{key:"scaleSelf",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:1,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:1;if(1!==t||1!==n){var r=this.m;r[0]*=t,r[1]*=t,r[2]*=n,r[3]*=n,this.w=this.s=this.i=null}return this}},{key:"skewSelf",value:function(t,n){if(n%=360,(t%=360)||n){var r=this.m,e=r[0],i=r[1],o=r[2],u=r[3];t&&(t=P(t*I),r[2]+=e*t,r[3]+=i*t),n&&(n=P(n*I),r[0]+=o*n,r[1]+=u*n),this.w=this.s=this.i=null}return this}},{key:"resetSelf",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:1,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:0,r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:0,e=arguments.length>3&&void 0!==arguments[3]?arguments[3]:1,i=arguments.length>4&&void 0!==arguments[4]?arguments[4]:0,o=arguments.length>5&&void 0!==arguments[5]?arguments[5]:0,u=this.m;return u[0]=t,u[1]=n,u[2]=r,u[3]=e,u[4]=i,u[5]=o,this.w=this.s=this.i=null,this}},{key:"recomposeSelf",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:null,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:null,r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:null,e=arguments.length>3&&void 0!==arguments[3]?arguments[3]:null,i=arguments.length>4&&void 0!==arguments[4]?arguments[4]:null;return this.isIdentity||this.resetSelf(),t&&(t.x||t.y)&&this.translateSelf(t.x,t.y),n&&this.rotateSelf(n),r&&(r.x&&this.skewSelf(r.x,0),r.y&&this.skewSelf(0,r.y)),!e||1===e.x&&1===e.y||this.scaleSelf(e.x,e.y),i&&(i.x||i.y)&&this.translateSelf(i.x,i.y),this}},{key:"decompose",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:0,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:0,r=this.m,e=r[0]*r[0]+r[1]*r[1],i=[[r[0],r[1]],[r[2],r[3]]],o=F(e);if(0===o)return{origin:{x:d(r[4]),y:d(r[5])},translate:{x:d(t),y:d(n)},scale:{x:0,y:0},skew:{x:0,y:0},rotate:0};i[0][0]/=o,i[0][1]/=o;var u=r[0]*r[3]-r[1]*r[2]<0;u&&(o=-o);var a=i[0][0]*i[1][0]+i[0][1]*i[1][1];i[1][0]-=i[0][0]*a,i[1][1]-=i[0][1]*a;var l=F(i[1][0]*i[1][0]+i[1][1]*i[1][1]);if(0===l)return{origin:{x:d(r[4]),y:d(r[5])},translate:{x:d(t),y:d(n)},scale:{x:d(o),y:0},skew:{x:0,y:0},rotate:0};i[1][0]/=l,i[1][1]/=l,a/=l;var f=0;return i[1][1]<0?(f=j(i[1][1])*R,i[0][1]<0&&(f=360-f)):f=M(i[0][1])*R,u&&(f=-f),a=E(a,F(i[0][0]*i[0][0]+i[0][1]*i[0][1]))*R,u&&(a=-a),{origin:{x:d(r[4]),y:d(r[5])},translate:{x:d(t),y:d(n)},scale:{x:d(o),y:d(l)},skew:{x:d(a),y:0},rotate:d(f)}}},{key:"clone",value:function(){var t=this.m;return new this.constructor(t[0],t[1],t[2],t[3],t[4],t[5])}},{key:"toString",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:" ";if(null===this.s){var n=this.m.map((function(t){return d(t)}));1===n[0]&&0===n[1]&&0===n[2]&&1===n[3]?this.s="translate("+n[4]+t+n[5]+")":this.s="matrix("+n.join(t)+")"}return this.s}}],[{key:"create",value:function(t){return t?Array.isArray(t)?s(this,v(t)):t instanceof this?t.clone():(new this).recomposeSelf(t.origin,t.rotate,t.skew,t.scale,t.translate):new this}}]),t}();function T(t,n,r){return t>=.5?r:n}function B(t,n,r){return 0===t||n===r?n:t*(r-n)+n}function q(t,n,r){var e=B(t,n,r);return e<=0?0:e}function L(t,n,r){var e=B(t,n,r);return e<=0?0:e>=1?1:e}function C(t,n,r){return 0===t?n:1===t?r:{x:B(t,n.x,r.x),y:B(t,n.y,r.y)}}function D(t,n,r){var e=function(t,n,r){return Math.round(B(t,n,r))}(t,n,r);return e<=0?0:e>=255?255:e}function z(t,n,r){return 0===t?n:1===t?r:{r:D(t,n.r,r.r),g:D(t,n.g,r.g),b:D(t,n.b,r.b),a:B(t,null==n.a?1:n.a,null==r.a?1:r.a)}}function V(t,n){for(var r=[],e=0;e<t;e++)r.push(n);return r}function G(t,n){if(--n<=0)return t;var r=(t=Object.assign([],t)).length;do{for(var e=0;e<r;e++)t.push(t[e])}while(--n>0);return t}var Y,$=function(){function t(n){e(this,t),this.list=n,this.length=n.length}return o(t,[{key:"setAttribute",value:function(t,n){for(var r=this.list,e=0;e<this.length;e++)r[e].setAttribute(t,n)}},{key:"removeAttribute",value:function(t){for(var n=this.list,r=0;r<this.length;r++)n[r].removeAttribute(t)}},{key:"style",value:function(t,n){for(var r=this.list,e=0;e<this.length;e++)r[e].style[t]=n}}]),t}(),U=/-./g,Q=function(t,n){return n.toUpperCase()};function H(t){return"function"==typeof t?t:T}function J(t){return t?"function"==typeof t?t:Array.isArray(t)?function(t){var n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:b;if(!Array.isArray(t))return n;switch(t.length){case 1:return S(t[0])||n;case 2:return S(t[0],t[1])||n;case 4:return A(t[0],t[1],t[2],t[3])||n}return n}(t,null):function(t,n){var r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:b;switch(t){case"linear":return b;case"steps":return S(n.steps||1,n.jump||0)||r;case"bezier":case"cubic-bezier":return A(n.x1||0,n.y1||0,n.x2||0,n.y2||0)||r}return r}(t.type,t.value,null):null}function Z(t,n,r){var e=arguments.length>3&&void 0!==arguments[3]&&arguments[3],i=n.length-1;if(t<=n[0].t)return e?[0,0,n[0].v]:n[0].v;if(t>=n[i].t)return e?[i,1,n[i].v]:n[i].v;var o,u=n[0],a=null;for(o=1;o<=i;o++){if(!(t>n[o].t)){a=n[o];break}u=n[o]}return null==a?e?[i,1,n[i].v]:n[i].v:u.t===a.t?e?[o,1,a.v]:a.v:(t=(t-u.t)/(a.t-u.t),u.e&&(t=u.e(t)),e?[o,t,r(t,u.v,a.v)]:r(t,u.v,a.v))}function K(t,n){var r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:null;return t&&t.length?"function"!=typeof n?null:("function"!=typeof r&&(r=null),function(e){var i=Z(e,t,n);return null!=i&&r&&(i=r(i)),i}):null}function W(t,n){return t.t-n.t}function X(t,n,e,i,o){var u,a="@"===e[0],l="#"===e[0],f=Y[e],s=T;switch(a?(u=e.substr(1),e=u.replace(U,Q)):l&&(e=e.substr(1)),r(f)){case"function":if(s=f(i,o,Z,J,e,a,n,t),l)return s;break;case"string":s=K(i,H(f));break;case"object":if((s=K(i,H(f.i),f.f))&&"function"==typeof f.u)return f.u(n,s,e,a,t)}return s?function(t,n,r){if(arguments.length>3&&void 0!==arguments[3]&&arguments[3])return t instanceof $?function(e){return t.style(n,r(e))}:function(e){return t.style[n]=r(e)};if(Array.isArray(n)){var e=n.length;return function(i){var o=r(i);if(null==o)for(var u=0;u<e;u++)t[u].removeAttribute(n);else for(var a=0;a<e;a++)t[a].setAttribute(n,o)}}return function(e){var i=r(e);null==i?t.removeAttribute(n):t.setAttribute(n,i)}}(n,e,s,a):null}function tt(t,n,e,i){if(!i||"object"!==r(i))return null;var o=null,u=null;return Array.isArray(i)?u=function(t){if(!t||!t.length)return null;for(var n=0;n<t.length;n++)t[n].e&&(t[n].e=J(t[n].e));return t.sort(W)}(i):(u=i.keys,o=i.data||null),u?X(t,n,e,u,o):null}function nt(t,n,r){if(!r)return null;var e=[];for(var i in r)if(r.hasOwnProperty(i)){var o=tt(t,n,i,r[i]);o&&e.push(o)}return e.length?e:null}function rt(t,n){if(!n.duration||n.duration<0)return null;var r=function(t,n){if(!n)return null;var r=[];if(Array.isArray(n))for(var e=n.length,i=0;i<e;i++){var o=n[i];if(2===o.length){var u=null;if("string"==typeof o[0])u=t.getElementById(o[0]);else if(Array.isArray(o[0])){u=[];for(var a=0;a<o[0].length;a++)if("string"==typeof o[0][a]){var l=t.getElementById(o[0][a]);l&&u.push(l)}u=u.length?1===u.length?u[0]:new $(u):null}if(u){var f=nt(t,u,o[1]);f&&(r=r.concat(f))}}}else for(var s in n)if(n.hasOwnProperty(s)){var c=t.getElementById(s);if(c){var h=nt(t,c,n[s]);h&&(r=r.concat(h))}}return r.length?r:null}(t,n.elements);return r?function(t,n){var r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:1/0,e=arguments.length>3&&void 0!==arguments[3]?arguments[3]:1,i=arguments.length>4&&void 0!==arguments[4]&&arguments[4],o=arguments.length>5&&void 0!==arguments[5]?arguments[5]:1,u=t.length,a=e>0?n:0;i&&r%2==0&&(a=n-a);var l=null;return function(f,s){var c=f%n,h=1+(f-c)/n;s*=e,i&&h%2==0&&(s=-s);var v=!1;if(h>r)c=a,v=!0,-1===o&&(c=e>0?0:n);else if(s<0&&(c=n-c),c===l)return!1;l=c;for(var y=0;y<u;y++)t[y](c);return v}}(r,n.duration,n.iterations||1/0,n.direction||1,!!n.alternate,n.fill||1):null}function et(t){return+("0x"+(t.replace(/[^0-9a-fA-F]+/g,"")||27))}function it(t,n,r){return!t||!r||n>t.length?t:t.substring(0,n)+it(t.substring(n+1),r,r)}function ot(t){var n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:27;return!t||t%n?t%n:ot(t/n,n)}function ut(t,n,r){if(t&&t.length){var e=et(r),i=et(n),o=ot(e)+5,u=it(t,ot(e,5),o);return u=u.replace(/\x7c$/g,"==").replace(/\x2f$/g,"="),u=function(t,n,r){var e=+("0x"+t.substring(0,4));t=t.substring(4);for(var i=n%e+r%27,o=[],u=0;u<t.length;u+=2)if("|"!==t[u]){var a=+("0x"+t[u]+t[u+1])-i;o.push(a)}else{var l=+("0x"+t.substring(u+1,u+1+4))-i;u+=3,o.push(l)}return String.fromCharCode.apply(String,o)}(u=(u=atob(u)).replace(/[\x41-\x5A]/g,""),i,e),u=JSON.parse(u)}}Number.isInteger||(Number.isInteger=function(t){return"number"==typeof t&&isFinite(t)&&Math.floor(t)===t}),Number.EPSILON||(Number.EPSILON=2220446049250313e-31);var at=function(){function t(n,r){var i=arguments.length>2&&void 0!==arguments[2]?arguments[2]:{};e(this,t),this._id=0,this._running=!1,this._rollingBack=!1,this._animations=n,this.duration=r.duration,this.alternate=r.alternate,this.fill=r.fill,this.iterations=r.iterations,this.direction=i.direction||1,this.speed=i.speed||1,this.fps=i.fps||100,this.offset=i.offset||0,this.rollbackStartOffset=0}return o(t,[{key:"_rollback",value:function(){var t=this,n=1/0,r=null;this.rollbackStartOffset=this.offset,this._rollingBack||(this._rollingBack=!0,this._running=!0);this._id=window.requestAnimationFrame((function e(i){if(t._rollingBack){null==r&&(r=i);var o=i-r,u=t.rollbackStartOffset-o,a=Math.round(u*t.speed);if(a>t.duration&&n!=1/0){var l=!!t.alternate&&a/t.duration%2>1,f=a%t.duration;a=(f+=l?t.duration:0)||t.duration}var s=t.fps?1e3/t.fps:0,c=Math.max(0,a);if(c<n-s){t.offset=c,n=c;for(var h=t._animations,v=h.length,y=0;y<v;y++)h[y](c,t.direction)}var g=!1;if(t.iterations>0&&-1===t.fill){var d=t.iterations*t.duration,p=d==a;a=p?0:a,t.offset=p?0:t.offset,g=a>d}a>0&&t.offset>=a&&!g?t._id=window.requestAnimationFrame(e):t.stop()}}))}},{key:"_start",value:function(){var t=this,n=arguments.length>0&&void 0!==arguments[0]?arguments[0]:0,r=-1/0,e=null,i={},o=function o(u){t._running=!0,null==e&&(e=u);var a=Math.round((u-e+n)*t.speed),l=t.fps?1e3/t.fps:0;if(a>r+l&&!t._rollingBack){t.offset=a,r=a;for(var f=t._animations,s=f.length,c=0,h=0;h<s;h++)i[h]?c++:(i[h]=f[h](a,t.direction),i[h]&&c++);if(c===s)return void t._stop()}t._id=window.requestAnimationFrame(o)};this._id=window.requestAnimationFrame(o)}},{key:"_stop",value:function(){this._id&&window.cancelAnimationFrame(this._id),this._running=!1,this._rollingBack=!1}},{key:"play",value:function(){!this._rollingBack&&this._running||(this._rollingBack=!1,this.rollbackStartOffset>this.duration&&(this.offset=this.rollbackStartOffset-(this.rollbackStartOffset-this.offset)%this.duration,this.rollbackStartOffset=0),this._start(this.offset))}},{key:"stop",value:function(){this._stop(),this.offset=0,this.rollbackStartOffset=0;var t=this.direction,n=this._animations;window.requestAnimationFrame((function(){for(var r=0;r<n.length;r++)n[r](0,t)}))}},{key:"reachedToEnd",value:function(){return this.iterations>0&&this.offset>=this.iterations*this.duration}},{key:"restart",value:function(){this._stop(),this.offset=0,this._start()}},{key:"pause",value:function(){this._stop()}},{key:"reverse",value:function(){this.direction=-this.direction}}],[{key:"build",value:function(r,e){return delete r.animationSettings,r.options=ut(r.options,r.root,"5c7f360c"),r.animations.map((function(t){var e=ut(t.s,r.root,"5c7f360c");for(var i in delete t.s,r.animationSettings||(r.animationSettings=n({},e)),e)e.hasOwnProperty(i)&&(t[i]=e[i])})),(r=function(t,n){if(Y=n,!t||!t.root||!Array.isArray(t.animations))return null;for(var r=document.getElementsByTagName("svg"),e=!1,i=0;i<r.length;i++)if(r[i].id===t.root&&!r[i].svgatorAnimation){(e=r[i]).svgatorAnimation=!0;break}if(!e)return null;var o=t.animations.map((function(t){return rt(e,t)})).filter((function(t){return!!t}));return o.length?{element:e,animations:o,animationSettings:t.animationSettings,options:t.options||void 0}:null}(r,e))?{el:r.element,options:r.options||{},player:new t(r.animations,r.animationSettings,r.options)}:null}},{key:"push",value:function(t){return this.build(t)}},{key:"init",value:function(){var t=this,n=window.__SVGATOR_PLAYER__&&window.__SVGATOR_PLAYER__["5c7f360c"];Array.isArray(n)&&n.splice(0).forEach((function(n){return t.build(n)}))}}]),t}();function lt(t){return d(t)+""}function ft(t){var n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:" ";return t&&t.length?t.map(lt).join(n):""}function st(t){if(!t)return"transparent";if(null==t.a||t.a>=1){var n=function(t){return 1===(t=parseInt(t).toString(16)).length?"0"+t:t},r=function(t){return t.charAt(0)===t.charAt(1)},e=n(t.r),i=n(t.g),o=n(t.b);return r(e)&&r(i)&&r(o)&&(e=e.charAt(0),i=i.charAt(0),o=o.charAt(0)),"#"+e+i+o}return"rgba("+t.r+","+t.g+","+t.b+","+t.a+")"}function ct(t){return t?"url(#"+t+")":"none"}!function(){for(var t=0,n=["ms","moz","webkit","o"],r=0;r<n.length&&!window.requestAnimationFrame;++r)window.requestAnimationFrame=window[n[r]+"RequestAnimationFrame"],window.cancelAnimationFrame=window[n[r]+"CancelAnimationFrame"]||window[n[r]+"CancelRequestAnimationFrame"];window.requestAnimationFrame||(window.requestAnimationFrame=function(n){var r=Date.now(),e=Math.max(0,16-(r-t)),i=window.setTimeout((function(){n(r+e)}),e);return t=r+e,i},window.cancelAnimationFrame=window.clearTimeout)}();var ht={f:null,i:function(t,n,r){return 0===t?n:1===t?r:{x:q(t,n.x,r.x),y:q(t,n.y,r.y)}},u:function(t,n){return function(r){var e=n(r);t.setAttribute("rx",lt(e.x)),t.setAttribute("ry",lt(e.y))}}},vt={f:null,i:function(t,n,r){return 0===t?n:1===t?r:{width:q(t,n.width,r.width),height:q(t,n.height,r.height)}},u:function(t,n){return function(r){var e=n(r);t.setAttribute("width",lt(e.width)),t.setAttribute("height",lt(e.height))}}};Object.freeze({M:2,L:2,Z:0,H:1,V:1,C:6,Q:4,T:2,S:4,A:7});var yt={},gt=null;function dt(t){var n=function(){if(gt)return gt;if("object"!==("undefined"==typeof document?"undefined":r(document))||!document.createElementNS)return{};var t=document.createElementNS("http://www.w3.org/2000/svg","svg");return t&&t.style?(t.style.position="absolute",t.style.opacity="0.01",t.style.zIndex="-9999",t.style.left="-9999px",t.style.width="1px",t.style.height="1px",gt={svg:t}):{}}().svg;if(!n)return function(t){return null};var e=document.createElementNS(n.namespaceURI,"path");e.setAttributeNS(null,"d",t),e.setAttributeNS(null,"fill","none"),e.setAttributeNS(null,"stroke","none"),n.appendChild(e);var i=e.getTotalLength();return function(t){var n=e.getPointAtLength(i*t);return{x:n.x,y:n.y}}}function pt(t){return yt[t]?yt[t]:yt[t]=dt(t)}function mt(t,n,r,e){if(!t||!e)return!1;var i=["M",t.x,t.y];if(n&&r&&(i.push("C"),i.push(n.x),i.push(n.y),i.push(r.x),i.push(r.y)),n?!r:r){var o=n||r;i.push("Q"),i.push(o.x),i.push(o.y)}return n||r||i.push("L"),i.push(e.x),i.push(e.y),i.join(" ")}function bt(t,n,r,e){var i=arguments.length>4&&void 0!==arguments[4]?arguments[4]:1,o=mt(t,n,r,e),u=pt(o);try{return u(i)}catch(t){return null}}function wt(t,n,r){return t+(n-t)*r}function At(t,n,r){var e=arguments.length>3&&void 0!==arguments[3]&&arguments[3],i={x:wt(t.x,n.x,r),y:wt(t.y,n.y,r)};return e&&(i.a=xt(t,n)),i}function xt(t,n){return Math.atan2(n.y-t.y,n.x-t.x)}function kt(t,n,r,e){var i=1-e;return i*i*t+2*i*e*n+e*e*r}function St(t,n,r,e){return 2*(1-e)*(n-t)+2*e*(r-n)}function _t(t,n,r,e){var i=arguments.length>4&&void 0!==arguments[4]&&arguments[4],o=bt(t,n,null,r,e);return o||(o={x:kt(t.x,n.x,r.x,e),y:kt(t.y,n.y,r.y,e)}),i&&(o.a=Ot(t,n,r,e)),o}function Ot(t,n,r,e){return Math.atan2(St(t.y,n.y,r.y,e),St(t.x,n.x,r.x,e))}function jt(t,n,r,e,i){var o=i*i;return i*o*(e-t+3*(n-r))+3*o*(t+r-2*n)+3*i*(n-t)+t}function Mt(t,n,r,e,i){var o=1-i;return 3*(o*o*(n-t)+2*o*i*(r-n)+i*i*(e-r))}function Pt(t,n,r,e,i){var o=arguments.length>5&&void 0!==arguments[5]&&arguments[5],u=bt(t,n,r,e,i);return u||(u={x:jt(t.x,n.x,r.x,e.x,i),y:jt(t.y,n.y,r.y,e.y,i)}),o&&(u.a=Et(t,n,r,e,i)),u}function Et(t,n,r,e,i){return Math.atan2(Mt(t.y,n.y,r.y,e.y,i),Mt(t.x,n.x,r.x,e.x,i))}function It(t,n,r){var e=arguments.length>3&&void 0!==arguments[3]&&arguments[3];if(Ft(n)){if(Nt(r))return _t(n,r.start,r,t,e)}else if(Ft(r)){if(n.end)return _t(n,n.end,r,t,e)}else{if(n.end)return r.start?Pt(n,n.end,r.start,r,t,e):_t(n,n.end,r,t,e);if(r.start)return _t(n,r.start,r,t,e)}return At(n,r,t,e)}function Rt(t,n,r){var e=It(t,n,r,!0);return e.a=function(t){return arguments.length>1&&void 0!==arguments[1]&&arguments[1]?t+Math.PI:t}(e.a)/m,e}function Ft(t){return!t.type||"corner"===t.type}function Nt(t){return null!=t.start&&!Ft(t)}var Tt=new N;var Bt={f:lt,i:B},qt={f:lt,i:L};function Lt(t,n,r){return t.map((function(t){return function(t,n,r){var e=t.v;if(!e||"g"!==e.t||e.s||!e.v||!e.r)return t;var i=r.getElementById(e.r),o=i&&i.querySelectorAll("stop")||[];return e.s=e.v.map((function(t,n){var r=o[n]&&o[n].getAttribute("offset");return{c:t,o:r=d(parseInt(r)/100)}})),delete e.v,t}(t,0,r)}))}var Ct={gt:"gradientTransform",c:{x:"cx",y:"cy"},rd:"r",f:{x:"x1",y:"y1"},to:{x:"x2",y:"y2"}};function Dt(t,n,e,i,o,u,a,l){return Lt(t,0,l),n=function(t,n,r){for(var e,i,o,u=t.length-1,a={},l=0;l<=u;l++)(e=t[l]).e&&(e.e=n(e.e)),e.v&&"g"===(i=e.v).t&&i.r&&(o=r.getElementById(i.r))&&(a[i.r]={e:o,s:o.querySelectorAll("stop")});return a}(t,i,l),function(i){var o=e(i,t,zt);if(!o)return"none";if("c"===o.t)return st(o.v);if("g"===o.t){if(!n[o.r])return ct(o.r);var u=n[o.r];return function(t,n){for(var r=t.s,e=r.length;e<n.length;e++){var i=r[r.length-1].cloneNode();i.id=Yt(i.id),t.e.appendChild(i),r=t.s=t.e.querySelectorAll("stop")}for(var o=0,u=r.length,a=n.length-1;o<u;o++)r[o].setAttribute("stop-color",st(n[Math.min(o,a)].c)),r[o].setAttribute("offset",n[Math.min(o,a)].o)}(u,o.s),Object.keys(Ct).forEach((function(t){if(void 0!==o[t])if("object"!==r(Ct[t])){var n,e="gt"===t?(n=o[t],Array.isArray(n)?"matrix("+n.join(" ")+")":""):o[t],i=Ct[t];u.e.setAttribute(i,e)}else Object.keys(Ct[t]).forEach((function(n){if(void 0!==o[t][n]){var r=o[t][n],e=Ct[t][n];u.e.setAttribute(e,r)}}))})),ct(o.r)}return"none"}}function zt(t,r,e){if(0===t)return r;if(1===t)return e;if(r&&e){var i=r.t;if(i===e.t)switch(r.t){case"c":return{t:i,v:z(t,r.v,e.v)};case"g":if(r.r===e.r){var o={t:i,s:Vt(t,r.s,e.s),r:r.r};return r.gt&&e.gt&&(o.gt=function(t,n,r){var e=n.length;if(e!==r.length)return T(t,n,r);for(var i=new Array(e),o=0;o<e;o++)i[o]=B(t,n[o],r[o]);return i}(t,r.gt,e.gt)),r.c?(o.c=C(t,r.c,e.c),o.rd=q(t,r.rd,e.rd)):r.f&&(o.f=C(t,r.f,e.f),o.to=C(t,r.to,e.to)),o}}if("c"===r.t&&"g"===e.t||"c"===e.t&&"g"===r.t){var u="c"===r.t?r:e,a="g"===r.t?n({},r):n({},e),l=a.s.map((function(t){return{c:u.v,o:t.o}}));return a.s="c"===r.t?Vt(t,l,a.s):Vt(t,a.s,l),a}}return T(t,r,e)}function Vt(t,n,r){if(n.length===r.length)return n.map((function(n,e){return Gt(t,n,r[e])}));for(var e=Math.max(n.length,r.length),i=[],o=0;o<e;o++){var u=Gt(t,n[Math.min(o,n.length-1)],r[Math.min(o,r.length-1)]);i.push(u)}return i}function Gt(t,n,r){return{o:L(t,n.o,r.o||0),c:z(t,n.c,r.c||{})}}function Yt(t){return t.replace(/-fill-([0-9]+)$/,(function(t,n){return"-fill-"+(+n+1)}))}var $t={fill:Dt,"fill-opacity":qt,stroke:Dt,"stroke-opacity":qt,"stroke-width":Bt,"stroke-dashoffset":{f:lt,i:B},"stroke-dasharray":{f:function(t){var n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:" ";return t&&t.length>0&&(t=t.map((function(t){return d(t,4)}))),ft(t,n)},i:function(t,n,r){var e,i,o,u=n.length,a=r.length;if(u!==a)if(0===u)n=V(u=a,0);else if(0===a)a=u,r=V(u,0);else{var l=(o=(e=u)*(i=a)/function(t,n){for(var r;n;)r=n,n=t%n,t=r;return t||1}(e,i))<0?-o:o;n=G(n,Math.floor(l/u)),r=G(r,Math.floor(l/a)),u=a=l}for(var f=[],s=0;s<u;s++)f.push(d(q(t,n[s],r[s])));return f}},opacity:qt,transform:function(t,n,e,i){if(!(t=function(t,n){if(!t||"object"!==r(t))return null;var e=!1;for(var i in t)t.hasOwnProperty(i)&&(t[i]&&t[i].length?(t[i].forEach((function(t){t.e&&(t.e=n(t.e))})),e=!0):delete t[i]);return e?t:null}(t,i)))return null;var o=function(r,i,o){var u=arguments.length>3&&void 0!==arguments[3]?arguments[3]:null;return t[r]?e(i,t[r],o):n&&n[r]?n[r]:u};return n&&n.a&&t.o?function(n){var r=e(n,t.o,Rt);return Tt.recomposeSelf(r,o("r",n,B,0)+r.a,o("k",n,C),o("s",n,C),o("t",n,C)).toString()}:function(t){return Tt.recomposeSelf(o("o",t,It,null),o("r",t,B,0),o("k",t,C),o("s",t,C),o("t",t,C)).toString()}},r:Bt,"#size":vt,"#radius":ht,_:function(t,n){if(Array.isArray(t))for(var r=0;r<t.length;r++)this[t[r]]=n;else this[t]=n}},Ut=function(t){!function(t,n){if("function"!=typeof n&&null!==n)throw new TypeError("Super expression must either be null or a function");t.prototype=Object.create(n&&n.prototype,{constructor:{value:t,writable:!0,configurable:!0}}),n&&l(t,n)}(u,t);var n,r,i=(n=u,r=f(),function(){var t,e=a(n);if(r){var i=a(this).constructor;t=Reflect.construct(e,arguments,i)}else t=e.apply(this,arguments);return c(this,t)});function u(){return e(this,u),i.apply(this,arguments)}return o(u,null,[{key:"build",value:function(t){var n=h(a(u),"build",this).call(this,t,$t);if(!n)return null;n.el,n.options,function(t,n,r){t.play()}(n.player)}}]),u}(at);return Ut.init(),Ut}));(function(s,i,o,w){w[o]=w[o]||{};w[o][s]=w[o][s]||[];w[o][s].push(i)})('5c7f360c',{"root":"eMwvqfb2mHI1","animations":[{"elements":{"eMwvqfb2mHI3":{"opacity":[{"t":310,"v":0,"e":[0.42,0,1,1]},{"t":500,"v":1}]},"eMwvqfb2mHI4":{"opacity":[{"t":400,"v":0,"e":[0.42,0,1,1]},{"t":600,"v":1}]},"eMwvqfb2mHI5":{"opacity":[{"t":500,"v":0,"e":[0.42,0,1,1]},{"t":700,"v":1}]},"eMwvqfb2mHI6":{"opacity":[{"t":600,"v":0,"e":[0.42,0,1,1]},{"t":800,"v":1}]},"eMwvqfb2mHI7":{"transform":{"data":{"t":{"x":-36.007999,"y":-2.868}},"keys":{"o":[{"t":0,"v":{"x":36.007999,"y":7.7905,"type":"cusp","end":{"x":36.007999,"y":7.7905}},"e":[0.42,0,1,1]},{"t":500,"v":{"x":69.061097,"y":7.7905,"type":"cusp","start":{"x":69.061097,"y":7.7905}}}]}},"opacity":[{"t":0,"v":1,"e":[0.42,0,1,1]},{"t":300,"v":1}]}},"s":"MHDA1M2NjNzNiNWM2YzVNiMmM1RGJhYzBDYmYI3MzhiODQ4MTgxODE3CZDczYjViYWMzYjZiNSGM1Q2JhYzBiZjczOGWJVODJMN2Q3M2JhYzVYiNmMzYjJjNWJhYzBiJZk1jNDczVThiODI3ZGFk3M2I3YmFiZGJkNzYM4YjgyN2Q3M05iMmJGkYzViNmMzYmZPYjJjONWI2NzNROGJiN2IyYTmRjNGI2N2Q3M2M0YzWFiNkZiNmI1RzczOGIU4MmNl"}],"options":"MXDAxMFM4OEEyZlc4MDGgxNmVNN2Y4MTJmNDcMyZjc5N2M2ZTcxMmY4EYUQ/"},'__SVGATOR_PLAYER__',window)]]>})})</script></svg>
+</a>
+</div>
+</div>    <div class="cta">
+<a href="/en/hotels" class="bgb" title="Hotels"><img loading="lazy" src="files/content/graphics/lupe.svg" alt="Hotels"><span>Hotels</span></a>
+<a href="/en/watchlist" title="Favorites" class="bgb"><img loading="lazy" src="files/content/graphics/merken.svg" alt="Favorites"><div id="watchlist-count" class="wcounter">0</div><span>Favorites</span></a>
+<a href="/en/offers" class="bgb" title="Offers"><img loading="lazy" src="files/content/graphics/present.svg" alt="Offers"><span>Offers</span></a>
+<a href="/en/map" class="bgb cta-desktop-only" title="Map"><img loading="lazy" src="files/content/graphics/karte.svg" alt="Map"><span>Map</span></a>
+<a href="/en/book-a-wanderhotel" class="bgb cta-mobile-only cta-buchen" title="Book"><img loading="lazy" src="files/content/graphics/book.svg" alt="Book"><span>Book</span></a>
+</div>
+<div id="watchlist-overlay" class="watchlist-overlay" hidden>
+<div class="watchlist-content">
+<button id="close-watchlist" class="close-btn" aria-label="Close">×</button>
+<p class="watchlist-counter">Your favorites (<span id="watchlist-overlay-count">0</span>)</p>
+<div id="watchlist-items"></div>
+<a href="/en/watchlist" class="watchlist-link">view all & request</a>
+</div>
+</div>
+<script src="files/theme/js/buchungsleiste-dialog.js" defer></script>
+<script src="files/theme/js/buchungsleiste-adapt.js?v=20260728" defer></script></div>
+</footer>
+</div>
+<script defer src="/assets/jquery-ui/js/jquery-ui.min.js?v=1.13.2"></script>
+<script>jQuery(function($){$(document).accordion({heightStyle:'content',header:'.toggler',collapsible:!0,create:function(event,ui){ui.header.addClass('active');$('.toggler').attr('tabindex',0)},activate:function(event,ui){ui.newHeader.addClass('active');ui.oldHeader.removeClass('active');$('.toggler').attr('tabindex',0)}})})</script>
+<script src="bundles/contaoglightbox/js/glightbox.min.js?v=89be0e25"></script><script>(function(){'use strict';document.querySelectorAll('a[data-lightbox]').forEach((element)=>{if(!!element.dataset.lightbox){element.setAttribute('data-gallery',element.dataset.lightbox)}else{element.setAttribute('data-gallery',(Math.random()+1).toString(36).substring(7))}});GLightbox({selector:'a[data-lightbox]'})})()</script>
+<script src="/bundles/contaowowjs/wow.min.js" defer></script>
+<script>document.addEventListener('DOMContentLoaded',function(){if(typeof WOW!=='undefined'){new WOW().init()}})</script><script src="/bundles/plentacontaofriendlycaptcha/webpack/friendlyCaptcha.fac30225.js" defer></script><script defer src="/files/theme/js/season.js?v=609b9c3a"></script><script defer src="/files/theme/js/watchlist-core.js?v=99012441"></script><script defer src="/files/theme/js/watchlist-overlay.js?v=ef26de70"></script><script defer src="/files/theme/js/quick-nav.js?v=bb576635"></script><script defer src="/files/theme/js/fixed-navbar.js?v=b2cc35cf"></script>
+<script>function __ready(fn){if(document.readyState!=='loading')fn();else document.addEventListener('DOMContentLoaded',fn)}
+__ready(function(){var $=jQuery.noConflict();$("header .lines-button").off("click").on("click",function(){$(this).toggleClass("close");$("body").toggleClass("sidePanelOpen")});__ready(()=>{const langAttr=(document.documentElement.getAttribute('lang')||'').toLowerCase();const path=window.location.pathname||'';const lang=langAttr.startsWith('it')||path.startsWith('/it/')?'it':(langAttr.startsWith('en')||path.startsWith('/en/')?'en':'de');const TXT={add:{de:'Zu Favoriten hinzufügen',en:'Add to favorites',it:'Aggiungi alla wishlist'},remove:{de:'Aus den Favoriten entfernen',en:'Remove from favorites',it:'Rimuovi dalla wishlist'}};function getText(type){return TXT[type]?.[lang]||TXT[type]?.de||''}
+function getCounterElement(){return document.querySelector('#watchlist-count')}
+function setCounter(value){const counter=getCounterElement();if(!counter)return;counter.textContent=String(Math.max(0,Number(value)||0))}
+function updateButton(button,added){if(!button)return;button.dataset.added=added?'1':'0';button.setAttribute('aria-pressed',added?'true':'false');button.classList.toggle('add-button',!added);button.classList.toggle('remove-button',added);const span=button.querySelector('span');const text=added?getText('remove'):getText('add');if(span){span.textContent=text}else{button.textContent=text}
+const card=button.closest('.cm_listing');if(card){card.classList.toggle('is-in-watchlist',added)}}
+function normalizeIds(ids){if(!Array.isArray(ids))return[];return ids.map((id)=>String(id??'').trim()).filter(Boolean)}
+function updateAllButtonsByIds(ids){const normalizedIds=normalizeIds(ids);document.querySelectorAll('.watchlist-button').forEach((button)=>{const id=String(button.dataset.id||'').trim();updateButton(button,normalizedIds.includes(id))})}
+async function syncWatchlistState(){try{const response=await fetch('/watchlist/count',{method:'GET',credentials:'same-origin',headers:{'X-Requested-With':'XMLHttpRequest'}});if(!response.ok){throw new Error('Watchlist sync failed: HTTP '+response.status)}
+const data=await response.json();const ids=Array.isArray(data?.ids)?data.ids:[];updateAllButtonsByIds(ids);setCounter(data?.count??ids.length??0);return data}catch(error){console.error('Watchlist sync failed:',error);return null}}
+async function toggleWatchlist(button){if(!button||button.dataset.loading==='1')return;const id=String(button.dataset.id||'').trim();const table=String(button.dataset.table||'').trim();const added=button.dataset.added==='1';if(!id||!table){console.error('Watchlist button data missing.',{id,table,button});return}
+button.dataset.loading='1';button.disabled=!0;const endpoint=added?'/watchlist/remove':'/watchlist/add';try{const response=await fetch(endpoint,{method:'POST',credentials:'same-origin',headers:{'Content-Type':'application/x-www-form-urlencoded; charset=UTF-8','X-Requested-With':'XMLHttpRequest'},body:new URLSearchParams({id:id,table:table}).toString()});if(!response.ok){const text=await response.text();console.error('Watchlist request failed:',response.status,text);throw new Error('HTTP '+response.status)}
+const data=await response.json();if(!data||data.success!==!0){console.error('Watchlist response invalid:',data);throw new Error('Watchlist action failed')}
+const nextAdded=!added;updateButton(button,nextAdded);const counter=getCounterElement();if(counter){const current=parseInt(counter.textContent||'0',10)||0;setCounter(nextAdded?current+1:current-1)}
+document.dispatchEvent(new CustomEvent('watchlist:changed',{detail:{itemId:id,added:nextAdded}}));document.dispatchEvent(new CustomEvent('watchlist-updated',{detail:{itemId:id,added:nextAdded}}));await syncWatchlistState()}catch(error){console.error('Watchlist toggle failed:',error)}finally{button.dataset.loading='0';button.disabled=!1}}
+document.addEventListener('click',(event)=>{const button=event.target.closest('.watchlist-button');if(!button)return;event.preventDefault();event.stopPropagation();toggleWatchlist(button)});syncWatchlistState();window.addEventListener('focus',()=>{syncWatchlistState()});document.addEventListener('visibilitychange',()=>{if(!document.hidden){syncWatchlistState()}})})})</script>
+<script type="application/ld+json">
+{
+    "@context": "https:\/\/schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage"
+        },
+        {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "item": {
+                        "@id": "\/en\/",
+                        "name": "Wanderhotels"
+                    },
+                    "position": 1
+                },
+                {
+                    "@type": "ListItem",
+                    "item": {
+                        "@id": "\/en\/hotels",
+                        "name": "Find Wanderhotels"
+                    },
+                    "position": 2
+                },
+                {
+                    "@type": "ListItem",
+                    "item": {
+                        "@id": "\/en\/austria",
+                        "name": "Austria"
+                    },
+                    "position": 3
+                },
+                {
+                    "@type": "ListItem",
+                    "item": {
+                        "@id": "\/en\/austria\/upper-austria",
+                        "name": "Upper Austria"
+                    },
+                    "position": 4
+                }
+            ]
+        },
+        {
+            "@id": "#\/schema\/image\/b3c9e7a0-b4b1-11f0-bd50-9600041c84b0",
+            "@type": "ImageObject",
+            "caption": "© Cam Poetry",
+            "contentUrl": "\/assets\/images\/z\/wanderhotels-suedtirol-oesterreich-schwarzwald-hoteltipp-auswahl%28c%29cam-poetry-hen1xrj11dsh9wf.jpg"
+        },
+        {
+            "@id": "#\/schema\/image\/fb8be361-922b-11f0-9606-9600041c84b0",
+            "@type": "ImageObject",
+            "caption": "© KWER",
+            "contentUrl": "\/assets\/images\/h\/neu-website-wanderhotels-newsletteranmeldung%28c%29kwer-yskwq71ntrmae54.jpg"
+        }
+    ]
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https:\/\/schema.contao.org",
+    "@graph": [
+        {
+            "@type": "Page",
+            "fePreview": false,
+            "groups": [],
+            "noSearch": false,
+            "pageId": 187,
+            "protected": false,
+            "title": "Hiking vacation in Upper Austria | Wanderhotels"
+        }
+    ]
+}
+</script><div id="season-overlay-summer" class="season-overlay">
+<div class="season-overlay-inner"><img loading="lazy" src="files/content/graphics/wanderhotels-logo-white.svg" width="148" height="94" alt="Wanderhotels Logo"></div>
+</div>
+<div id="season-overlay-winter" class="season-overlay">
+<div class="season-overlay-inner"><img loading="lazy" src="files/content/graphics/wanderhotels-logo-white.svg" width="148" height="94" alt="Wanderhotels Logo"></div>
+</div>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="581539ae-8230-4292-a7ce-98a5e7126aa6" data-blockingmode="auto" async></script>
+</body>
+</html>

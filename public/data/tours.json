@@ -1,0 +1,1069 @@
+[
+  {
+    "id": "dubai-city-escape-5d",
+    "slug": "dubai-city-escape-5d",
+    "title": {
+      "en": "Dubai City Escape — 5 Days",
+      "ru": "Дубай: городской побег — 5 дней",
+      "uz": "Dubay shahar sayohati — 5 kun"
+    },
+    "destinationId": "dubai",
+    "agencyId": "silk-road-travel",
+    "durationDays": 5,
+    "startingPrice": 999,
+    "currency": "USD",
+    "coverImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1582672060674-2411b5e2b761?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": {
+      "en": "Skyline views, desert dune dinner, Dubai Mall, and a guided Old Dubai walk — a complete short break from Tashkent.",
+      "ru": "Панорамы небоскрёбов, ужин в пустыне, Dubai Mall и прогулка по Старому Дубаю — полноценный короткий отпуск из Ташкента.",
+      "uz": "Osmono'par manzaralar, cho'lda kechki ovqat, Dubai Mall va Eski Dubay bo'ylab sayr — Toshkentdan to'liq qisqa dam olish."
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "title": { "en": "Arrival & Marina", "ru": "Прилёт и Марина", "uz": "Kelish va Marina" },
+        "description": {
+          "en": "Airport transfer, hotel check-in, evening stroll along Dubai Marina.",
+          "ru": "Трансфер из аэропорта, заселение, вечерняя прогулка по Дубай Марина.",
+          "uz": "Aeroportdan transfer, mehmonxonaga joylashish, Dubay Marina bo'ylab kechki sayr."
+        }
+      },
+      {
+        "day": 2,
+        "title": { "en": "Modern Dubai", "ru": "Современный Дубай", "uz": "Zamonaviy Dubay" },
+        "description": {
+          "en": "Burj Khalifa area, Dubai Mall, and fountain show.",
+          "ru": "Район Бурдж-Халифа, Dubai Mall и шоу фонтанов.",
+          "uz": "Burj Xalifa hududi, Dubai Mall va favvora shousi."
+        }
+      },
+      {
+        "day": 3,
+        "title": { "en": "Desert safari", "ru": "Сафари в пустыне", "uz": "Cho'l safari" },
+        "description": {
+          "en": "Afternoon dune drive, camel photo stop, BBQ dinner under the stars.",
+          "ru": "Дневной заезд по дюнам, фото со верблюдами, барбекю под звёздами.",
+          "uz": "Kunduzi qum tepaliklarida haydash, tuyalar bilan foto, yulduzlar ostida BBQ."
+        }
+      },
+      {
+        "day": 4,
+        "title": { "en": "Old Dubai", "ru": "Старый Дубай", "uz": "Eski Dubay" },
+        "description": {
+          "en": "Abra ride, Gold & Spice Souks, Al Fahidi heritage district.",
+          "ru": "Переправа на абре, Золотой и Пряный рынки, исторический район Аль-Фахиди.",
+          "uz": "Abra sayohati, Oltin va Ziravor bozorlari, Al Fahidi meros tumani."
+        }
+      },
+      {
+        "day": 5,
+        "title": { "en": "Departure", "ru": "Вылет", "uz": "Jo'nash" },
+        "description": {
+          "en": "Free morning and transfer to the airport.",
+          "ru": "Свободное утро и трансфер в аэропорт.",
+          "uz": "Erkin tong va aeroportga transfer."
+        }
+      }
+    ],
+    "included": {
+      "en": ["Round-trip flights from Tashkent", "4 nights hotel", "Airport transfers", "Desert safari with dinner", "City orientation tour"],
+      "ru": ["Авиабилеты туда-обратно из Ташкента", "4 ночи в отеле", "Трансферы аэропорт", "Сафари в пустыне с ужином", "Обзорная экскурсия"],
+      "uz": ["Toshkentdan borish-qaytish parvozlari", "4 kecha mehmonxona", "Aeroport transferlari", "Kechki ovqat bilan cho'l safari", "Shaharga tanishtirish ekskursiyasi"]
+    },
+    "excluded": {
+      "en": ["Travel insurance", "Personal expenses", "Optional attractions", "Visa fees if applicable"],
+      "ru": ["Страховка", "Личные расходы", "Опциональные аттракционы", "Виза при необходимости"],
+      "uz": ["Sayohat sug'urtasi", "Shaxsiy xarajatlar", "Ixtiyoriy attraksionlar", "Zarur bo'lsa viza to'lovlari"]
+    },
+    "availableDates": ["2026-09-15", "2026-10-01", "2026-11-12"],
+    "agencyRating": 4.8,
+    "availability": "available",
+    "tags": ["city", "family", "luxury"],
+    "seasons": ["autumn", "winter", "spring"]
+  },
+  {
+    "id": "istanbul-bosphorus-6d",
+    "slug": "istanbul-bosphorus-6d",
+    "title": {
+      "en": "Istanbul & the Bosporus — 6 Days",
+      "ru": "Стамбул и Босфор — 6 дней",
+      "uz": "Istanbul va Bosfor — 6 kun"
+    },
+    "destinationId": "istanbul",
+    "agencyId": "silk-road-travel",
+    "durationDays": 6,
+    "startingPrice": 749,
+    "currency": "USD",
+    "coverImage": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [],
+    "description": {
+      "en": "Hagia Sophia, Grand Bazaar, Bosporus cruise, and Asian-side flavours — classic Istanbul for first-timers.",
+      "ru": "Айя-София, Гранд-базар, круиз по Босфору и вкусы азиатской стороны — классический Стамбул для первого визита.",
+      "uz": "Aya Sofiya, Katta bozor, Bosfor kruizi va Osiyo tomoni ta'mlari — birinchi safar uchun klassik Istanbul."
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "title": { "en": "Arrival", "ru": "Прилёт", "uz": "Kelish" },
+        "description": {
+          "en": "Transfer and evening Bosphorus waterfront walk.",
+          "ru": "Трансфер и вечерняя прогулка вдоль Босфора.",
+          "uz": "Transfer va Bosfor bo'yida kechki sayr."
+        }
+      },
+      {
+        "day": 2,
+        "title": { "en": "Sultanahmet", "ru": "Султанахмет", "uz": "Sultonahmet" },
+        "description": {
+          "en": "Blue Mosque, Hagia Sophia, Basilica Cistern.",
+          "ru": "Голубая мечеть, Айя-София, Цистерна Базилика.",
+          "uz": "Moviy masjid, Aya Sofiya, Bazilika Sisternasi."
+        }
+      },
+      {
+        "day": 3,
+        "title": { "en": "Bazaars & Topkapi", "ru": "Базары и Топкапы", "uz": "Bozorlar va Topqapi" },
+        "description": {
+          "en": "Topkapi Palace and Grand Bazaar shopping time.",
+          "ru": "Дворец Топкапы и время на Гранд-базаре.",
+          "uz": "Topqapi saroyi va Katta bozorda xarid vaqti."
+        }
+      },
+      {
+        "day": 4,
+        "title": { "en": "Bosporus cruise", "ru": "Круиз по Босфору", "uz": "Bosfor kruizi" },
+        "description": {
+          "en": "Half-day cruise with views of palaces and fortresses.",
+          "ru": "Полудневной круиз с видами на дворцы и крепости.",
+          "uz": "Saroy va qal'alar manzarali yarim kunlik kruiz."
+        }
+      },
+      {
+        "day": 5,
+        "title": { "en": "Asian side", "ru": "Азиатская сторона", "uz": "Osiyo tomoni" },
+        "description": {
+          "en": "Ferry to Kadikoy, local markets and cafés.",
+          "ru": "Паром в Кадыкёй, местные рынки и кафе.",
+          "uz": "Kadiko'yga parom, mahalliy bozorlar va kafelar."
+        }
+      },
+      {
+        "day": 6,
+        "title": { "en": "Departure", "ru": "Вылет", "uz": "Jo'nash" },
+        "description": {
+          "en": "Free morning and airport transfer.",
+          "ru": "Свободное утро и трансфер в аэропорт.",
+          "uz": "Erkin tong va aeroportga transfer."
+        }
+      }
+    ],
+    "included": {
+      "en": ["Flights from Tashkent", "5 nights hotel with breakfast", "Airport transfers", "Guided old city tour", "Bosporus cruise"],
+      "ru": ["Авиабилеты из Ташкента", "5 ночей с завтраком", "Трансферы", "Экскурсия по старому городу", "Круиз по Босфору"],
+      "uz": ["Toshkentdan parvozlar", "Nonushta bilan 5 kecha", "Transferlar", "Eski shahar ekskursiyasi", "Bosfor kruizi"]
+    },
+    "excluded": {
+      "en": ["Museum tickets not listed", "Travel insurance", "Personal shopping"],
+      "ru": ["Билеты в музеи вне программы", "Страховка", "Личные покупки"],
+      "uz": ["Dasturda ko'rsatilmagan muzey chiptalari", "Sug'urta", "Shaxsiy xaridlar"]
+    },
+    "availableDates": ["2026-09-20", "2026-10-10", "2026-04-05"],
+    "agencyRating": 4.8,
+    "availability": "available",
+    "tags": ["city", "culture", "history"],
+    "seasons": ["spring", "autumn"]
+  },
+  {
+    "id": "antalya-family-beach-7d",
+    "slug": "antalya-family-beach-7d",
+    "title": {
+      "en": "Antalya Family Beach Week",
+      "ru": "Анталья: семейная пляжная неделя",
+      "uz": "Antalya oilaviy plyaj haftasi"
+    },
+    "destinationId": "antalya",
+    "agencyId": "oasis-voyages",
+    "durationDays": 7,
+    "startingPrice": 849,
+    "currency": "USD",
+    "coverImage": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [],
+    "description": {
+      "en": "All-inclusive resort week on the Turkish Riviera with kids' clubs, pools, and an optional Old Town evening.",
+      "ru": "Неделя «всё включено» на Турецкой Ривьере с детскими клубами, бассейнами и опциональным вечером в Старом городе.",
+      "uz": "Bolalar klublari, basseynlar va ixtiyoriy Eski shahar kechasi bilan Turkiya Rivierasida hammasi ichiga kirgan hafta."
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "title": { "en": "Arrival & resort", "ru": "Прилёт и курорт", "uz": "Kelish va kurort" },
+        "description": {
+          "en": "Transfer to hotel, check-in, welcome briefing.",
+          "ru": "Трансфер в отель, заселение, приветственный брифинг.",
+          "uz": "Mehmonxonaga transfer, joylashish, salomlashuv brifingi."
+        }
+      },
+      {
+        "day": 2,
+        "title": { "en": "Beach day", "ru": "Пляжный день", "uz": "Plyaj kuni" },
+        "description": {
+          "en": "Full resort day — pools, beach, kids' activities.",
+          "ru": "Полный день на курорте — бассейны, пляж, детские активности.",
+          "uz": "To'liq kurort kuni — basseynlar, plyaj, bolalar mashg'ulotlari."
+        }
+      },
+      {
+        "day": 3,
+        "title": { "en": "Optional Kaleici", "ru": "Опционально: Калеичи", "uz": "Ixtiyoriy: Kaleichi" },
+        "description": {
+          "en": "Optional Old Town & harbour evening tour.",
+          "ru": "Опциональная вечерняя экскурсия по Старому городу и гавани.",
+          "uz": "Ixtiyoriy Eski shahar va bandargoh kechki ekskursiyasi."
+        }
+      },
+      {
+        "day": 4,
+        "title": { "en": "Resort leisure", "ru": "Отдых на курорте", "uz": "Kurortda dam olish" },
+        "description": {
+          "en": "Free day at the hotel with all-inclusive dining.",
+          "ru": "Свободный день в отеле с питанием «всё включено».",
+          "uz": "Hammasi ichiga kirgan ovqatlanish bilan mehmonxonada erkin kun."
+        }
+      },
+      {
+        "day": 5,
+        "title": { "en": "Water park / spa", "ru": "Аквапарк / спа", "uz": "Akva park / spa" },
+        "description": {
+          "en": "Enjoy hotel facilities — aqua zone or spa (as available).",
+          "ru": "Инфраструктура отеля — аквазона или спа (по наличию).",
+          "uz": "Mehmonxona imkoniyatlari — akva zona yoki spa (mavjudligiga qarab)."
+        }
+      },
+      {
+        "day": 6,
+        "title": { "en": "Beach & farewell", "ru": "Пляж и прощание", "uz": "Plyaj va xayrlashuv" },
+        "description": {
+          "en": "Last full beach day and farewell dinner at the resort.",
+          "ru": "Последний полный пляжный день и прощальный ужин.",
+          "uz": "Oxirgi to'liq plyaj kuni va kurortda xayrlashuv kechki ovqati."
+        }
+      },
+      {
+        "day": 7,
+        "title": { "en": "Departure", "ru": "Вылет", "uz": "Jo'nash" },
+        "description": {
+          "en": "Check-out and airport transfer.",
+          "ru": "Выезд и трансфер в аэропорт.",
+          "uz": "Chiqish va aeroportga transfer."
+        }
+      }
+    ],
+    "included": {
+      "en": ["Flights", "6 nights all-inclusive", "Airport–hotel transfers", "Resort kids' club access"],
+      "ru": ["Авиабилеты", "6 ночей всё включено", "Трансферы аэропорт–отель", "Доступ в детский клуб"],
+      "uz": ["Parvozlar", "6 kecha hammasi ichiga kirgan", "Aeroport–mehmonxona transferlari", "Bolalar klubiga kirish"]
+    },
+    "excluded": {
+      "en": ["Optional excursions", "Travel insurance", "Tips"],
+      "ru": ["Опциональные экскурсии", "Страховка", "Чаевые"],
+      "uz": ["Ixtiyoriy ekskursiyalar", "Sug'urta", "Choypuli"]
+    },
+    "availableDates": ["2026-06-10", "2026-07-05", "2026-08-15"],
+    "agencyRating": 4.7,
+    "availability": "available",
+    "tags": ["beach", "family", "resort"],
+    "seasons": ["summer"]
+  },
+  {
+    "id": "maldives-honeymoon-5d",
+    "slug": "maldives-honeymoon-5d",
+    "title": {
+      "en": "Maldives Honeymoon Escape",
+      "ru": "Мальдивы: медовый месяц",
+      "uz": "Maldiv asal oyi dam olishi"
+    },
+    "destinationId": "maldives",
+    "agencyId": "oasis-voyages",
+    "durationDays": 5,
+    "startingPrice": 2199,
+    "currency": "USD",
+    "coverImage": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [],
+    "description": {
+      "en": "Overwater villa nights, lagoon snorkelling, and a private sunset cruise for couples.",
+      "ru": "Ночи в бунгало над водой, снорклинг в лагуне и частный круиз на закате для пар.",
+      "uz": "Suv ustidagi villada kechalar, lagunada snorkelling va juftliklar uchun shaxsiy quyosh botishi kruizi."
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "title": { "en": "Arrival by seaplane", "ru": "Прилёт на гидросамолёте", "uz": "Gidrosamolyotda kelish" },
+        "description": {
+          "en": "Seaplane or speedboat transfer to the resort, villa welcome.",
+          "ru": "Трансфер на гидросамолёте или скоростном катере, встреча на вилле.",
+          "uz": "Gidrosamolyot yoki tez qayiq transferi, villada kutib olish."
+        }
+      },
+      {
+        "day": 2,
+        "title": { "en": "Lagoon day", "ru": "День в лагуне", "uz": "Laguna kuni" },
+        "description": {
+          "en": "Guided snorkelling and beach leisure.",
+          "ru": "Снорклинг с гидом и отдых на пляже.",
+          "uz": "Gid bilan snorkelling va plyajda dam olish."
+        }
+      },
+      {
+        "day": 3,
+        "title": { "en": "Sunset cruise", "ru": "Круиз на закате", "uz": "Quyosh botishi kruizi" },
+        "description": {
+          "en": "Private sunset cruise with soft drinks.",
+          "ru": "Частный круиз на закате с безалкогольными напитками.",
+          "uz": "Alkogolsiz ichimliklar bilan shaxsiy quyosh botishi kruizi."
+        }
+      },
+      {
+        "day": 4,
+        "title": { "en": "Spa & leisure", "ru": "Спа и отдых", "uz": "Spa va dam olish" },
+        "description": {
+          "en": "Optional spa treatments and free villa time.",
+          "ru": "Опциональные спа-процедуры и свободное время на вилле.",
+          "uz": "Ixtiyoriy spa muolajalari va villada erkin vaqt."
+        }
+      },
+      {
+        "day": 5,
+        "title": { "en": "Departure", "ru": "Вылет", "uz": "Jo'nash" },
+        "description": {
+          "en": "Return transfer and international flight.",
+          "ru": "Обратный трансфер и международный рейс.",
+          "uz": "Qaytish transferi va xalqaro parvoz."
+        }
+      }
+    ],
+    "included": {
+      "en": ["International flights", "4 nights overwater villa", "Half-board", "Seaplane/speedboat transfers", "Sunset cruise"],
+      "ru": ["Международные авиабилеты", "4 ночи в бунгало над водой", "Полупансион", "Трансферы гидросамолёт/катер", "Круиз на закате"],
+      "uz": ["Xalqaro parvozlar", "4 kecha suv ustidagi villa", "Yarim pansion", "Gidrosamolyot/qayiq transferlari", "Quyosh botishi kruizi"]
+    },
+    "excluded": {
+      "en": ["Spa treatments", "Alcohol", "Travel insurance"],
+      "ru": ["Спа-процедуры", "Алкоголь", "Страховка"],
+      "uz": ["Spa muolajalari", "Alkogol", "Sug'urta"]
+    },
+    "availableDates": ["2026-11-20", "2026-12-10", "2027-02-14"],
+    "agencyRating": 4.7,
+    "availability": "available",
+    "tags": ["beach", "luxury", "honeymoon"],
+    "seasons": ["winter", "spring"]
+  },
+  {
+    "id": "bali-temples-culture-8d",
+    "slug": "bali-temples-culture-8d",
+    "title": {
+      "en": "Bali Temples & Culture — 8 Days",
+      "ru": "Бали: храмы и культура — 8 дней",
+      "uz": "Bali ibodatxonalari va madaniyati — 8 kun"
+    },
+    "destinationId": "bali",
+    "agencyId": "amber-horizon",
+    "durationDays": 8,
+    "startingPrice": 1499,
+    "currency": "USD",
+    "coverImage": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [],
+    "description": {
+      "en": "Ubud rice terraces, temple visits, Uluwatu sunset, and beach time in the south.",
+      "ru": "Рисовые террасы Убуда, храмы, закат в Улувату и пляжный отдых на юге.",
+      "uz": "Ubud sholi terasalari, ibodatxonalar, Uluwatu quyosh botishi va janubda plyaj vaqti."
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "title": { "en": "Arrival Denpasar", "ru": "Прилёт в Денпасар", "uz": "Denpasarga kelish" },
+        "description": {
+          "en": "Airport meet & transfer to Ubud hotel.",
+          "ru": "Встреча в аэропорту и трансфер в отель в Убуде.",
+          "uz": "Aeroportda kutib olish va Ubud mehmonxonasiga transfer."
+        }
+      },
+      {
+        "day": 2,
+        "title": { "en": "Ubud highlights", "ru": "Главное в Убуде", "uz": "Ubud diqqatga sazovor joylari" },
+        "description": {
+          "en": "Rice terraces, monkey forest, and local lunch.",
+          "ru": "Рисовые террасы, лес обезьян и местный обед.",
+          "uz": "Sholi terasalari, maymunlar o'rmoni va mahalliy tushlik."
+        }
+      },
+      {
+        "day": 3,
+        "title": { "en": "Temple circuit", "ru": "Храмовый маршрут", "uz": "Ibodatxona marshruti" },
+        "description": {
+          "en": "Tirta Empul and mountain temple visit.",
+          "ru": "Тирта Эмпул и храм в горах.",
+          "uz": "Tirta Empul va tog' ibodatxonasiga tashrif."
+        }
+      },
+      {
+        "day": 4,
+        "title": { "en": "To the south", "ru": "На юг", "uz": "Janubga" },
+        "description": {
+          "en": "Transfer to southern coast hotel.",
+          "ru": "Переезд в отель на южном побережье.",
+          "uz": "Janubiy qirg'oq mehmonxonasiga ko'chish."
+        }
+      },
+      {
+        "day": 5,
+        "title": { "en": "Uluwatu", "ru": "Улувату", "uz": "Uluwatu" },
+        "description": {
+          "en": "Cliff temple and kecak dance at sunset.",
+          "ru": "Храм на скале и танец кечак на закате.",
+          "uz": "Qoya ustidagi ibodatxona va quyosh botishida kecak raqsi."
+        }
+      },
+      {
+        "day": 6,
+        "title": { "en": "Beach leisure", "ru": "Пляжный отдых", "uz": "Plyaj dam olishi" },
+        "description": {
+          "en": "Free day on the beach or optional spa.",
+          "ru": "Свободный день на пляже или опциональное спа.",
+          "uz": "Plyajda erkin kun yoki ixtiyoriy spa."
+        }
+      },
+      {
+        "day": 7,
+        "title": { "en": "Optional Nusa", "ru": "Опционально: Нуса", "uz": "Ixtiyoriy: Nusa" },
+        "description": {
+          "en": "Optional day trip to nearby islands.",
+          "ru": "Опциональная поездка на ближайшие острова.",
+          "uz": "Yaqin orollarga ixtiyoriy kunlik sayohat."
+        }
+      },
+      {
+        "day": 8,
+        "title": { "en": "Departure", "ru": "Вылет", "uz": "Jo'nash" },
+        "description": {
+          "en": "Transfer to airport for departure.",
+          "ru": "Трансфер в аэропорт на вылет.",
+          "uz": "Jo'nash uchun aeroportga transfer."
+        }
+      }
+    ],
+    "included": {
+      "en": ["Flights via hub", "7 nights hotels", "Private transfers", "Ubud & temple tours", "Uluwatu evening"],
+      "ru": ["Авиабилеты через хаб", "7 ночей в отелях", "Частные трансферы", "Туры по Убуду и храмам", "Вечер в Улувату"],
+      "uz": ["Hab orqali parvozlar", "7 kecha mehmonxona", "Shaxsiy transferlar", "Ubud va ibodatxona turlari", "Uluwatu kechasi"]
+    },
+    "excluded": {
+      "en": ["Optional island trip", "Travel insurance", "Personal expenses"],
+      "ru": ["Опциональная поездка на острова", "Страховка", "Личные расходы"],
+      "uz": ["Ixtiyoriy orol sayohati", "Sug'urta", "Shaxsiy xarajatlar"]
+    },
+    "availableDates": ["2026-09-01", "2026-10-20", "2027-03-15"],
+    "agencyRating": 4.8,
+    "availability": "available",
+    "tags": ["island", "culture", "wellness"],
+    "seasons": ["spring", "autumn", "winter"]
+  },
+  {
+    "id": "paris-city-lights-5d",
+    "slug": "paris-city-lights-5d",
+    "title": {
+      "en": "Paris City Lights — 5 Days",
+      "ru": "Париж: огни города — 5 дней",
+      "uz": "Parij shahar chiroqlari — 5 kun"
+    },
+    "destinationId": "paris",
+    "agencyId": "tashkent-wings",
+    "durationDays": 5,
+    "startingPrice": 1349,
+    "currency": "USD",
+    "coverImage": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [],
+    "description": {
+      "en": "Eiffel Tower, Louvre highlights, Seine cruise, and Montmartre — a classic first Paris trip.",
+      "ru": "Эйфелева башня, Лувр, круиз по Сене и Монмартр — классическая первая поездка в Париж.",
+      "uz": "Eyfel minorasi, Luvr, Sena kruizi va Monmartr — klassik birinchi Parij sayohati."
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "title": { "en": "Arrival", "ru": "Прилёт", "uz": "Kelish" },
+        "description": {
+          "en": "Airport transfer and evening Seine walk.",
+          "ru": "Трансфер и вечерняя прогулка вдоль Сены.",
+          "uz": "Aeroport transferi va Sena bo'yida kechki sayr."
+        }
+      },
+      {
+        "day": 2,
+        "title": { "en": "Icons", "ru": "Символы", "uz": "Ramzlar" },
+        "description": {
+          "en": "Eiffel Tower area and Trocadero views.",
+          "ru": "Район Эйфелевой башни и виды с Трокадеро.",
+          "uz": "Eyfel minorasi hududi va Trokadero manzaralari."
+        }
+      },
+      {
+        "day": 3,
+        "title": { "en": "Louvre & islands", "ru": "Лувр и острова", "uz": "Luvr va orollar" },
+        "description": {
+          "en": "Louvre visit and Île de la Cité stroll.",
+          "ru": "Лувр и прогулка по острову Сите.",
+          "uz": "Luvrga tashrif va Sit oroli bo'ylab sayr."
+        }
+      },
+      {
+        "day": 4,
+        "title": { "en": "Montmartre", "ru": "Монмартр", "uz": "Monmartr" },
+        "description": {
+          "en": "Sacré-Cœur, artists' square, evening cruise.",
+          "ru": "Сакре-Кёр, площадь художников, вечерний круиз.",
+          "uz": "Sakre-Kyor, rassomlar maydoni, kechki kruiz."
+        }
+      },
+      {
+        "day": 5,
+        "title": { "en": "Departure", "ru": "Вылет", "uz": "Jo'nash" },
+        "description": {
+          "en": "Free morning and airport transfer.",
+          "ru": "Свободное утро и трансфер в аэропорт.",
+          "uz": "Erkin tong va aeroportga transfer."
+        }
+      }
+    ],
+    "included": {
+      "en": ["Flights from Tashkent", "4 nights hotel", "Airport transfers", "Louvre timed entry", "Seine cruise"],
+      "ru": ["Авиабилеты из Ташкента", "4 ночи в отеле", "Трансферы", "Вход в Лувр по времени", "Круиз по Сене"],
+      "uz": ["Toshkentdan parvozlar", "4 kecha mehmonxona", "Transferlar", "Luvrga vaqtli kirish", "Sena kruizi"]
+    },
+    "excluded": {
+      "en": ["Eiffel Tower summit tickets", "Travel insurance", "Meals except breakfast"],
+      "ru": ["Билеты на вершину Эйфелевой башни", "Страховка", "Питание кроме завтрака"],
+      "uz": ["Eyfel minorasi cho'qqisi chiptalari", "Sug'urta", "Nonushtadan tashqari ovqatlar"]
+    },
+    "availableDates": ["2026-05-12", "2026-09-18", "2026-10-08"],
+    "agencyRating": 4.6,
+    "availability": "available",
+    "tags": ["city", "culture", "romance"],
+    "seasons": ["spring", "autumn"]
+  },
+  {
+    "id": "london-highlights-5d",
+    "slug": "london-highlights-5d",
+    "title": {
+      "en": "London Highlights — 5 Days",
+      "ru": "Лондон: главное за 5 дней",
+      "uz": "London asosiy joylari — 5 kun"
+    },
+    "destinationId": "london",
+    "agencyId": "tashkent-wings",
+    "durationDays": 5,
+    "startingPrice": 1399,
+    "currency": "USD",
+    "coverImage": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [],
+    "description": {
+      "en": "Westminster, Tower of London, British Museum, and a Thames evening walk.",
+      "ru": "Вестминстер, Тауэр, Британский музей и вечерняя прогулка вдоль Темзы.",
+      "uz": "Vestminster, London minorasi, Britaniya muzeyi va Temza bo'yida kechki sayr."
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "title": { "en": "Arrival", "ru": "Прилёт", "uz": "Kelish" },
+        "description": {
+          "en": "Transfer to hotel and South Bank evening.",
+          "ru": "Трансфер в отель и вечер на Саут-Бэнк.",
+          "uz": "Mehmonxonaga transfer va South Bank kechasi."
+        }
+      },
+      {
+        "day": 2,
+        "title": { "en": "Royal London", "ru": "Королевский Лондон", "uz": "Qirollik Londini" },
+        "description": {
+          "en": "Westminster Abbey area, Big Ben, Buckingham Palace exterior.",
+          "ru": "Вестминстерское аббатство, Биг-Бен, Букингемский дворец снаружи.",
+          "uz": "Vestminster abbatiyasi, Big Ben, Bukingem saroyi tashqi ko'rinishi."
+        }
+      },
+      {
+        "day": 3,
+        "title": { "en": "Tower & City", "ru": "Тауэр и Сити", "uz": "Minora va Siti" },
+        "description": {
+          "en": "Tower of London visit and City walk.",
+          "ru": "Посещение Тауэра и прогулка по Сити.",
+          "uz": "London minorasiga tashrif va Siti bo'ylab sayr."
+        }
+      },
+      {
+        "day": 4,
+        "title": { "en": "Museums", "ru": "Музеи", "uz": "Muzeylar" },
+        "description": {
+          "en": "British Museum and free afternoon in Covent Garden.",
+          "ru": "Британский музей и свободный день в Ковент-Гарден.",
+          "uz": "Britaniya muzeyi va Covent Garden'da erkin tushdan keyin."
+        }
+      },
+      {
+        "day": 5,
+        "title": { "en": "Departure", "ru": "Вылет", "uz": "Jo'nash" },
+        "description": {
+          "en": "Check-out and airport transfer.",
+          "ru": "Выезд и трансфер в аэропорт.",
+          "uz": "Chiqish va aeroportga transfer."
+        }
+      }
+    ],
+    "included": {
+      "en": ["Flights", "4 nights hotel B&B", "Airport transfers", "Tower of London tickets", "Oyster day travel"],
+      "ru": ["Авиабилеты", "4 ночи B&B", "Трансферы", "Билеты в Тауэр", "Проезд Oyster на день"],
+      "uz": ["Parvozlar", "4 kecha B&B", "Transferlar", "London minorasi chiptalari", "Kunlik Oyster sayohati"]
+    },
+    "excluded": {
+      "en": ["UK visa fees", "Travel insurance", "Theatre tickets"],
+      "ru": ["Виза в Великобританию", "Страховка", "Билеты в театр"],
+      "uz": ["Buyuk Britaniya viza to'lovlari", "Sug'urta", "Teatr chiptalari"]
+    },
+    "availableDates": ["2026-05-20", "2026-09-25", "2026-11-05"],
+    "agencyRating": 4.6,
+    "availability": "available",
+    "tags": ["city", "culture", "history"],
+    "seasons": ["spring", "autumn"]
+  },
+  {
+    "id": "silk-road-classic-8d",
+    "slug": "silk-road-classic-8d",
+    "title": {
+      "en": "Silk Road Classic: Samarkand–Bukhara–Khiva",
+      "ru": "Классика Шёлкового пути: Самарканд–Бухара–Хива",
+      "uz": "Ipak yo'li klassikasi: Samarqand–Buxoro–Xiva"
+    },
+    "destinationId": "samarkand",
+    "agencyId": "registan-routes",
+    "durationDays": 8,
+    "startingPrice": 899,
+    "currency": "USD",
+    "coverImage": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1590077428593-a55bb07c4665?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": {
+      "en": "The ultimate Uzbekistan circuit — Registan at dusk, Bukhara courtyards, and the walls of Khiva with expert local guides.",
+      "ru": "Главный маршрут по Узбекистану — Регистан на закате, дворики Бухары и стены Хивы с опытными местными гидами.",
+      "uz": "O'zbekistonning eng yaxshi marshruti — quyosh botishida Registon, Buxoro hovlilari va mahalliy gidlar bilan Xiva devorlari."
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "title": { "en": "Tashkent start", "ru": "Старт в Ташкенте", "uz": "Toshkentdan start" },
+        "description": {
+          "en": "Meet in Tashkent, city orientation, overnight train or flight to Samarkand.",
+          "ru": "Встреча в Ташкенте, обзор города, ночной поезд или рейс в Самарканд.",
+          "uz": "Toshkentda uchrashuv, shahar tanishtiruvi, Samarqandga tungi poyezd yoki parvoz."
+        }
+      },
+      {
+        "day": 2,
+        "title": { "en": "Registan", "ru": "Регистан", "uz": "Registon" },
+        "description": {
+          "en": "Full day Samarkand: Registan, Shah-i-Zinda, Bibi-Khanym.",
+          "ru": "Полный день в Самарканде: Регистан, Шахи-Зинда, Биби-Ханым.",
+          "uz": "Samarqandda to'liq kun: Registon, Shohi Zinda, Bibi Xonim."
+        }
+      },
+      {
+        "day": 3,
+        "title": { "en": "To Bukhara", "ru": "В Бухару", "uz": "Buxoroga" },
+        "description": {
+          "en": "High-speed train to Bukhara, evening old town walk.",
+          "ru": "Скоростной поезд в Бухару, вечерняя прогулка по старому городу.",
+          "uz": "Tezyurar poyezd bilan Buxoroga, kechqurun eski shahar sayri."
+        }
+      },
+      {
+        "day": 4,
+        "title": { "en": "Bukhara gems", "ru": "Жемчужины Бухары", "uz": "Buxoro javohirlari" },
+        "description": {
+          "en": "Lyabi-Hauz, Ark, Kalyan minaret, trading domes.",
+          "ru": "Ляби-Хауз, Арк, минарет Калян, торговые купола.",
+          "uz": "Labi Hovuz, Ark, Kalon minorasi, savdo gumbazlari."
+        }
+      },
+      {
+        "day": 5,
+        "title": { "en": "Desert road to Khiva", "ru": "Через пустыню в Хиву", "uz": "Cho'l orqali Xivaga" },
+        "description": {
+          "en": "Scenic drive across the Kyzylkum to Khiva.",
+          "ru": "Живописный переезд через Кызылкум в Хиву.",
+          "uz": "Qizilqum orqali Xivaga manzarali yo'l."
+        }
+      },
+      {
+        "day": 6,
+        "title": { "en": "Itchan Kala", "ru": "Ичан-Кала", "uz": "Ichon-Qal'a" },
+        "description": {
+          "en": "Full day inside the walled city of Khiva.",
+          "ru": "Полный день внутри стен Ичан-Калы.",
+          "uz": "Xiva devorlari ichida to'liq kun."
+        }
+      },
+      {
+        "day": 7,
+        "title": { "en": "Return to Tashkent", "ru": "Возвращение в Ташкент", "uz": "Toshkentga qaytish" },
+        "description": {
+          "en": "Flight or train back to Tashkent.",
+          "ru": "Самолёт или поезд обратно в Ташкент.",
+          "uz": "Toshkentga qaytish parvozi yoki poyezdi."
+        }
+      },
+      {
+        "day": 8,
+        "title": { "en": "Departure", "ru": "Отъезд", "uz": "Jo'nash" },
+        "description": {
+          "en": "Breakfast and farewell — onward travel or airport.",
+          "ru": "Завтрак и прощание — дальше по плану или в аэропорт.",
+          "uz": "Nonushta va xayrlashuv — keyingi yo'l yoki aeroport."
+        }
+      }
+    ],
+    "included": {
+      "en": ["Hotels with breakfast", "High-speed train tickets", "Private transfers", "Licensed guides", "Entrance fees listed"],
+      "ru": ["Отели с завтраком", "Билеты на скоростной поезд", "Частные трансферы", "Лицензированные гиды", "Указанные входные билеты"],
+      "uz": ["Nonushta bilan mehmonxonalar", "Tezyurar poyezd chiptalari", "Shaxsiy transferlar", "Litsenziyalangan gidlar", "Ko'rsatilgan kirish chiptalari"]
+    },
+    "excluded": {
+      "en": ["International flights", "Travel insurance", "Personal shopping", "Optional shows"],
+      "ru": ["Международные авиабилеты", "Страховка", "Личные покупки", "Опциональные шоу"],
+      "uz": ["Xalqaro parvozlar", "Sug'urta", "Shaxsiy xaridlar", "Ixtiyoriy shoular"]
+    },
+    "availableDates": ["2026-04-10", "2026-05-08", "2026-09-12", "2026-10-03"],
+    "agencyRating": 4.9,
+    "availability": "available",
+    "tags": ["culture", "history", "unesco"],
+    "seasons": ["spring", "autumn"]
+  },
+  {
+    "id": "bukhara-weekend-3d",
+    "slug": "bukhara-weekend-3d",
+    "title": {
+      "en": "Bukhara Weekend Escape",
+      "ru": "Бухара на выходные",
+      "uz": "Buxoro dam olish kunlari"
+    },
+    "destinationId": "bukhara",
+    "agencyId": "registan-routes",
+    "durationDays": 3,
+    "startingPrice": 329,
+    "currency": "USD",
+    "coverImage": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [],
+    "description": {
+      "en": "A compact Bukhara immersion from Tashkent — old town walks, craft workshops, and courtyard dinners.",
+      "ru": "Короткое погружение в Бухару из Ташкента — прогулки по старому городу, мастер-классы и ужины во двориках.",
+      "uz": "Toshkentdan ixcham Buxoro sayohati — eski shahar sayrlari, hunarmandlik ustaxonalari va hovlida kechki ovqatlar."
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "title": { "en": "Arrive Bukhara", "ru": "Прибытие в Бухару", "uz": "Buxoroga kelish" },
+        "description": {
+          "en": "Train from Tashkent, check-in, sunset Lyabi-Hauz.",
+          "ru": "Поезд из Ташкента, заселение, закат у Ляби-Хауз.",
+          "uz": "Toshkentdan poyezd, joylashish, Labi Hovuzda quyosh botishi."
+        }
+      },
+      {
+        "day": 2,
+        "title": { "en": "Old city deep dive", "ru": "Глубоко в старый город", "uz": "Eski shaharga chuqur kirish" },
+        "description": {
+          "en": "Full guided day of mosques, madrasas, and bazaars.",
+          "ru": "Полный день с гидом: мечети, медресе и базары.",
+          "uz": "Masjidlar, madrasalar va bozorlar bilan to'liq gidli kun."
+        }
+      },
+      {
+        "day": 3,
+        "title": { "en": "Return", "ru": "Возвращение", "uz": "Qaytish" },
+        "description": {
+          "en": "Morning free time and train back to Tashkent.",
+          "ru": "Свободное утро и поезд обратно в Ташкент.",
+          "uz": "Erkin tong va Toshkentga qaytish poyezdi."
+        }
+      }
+    ],
+    "included": {
+      "en": ["Round-trip train", "2 nights boutique hotel", "Guided old town tour", "One craft workshop"],
+      "ru": ["Поезд туда-обратно", "2 ночи в бутик-отеле", "Экскурсия по старому городу", "Один мастер-класс"],
+      "uz": ["Borish-qaytish poyezdi", "2 kecha boutique mehmonxona", "Eski shahar ekskursiyasi", "Bitta hunarmandlik ustaxonasi"]
+    },
+    "excluded": {
+      "en": ["Meals except listed", "Travel insurance", "Souvenirs"],
+      "ru": ["Питание вне программы", "Страховка", "Сувениры"],
+      "uz": ["Dasturdagi ovqatlardan tashqari", "Sug'urta", "Esdaliklar"]
+    },
+    "availableDates": ["2026-04-17", "2026-05-22", "2026-09-19"],
+    "agencyRating": 4.9,
+    "availability": "available",
+    "tags": ["culture", "weekend", "history"],
+    "seasons": ["spring", "autumn"]
+  },
+  {
+    "id": "khiva-walls-4d",
+    "slug": "khiva-walls-4d",
+    "title": {
+      "en": "Khiva Inside the Walls — 4 Days",
+      "ru": "Хива внутри стен — 4 дня",
+      "uz": "Xiva devorlar ichida — 4 kun"
+    },
+    "destinationId": "khiva",
+    "agencyId": "silk-road-travel",
+    "durationDays": 4,
+    "startingPrice": 459,
+    "currency": "USD",
+    "coverImage": "https://images.unsplash.com/photo-1590077428593-a55bb07c4665?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [],
+    "description": {
+      "en": "Stay inside Itchan Kala — sunrise on the walls, minaret climbs, and quiet evenings in a caravanserai-style hotel.",
+      "ru": "Проживание в Ичан-Кале — рассвет на стенах, подъёмы на минареты и тихие вечера в отеле в стиле караван-сарая.",
+      "uz": "Ichon-Qal'ada yashash — devorlarda tong otishi, minoraga chiqish va karvonsaroy uslubidagi mehmonxonada sokin kechalar."
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "title": { "en": "Arrive Khiva", "ru": "Прибытие в Хиву", "uz": "Xivaga kelish" },
+        "description": {
+          "en": "Flight or transfer from Tashkent/Urgench, check-in inside the walls.",
+          "ru": "Самолёт или трансфер из Ташкента/Ургенча, заселение внутри стен.",
+          "uz": "Toshkent/Urganchdan parvoz yoki transfer, devorlar ichida joylashish."
+        }
+      },
+      {
+        "day": 2,
+        "title": { "en": "Itchan Kala tour", "ru": "Тур по Ичан-Кале", "uz": "Ichon-Qal'a ekskursiyasi" },
+        "description": {
+          "en": "Full guided exploration of mosques, palaces, and viewpoints.",
+          "ru": "Полный день с гидом: мечети, дворцы и смотровые площадки.",
+          "uz": "Masjidlar, saroylar va manzara nuqtalari bilan to'liq gidli sayr."
+        }
+      },
+      {
+        "day": 3,
+        "title": { "en": "Crafts & walls", "ru": "Ремёсла и стены", "uz": "Hunarmandchilik va devorlar" },
+        "description": {
+          "en": "Woodcarving workshop and sunset walk on the city walls.",
+          "ru": "Мастер-класс по резьбе и закатная прогулка по стенам.",
+          "uz": "Yog'och o'ymakorligi ustaxonasi va shahar devorlarida quyosh botishi sayri."
+        }
+      },
+      {
+        "day": 4,
+        "title": { "en": "Departure", "ru": "Отъезд", "uz": "Jo'nash" },
+        "description": {
+          "en": "Transfer to airport for return.",
+          "ru": "Трансфер в аэропорт для вылета.",
+          "uz": "Qaytish uchun aeroportga transfer."
+        }
+      }
+    ],
+    "included": {
+      "en": ["Domestic flights or transfers", "3 nights hotel in Itchan Kala", "Licensed guide", "Workshop", "Entrances"],
+      "ru": ["Внутренние рейсы или трансферы", "3 ночи в отеле в Ичан-Кале", "Лицензированный гид", "Мастер-класс", "Входные билеты"],
+      "uz": ["Ichki parvozlar yoki transferlar", "Ichon-Qal'ada 3 kecha", "Litsenziyalangan gid", "Ustaxona", "Kirish chiptalari"]
+    },
+    "excluded": {
+      "en": ["Travel insurance", "Meals except breakfast", "Personal expenses"],
+      "ru": ["Страховка", "Питание кроме завтрака", "Личные расходы"],
+      "uz": ["Sug'urta", "Nonushtadan tashqari ovqatlar", "Shaxsiy xarajatlar"]
+    },
+    "availableDates": ["2026-04-24", "2026-05-15", "2026-10-16"],
+    "agencyRating": 4.8,
+    "availability": "available",
+    "tags": ["culture", "history", "unesco"],
+    "seasons": ["spring", "autumn"]
+  },
+  {
+    "id": "chimgan-weekend-hike-2d",
+    "slug": "chimgan-weekend-hike-2d",
+    "title": {
+      "en": "Chimgan Weekend Hike",
+      "ru": "Чимган: поход на выходные",
+      "uz": "Chimyon dam olish kunlari sayri"
+    },
+    "destinationId": "chimgan",
+    "agencyId": "chimgan-peaks",
+    "durationDays": 2,
+    "startingPrice": 119,
+    "currency": "USD",
+    "coverImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [],
+    "description": {
+      "en": "Leave Tashkent Friday evening or Saturday morning — guided mountain hike, picnic lunch, and mountain lodge overnight.",
+      "ru": "Выезд из Ташкента в пятницу вечером или в субботу утром — поход с гидом, пикник и ночёвка в горном домике.",
+      "uz": "Juma kechasi yoki shanba ertalab Toshkentdan chiqish — gid bilan tog' sayri, piknik tushlik va tog' uylarida tunash."
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "title": { "en": "Ascent & lodge", "ru": "Подъём и домик", "uz": "Ko'tarilish va uy" },
+        "description": {
+          "en": "Transfer from Tashkent, guided hike, picnic, lodge dinner.",
+          "ru": "Трансфер из Ташкента, поход с гидом, пикник, ужин в домике.",
+          "uz": "Toshkentdan transfer, gidli sayr, piknik, uyda kechki ovqat."
+        }
+      },
+      {
+        "day": 2,
+        "title": { "en": "Viewpoint & return", "ru": "Смотровая и возвращение", "uz": "Manzara nuqtasi va qaytish" },
+        "description": {
+          "en": "Morning viewpoint hike and return to Tashkent by afternoon.",
+          "ru": "Утренний выход на смотровую и возвращение в Ташкент днём.",
+          "uz": "Ertalab manzara nuqtasiga chiqish va kunduzi Toshkentga qaytish."
+        }
+      }
+    ],
+    "included": {
+      "en": ["Round-trip transfer from Tashkent", "1 night lodge", "Guide", "Picnic lunch", "Dinner & breakfast"],
+      "ru": ["Трансфер туда-обратно из Ташкента", "1 ночь в домике", "Гид", "Пикник-обед", "Ужин и завтрак"],
+      "uz": ["Toshkentdan borish-qaytish transfer", "1 kecha uy", "Gid", "Piknik tushlik", "Kechki ovqat va nonushta"]
+    },
+    "excluded": {
+      "en": ["Personal hiking gear", "Travel insurance", "Extra snacks"],
+      "ru": ["Личное снаряжение", "Страховка", "Доп. перекусы"],
+      "uz": ["Shaxsiy sayr jihozlari", "Sug'urta", "Qo'shimcha gazaklar"]
+    },
+    "availableDates": ["2026-05-02", "2026-06-13", "2026-09-05", "2026-10-10"],
+    "agencyRating": 4.9,
+    "availability": "available",
+    "tags": ["mountains", "adventure", "weekend"],
+    "seasons": ["spring", "summer", "autumn"]
+  },
+  {
+    "id": "chimgan-ski-weekend-3d",
+    "slug": "chimgan-ski-weekend-3d",
+    "title": {
+      "en": "Chimgan Ski Weekend",
+      "ru": "Чимган: лыжные выходные",
+      "uz": "Chimyon chang'i dam olish kunlari"
+    },
+    "destinationId": "chimgan",
+    "agencyId": "chimgan-peaks",
+    "durationDays": 3,
+    "startingPrice": 249,
+    "currency": "USD",
+    "coverImage": "https://images.unsplash.com/photo-1551524559-8af4e6624178?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [],
+    "description": {
+      "en": "Winter mountain break near Tashkent — ski passes, gear rental support, and cozy lodge nights.",
+      "ru": "Зимний горный отдых рядом с Ташкентом — ски-пассы, помощь с прокатом и уютные ночи в домике.",
+      "uz": "Toshkent yaqinida qishki tog' dam olishi — ski-passlar, jihoz ijarasi yordami va qulay uy kechalari."
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "title": { "en": "Transfer & settle", "ru": "Трансфер и заселение", "uz": "Transfer va joylashish" },
+        "description": {
+          "en": "Morning transfer from Tashkent, gear fitting, afternoon slopes.",
+          "ru": "Утренний трансфер из Ташкента, подбор снаряжения, дневные склоны.",
+          "uz": "Toshkentdan ertalabki transfer, jihoz tanlash, kunduzi yonbag'irlar."
+        }
+      },
+      {
+        "day": 2,
+        "title": { "en": "Full ski day", "ru": "Полный лыжный день", "uz": "To'liq chang'i kuni" },
+        "description": {
+          "en": "Full day on the slopes with guide tips for beginners.",
+          "ru": "Полный день на склонах с советами гида для новичков.",
+          "uz": "Yangi boshlovchilar uchun gid maslahatlari bilan to'liq kun."
+        }
+      },
+      {
+        "day": 3,
+        "title": { "en": "Last runs & return", "ru": "Последние спуски и возвращение", "uz": "Oxirgi tushishlar va qaytish" },
+        "description": {
+          "en": "Morning skiing and afternoon return to Tashkent.",
+          "ru": "Утреннее катание и возвращение в Ташкент днём.",
+          "uz": "Ertalabki chang'i va kunduzi Toshkentga qaytish."
+        }
+      }
+    ],
+    "included": {
+      "en": ["Transfers", "2 nights lodge", "2-day ski pass", "Gear rental coordination", "Breakfasts"],
+      "ru": ["Трансферы", "2 ночи в домике", "Ски-пасс на 2 дня", "Организация проката", "Завтраки"],
+      "uz": ["Transferlar", "2 kecha uy", "2 kunlik ski-pass", "Jihoz ijarasini tashkil etish", "Nonushtalar"]
+    },
+    "excluded": {
+      "en": ["Ski lessons", "Travel insurance", "Lunches & dinners", "Personal gear purchase"],
+      "ru": ["Уроки катания", "Страховка", "Обеды и ужины", "Покупка снаряжения"],
+      "uz": ["Chang'i darslari", "Sug'urta", "Tushlik va kechki ovqatlar", "Shaxsiy jihoz xarid"]
+    },
+    "availableDates": ["2026-12-18", "2027-01-08", "2027-02-12"],
+    "agencyRating": 4.9,
+    "availability": "available",
+    "tags": ["mountains", "winter", "weekend"],
+    "seasons": ["winter"]
+  },
+  {
+    "id": "tashkent-city-discovery-2d",
+    "slug": "tashkent-city-discovery-2d",
+    "title": {
+      "en": "Tashkent City Discovery",
+      "ru": "Ташкент: открытие города",
+      "uz": "Toshkent shahrini kashf etish"
+    },
+    "destinationId": "tashkent",
+    "agencyId": "amber-horizon",
+    "durationDays": 2,
+    "startingPrice": 149,
+    "currency": "USD",
+    "coverImage": "https://images.unsplash.com/photo-1587974928442-77dc3e0dba72?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [],
+    "description": {
+      "en": "Metro art, Chorsu Bazaar, museums, and modern café culture — the perfect start or add-on in the capital.",
+      "ru": "Искусство метро, базар Чорсу, музеи и современная кафе-культура — идеальный старт или дополнение в столице.",
+      "uz": "Metro san'ati, Chorsu bozori, muzeylar va zamonaviy kafe madaniyati — poytaxtda mukammal start yoki qo'shimcha."
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "title": { "en": "Heritage & markets", "ru": "Наследие и рынки", "uz": "Meros va bozorlar" },
+        "description": {
+          "en": "Old city mosques, Chorsu Bazaar, and metro stations tour.",
+          "ru": "Мечети старого города, базар Чорсу и тур по станциям метро.",
+          "uz": "Eski shahar masjidlari, Chorsu bozori va metro stansiyalari turi."
+        }
+      },
+      {
+        "day": 2,
+        "title": { "en": "Modern Tashkent", "ru": "Современный Ташкент", "uz": "Zamonaviy Toshkent" },
+        "description": {
+          "en": "Museums, Independence Square, and café hopping.",
+          "ru": "Музеи, площадь Независимости и кафе.",
+          "uz": "Muzeylar, Mustaqillik maydoni va kafolar."
+        }
+      }
+    ],
+    "included": {
+      "en": ["Local guide", "Metro day tickets", "Museum entrances listed", "Welcome lunch"],
+      "ru": ["Местный гид", "Дневные билеты на метро", "Указанные музеи", "Приветственный обед"],
+      "uz": ["Mahalliy gid", "Kunlik metro chiptalari", "Ko'rsatilgan muzeylar", "Salomlashuv tushligi"]
+    },
+    "excluded": {
+      "en": ["Hotel", "Travel insurance", "Personal shopping"],
+      "ru": ["Отель", "Страховка", "Личные покупки"],
+      "uz": ["Mehmonxona", "Sug'urta", "Shaxsiy xaridlar"]
+    },
+    "availableDates": ["2026-04-05", "2026-05-01", "2026-09-01", "2026-11-15"],
+    "agencyRating": 4.8,
+    "availability": "available",
+    "tags": ["city", "culture", "local"],
+    "seasons": ["spring", "summer", "autumn", "winter"]
+  }
+]

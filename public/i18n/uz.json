@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "title": "Travel Zone — Turlar va sayohat tajribalari",
+    "description": "O'zbekiston va butun dunyodagi tasdiqlangan sayohat agentliklaridan turlarni toping. Takliflarni solishtiring, mutaxassislar bilan bog'laning va keyingi sayohatingizni rejalashtiring."
+  },
+  "nav": {
+    "menu": "MENYU",
+    "tours": "Turlar",
+    "destinations": "Yo'nalishlar",
+    "agencies": "Sayohat agentliklari",
+    "about": "Travel Zone haqida",
+    "partner": "Hamkor bo'lish",
+    "favorites": "Sevimlilar",
+    "book": "So'rov yuborish",
+    "map": "Xarita",
+    "colTours": "Turlar",
+    "colDestinations": "Yo'nalishlar",
+    "colAgencies": "Sayohat agentliklari",
+    "colAbout": "Travel Zone",
+    "findTours": "Turlarni topish",
+    "checkAvailability": "Mavjudlikni tekshirish va so'rov yuborish",
+    "forAgencies": "Sayohat agentliklari uchun",
+    "joinPlatform": "Sayohat agentligi sifatida qo'shilish",
+    "verifiedAgencies": "Tasdiqlangan agentliklar",
+    "howItWorks": "Qanday ishlaydi",
+    "quality": "Sifat kafolati"
+  },
+  "seasons": {
+    "spring": "Bahor",
+    "summer": "Yoz",
+    "autumn": "Kuz",
+    "winter": "Qish",
+    "slogans": {
+      "summer": "Dunyo sizni kutmoqda",
+      "autumn": "Sayohat uchun mukammal fasl",
+      "winter": "Qish faslini issiq o'lkalarda o'tkazing",
+      "spring": "Sarguzashtlar bahordan boshlanadi"
+    }
+  },
+  "hero": {
+    "line1": "Sayohat",
+    "line2": "eng yaxshi",
+    "line3": "shaklida",
+    "line4": "siz bilan."
+  },
+  "booking": {
+    "arrival": "Jo'nash",
+    "departure": "Qaytish",
+    "persons": "Sayohatchilar",
+    "book": "so'rov yuborish"
+  },
+  "intro": {
+    "headline": "Sizning sayohat sarguzashtingiz",
+    "rotator": [
+      "butun dunyo bo'ylab",
+      "ishonchli agentliklar bilan",
+      "unutilmas joylarga",
+      "oddiy va qulay",
+      "sifat bilan",
+      "har faslda",
+      "ochiq yo'llarda",
+      "oddiydan tashqarida"
+    ],
+    "text": "O'zbekiston va butun dunyodagi tasdiqlangan sayohat agentliklaridan turlarni toping. Takliflarni solishtiring, mutaxassislar bilan bog'laning va keyingi sayohatingizni rejalashtiring — iliq, shaxsiy va ishonchli.",
+    "namePrompt": "Sizga qanday murojaat qilaylik?"
+  },
+  "cards": {
+    "findTours": {
+      "title": "Turlarni topish",
+      "subtitle": "Keyingi sayohatingiz shu yerdan boshlanadi"
+    },
+    "agencies": {
+      "title": "Sayohat agentliklari",
+      "subtitle": "Ishonchli tasdiqlangan hamkorlar"
+    },
+    "stories": {
+      "title": "Travel Zone'dan",
+      "subtitle": "Hikoyalar"
+    },
+    "deals": {
+      "title": "Maxsus takliflar",
+      "subtitle": "Eng yaxshi sayohat aksiyalari"
+    },
+    "concierge": {
+      "title": "Travel Concierge",
+      "subtitle": "Shaxsiy sayohat maslahatlari"
+    },
+    "partner": {
+      "title": "Hamkor bo'lish",
+      "subtitle": "Sayohat biznesingizni rivojlantiring"
+    },
+    "newsletter": {
+      "title": "Yangiliklar ro'yxatiga obuna bo'ling",
+      "subtitle": "Yangiliklar, maslahatlar va ko'proq"
+    },
+    "scout": {
+      "title": "Travel Scout",
+      "subtitle": "Sayohat qiling, sharh qoldiring, mukofot oling"
+    }
+  },
+  "cardDetails": {
+    "findTours": {
+      "title": "Turlarni topish va band qilish",
+      "badge": "Travel Zone Marketplace",
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
+      "description": "Travel Zone orqali dunyo va O'zbekiston bo'ylab yuzlab tasdiqlangan turpaketlarni toping. Har bir tur qulay narxlar, shaffof shartlar va mutaxassislar hamrohligini o'z ichiga oladi.",
+      "highlights": [
+        "100% tasdiqlangan turistik agentliklar",
+        "Dunyo va O'zbekiston bo'ylab 50+ yo'nalishlar",
+        "Qulay to'lov va 24/7 mijozlarni qo'llab-quvvatlash"
+      ]
+    },
+    "agencies": {
+      "title": "Ishonchli Sayohat Agentliklari",
+      "badge": "Verified Partners",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80",
+      "description": "Biz faqat o'z faoliyatini rasmiy tasdiqlagan va yuqori mijoz reytingiga ega bo'lgan nufuzli sayohat agentliklari bilan hamkorlik qilamiz.",
+      "highlights": [
+        "Litsenziyalangan tur operatorlar",
+        "Mijozlarning haqiqiy baholari va sharhlari",
+        "Shaxsiy gid va guruh turlari kafolati"
+      ]
+    },
+    "stories": {
+      "title": "Travel Zone Hikoyalari va Ilhom",
+      "badge": "Travel Stories",
+      "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=1200&q=80",
+      "description": "Sayohatchilar tajribalari, tog' cho'qqilaridan fotoreportajlar va dunyoning eng chiroyli burchaklariga oid foydali maslahatlar.",
+      "highlights": [
+        "Eksklyuziv sayohat gidlari va maslahatlar",
+        "Fasllar bo'yicha eng zo'r marshrutlar",
+        "Haqiqiy sayohatchilar tajribalari"
+      ]
+    },
+    "deals": {
+      "title": "Eksklyuziv Sayohat Chegirmalari va Takliflar",
+      "badge": "Special Deals",
+      "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
+      "description": "Eng ommabop yo'nalishlar bo'yicha mavsumiy chegirmalar, so'nggi daqiqa turlari (last minute) va sovg'a sertifikatlari.",
+      "highlights": [
+        "Mavsumiy 30% gacha chegirmalar",
+        "Oila va guruhlar uchun maxsus paketlar",
+        "Erta band qilish bo'yicha bonuslar"
+      ]
+    },
+    "concierge": {
+      "title": "Travel Zone Shaxsiy Concierge Xizmati",
+      "badge": "VIP Support",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80",
+      "description": "Sayohat konsyerjimiz sizning individual xohishlaringizga mos tur tanlashda va marshrut tuzishda yordam beradi.",
+      "highlights": [
+        "Individual marshrut va chipta tanlash",
+        "Mehmonxona va transfer bron qilish",
+        "Sayohat davomida uzluksiz aloqa"
+      ]
+    },
+    "partner": {
+      "title": "Travel Zone B2B Hamkorlik Dasturi",
+      "badge": "Business Integration",
+      "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=1200&q=80",
+      "description": "Sayohat agentligingiz bormi? Turlaringizni Travel Zone platformasiga joylashtiring va minglab yangi sayohatchilarni jalb qiling.",
+      "highlights": [
+        "Qulay boshqaruv paneli va statistika",
+        "To'g'ridan-to mehmondan so'rovlar olish",
+        "Marketplace reklama ko'magi"
+      ]
+    },
+    "newsletter": {
+      "title": "Eksklyuziv Yangiliklar va Chegirmalar Obunasi",
+      "badge": "Newsletter",
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80",
+      "description": "Obuna bo'ling va eng so'nggi turlar, qaynoq aktsiyalar hamda sayohat sirlari haqidagi ma'lumotlarni birinchilardan bo'lib oling.",
+      "highlights": [
+        "Haftalik eng yaxshi tur toptoplari",
+        "Obunachilar uchun maxsus promokodlar",
+        "Yangi parvoz reyslari haqida xabarlar"
+      ]
+    },
+    "scout": {
+      "title": "Travel Zone Scout — Tajriba Alashing va Sovrin Oling",
+      "badge": "Travel Scout",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "description": "Sayohat qiling, rasm va sharhlaringiz bilan bo'lishing, reytingingizni oshiring va kelgusi turlar uchun vaucher hamda sovg'alarga ega bo'ling.",
+      "highlights": [
+        "Sharhlar uchun bonus ballar",
+        "Sayohat vaucherlari va promokodlar",
+        "Sayohatchilar hamjamiyatiga a'zolik"
+      ]
+    }
+  },
+  "catalog": {
+    "headline": "Sizning turingiz",
+    "rotator": [
+      "butun dunyo bo'ylab",
+      "Dubayda",
+      "Istanbulda",
+      "O'zbekistonda",
+      "orzu joy sifatida",
+      "o'ziga xos xarakter bilan"
+    ],
+    "text": "Butun dunyo bo'ylab eng yaxshi Travel Zone turlari orzuingizdagi dam olishni haqiqatga aylantirishga tayyor. Qaysi sayohatni tanlaysiz?",
+    "inquire": "Tur bo'yicha so'rovlar",
+    "book": "Turlar bo'yicha so'rov yuborish"
+  },
+  "compare": {
+    "summerStrong": "yozda dunyoni kashf eting",
+    "summerLine": "Yozgi sayohatlar\nhar faslda",
+    "winterStrong": "Ilhom beradigan qishki tajribalar",
+    "winterLine": "Qishki sayohatlar\nturli yo'nalishlarda"
+  },
+  "marquee": {
+    "prime": "Eng yaxshi yo'nalishlar",
+    "warmth": "Agentlik g'amxo'rligi",
+    "advice": "Mutaxassis maslahatlari",
+    "guided": "Gidli tajribalar",
+    "carefree": "Beqiyos sayohat",
+    "unique": "Noyob tajribalar"
+  },
+  "why": {
+    "title": "Nega Travel Zone?",
+    "subtitle": "Bizning eng yaxshi sabablarimiz",
+    "text": "Travel Zone sayohatchilarni O'zbekiston va undan tashqaridagi tasdiqlangan sayohat agentliklari bilan bog'laydi. Travel Zone belgisini ko'rgan joyingizda sifatli turlar, shaffof takliflar va g'amxo'r mezbonlarga ishonishingiz mumkin.",
+    "cta": "bizning sifat kafolatimiz"
+  },
+  "last": {
+    "mountains": "Dunyo chaqirmoqda.",
+    "flip": "Travel Zone'ni kashf eting!",
+    "orderGuide": "Yo'nalishlarni ko'rish",
+    "newsletter": "Yangiliklar ro'yxatiga obuna bo'lish",
+    "win": "Yangiliklar ro'yxatiga obuna bo'ling va\nsayohat ilhomini oling"
+  },
+  "about": {
+    "title": "Travel Zone nima?",
+    "text": "Travel Zone — sayohatchilarni sayohat agentliklari va tur tajribalari bilan bog'laydigan bozor.",
+    "travelerTitle": "Sayohatchilar uchun",
+    "travelerSteps": [
+      "Kashf eting",
+      "O'rganing",
+      "Solishtiring",
+      "Tanlang",
+      "Bog'laning",
+      "Sayohat qiling"
+    ],
+    "agencyTitle": "Agentliklar uchun",
+    "agencySteps": [
+      "Qo'shiling",
+      "Tasdiqlang",
+      "E'lon qiling",
+      "Sayohatchilarga yeting",
+      "So'rovlarni qabul qiling",
+      "O'sing"
+    ],
+    "partnerCta": "Travel Zone hamkori bo'ling"
+  },
+  "contact": {
+    "title": "Aloqa",
+    "subtitle": "Travel Zone bilan bog'laning",
+    "telegram": "Telegram",
+    "call": "Qo'ng'iroq qilish",
+    "supportTitle": "Yordam",
+    "supportSubtitle": "Yordam kerakmi? Biz shu yerdamiz."
+  },
+  "footer": {
+    "stay": "Yangiliklardan xabardor bo'ling.",
+    "hashtags": "#travelzone #tours",
+    "contactLocation": "Aloqa va manzil",
+    "address": "Toshkent | O'zbekiston",
+    "company": "Travel Zone Marketplace",
+    "hours": "Dushanba — juma | 09:00 — 18:00",
+    "become": "Travel Zone'ning bir qismi bo'ling!",
+    "becomeCta": "Hamkor bo'lish",
+    "legal": "Huquqiy ma'lumot",
+    "privacy": "Maxfiylik siyosati",
+    "sitemap": "Sayt xaritasi",
+    "terms": "Foydalanish shartlari",
+    "copyright": "© 2026 Travel Zone",
+    "members": "Shaxsiy kabinet",
+    "concierge": "Travel Concierge",
+    "scout": "Travel Scout",
+    "team": "Bizning jamoa",
+    "press": "Matbuot"
+  },
+  "cta": {
+    "tours": "Turlar",
+    "favorites": "Sevimlilar",
+    "offers": "Takliflar",
+    "map": "Xarita",
+    "book": "So'rov yuborish"
+  },
+  "agency": {
+    "verified": "Tasdiqlangan agentlik",
+    "joinTitle": "Travel Zone bilan sayohat biznesingizni rivojlantiring",
+    "joinText": "Turlaringizni joylashtiring. Ko'proq sayohatchilarga yeting. Travel Zone'ga qo'shiling va turlaringizni o'sib borayotgan sayohat bozoriga olib chiqing."
+  },
+  "inquiry": {
+    "success": "So'rovingiz yuborildi. Agentlik tez orada siz bilan bog'lanadi.",
+    "error": "Nimadir noto'g'ri ketdi. Iltimos, qayta urinib ko'ring."
+  },
+  "catalogTabs": {
+    "all": "Barcha Turlar",
+    "foreign": "Chet el Yo'nalishlari",
+    "uzbekistan": "O'zbekiston Turlari",
+    "mountains": "Tog' va Tabiat",
+    "hotels": "Mehmonxonalar & Kurortlar"
+  }
+}

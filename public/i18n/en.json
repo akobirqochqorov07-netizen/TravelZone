@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "title": "Travel Zone — Discover Tours & Travel Experiences",
+    "description": "Discover tours from verified travel agencies across Uzbekistan and beyond. Compare experiences, connect with experts, and book your next journey."
+  },
+  "nav": {
+    "menu": "MENU",
+    "tours": "Tours",
+    "destinations": "Destinations",
+    "agencies": "Travel Agencies",
+    "about": "About Travel Zone",
+    "partner": "Become a Partner",
+    "favorites": "Favorites",
+    "book": "Inquire",
+    "map": "Map",
+    "colTours": "Tours",
+    "colDestinations": "Destinations",
+    "colAgencies": "Travel Agencies",
+    "colAbout": "Travel Zone",
+    "findTours": "Find Tours",
+    "checkAvailability": "Check availability & inquire",
+    "forAgencies": "For Travel Agencies",
+    "joinPlatform": "Join as a Travel Agency",
+    "verifiedAgencies": "Verified Agencies",
+    "howItWorks": "How it works",
+    "quality": "Quality promise"
+  },
+  "seasons": {
+    "spring": "Spring",
+    "summer": "Summer",
+    "autumn": "Autumn",
+    "winter": "Winter",
+    "slogans": {
+      "summer": "The world is waiting for you",
+      "autumn": "The perfect season for travel",
+      "winter": "Spend winter in warm countries",
+      "spring": "Adventures start in spring"
+    }
+  },
+  "hero": {
+    "line1": "Travel",
+    "line2": "Escapes",
+    "line3": "at Their",
+    "line4": "Best."
+  },
+  "booking": {
+    "arrival": "Departure",
+    "departure": "Return",
+    "persons": "Travelers",
+    "book": "inquire"
+  },
+  "intro": {
+    "headline": "Your travel adventure",
+    "rotator": [
+      "around the world",
+      "with trusted agencies",
+      "to unforgettable places",
+      "made simple",
+      "with quality",
+      "in every season",
+      "on open roads",
+      "beyond the ordinary"
+    ],
+    "text": "Discover tours from verified travel agencies across Uzbekistan and beyond. Compare experiences, connect with experts, and book your next journey — warm, personal, and reliable.",
+    "namePrompt": "What would you like us to call you?"
+  },
+  "cards": {
+    "findTours": {
+      "title": "Find Tours",
+      "subtitle": "Your next journey starts here"
+    },
+    "agencies": {
+      "title": "Travel Agencies",
+      "subtitle": "Verified partners you can trust"
+    },
+    "stories": {
+      "title": "From Travel Zone",
+      "subtitle": "Stories"
+    },
+    "deals": {
+      "title": "Getaway Deals",
+      "subtitle": "The best travel specials"
+    },
+    "concierge": {
+      "title": "Travel Concierge",
+      "subtitle": "Personal trip advice"
+    },
+    "partner": {
+      "title": "Become a Partner",
+      "subtitle": "Grow your travel business"
+    },
+    "newsletter": {
+      "title": "Subscribe to our newsletter",
+      "subtitle": "News, tips & much more"
+    },
+    "scout": {
+      "title": "Travel Scout",
+      "subtitle": "Travel, review, receive rewards"
+    }
+  },
+  "cardDetails": {
+    "findTours": {
+      "title": "Discover & Book Tours",
+      "badge": "Travel Zone Marketplace",
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
+      "description": "Find hundreds of verified tour packages across Uzbekistan and worldwide. Every tour includes transparent pricing and expert agency support.",
+      "highlights": [
+        "100% verified travel agencies",
+        "50+ destinations worldwide & Uzbekistan",
+        "Flexible payment & 24/7 support"
+      ]
+    },
+    "agencies": {
+      "title": "Verified Travel Agencies",
+      "badge": "Verified Partners",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80",
+      "description": "We partner exclusively with licensed travel agencies holding top traveler review ratings.",
+      "highlights": [
+        "Licensed tour operators",
+        "Genuine traveler reviews & ratings",
+        "Private guide & group tour guarantees"
+      ]
+    },
+    "stories": {
+      "title": "Travel Zone Stories & Inspiration",
+      "badge": "Travel Stories",
+      "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=1200&q=80",
+      "description": "Real traveler experiences, mountain peak photo stories, and expert destination guides.",
+      "highlights": [
+        "Exclusive travel guides & tips",
+        "Top seasonal itineraries",
+        "Authentic community stories"
+      ]
+    },
+    "deals": {
+      "title": "Exclusive Travel Deals & Specials",
+      "badge": "Special Deals",
+      "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
+      "description": "Seasonal discounts on top destinations, last-minute tour offers, and gift vouchers.",
+      "highlights": [
+        "Up to 30% seasonal discounts",
+        "Family & group package specials",
+        "Early bird booking perks"
+      ]
+    },
+    "concierge": {
+      "title": "Personal Travel Concierge",
+      "badge": "VIP Support",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80",
+      "description": "Our dedicated travel concierge assists you with tailored tour selection and custom itinerary planning.",
+      "highlights": [
+        "Bespoke itinerary & flight selection",
+        "Hotel & private transfer booking",
+        "24/7 dedicated trip assistance"
+      ]
+    },
+    "partner": {
+      "title": "Travel Zone B2B Partner Network",
+      "badge": "Business Integration",
+      "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=1200&q=80",
+      "description": "Are you a licensed travel agency? List your tours on Travel Zone and connect with thousands of active travelers.",
+      "highlights": [
+        "Intuitive management dashboard & analytics",
+        "Direct inquiry leads",
+        "Marketplace promotional support"
+      ]
+    },
+    "newsletter": {
+      "title": "Exclusive Travel News & Offers",
+      "badge": "Newsletter",
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80",
+      "description": "Subscribe to receive instant updates on new tours, flash deals, and travel inspiration.",
+      "highlights": [
+        "Weekly top tour picks",
+        "Subscriber-only promo codes",
+        "New flight route alerts"
+      ]
+    },
+    "scout": {
+      "title": "Travel Scout — Share & Get Rewarded",
+      "badge": "Travel Scout",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "description": "Travel, submit photos & reviews, level up your profile, and claim travel vouchers & gifts.",
+      "highlights": [
+        "Bonus points for reviews",
+        "Travel vouchers & promo rewards",
+        "Exclusive traveler community access"
+      ]
+    }
+  },
+  "catalog": {
+    "headline": "Your tour",
+    "rotator": [
+      "around the world",
+      "in Dubai",
+      "in Istanbul",
+      "in Uzbekistan",
+      "as a place of longing",
+      "full of personality"
+    ],
+    "text": "Across the world, the best Travel Zone tours are ready to turn your dream getaway into reality. Which journey will you choose?",
+    "inquire": "Tour inquiries",
+    "book": "Inquire about tours"
+  },
+  "compare": {
+    "summerStrong": "explore the world in summer",
+    "summerLine": "Summer travel\nin every season",
+    "winterStrong": "Winter experiences that inspire",
+    "winterLine": "Winter travel\nacross destinations"
+  },
+  "marquee": {
+    "prime": "Prime destinations",
+    "warmth": "Agency care",
+    "advice": "Expert travel advice",
+    "guided": "Guided experiences",
+    "carefree": "Carefree travel",
+    "unique": "Unique experiences"
+  },
+  "why": {
+    "title": "Why Travel Zone?",
+    "subtitle": "Our best reasons",
+    "text": "Travel Zone connects travelers with verified travel agencies in Uzbekistan and beyond. Wherever you see the Travel Zone mark, you can trust quality tours, transparent offers, and hosts who care.",
+    "cta": "our quality promise"
+  },
+  "last": {
+    "mountains": "The World is calling.",
+    "flip": "Discover Travel Zone!",
+    "orderGuide": "Explore destinations",
+    "newsletter": "Subscribe to newsletter",
+    "win": "Subscribe to our newsletter &\nGet travel inspiration"
+  },
+  "about": {
+    "title": "What is Travel Zone?",
+    "text": "Travel Zone is a marketplace connecting travelers with travel agencies and tour experiences.",
+    "travelerTitle": "For travelers",
+    "travelerSteps": [
+      "Discover",
+      "Explore",
+      "Compare",
+      "Choose",
+      "Connect",
+      "Travel"
+    ],
+    "agencyTitle": "For agencies",
+    "agencySteps": [
+      "Join",
+      "Verify",
+      "Publish",
+      "Reach travelers",
+      "Receive leads",
+      "Grow"
+    ],
+    "partnerCta": "Become a Travel Zone Partner"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get in touch with Travel Zone",
+    "telegram": "Telegram",
+    "call": "Call",
+    "supportTitle": "Support",
+    "supportSubtitle": "Need help? We're here."
+  },
+  "footer": {
+    "stay": "Stay up to date.",
+    "hashtags": "#travelzone #tours",
+    "contactLocation": "Contact & Location",
+    "address": "Tashkent | Uzbekistan",
+    "company": "Travel Zone Marketplace",
+    "hours": "Monday - Friday | 09:00 - 18:00",
+    "become": "Become part of Travel Zone!",
+    "becomeCta": "Become a partner",
+    "legal": "Legal notice",
+    "privacy": "Privacy policy",
+    "sitemap": "Sitemap",
+    "terms": "Terms & Conditions",
+    "copyright": "© 2026 Travel Zone",
+    "members": "Members Area",
+    "concierge": "Travel Concierge",
+    "scout": "Travel Scout",
+    "team": "Our Team",
+    "press": "Press"
+  },
+  "cta": {
+    "tours": "Tours",
+    "favorites": "Favorites",
+    "offers": "Offers",
+    "map": "Map",
+    "book": "Inquire"
+  },
+  "agency": {
+    "verified": "Verified Agency",
+    "joinTitle": "Grow your travel business with Travel Zone",
+    "joinText": "List your tours. Reach more travelers. Join Travel Zone and bring your tours to a growing travel marketplace."
+  },
+  "inquiry": {
+    "success": "Your inquiry was sent. The agency will contact you soon.",
+    "error": "Something went wrong. Please try again."
+  },
+  "catalogTabs": {
+    "all": "All Tours",
+    "foreign": "Foreign Destinations",
+    "uzbekistan": "Uzbekistan Tours",
+    "mountains": "Mountains & Nature",
+    "hotels": "Hotels & Resorts"
+  }
+}

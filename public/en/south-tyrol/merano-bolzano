@@ -1,0 +1,2032 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Hiking vacation in Merano &amp; Bolzano | Wanderhotels</title>
+<base href="https://www.wanderhotels.com/">
+<meta name="robots" content="index,follow">
+<meta name="description" content="Hiking vacation in South Tyrol between Merano and Bolzano ✔ Nature, culture, and enjoyment ▶ Discover hiking hotels in this region now!">
+<meta name="generator" content="Contao Open Source CMS">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Hiking vacation in Merano &amp;amp; Bolzano | Wanderhotels">
+<meta property="og:description" content="Hiking vacation in South Tyrol between Merano and Bolzano ✔ Nature, culture, and enjoyment ▶ Discover hiking hotels in this region now!">
+<meta property="og:url" content="https://www.wanderhotels.com/en/south-tyrol/merano-bolzano">
+<meta property="og:image" content="https://www.wanderhotels.com/files/content/graphics/og-default.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:site_name" content="Wanderhotels">
+<meta property="og:locale" content="en">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Hiking vacation in Merano &amp;amp; Bolzano | Wanderhotels">
+<meta name="twitter:description" content="Hiking vacation in South Tyrol between Merano and Bolzano ✔ Nature, culture, and enjoyment ▶ Discover hiking hotels in this region now!">
+<meta name="twitter:image" content="https://www.wanderhotels.com/files/content/graphics/og-default.jpg">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://consentcdn.cookiebot.com">
+<link rel="canonical" href="https://www.wanderhotels.com/en/south-tyrol/merano-bolzano">
+<script>(function(){var KEY="wh-season";var params=new URLSearchParams(window.location.search);var seasonFromUrl=params.get("season");function isValidSeason(value){return value==="summer"||value==="winter"}
+function dayOfYear(date){var start=new Date(date.getFullYear(),0,0);return Math.floor((date-start+(start.getTimezoneOffset()-date.getTimezoneOffset())*60000)/86400000)}
+function getCurrentSeason(){var now=new Date();var day=dayOfYear(now);var year=now.getFullYear();var summerStart=dayOfYear(new Date(year,0,31));var winterStart=dayOfYear(new Date(year,8,30));return day>=summerStart&&day<winterStart?"summer":"winter"}
+var storedSeason=null;try{storedSeason=sessionStorage.getItem(KEY)}catch(e){}
+var initialSeason=isValidSeason(seasonFromUrl)?seasonFromUrl:isValidSeason(storedSeason)?storedSeason:getCurrentSeason();try{sessionStorage.setItem(KEY,initialSeason)}catch(e){}
+document.documentElement.classList.remove("season-summer","season-winter");document.documentElement.classList.add("season-"+initialSeason);document.documentElement.setAttribute("data-season",initialSeason);window.__INITIAL_SEASON__=initialSeason})()</script>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,shrink-to-fit=no">
+<link rel="stylesheet" href="/bundles/daesigncalendarfield/flatpickr/flatpickr.min.css?v=7e9ac4f9"><link rel="preload" as="style" href="/bundles/contaowowjs/animate.min.css?v=cc65f6e2" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="/bundles/contaowowjs/animate.min.css?v=cc65f6e2"></noscript><link rel="stylesheet" href="/assets/css/layout.min.css,responsive.min.css,rocksolid-slider.min.css,defau...-f53f866c.css"><script>window.ACTIVITY_LINK_MAP={"sommer":{"13":"https://www.wanderhotels.com/en/active-in-summer/pure-hiking","18":"https://www.wanderhotels.com/en/active-in-summer/hiking-biking","14":"https://www.wanderhotels.com/en/active-in-summer/hiking-climbing","15":"https://www.wanderhotels.com/en/active-in-summer/hiking-wellness","16":"https://www.wanderhotels.com/en/active-in-summer/hiking-yoga","17":"https://www.wanderhotels.com/en/active-in-summer/hiking-golfing"},"winter":{"3":"https://www.wanderhotels.com/en/active-in-winter/pure-winter-hiking","6":"https://www.wanderhotels.com/en/active-in-winter/snowshoe-hiking","7":"https://www.wanderhotels.com/en/active-in-winter/cross-country-skiing","9":"https://www.wanderhotels.com/en/active-in-winter/skiing","8":"https://www.wanderhotels.com/en/active-in-winter/ski-tours","4":"https://www.wanderhotels.com/en/active-in-winter/winter-hiking-wellness","5":"https://www.wanderhotels.com/en/active-in-winter/winter-hiking-yoga"}}</script><script src="/assets/js/nav-accordion.js,modal-overlay.js-b1c2bfbf.js" defer></script><script src="/assets/js/jquery.min.js,rocksolid-slider.min.js-49acb026.js"></script><script src="/bundles/daesigncalendarfield/flatpickr/flatpickr.min.js?v=7e9ac4f9"></script><script src="/bundles/daesigncalendarfield/flatpickr/l10n/en.js"></script><script defer src="/bundles/terminal42conditionalformfields/conditionalformfields.js?v=f9a36529"></script><link rel="alternate" hreflang="de" href="https://www.wanderhotels.com/de/wanderurlaub-meran-bozen">
+<link rel="alternate" hreflang="x-default" href="https://www.wanderhotels.com/de/wanderurlaub-meran-bozen">
+<link rel="alternate" hreflang="en" href="https://www.wanderhotels.com/en/south-tyrol/merano-bolzano">
+<link rel="alternate" hreflang="it" href="https://www.wanderhotels.com/it/alto-adige/merano-bolzano">
+<link rel="preconnect" href="https://privacy-analytics-proxy.cookiebot.com" crossorigin>
+<link rel="preload" href="https://use.typekit.net/ire6qmm.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://use.typekit.net/ire6qmm.css"></noscript>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-KL8FXTN')</script>
+<!-- End Google Tag Manager -->
+</head>
+<body id="top" class="full parallax">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KL8FXTN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="wrapper">
+<header id="header">
+<div class="inside">
+<nav class="nav-overlay main-nav" aria-label="Main">
+<ul class="nav-root">
+<li
+class="nav-col mod_customnav gap-after-1 gap-after-4"
+id="nav-hotel-finden"        >
+<div class="nav-col-inner">
+<a href="/en/hotels" title="Find Wanderhotels in the Alps | Wanderhotels" class="trail">Find Wanderhotels</a>
+<ul class="level_1">
+<li><a href="/en/book-a-wanderhotel" title="Book a Wanderhotel | Wanderhotels" class="dark-header merkliste">Check availability &amp; book</a></li>
+<li class="has-children">
+<div class="nav-item">
+<a href="/en/austria" title="Hiking vacation in Austria | Wanderhotels" class="full parallax">Austria</a>
+<button
+class="submenu-toggle"
+aria-expanded="false"
+aria-label="Open submenu">
+<span class="chevron" aria-hidden="true"></span>
+</button>
+</div>
+<ul class="level_2">
+<li><a href="/en/austria/vorarlberg" title="Hiking vacation in Vorarlberg | Wanderhotels" class="full parallax">Vorarlberg</a></li>
+<li><a href="/en/austria/tyrol" title="Hiking vacation in Tyrol | Wanderhotels" class="full parallax">Tyrol</a></li>
+<li><a href="/en/austria/salzburg-region" title="Hiking vacation in the Salzburg region | Wanderhotels" class="full parallax">Salzburg region</a></li>
+<li><a href="/en/austria/carinthia" title="Hiking vacation in Carinthia | Wanderhotels" class="full parallax">Carinthia</a></li>
+<li><a href="/en/austria/styria" title="Hiking vacation in Styria | Wanderhotels" class="full parallax">Styria</a></li>
+<li><a href="/en/austria/upper-austria" title="Hiking vacation in Upper Austria | Wanderhotels" class="full parallax">Upper Austria</a></li>
+</ul>
+</li>
+<li class="has-children">
+<div class="nav-item">
+<a href="/en/south-tyrol" title="Hiking vacation in South Tyrol | Wanderhotels" class="full parallax trail">South Tyrol</a>
+<button
+class="submenu-toggle"
+aria-expanded="false"
+aria-label="Open submenu">
+<span class="chevron" aria-hidden="true"></span>
+</button>
+</div>
+<ul class="level_2">
+<li><a href="/en/south-tyrol/vinschgau" title="Hiking vacation in Val Venosta | Wanderhotels" class="full parallax">Vinschgau</a></li>
+<li><strong class="active full parallax" aria-current="page">Merano / Bolzano</strong></li>
+<li><a href="/en/south-tyrol/eisack-valley" title="Hiking vacation in the Eisack Valley | Wanderhotels" class="full parallax">Eisack Valley</a></li>
+<li><a href="/en/south-tyrol/dolomites" title="Hiking vacation in the Dolomites | Wanderhotels" class="full parallax">Dolomites</a></li>
+</ul>
+</li>
+<li><a href="/en/black-forest" title="Hiking vacation in the Black Forest | Wanderhotels" class="full parallax">Black Forest</a></li>
+<li><a href="/en/hotels-for-solo-travelers" title="Travel alone – hike together | Wanderhotels" class="kriterien vertical-text parallax">Hotels for solo travelers</a></li>
+<li><a href="/en/dog-friendly-hotels" title="Dog-friendly hotels - Hiking with your dog | Wanderhotels" class="white kriterien vertical-text parallax">Dog-friendly hotels</a></li>
+<li><a href="/en/hotels-for-family-vacations" title="Hiking vacation with children | Wanderhotels" class="kriterien vertical-text parallax">Hotels for family vacations</a></li>
+<li><a href="/en/eco-friendly-hotels" title="Eco-friendly hotels in Austria and South Tyrol" class="white kriterien vertical-text parallax">Eco-friendly hotels</a></li>
+</ul>
+</div>
+</li>
+<li
+class="nav-col mod_customnav"
+id="nav-aktiv-sommer"        >
+<div class="nav-col-inner">
+<strong aria-current="page">Active in summer</strong>
+<ul class="level_1">
+<li><a href="/en/active-in-summer/pure-hiking" title="Hiking in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Pure hiking</a></li>
+<li><a href="/en/active-in-summer/hiking-biking" title="Mountain bike vacation in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Hiking &amp; Biking</a></li>
+<li><a href="/en/active-in-summer/hiking-climbing" title="Climbing vacation in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Hiking &amp; Climbing</a></li>
+<li><a href="/en/active-in-summer/hiking-wellness" title="Hiking &amp; Wellness | Wanderhotels" class="vertical-text dark-header parallax">Hiking &amp; Wellness</a></li>
+<li><a href="/en/active-in-summer/hiking-yoga" title="Yoga and hiking in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Hiking &amp; Yoga</a></li>
+<li><a href="/en/active-in-summer/hiking-golfing" title="Hiking &amp; Golfing | Wanderhotels" class="vertical-text dark-header parallax">Hiking &amp; Golfing</a></li>
+</ul>
+</div>
+</li>
+<li
+class="nav-col mod_customnav"
+id="nav-aktiv-winter"        >
+<div class="nav-col-inner">
+<strong aria-current="page">Active in winter</strong>
+<ul class="level_1">
+<li><a href="/en/active-in-winter/pure-winter-hiking" title="Pure winter hiking in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Pure winter hiking</a></li>
+<li><a href="/en/active-in-winter/snowshoe-hiking" title="Snowshoe hiking in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Snowshoe hiking</a></li>
+<li><a href="/en/active-in-winter/cross-country-skiing" title="Cross-country skiing vacation in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Cross-country skiing</a></li>
+<li><a href="/en/active-in-winter/skiing" title="Hotels for a perfect skiing vacation | Wanderhotels" class="vertical-text dark-header parallax">Skiing</a></li>
+<li><a href="/en/active-in-winter/ski-tours" title="Ski touring in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Ski tours</a></li>
+<li><a href="/en/active-in-winter/winter-hiking-wellness" title="Winter hiking &amp; wellness | Wanderhotels" class="vertical-text dark-header parallax">Winter hiking &amp; wellness</a></li>
+<li><a href="/en/active-in-winter/winter-hiking-yoga" title="Winter hiking &amp; yoga in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Winter hiking &amp; yoga</a></li>
+</ul>
+</div>
+</li>
+<li
+class="nav-col mod_customnav gap-after-3 gap-after-5"
+id="nav-wanderlust"        >
+<div class="nav-col-inner">
+<strong aria-current="page">Wanderlust</strong>
+<ul class="level_1">
+<li><a href="/en/the-gipfelclub" title="The Gipfelclub – Bonus Program of the Hiking Hotels | Hiking Hotels" class="no-big-einleitung">The Gipfelclub</a></li>
+<li><a href="/en/the-quality-pledge" title="The Wanderhotels quality promise – Naturally high quality. Noticeably better. | Wanderhotels" class="vertical-text">The quality pledge</a></li>
+<li><a href="/en/wanderhotels-wanderconcierge" title="Your Wanderhotels Wanderconcierge | Wanderhotels" class="vertical-text parallax">Wanderconcierge</a></li>
+<li><a href="/en/voucher-shop" title="Voucher shop | Wanderhotels">Voucher</a></li>
+<li><a href="/en/map" title="Overview of Wanderhotels | Wanderhotels" class="white parallax">Map</a></li>
+<li><a href="/en/tips-for-hiking" title="Tips for hiking | Wanderhotels" class="parallax">Tips for hiking</a></li>
+<li><a href="/en/delicious-recipes" title="Delicious recipes | Wanderhotels">Delicious recipes</a></li>
+<li><a href="/en/from-the-wanderhotels" title="From the Wanderhotels | Wanderhotels">From the Wanderhotels</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</nav>    <div id="loader"><div class="spinner"></div></div>    <div class="before-header">
+<div class="flex">
+<div class="menu">
+<div class="clicker menupc">
+<button class="lines-button x" aria-label="Toggle Navigation">
+<span class="lines"></span>
+<span class="navname">MENU</span>
+</button>
+</div>
+<a href="/en/hotels" title="Find Wanderhotels">Hotels</a>
+<a href="/en/offers" title="Wanderhotels Offers">Offers</a>
+</div>
+<nav class="mod_changelanguage block">
+<ul class="level_1">
+<li class="lang-de"><a href="/de/wanderurlaub-meran-bozen" title="Wanderurlaub in Meran &amp; Bozen | Wanderhotels" class="lang-de" hreflang="de" aria-label="Go to current page in German">DE</a></li>
+<li class="lang-it"><a href="/it/alto-adige/merano-bolzano" title="Vacanze escursionistiche a Merano e Bolzano | Hotel per escursionisti" class="lang-it" hreflang="it" aria-label="Go to current page in Italian">IT</a></li>
+</ul>
+</nav>
+</div>
+<div class="logo">
+<a href="/en/" title="Wanderhotels">
+<img loading="lazy" src="files/content/graphics/wanderhotels-logo-white.svg" alt="Wanderhotels Logo" title="Wanderhotels">
+</a>
+</div>
+<div class="logo-beige">
+<a href="/en/" title="Wanderhotels">
+<img loading="lazy" src="files/content/graphics/wanderhotels-logo-beige.svg" alt="Wanderhotels Logo" title="Wanderhotels">
+</a>
+</div>
+<div class="switcher">
+<button class="season-switch" data-season="summer" title="Wanderhotels Summer">
+<img loading="lazy" src="files/content/graphics/summer.svg" height="15" width="15" alt="Summer">
+<span>Summer</span>
+</button>
+<button class="season-switch" data-season="winter" title="Wanderhotels Winter">
+<img loading="lazy" src="files/content/graphics/winter.svg" height="15" width="15" alt="Winter">
+<span>Winter</span>
+</button>
+</div>
+</div>
+<div class="mod_article block" id="article-1028">
+<div class="mod_rocksolid_slider img-opaci winter block">
+<div data-rsts-name="Natur, Kultur und Genuss" data-rsts-center="true">
+<div class="heading--hero center content-text">
+<div class="rte">
+<p>Nature,<br>culture, and <br><span style="text-decoration: underline;">enjoyment</span></p>
+</div>
+</div>
+<div class="heading--meta center content-text">
+<div class="rte">
+<p>Hiking vacation in Merano and Bolzano</p>
+</div>
+</div>
+<picture>
+<source srcset="/assets/images/0/skitour-winter-suedtirol-wanderhotel-waltershof-ultental-2023%28c%29karlheinz-roeggla-min-2pnpe63w8y0j9h8.webp" media="(min-width: 1200px) and (max-width: 1500px)" type="image/webp" width="1500" height="1000">
+<source srcset="/assets/images/0/skitour-winter-suedtirol-wanderhotel-waltershof-ultental-2023%28c%29karlheinz-roeggla-min-2znbf0y0v5rwgn4.jpg" media="(min-width: 1200px) and (max-width: 1500px)" width="1500" height="1000">
+<source srcset="/assets/images/6/skitour-winter-suedtirol-wanderhotel-waltershof-ultental-2023%28c%29karlheinz-roeggla-min-nt65tn8as2a1dpq.webp" media="(min-width: 800px) and (max-width: 1199px)" type="image/webp" width="1200" height="800">
+<source srcset="/assets/images/a/skitour-winter-suedtirol-wanderhotel-waltershof-ultental-2023%28c%29karlheinz-roeggla-min-pjgv20sfhfkh81v.jpg" media="(min-width: 800px) and (max-width: 1199px)" width="1200" height="800">
+<source srcset="/assets/images/v/skitour-winter-suedtirol-wanderhotel-waltershof-ultental-2023%28c%29karlheinz-roeggla-min-jv74zr8cvqhmb6a.webp" media="(min-width: 600px) and (max-width: 799px)" type="image/webp" width="1000" height="600">
+<source srcset="/assets/images/p/skitour-winter-suedtirol-wanderhotel-waltershof-ultental-2023%28c%29karlheinz-roeggla-min-xy3ar377ghttqz3.jpg" media="(min-width: 600px) and (max-width: 799px)" width="1000" height="600">
+<source srcset="/assets/images/2/skitour-winter-suedtirol-wanderhotel-waltershof-ultental-2023%28c%29karlheinz-roeggla-min-80kz81j01nmbb6j.webp" media="(max-width: 599px)" type="image/webp" width="600" height="900">
+<source srcset="/assets/images/z/skitour-winter-suedtirol-wanderhotel-waltershof-ultental-2023%28c%29karlheinz-roeggla-min-sejn9c4x16tzr1v.jpg" media="(max-width: 599px)" width="600" height="900">
+<source srcset="/assets/images/r/skitour-winter-suedtirol-wanderhotel-waltershof-ultental-2023%28c%29karlheinz-roeggla-min-79s16xx2a0cjz29.webp" type="image/webp" width="2000" height="1300">
+<img src="/assets/images/6/skitour-winter-suedtirol-wanderhotel-waltershof-ultental-2023%28c%29karlheinz-roeggla-min-3ymefxdh9an6ytj.jpg" width="2000" height="1300" alt="A ski tour in the Ultental Valley is impressive, high above the clouds in the evening glow." loading="lazy" data-rsts-background data-rsts-scale-mode="crop" data-rsts-position="center">
+</picture>
+<span class="rsts-copyright">© Karlheinz Röggla</span>
+</div>
+</div>
+<script>(function(){var sliderElement=[].slice.call(document.getElementsByClassName('mod_rocksolid_slider'),-1)[0];if(window.jQuery&&jQuery.fn.rstSlider){init()}else{document.addEventListener('DOMContentLoaded',init)}
+function init(){var $=jQuery;var slider=$(sliderElement);slider.find('video[data-rsts-background], [data-rsts-type=video] video').each(function(){this.player=!0});slider.rstSlider({"type":"slide","direction":"x","width":"100%","height":"100vh","navType":"none","scaleMode":"crop","imagePosition":"center","centerContent":!0,"random":!1,"loop":!1,"videoAutoplay":!1,"autoplayProgress":!1,"pauseAutoplayOnHover":!1,"keyboard":!0,"captions":!1,"controls":!1,"thumbControls":!1,"combineNavItems":!0,"visibleAreaAlign":0.5,"gapSize":"0%"});$(function(){if(!$.fn.colorbox){return}
+var lightboxConfig={loop:!1,rel:function(){return $(this).attr('data-lightbox')},maxWidth:'95%',maxHeight:'95%'};var update=function(links){links.colorbox(lightboxConfig)};slider.on('rsts-slidestart rsts-slidestop',function(event){update(slider.find('a[data-lightbox]'))});update(slider.find('a[data-lightbox]'))})}})()</script><div class="mod_rocksolid_slider img-opaci summer block">
+<div data-rsts-name="Natur, Kultur und Genuss" data-rsts-center="true">
+<div class="heading--hero center content-text">
+<div class="rte">
+<p>Nature,<br>culture, and <br><span style="text-decoration: underline;">enjoyment</span></p>
+</div>
+</div>
+<div class="heading--meta center content-text">
+<div class="rte">
+<p>Hiking vacation in Merano and Bolzano</p>
+</div>
+</div>
+<picture>
+<source srcset="/assets/images/x/wandern-meran-herbst-apfelsorten-wanderhotel-zirmerhof-2017%28c%29carolin-thiersch-243nph5105jkrgq.webp" media="(min-width: 1200px) and (max-width: 1500px)" type="image/webp" width="1500" height="1000">
+<source srcset="/assets/images/3/wandern-meran-herbst-apfelsorten-wanderhotel-zirmerhof-2017%28c%29carolin-thiersch-mezc10yz3gwp9yz.jpg" media="(min-width: 1200px) and (max-width: 1500px)" width="1500" height="1000">
+<source srcset="/assets/images/j/wandern-meran-herbst-apfelsorten-wanderhotel-zirmerhof-2017%28c%29carolin-thiersch-w658t111vyy0mrq.webp" media="(min-width: 800px) and (max-width: 1199px)" type="image/webp" width="1200" height="800">
+<source srcset="/assets/images/e/wandern-meran-herbst-apfelsorten-wanderhotel-zirmerhof-2017%28c%29carolin-thiersch-s8jwmyf3hbtbweq.jpg" media="(min-width: 800px) and (max-width: 1199px)" width="1200" height="800">
+<source srcset="/assets/images/y/wandern-meran-herbst-apfelsorten-wanderhotel-zirmerhof-2017%28c%29carolin-thiersch-6t797fyz533496y.webp" media="(min-width: 600px) and (max-width: 799px)" type="image/webp" width="1000" height="600">
+<source srcset="/assets/images/b/wandern-meran-herbst-apfelsorten-wanderhotel-zirmerhof-2017%28c%29carolin-thiersch-pe78hf94sa78fct.jpg" media="(min-width: 600px) and (max-width: 799px)" width="1000" height="600">
+<source srcset="/assets/images/e/wandern-meran-herbst-apfelsorten-wanderhotel-zirmerhof-2017%28c%29carolin-thiersch-3av5p24yscx9ra1.webp" media="(max-width: 599px)" type="image/webp" width="600" height="900">
+<source srcset="/assets/images/p/wandern-meran-herbst-apfelsorten-wanderhotel-zirmerhof-2017%28c%29carolin-thiersch-1r69q0gh16w7w78.jpg" media="(max-width: 599px)" width="600" height="900">
+<source srcset="/assets/images/g/wandern-meran-herbst-apfelsorten-wanderhotel-zirmerhof-2017%28c%29carolin-thiersch-ayh3bd6d50b4jvd.webp" type="image/webp" width="2000" height="1300">
+<img src="/assets/images/1/wandern-meran-herbst-apfelsorten-wanderhotel-zirmerhof-2017%28c%29carolin-thiersch-qw5t9e6ph6tqp2q.jpg" width="2000" height="1300" alt="Autumn hike through apple orchards near Merano with a view of green landscapes during a stay at the Wanderhotel Zirmerhof." loading="lazy" data-rsts-background data-rsts-scale-mode="crop" data-rsts-position="center">
+</picture>
+<span class="rsts-copyright">© Carolin Thiersch</span>
+</div>
+</div>
+<script>(function(){var sliderElement=[].slice.call(document.getElementsByClassName('mod_rocksolid_slider'),-1)[0];if(window.jQuery&&jQuery.fn.rstSlider){init()}else{document.addEventListener('DOMContentLoaded',init)}
+function init(){var $=jQuery;var slider=$(sliderElement);slider.find('video[data-rsts-background], [data-rsts-type=video] video').each(function(){this.player=!0});slider.rstSlider({"type":"slide","direction":"x","width":"100%","height":"100vh","navType":"none","scaleMode":"crop","imagePosition":"center","centerContent":!0,"random":!1,"loop":!1,"videoAutoplay":!1,"autoplayProgress":!1,"pauseAutoplayOnHover":!1,"keyboard":!0,"captions":!1,"controls":!1,"thumbControls":!1,"combineNavItems":!0,"visibleAreaAlign":0.5,"gapSize":"0%"});$(function(){if(!$.fn.colorbox){return}
+var lightboxConfig={loop:!1,rel:function(){return $(this).attr('data-lightbox')},maxWidth:'95%',maxHeight:'95%'};var update=function(links){links.colorbox(lightboxConfig)};slider.on('rsts-slidestart rsts-slidestop',function(event){update(slider.find('a[data-lightbox]'))});update(slider.find('a[data-lightbox]'))})}})()</script>
+</div>
+<!-- indexer::stop -->
+<div class="mod_form buchungsleiste block">
+<form action="/en/book-a-wanderhotel" method="get" enctype="application/x-www-form-urlencoded">
+<div class="formbody">
+<div class="widget widget-text widget-calendar mandatory">
+<div id="ctrl_526_wrapper">
+<input
+type="text"
+name="date_from"
+id="ctrl_526"
+class="text mandatory"
+placeholder="Arrival"
+value=""
+required  data-input
+autocomplete="off"
+>
+<a class="input-button" style="cursor: pointer;" title="" data-toggle="">
+<!-- Fallback-SVG -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 17" style="width: 16px; height: 16px;">
+<path d="M14 2V1h-3v1H6V1H3v1H0v15h17V2h-3zM12 2h1v2h-1V2zM4 2h1v2H4V2zM16 16H1v-8.921h15V16zM1 6.079v-3.079h2v2h3V3h5v2h3V3h2v3.079H1z" fill="#000"></path>
+</svg>
+</a>
+</div>
+<script>picker_526=flatpickr("#ctrl_526_wrapper",{"locale":"en","dateFormat":"d.m.Y","allowInput":!0,"weekNumbers":!0,"minDate":new Date().fp_incr(0),"wrap":!0,})</script>
+</div>
+<div class="widget widget-text widget-calendar mandatory">
+<div id="ctrl_527_wrapper">
+<input
+type="text"
+name="date_to"
+id="ctrl_527"
+class="text mandatory"
+placeholder="Departure"
+value=""
+required  data-input
+autocomplete="off"
+>
+<a class="input-button" style="cursor: pointer;" title="" data-toggle="">
+<!-- Fallback-SVG -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 17" style="width: 16px; height: 16px;">
+<path d="M14 2V1h-3v1H6V1H3v1H0v15h17V2h-3zM12 2h1v2h-1V2zM4 2h1v2H4V2zM16 16H1v-8.921h15V16zM1 6.079v-3.079h2v2h3V3h5v2h3V3h2v3.079H1z" fill="#000"></path>
+</svg>
+</a>
+</div>
+<script>picker_527=flatpickr("#ctrl_527_wrapper",{"locale":"en","dateFormat":"d.m.Y","allowInput":!0,"weekNumbers":!0,"minDate":new Date().fp_incr(0),"wrap":!0,})</script>
+</div>
+<div class="widget widget-select select">
+<select name="persons_adults" id="ctrl_528" class="select">
+<option value="1">1</option>
+<option value="2" selected>2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+</select>
+</div>
+<div class="widget widget-submit btn-buchen">
+<button type="submit" id="ctrl_529" class="violett submit btn-buchen">book</button>
+</div>
+</div>
+</form>
+</div>
+<!-- indexer::continue -->
+<script>(function(){var wrapper=document.currentScript.previousElementSibling;var form=wrapper?wrapper.querySelector('form'):null;if(!form)return;var button=form.querySelector('.btn-buchen');if(!button)return;function value(name){var el=form.querySelector('[name="'+name+'"]');return el&&el.value?el.value.trim():''}
+function toIso(v){var m=v.match(/^(\d{2})\.(\d{2})\.(\d{4})$/);return m?m[3]+'-'+m[2]+'-'+m[1]:''}
+button.addEventListener('click',function(e){e.preventDefault();if(typeof form.reportValidity==='function'&&!form.reportValidity())return;var params=['vri_x=1'];var from=toIso(value('date_from'));var to=toIso(value('date_to'));var adults=parseInt(value('persons_adults'),10);if(from)params.push('hotel_crits[date_from]='+from);if(to)params.push('hotel_crits[date_to]='+to);if(adults>0)params.push('hotel_crits[persons_adults]='+adults);var target=form.getAttribute('action')||'';if(!target)return;window.location.href=target.split('#')[0]+'#?'+params.join('&')})})()</script>
+</div>
+</header>
+<div id="bread">
+<div class="inside">
+<!-- indexer::stop -->
+<nav class="mod_breadcrumb block" aria-label="Breadcrumb">
+<ul>
+<li><a href="/en/" title="Wanderhotels">Wanderhotels</a></li>
+<li><a href="/en/hotels" title="Find Wanderhotels in the Alps | Wanderhotels">Find Wanderhotels</a></li>
+<li><a href="/en/south-tyrol" title="Hiking vacation in South Tyrol | Wanderhotels">South Tyrol</a></li>
+<li class="active" aria-current="page">Merano / Bolzano</li>
+</ul>
+</nav>
+<!-- indexer::continue -->
+</div>
+</div>
+<div id="container">
+<main id="main">
+<div class="inside">
+<div class="mod_article block" id="article-1029">
+<div class="rs-columns ce_rs_columns_start padd2 flex">
+<div class="rs-column -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row"><div class="rs-columns ce_rs_columns_start flex-center flex-end">
+<div class="rs-column -large-col-1-1 -large-first -large-last -large-first-row -medium-col-1-1 -medium-first -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
+<div class="content-element-group">
+<div class="violett-underline content-text">
+<div class="rte">
+<h1>The best Wanderhotels <br><strong>near Merano &amp; Bolzano</strong></h1>
+<p>In the heart of South Tyrol, a unique landscape unfolds, where alpine freshness meets Mediterranean charm – ideal for a hiking vacation near Merano and Bolzano, which captivates with nature, culture, and culinary highlights.</p>
+<p>While in Bolzano the meeting of two cultures with all their similarities and differences is visible, the Sarntal valley and the Ritten tell of living tradition and deep roots.</p>
+<p>High above the city lies the Ritten plateau – a place made for breathing deeply and dreaming – and, of course, for hiking between Merano and Bolzano! People have always sought the lightness of being here: the bizarre <strong>earth pyramids</strong> transform the area around the region&#39;s best Wanderhotels into a playground of natural wonders and quiet amazement.</p>
+</div>
+</div>
+<div class="buttn content-hyperlink">
+<a href="/en/south-tyrol/merano-bolzano" title="Wanderhotels near Merano and Bolzano">Find Wanderhotels near Merano &amp; Bolzano</a>            </div>
+</div>
+</div></div>
+</div><div class="rs-column -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last"><div class="ce_rsce_laenderkarte_italy laender-karte-wrapper" >
+<svg id="Ebene_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 798.968 741.543" width="100%">
+<defs>
+<style>.st0{font-family:"acumin-pro",sans-serif;font-size:29px;font-weight:600}.st0,.st1,.st2{isolation:isolate}.st0,.st1,.st3{fill:#fff}.st1{font-family:"acumin-pro",sans-serif;font-size:30px;font-weight:700}.st4{fill:#b4a28d}.st5{stroke:#fff;stroke-width:4px}.st5,.st6{fill:none}.st7{fill:#5c0040}.st8{fill:#890c64}.st6{stroke:#e0e0e0;stroke-dasharray:8 8;stroke-linecap:round;stroke-width:3px}#Gruppe_2346:hover .st8,#Gruppe_2345:hover .st8,#Gruppe_2343:hover .st8,#Gruppe_2344:hover .st8{fill:#5c0040}#Gruppe_2348,#Gruppe_2357,#Gruppe_2352,#Gruppe_2350{opacity:0;transition:all 0.5s ease}#Gruppe_2346:hover #Gruppe_2348,#Gruppe_2344:hover #Gruppe_2352,#Gruppe_2343:hover #Gruppe_2357,#Gruppe_2345:hover #Gruppe_2350{opacity:1}#Gruppe_2339:hover .st4,#Gruppe_2338:hover .st4{fill:#890C64}.active .st8{fill:#5c0040}.active #Gruppe_2348,.active #Gruppe_2352,.active #Gruppe_2357,.active #Gruppe_2350{opacity:1!important}.map-label-bg{fill:#890c64}.map-label-border{fill:none;stroke:#fff;stroke-width:4px}.active .map-label-bg,#Gruppe_2346:hover .map-label-bg,#Gruppe_2345:hover .map-label-bg,#Gruppe_2343:hover .map-label-bg,#Gruppe_2344:hover .map-label-bg{fill:#5c0040}</style>
+</defs>
+<g id="Gruppe_2347">
+<path id="Pfad_15069" class="st8" d="M211.535,435.31c4.059,8.694,25.9,23.915,45.184,37.346,7.651,5.331,17.964,12.335,24.4,17.133,4.056-3.446,11.942-10.834,18.431-17.133,14.368-13.957,21.717-23.787,24.646-32.059,1.815-3.928,1.249-10.465,0-14.227-1.2-3.195-7.471-12.762-10.173-13.823-16.554,8.4-42.924,11.761-70.571,5.736-10.746-2.411-20.554-7.906-28.222-15.811-4.056,7.814-9.179,21.128-3.7,32.838" />
+<path id="Pfad_15074" class="st8" d="M574.854,362.017c-.354,10.945-1.173,20.842-1.809,27.3,2.497-.074,4.973.469,7.209,1.581,7.506,2.935,15.857,2.848,23.3-.244,9.215-3.137,17.865-7.737,25.617-13.625,9.269-6.668,19.16-12.425,29.536-17.19,17.529-7.835,35.475-14.699,53.759-20.56-8.435-17.8-4.707-39.7,5.3-55.222,6.6-9.661,6.752-14.81,5.929-16.207-.823-1.397-4.772-2.826-13.039-2.06-35.416,5.845-69.049,21.47-94.331,34.429-10.995,6.148-23.012,10.256-35.47,12.125-3.275.13-6.546.13-9.817.042,3.2,11.695,4.5,28.287,3.816,49.631" />
+<g id="Gruppe_2340">
+<a href="/en/austria" title="Austria">
+<g id="Gruppe_2338">
+<g id="Pfad_15112">
+<path class="st4" d="M556.223,231.424c-5.333,0-10.506-1.026-15.375-3.051-4.702-1.955-8.925-4.754-12.551-8.318-3.625-3.563-6.47-7.712-8.457-12.33-2.056-4.78-3.099-9.857-3.099-15.092s1.043-10.312,3.099-15.092c1.987-4.619,4.833-8.767,8.457-12.33,3.626-3.565,7.849-6.363,12.551-8.318,4.869-2.024,10.042-3.051,15.375-3.051s10.506,1.026,15.375,3.051c4.702,1.955,8.925,4.754,12.551,8.318,3.625,3.563,6.47,7.712,8.457,12.33,2.056,4.78,3.099,9.857,3.099,15.092s-1.043,10.312-3.099,15.092c-1.987,4.619-4.833,8.767-8.457,12.33-3.626,3.565-7.849,6.363-12.551,8.318-4.869,2.024-10.042,3.051-15.375,3.051Z" />
+<path class="st4" d="M556.223,155.09c-5.168,0-10.179.994-14.895,2.955-4.554,1.893-8.643,4.604-12.154,8.056-3.509,3.449-6.263,7.464-8.185,11.933-1.989,4.623-2.997,9.534-2.997,14.598s1.008,9.975,2.997,14.598c1.923,4.469,4.677,8.484,8.185,11.933,3.512,3.452,7.601,6.162,12.154,8.056,4.716,1.961,9.727,2.955,14.895,2.955s10.179-.994,14.895-2.955c4.554-1.893,8.643-4.604,12.154-8.056,3.509-3.449,6.263-7.464,8.185-11.933,1.989-4.623,2.997-9.534,2.997-14.598s-1.008-9.975-2.997-14.598c-1.923-4.469-4.677-8.484-8.185-11.933-3.512-3.452-7.601-6.162-12.154-8.056-4.716-1.961-9.727-2.955-14.895-2.955M556.223,152.59c22.496,0,40.732,17.927,40.732,40.042s-18.236,40.042-40.732,40.042-40.732-17.927-40.732-40.042,18.236-40.042,40.732-40.042Z" />
+</g>
+<path id="Pfad_15113" class="st3" d="M552,198.109l1.941,5.424h4.222l-7.673-21.324h-4.992l-7.365,21.324h3.944l1.88-5.424h8.043ZM544.851,194.781c1.36-4.156,2.46-7.58,2.989-9.583h.031c.524,1.818,1.541,4.715,3.2,9.583h-6.22ZM563.802,203.533h4.009v-18h6.594v-3.328h-17.194v3.328h6.594l-.003,18Z" />
+</g>
+</a>
+<a href="/en/black-forest" title="Black Forest">
+<g id="Gruppe_2339">
+<g id="Pfad_10678">
+<path class="st4" d="M194.32,82.165c-5.237,0-10.317-1.025-15.099-3.048-4.619-1.954-8.768-4.751-12.331-8.314-3.563-3.563-6.36-7.712-8.314-12.331-2.022-4.782-3.048-9.862-3.048-15.099s1.025-10.317,3.048-15.099c1.954-4.619,4.751-8.768,8.314-12.331,3.563-3.563,7.712-6.36,12.331-8.314,4.782-2.022,9.862-3.048,15.099-3.048s10.317,1.025,15.099,3.048c4.619,1.954,8.768,4.751,12.331,8.314,3.563,3.563,6.36,7.712,8.314,12.331,2.022,4.782,3.048,9.862,3.048,15.099s-1.025,10.317-3.048,15.099c-1.954,4.619-4.751,8.768-8.314,12.331-3.563,3.563-7.712,6.36-12.331,8.314-4.782,2.022-9.862,3.048-15.099,3.048Z" />
+<path class="st4" d="M194.32,5.831c-5.069,0-9.985.992-14.612,2.949-4.47,1.891-8.485,4.598-11.934,8.047-3.449,3.449-6.156,7.464-8.047,11.934-1.957,4.627-2.949,9.543-2.949,14.612s.992,9.985,2.949,14.612c1.891,4.47,4.598,8.485,8.047,11.934,3.449,3.449,7.464,6.156,11.934,8.047,4.627,1.957,9.543,2.949,14.612,2.949s9.985-.992,14.612-2.949c4.47-1.891,8.485-4.598,11.934-8.047,3.449-3.449,6.156-7.464,8.047-11.934,1.957-4.627,2.949-9.543,2.949-14.612s-.992-9.985-2.949-14.612c-1.891-4.47-4.598-8.485-8.047-11.934-3.449-3.449-7.464-6.156-11.934-8.047-4.627-1.957-9.543-2.949-14.612-2.949M194.32,3.331c22.114,0,40.042,17.927,40.042,40.042s-17.927,40.042-40.042,40.042-40.042-17.927-40.042-40.042S172.206,3.331,194.32,3.331Z" />
+</g>
+<path id="Pfad_10532" class="st3" d="M175.233,54.036h8.012c6.41,0,10.354-4.653,10.354-10.908,0-6.317-4.068-10.415-10.2-10.415h-8.166v21.323ZM179.239,35.978h3.821c4.53,0,6.41,3.451,6.41,7.18,0,4.376-2,7.611-6.41,7.611h-3.821v-14.791ZM212.766,41.278h-10.323v-5.239h10.785v-3.328h-14.7v21.325h14.792l.493-3.3h-11.37v-6.16h10.323v-3.298Z" />
+</g>
+</a>
+<path id="Pfad_15114" class="st6" d="M94.278,212.766s163.637-15.949,307.542-91.544,393.308-40.827,393.308-40.827" />
+</g>
+<a href="/en/south-tyrol/merano-bolzano" title="Merano / Bolzano">
+<g id="Gruppe_2345" class="active">
+<path id="Pfad_15072" class="st8" d="M451.091,585.849c3.324-11.2,7.273-23.614.86-35.534-2.639-4.935-6.6-11.122-13.845-13.732-5.605-2.034-29.81-6.392-35.53-8.7-6.07-2.609-9.153-6.423-10.589-12.87-1.291-5.255-.982-12.389,1.174-24.818,1.839-10.617,15.27-66.219,16.9-79.878,4.038-19.929-.472-26.918-4.362-29.438-16.276-7.521-49.666-16.236-59.042-18.559-.906,2.136-3.455,7.277-4.357,9.444-2.643,6.333-5.377,12.883-8.378,19.022-4.159,8.031-8.618,14.586-15.51,19.532,4.071,4.233,8.842,10.046,10.441,14.417,1.808,5.395,1.684,11.251-.35,16.565-6.165,17.392-32.137,41.048-44.186,51.353.663.53,1.337,1.059,1.973,1.576,10.35,8.473,14.368,13.9,13.869,18.713-.191,4.136-3.103,7.643-7.133,8.591-3.636.712-7.358.883-11.044.506-9.486-.381-21.326-.891-32.266,8.8-11.057,10.923-20.186,23.639-27,37.609-1.485,2.8-6.245,7.891-1.272,12.783s27.728,23.382,46.09,22.122,13.084-25.47,27.366-27.16c14.282-1.69,14.684,22.612,29.757,20.4,13.5-1.984-13.26-34.845,0-35.248,11.805-.358,13.173,29.368,23.957,28.884,13.532-.582,14.7-11.887,22.217-7.372,7.517,4.515-18.8,41.01-7.014,46.543,24.155,11.325-12.6,35.673-9.178,55.248s4.848,17.681,22.879,23.055c13.74,4.1,11.9-20.027,26.276-16.52,13.2,3.218,16.068,19.355,24.193,16.52s-6.1-31.307,8.306-27.862c14.406,3.445,23.747-14.228,42.262-24.186-5.137-8.344-17.709-27.836-27.26-40.917-7.167-9.833-3.418-18.029-.2-28.883" />
+<g id="_5" class="st2">
+<text class="st1" transform="translate(336.726 521.79)" data-count-region="meran_bozen">
+<tspan x="0" y="0">5</tspan>
+</text>
+</g>
+<g id="Gruppe_2350" transform="translate(222.469 711.755)">
+<g id="Rechteck_11-2" class="map-label" data-pad-x="16" data-pad-y="12" data-radius="26">
+<rect class="map-label-bg" x="0" y="0" width="10" height="10" rx="26" ry="26"></rect>
+<rect class="map-label-border" x="0" y="0" width="10" height="10" rx="25" ry="25"></rect>
+</g>
+<g id="Meran_Bozen" class="st2">
+<text class="st0">
+<tspan x="0" y="0">Merano / Bolzano</tspan>
+</text>
+</g>
+</g>
+</g>
+</a>
+<a href="/en/south-tyrol/eisack-valley" title="Eisack Valley">
+<g id="Gruppe_2343" class="">
+<g id="Gruppe_2342">
+<path id="Pfad_15070" class="st8" d="M415.64,389.067c.663,6.184.529,12.427-.4,18.576-1.695,14.071-5.8,31.74-9.775,48.828-5.541,23.873-11.28,48.557-8.945,58.055,2.281,9.326,10.472,11.1,23.63,13.21,6.513.791,12.911,2.341,19.064,4.619,6.857,2.649,12.539,7.668,16.013,14.147,3.53,6.557,5.6,14.439,4.941,21.857,3.545-1.576,7.072-3.448,10.465-5.337,11.341-6.42,15.981-10.744,22.044-18.451,4.471-6.755,3.256-12.879,1.976-19.365-.979-3.769-1.298-7.679-.944-11.557.773-4.726,3.564-8.883,7.647-11.386,7.967-5.457,19.928-2.262,32.6,1.12,7.659,2.342,15.539,3.888,23.515,4.615.762.038,1.5.053,2.217.053,6.158.315,12.215-1.663,17-5.552,4.269-3.61,6.664-9.718,7.14-18.161.234-9.167-.863-18.319-3.256-27.171-3.415-14.156-8.588-27.829-15.4-40.7-4.216-6.474-7.342-11.806-6-17.205.979-3.191,6.391-7.344,9.217-9.05,1.462-13.736,4.756-57.643-3.215-77.748-8.654-.808-17.237-2.254-25.678-4.326-12.04-3-24.432-4.357-36.836-4.033-6.523.64-13,1.82-19.856,3.069-9.355,1.938-18.842,3.175-28.382,3.7-8.768,1.1-17.599,1.63-26.436,1.588-14.658.251-29.818.522-42.35,5.819l-.567.209c-19.056,6.063-28.778,21.634-36.958,39.738,11.112,2.765,43.931,11.23,60.336,18.812,4.33,2.482,7.057,7.037,7.2,12.026" />
+</g>
+<g id="_5-2" class="st2">
+<text class="st1" transform="translate(477.534 424.465)" data-count-region="eisacktal">
+<tspan x="0" y="0">5</tspan>
+</text>
+</g>
+<g id="Gruppe_2357" transform="translate(478.133 308.728)">
+<g id="Rechteck_11-3" class="map-label" data-pad-x="16" data-pad-y="12" data-radius="26">
+<rect class="map-label-bg" x="0" y="0" width="10" height="10" rx="26" ry="26"></rect>
+<rect class="map-label-border" x="0" y="0" width="10" height="10" rx="25" ry="25"></rect>
+</g>
+<g id="Eisacktal" class="st2">
+<text class="st0">
+<tspan x="0" y="0">Eisack Valley</tspan>
+</text>
+</g>
+</g>
+</g>
+</a>
+<a href="/en/south-tyrol/dolomites" title="Dolomites">
+<g id="Gruppe_2344" class="">
+<g id="Gruppe_2341">
+<path id="Pfad_15071" class="st8" d="M761.594,400.781h.015c-3.506-8.819-7.933-17.244-13.207-25.134-4.088-4.896-8.841-9.196-14.12-12.776-4.539-3.244-8.808-6.851-12.765-10.785-2.48-2.432-4.797-5.027-6.933-7.766-17.961,6.322-28.245,8.666-41.5,14.2-9.973,4.585-30.527,14.124-41.888,23s-33.843,19.636-45.225,15.6c-2.654-.91-11.108-3.287-12.514-3.108-2.615-.85-8.96,2.838-9.51,6.748-.586,2.388.968,6.823,3.946,11.362,8.288,14.506,5.543,12.859,12.284,28.807,2.574,9.585,7.213,20.993,7.94,36.661.727,15.668-1.241,18.624-5.531,25.954-4.29,7.33-14.109,9.775-22.087,9.451-.834,0-17.862-1.547-26.034-4.042-6.4-2.026-23.214-8.978-30.988-1.792-5.526,3.789-5.6,9.8-4.1,17.366,1.382,6.984,1.879,10.98-1.454,20.33s-17.071,19.912-38.555,29.13c-1.564,5.922-2.792,9.677-3.9,12.986-3.047,10.32-5.472,18.47-.518,25.26,9.856,13.515,22.194,33.295,27.228,41.486,11.759-6.135,22.205-10.876,27.776-10.316,24.635,2.483,27.285,25.2,47.6,25.2s32.066-6.153,33.664-25.2c1.598-19.047.941-18.477,18.2-67.213,3.968-20.141-9.208-42.2,19.421-47.853,11.805-3.4,24.928-6.264,33.268-15.994,10.918-11.984,16.192-32.4,31.588-35.645,17.708-2.986,36.6,6.535,54.719,5.244,18.526-.594,42.3-11.5,46.3-30.206s-22.742-28.18-30.309-44.631c-.963-2.106-1.904-4.216-2.822-6.329" />
+</g>
+<g id="_14" class="st2">
+<text class="st1" transform="translate(654.271 437.13)" data-count-region="dolomiten">
+<tspan x="0" y="0">14</tspan>
+</text>
+</g>
+<g id="Gruppe_2352" transform="translate(570.835 608.132)">
+<g id="Rechteck_11-4" class="map-label" data-pad-x="16" data-pad-y="12" data-radius="26">
+<rect class="map-label-bg" x="0" y="0" width="10" height="10" rx="26" ry="26"></rect>
+<rect class="map-label-border" x="0" y="0" width="10" height="10" rx="25" ry="25"></rect>
+</g>
+<g id="Dolomiten" class="st2">
+<text class="st0">
+<tspan x="0" y="0">Dolomites</tspan>
+</text>
+</g>
+</g>
+</g>
+</a>
+<a href="/en/south-tyrol/vinschgau" title="Vinschgau">
+<g id="Gruppe_2346" class="">
+<path id="Pfad_15068" class="st8" d="M243.664,530.981c6.012-4.678,11.833-10.244,18.19-11.628s15.4-1.493,21.225-1.059c2.89.289,11.731.4,12.836-5.027,1.105-5.427-8.108-12.719-11.3-15.213-.872-.709-19.42-14-28.72-20.466-22.007-15.335-42.2-29.892-47.682-39.616-5.482-9.724-3.076-20.472-1.249-26.236,1.284-4.289,3.073-8.41,5.329-12.277-2.742-3.286-7.777-10.094-10.408-13.719l-.35-.544c-7.106-12.163-18.9-12.662-37.495-12.083-7.598.5-15.227.223-22.769-.826l-.788-.19s-14.2-3.154-17.761,3.681c-3.561,6.835-12.993,36.735-20.145,59.82-11.832,31.87-13.824,44.094,12.986,64.114,14.669,11.375,7.517,29.41,7.159,44.795.415,11.154,13.42,15.709,24.524,26.657,5.69,5.205-3.072,17.275,12.453,19.063s55.078-15.031,55.078-15.031c5.568-13.025,22.875-39.537,28.887-44.215Z" />
+<g id="_3" class="st2">
+<text class="st1" transform="translate(166.747 493.836)" data-count-region="vinschgau">
+<tspan x="0" y="0">3</tspan>
+</text>
+</g>
+<g id="Gruppe_2348" transform="translate(34.977 614.732)">
+<g id="Rechteck_11" class="map-label" data-pad-x="16" data-pad-y="12" data-radius="26">
+<rect class="map-label-bg" x="0" y="0" width="10" height="10" rx="26" ry="26"></rect>
+<rect class="map-label-border" x="0" y="0" width="10" height="10" rx="25" ry="25"></rect>
+</g>
+<g id="Vinschgau" class="st2">
+<text class="st0">
+<tspan x="0" y="0">Vinschgau</tspan>
+</text>
+</g>
+</g>
+</g>
+</a>
+</g>
+</svg>
+</div>
+<script>window.__WANDERHOTELS_MAP_DE={"vinschgau":"Vinschgau","meran_bozen":"Meran / Bozen","eisacktal":"Eisacktal","dolomiten":"Dolomiten"}</script>
+<script>(function(){function sizeLabels(svg){if(!svg)return;svg.querySelectorAll('g.map-label').forEach((labelGroup)=>{const parent=labelGroup.parentNode;if(!parent||!parent.querySelector)return;const text=parent.querySelector('text');if(!text||typeof text.getBBox!=='function')return;const padX=parseFloat(labelGroup.getAttribute('data-pad-x')||'16');const padY=parseFloat(labelGroup.getAttribute('data-pad-y')||'12');const radius=parseFloat(labelGroup.getAttribute('data-radius')||'26');const bb=text.getBBox();const x=bb.x-padX;const y=bb.y-padY;const w=bb.width+padX*2;const h=bb.height+padY*2;const bg=labelGroup.querySelector('rect.map-label-bg');const border=labelGroup.querySelector('rect.map-label-border');if(!bg||!border)return;bg.setAttribute('x',x);bg.setAttribute('y',y);bg.setAttribute('width',w);bg.setAttribute('height',h);bg.setAttribute('rx',radius);bg.setAttribute('ry',radius);border.setAttribute('x',x+1);border.setAttribute('y',y+1);border.setAttribute('width',Math.max(0,w-2));border.setAttribute('height',Math.max(0,h-2));border.setAttribute('rx',Math.max(0,radius-1));border.setAttribute('ry',Math.max(0,radius-1))})}
+function setCountText(textEl,value){if(!textEl)return;const tspan=textEl.querySelector('tspan')||textEl;tspan.textContent=String(value)}
+async function fetchCount({baseUrl,land,bundesland,part}){const params=new URLSearchParams();params.set('land',land);params.set('bundesland',bundesland);if(part)params.set('part',String(part));const url=(baseUrl+'?'+params.toString()).replace('+%2F+','/');const res=await fetch(url,{credentials:'omit'});if(!res.ok)throw new Error('HTTP '+res.status);const json=await res.json();if(!json||typeof json.count!=='number')throw new Error('Invalid JSON');return json.count}
+async function updateCounts(svg){if(!svg)return;const baseUrl='/api/hotelcount';const land='italien';const targets=Array.from(svg.querySelectorAll('text[data-count-region]'));if(!targets.length)return;const regionToBundesland=(window.__WANDERHOTELS_MAP_DE||{});const tasks=targets.map(async(textEl)=>{const regionKey=(textEl.getAttribute('data-count-region')||'').trim();if(!regionKey)return;const bundesland=regionToBundesland[regionKey];if(!bundesland)return;const partAttr=(textEl.getAttribute('data-count-part')||'').trim();const part=partAttr!==''?parseInt(partAttr,10):undefined;try{const count=await fetchCount({baseUrl,land,bundesland,part});setCountText(textEl,count)}catch(e){console.warn('[Map] hotelcount failed for',{regionKey,bundesland,part,error:String(e)})}});await Promise.all(tasks)}
+async function run(){const svg=document.getElementById('Ebene_1');await updateCounts(svg);sizeLabels(svg)}
+window.addEventListener('load',run);requestAnimationFrame(run)})()</script></div></div>
+</div>
+</div>
+</main>
+</div>
+<div id="full">
+<div class="inside">
+<div class="mod_article block" id="article-1030">
+<div class="mod_rocksolid_slider land-highlight winter block">
+<div data-rsts-name="Meran / Bozen Highlights">
+<div class="highlight-inner padd2 big-padd-top big-padd-bot">
+<div class="content-text">
+<div class="rte">
+<h2>Hiking vacation near Merano / Bolzano: your highlights</h2>
+</div>
+</div>
+<div class="list-big content-text">
+<div class="rte">
+<ul>
+<li>The spa town of Merano and the botanical gardens of Trauttmansdorf</li>
+<li>Archaeology museum with the Ötzi exhibition in Bolzano</li>
+<li>Merano High Mountain Trail: 100 km of nature, alpine pastures &amp; fantastic views</li>
+</ul>
+</div>
+</div>
+</div>
+<picture>
+<source srcset="/assets/images/t/gefuehrte-reisen-winterurlaub-ultental-wanderhotel-unterpichl-2014%28c%29natur-pur-hotel-unterpichl-njtzbd59hf5wj99.webp" media="(min-width: 1200px) and (max-width: 1500px)" type="image/webp" width="1500" height="1000">
+<source srcset="/assets/images/q/gefuehrte-reisen-winterurlaub-ultental-wanderhotel-unterpichl-2014%28c%29natur-pur-hotel-unterpichl-ncmm78tkxrae512.jpg" media="(min-width: 1200px) and (max-width: 1500px)" width="1500" height="1000">
+<source srcset="/assets/images/s/gefuehrte-reisen-winterurlaub-ultental-wanderhotel-unterpichl-2014%28c%29natur-pur-hotel-unterpichl-h7qtx9cjb5m71c5.webp" media="(min-width: 800px) and (max-width: 1199px)" type="image/webp" width="1200" height="800">
+<source srcset="/assets/images/9/gefuehrte-reisen-winterurlaub-ultental-wanderhotel-unterpichl-2014%28c%29natur-pur-hotel-unterpichl-qb8jafrrzm04z3m.jpg" media="(min-width: 800px) and (max-width: 1199px)" width="1200" height="800">
+<source srcset="/assets/images/8/gefuehrte-reisen-winterurlaub-ultental-wanderhotel-unterpichl-2014%28c%29natur-pur-hotel-unterpichl-rz8h3dfwn3z37y1.webp" media="(min-width: 600px) and (max-width: 799px)" type="image/webp" width="1000" height="600">
+<source srcset="/assets/images/4/gefuehrte-reisen-winterurlaub-ultental-wanderhotel-unterpichl-2014%28c%29natur-pur-hotel-unterpichl-hedhw7vvjbfbtt6.jpg" media="(min-width: 600px) and (max-width: 799px)" width="1000" height="600">
+<source srcset="/assets/images/c/gefuehrte-reisen-winterurlaub-ultental-wanderhotel-unterpichl-2014%28c%29natur-pur-hotel-unterpichl-v5ghjhdxaqcknhd.webp" media="(max-width: 599px)" type="image/webp" width="600" height="900">
+<source srcset="/assets/images/9/gefuehrte-reisen-winterurlaub-ultental-wanderhotel-unterpichl-2014%28c%29natur-pur-hotel-unterpichl-r3he4p1pvvnnp1t.jpg" media="(max-width: 599px)" width="600" height="900">
+<source srcset="/assets/images/8/gefuehrte-reisen-winterurlaub-ultental-wanderhotel-unterpichl-2014%28c%29natur-pur-hotel-unterpichl-bzhyyj0jddn27tw.webp" type="image/webp" width="2000" height="1300">
+<img src="/assets/images/v/gefuehrte-reisen-winterurlaub-ultental-wanderhotel-unterpichl-2014%28c%29natur-pur-hotel-unterpichl-fh7h8wbkxwdmzq4.jpg" width="2000" height="1300" alt="A heavily snow-covered alpine hut next to a ski slope in the Ultental Valley." loading="lazy" data-rsts-background data-rsts-scale-mode="crop" data-rsts-position="center">
+</picture>
+<span class="rsts-copyright">© Natur pur Hotel Unterpichl</span>
+</div>
+</div>
+<script>(function(){var sliderElement=[].slice.call(document.getElementsByClassName('mod_rocksolid_slider'),-1)[0];if(window.jQuery&&jQuery.fn.rstSlider){init()}else{document.addEventListener('DOMContentLoaded',init)}
+function init(){var $=jQuery;var slider=$(sliderElement);slider.find('video[data-rsts-background], [data-rsts-type=video] video').each(function(){this.player=!0});slider.rstSlider({"type":"slide","direction":"x","width":"100%","height":"css","navType":"none","scaleMode":"crop","imagePosition":"center","centerContent":!0,"random":!1,"loop":!1,"videoAutoplay":!1,"autoplayProgress":!1,"pauseAutoplayOnHover":!1,"keyboard":!0,"captions":!1,"controls":!1,"thumbControls":!1,"combineNavItems":!0,"visibleAreaAlign":0.5,"gapSize":"0%"});$(function(){if(!$.fn.colorbox){return}
+var lightboxConfig={loop:!1,rel:function(){return $(this).attr('data-lightbox')},maxWidth:'95%',maxHeight:'95%'};var update=function(links){links.colorbox(lightboxConfig)};slider.on('rsts-slidestart rsts-slidestop',function(event){update(slider.find('a[data-lightbox]'))});update(slider.find('a[data-lightbox]'))})}})()</script><div class="mod_rocksolid_slider land-highlight summer block">
+<div data-rsts-name="Meran / Bozen Highlights">
+<div class="highlight-inner padd2 big-padd-top big-padd-bot">
+<div class="content-text">
+<div class="rte">
+<h2>Hiking vacation near Merano / Bolzano: your highlights</h2>
+</div>
+</div>
+<div class="list-big content-text">
+<div class="rte">
+<ul>
+<li>The spa town of Merano and the botanical gardens of Trauttmansdorf</li>
+<li>Archaeology museum with the Ötzi exhibition in Bolzano</li>
+<li>Merano High Mountain Trail: 100 km of nature, alpine pastures &amp; fantastic views</li>
+</ul>
+</div>
+</div>
+</div>
+<picture>
+<source srcset="/assets/images/y/apfelbluete-urlaub-meran-hoteltipp-wanderhotel-zirmerhof-2022%28c%29stefano-scata-zct379fa7dyn6xs.webp" media="(min-width: 1200px) and (max-width: 1500px)" type="image/webp" width="1500" height="1000">
+<source srcset="/assets/images/k/apfelbluete-urlaub-meran-hoteltipp-wanderhotel-zirmerhof-2022%28c%29stefano-scata-aw41xng45zepqf9.jpg" media="(min-width: 1200px) and (max-width: 1500px)" width="1500" height="1000">
+<source srcset="/assets/images/v/apfelbluete-urlaub-meran-hoteltipp-wanderhotel-zirmerhof-2022%28c%29stefano-scata-8gk1za20j6epf1j.webp" media="(min-width: 800px) and (max-width: 1199px)" type="image/webp" width="1200" height="800">
+<source srcset="/assets/images/m/apfelbluete-urlaub-meran-hoteltipp-wanderhotel-zirmerhof-2022%28c%29stefano-scata-839b324h0y743rq.jpg" media="(min-width: 800px) and (max-width: 1199px)" width="1200" height="800">
+<source srcset="/assets/images/z/apfelbluete-urlaub-meran-hoteltipp-wanderhotel-zirmerhof-2022%28c%29stefano-scata-tn0gjegfbcyxy1d.webp" media="(min-width: 600px) and (max-width: 799px)" type="image/webp" width="1000" height="600">
+<source srcset="/assets/images/h/apfelbluete-urlaub-meran-hoteltipp-wanderhotel-zirmerhof-2022%28c%29stefano-scata-4kkg9216ce2vfk0.jpg" media="(min-width: 600px) and (max-width: 799px)" width="1000" height="600">
+<source srcset="/assets/images/k/apfelbluete-urlaub-meran-hoteltipp-wanderhotel-zirmerhof-2022%28c%29stefano-scata-tcyk9ecpv6pxyd3.webp" media="(max-width: 599px)" type="image/webp" width="600" height="900">
+<source srcset="/assets/images/a/apfelbluete-urlaub-meran-hoteltipp-wanderhotel-zirmerhof-2022%28c%29stefano-scata-9a04d4pqnas6szb.jpg" media="(max-width: 599px)" width="600" height="900">
+<source srcset="/assets/images/j/apfelbluete-urlaub-meran-hoteltipp-wanderhotel-zirmerhof-2022%28c%29stefano-scata-theergjyx7gmcws.webp" type="image/webp" width="2000" height="1300">
+<img src="/assets/images/c/apfelbluete-urlaub-meran-hoteltipp-wanderhotel-zirmerhof-2022%28c%29stefano-scata-jgzctsd7jkxy61j.jpg" width="2000" height="1300" alt="Blooming apple orchards during a summer hike in Merano with an idyllic view of a small chapel." loading="lazy" data-rsts-background data-rsts-scale-mode="crop" data-rsts-position="center">
+</picture>
+<span class="rsts-copyright">© Stefano Scata</span>
+</div>
+</div>
+<script>(function(){var sliderElement=[].slice.call(document.getElementsByClassName('mod_rocksolid_slider'),-1)[0];if(window.jQuery&&jQuery.fn.rstSlider){init()}else{document.addEventListener('DOMContentLoaded',init)}
+function init(){var $=jQuery;var slider=$(sliderElement);slider.find('video[data-rsts-background], [data-rsts-type=video] video').each(function(){this.player=!0});slider.rstSlider({"type":"slide","direction":"x","width":"100%","height":"css","navType":"none","scaleMode":"crop","imagePosition":"center","centerContent":!0,"random":!1,"loop":!1,"videoAutoplay":!1,"autoplayProgress":!1,"pauseAutoplayOnHover":!1,"keyboard":!0,"captions":!1,"controls":!1,"thumbControls":!1,"combineNavItems":!0,"visibleAreaAlign":0.5,"gapSize":"0%"});$(function(){if(!$.fn.colorbox){return}
+var lightboxConfig={loop:!1,rel:function(){return $(this).attr('data-lightbox')},maxWidth:'95%',maxHeight:'95%'};var update=function(links){links.colorbox(lightboxConfig)};slider.on('rsts-slidestart rsts-slidestop',function(event){update(slider.find('a[data-lightbox]'))});update(slider.find('a[data-lightbox]'))})}})()</script>
+</div>
+<div class="mod_article big-padd-top big-padd-bot container block" id="hoteluebersicht">
+<div class="mod_listing-table block" id="catalog-list-container">
+<h2>Wanderhotels in Merano / Bolzano:</h2>
+<div class="cm_listing default" data-watchlist-id="45">
+<div class="watchlist-wrapper">
+<div class="ce_watchlist-component">
+<div class="ce_watchlist-form">
+<div class="watchlist-form">
+<button
+type="button"
+class="watchlist-button add-button"
+data-id="45"
+data-table="ctlg_wanderhotels"
+data-added="0"
+aria-pressed="false"
+>
+<span>Zu Favoriten hinzufügen</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+<div class="cm_listing_header"><a href="/en/wanderhotels/hotel-golserhof">
+<figure class="hotel-image-wrapper">
+<picture class="image-summer">
+<source
+srcset="/assets/images/f/aussenpool-sonnenuntergang-frau-geniesst-panorama-palmen-lounge-infinity-pool-suedtirol-dorf-tirol-meran-2025%28c%29tiberio-sorvillo-wc3g9h2knx51vmd.webp"
+media="(min-width: 600px) and (max-width: 799px)"                 type="image/webp">
+<source
+srcset="/assets/images/y/aussenpool-sonnenuntergang-frau-geniesst-panorama-palmen-lounge-infinity-pool-suedtirol-dorf-tirol-meran-2025%28c%29tiberio-sorvillo-by789781vafte51.jpg"
+media="(min-width: 600px) and (max-width: 799px)"                >
+<source
+srcset="/assets/images/s/aussenpool-sonnenuntergang-frau-geniesst-panorama-palmen-lounge-infinity-pool-suedtirol-dorf-tirol-meran-2025%28c%29tiberio-sorvillo-aa12a1rvyav2yct.webp"
+media="(max-width: 799px)"                 type="image/webp">
+<source
+srcset="/assets/images/y/aussenpool-sonnenuntergang-frau-geniesst-panorama-palmen-lounge-infinity-pool-suedtirol-dorf-tirol-meran-2025%28c%29tiberio-sorvillo-6az2bx3kbmp2xfk.jpg"
+media="(max-width: 799px)"                >
+<source
+srcset="/assets/images/d/aussenpool-sonnenuntergang-frau-geniesst-panorama-palmen-lounge-infinity-pool-suedtirol-dorf-tirol-meran-2025%28c%29tiberio-sorvillo-sde7p6t72qdcc38.webp"
+type="image/webp">
+<img
+src="/assets/images/z/aussenpool-sonnenuntergang-frau-geniesst-panorama-palmen-lounge-infinity-pool-suedtirol-dorf-tirol-meran-2025%28c%29tiberio-sorvillo-tgfv2dpqzy37abm.jpg"
+width="500"
+height="500"
+loading="lazy"
+alt="Woman relaxes at the infinity pool at sunset at Golserhof in Dorf Tirol near Meran surrounded by palms and panoramic lounge."
+title="">
+</picture>
+<picture class="image-winter">
+<source
+srcset="/assets/images/0/wellness-meran-wanderhotel-golserhof-2017%28c%29tiberio-sorvillo-min-cnznkzm16yfw9zn.webp"
+media="(min-width: 600px) and (max-width: 799px)"                 type="image/webp">
+<source
+srcset="/assets/images/w/wellness-meran-wanderhotel-golserhof-2017%28c%29tiberio-sorvillo-min-tyxey05yf54cdx3.jpg"
+media="(min-width: 600px) and (max-width: 799px)"                >
+<source
+srcset="/assets/images/1/wellness-meran-wanderhotel-golserhof-2017%28c%29tiberio-sorvillo-min-yh0c2mjdtaknm9r.webp"
+media="(max-width: 799px)"                 type="image/webp">
+<source
+srcset="/assets/images/x/wellness-meran-wanderhotel-golserhof-2017%28c%29tiberio-sorvillo-min-agbdns83j0bj5qx.jpg"
+media="(max-width: 799px)"                >
+<source
+srcset="/assets/images/8/wellness-meran-wanderhotel-golserhof-2017%28c%29tiberio-sorvillo-min-xcxsvaknm0e2rb3.webp"
+type="image/webp">
+<img
+src="/assets/images/q/wellness-meran-wanderhotel-golserhof-2017%28c%29tiberio-sorvillo-min-932ayd4ptn6trk1.jpg"
+width="500"
+height="500"
+loading="lazy"
+alt="The Wanderhotel Golserhof is one of the best wellness hotels in Merano and the surrounding area."
+title="">
+</picture>
+</figure>
+<div class="hotel-name-star heading--block">
+<span class="sterne-wrapper"><svg xmlns="http://www.w3.org/2000/svg" width="15.282" height="14.645" viewBox="0 0 15.282 14.645" class="star-icon"><path d="M15.242,6.03a.811.811,0,0,0-.7-.558l-4.412-.4L8.388.99a.813.813,0,0,0-1.495,0L5.15,5.071l-4.412.4A.813.813,0,0,0,.277,6.893L3.611,9.817l-.983,4.331a.812.812,0,0,0,1.209.878l3.8-2.275,3.8,2.275a.813.813,0,0,0,1.209-.878L11.67,9.817l3.335-2.924A.813.813,0,0,0,15.242,6.03Z" transform="translate(0 -0.496)" fill="#ffba00"/></svg><svg xmlns="http://www.w3.org/2000/svg" width="15.282" height="14.645" viewBox="0 0 15.282 14.645" class="star-icon"><path d="M15.242,6.03a.811.811,0,0,0-.7-.558l-4.412-.4L8.388.99a.813.813,0,0,0-1.495,0L5.15,5.071l-4.412.4A.813.813,0,0,0,.277,6.893L3.611,9.817l-.983,4.331a.812.812,0,0,0,1.209.878l3.8-2.275,3.8,2.275a.813.813,0,0,0,1.209-.878L11.67,9.817l3.335-2.924A.813.813,0,0,0,15.242,6.03Z" transform="translate(0 -0.496)" fill="#ffba00"/></svg><svg xmlns="http://www.w3.org/2000/svg" width="15.282" height="14.645" viewBox="0 0 15.282 14.645" class="star-icon"><path d="M15.242,6.03a.811.811,0,0,0-.7-.558l-4.412-.4L8.388.99a.813.813,0,0,0-1.495,0L5.15,5.071l-4.412.4A.813.813,0,0,0,.277,6.893L3.611,9.817l-.983,4.331a.812.812,0,0,0,1.209.878l3.8-2.275,3.8,2.275a.813.813,0,0,0,1.209-.878L11.67,9.817l3.335-2.924A.813.813,0,0,0,15.242,6.03Z" transform="translate(0 -0.496)" fill="#ffba00"/></svg><svg xmlns="http://www.w3.org/2000/svg" width="15.282" height="14.645" viewBox="0 0 15.282 14.645" class="star-icon"><path d="M15.242,6.03a.811.811,0,0,0-.7-.558l-4.412-.4L8.388.99a.813.813,0,0,0-1.495,0L5.15,5.071l-4.412.4A.813.813,0,0,0,.277,6.893L3.611,9.817l-.983,4.331a.812.812,0,0,0,1.209.878l3.8-2.275,3.8,2.275a.813.813,0,0,0,1.209-.878L11.67,9.817l3.335-2.924A.813.813,0,0,0,15.242,6.03Z" transform="translate(0 -0.496)" fill="#ffba00"/></svg><span class="superior">S</span></span>        <p>Golserhof Hotel</p>
+</div>
+</a></div>
+<div class="list-aktiv">
+<div class="list-all">
+<div class="winter">
+<ul class="waktiv">
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-winter/pure-winter-hiking" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/wandern-pur.svg"
+alt="Pure winter hiking"
+title="Pure winter hiking">
+</a>                              </li>
+</ul>
+</div>
+<div class="summer">
+<ul class="saktiv">
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-summer/pure-hiking" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/wandern-pur.svg"
+alt="Pure hiking"
+title="Pure hiking">
+</a>                              </li>
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-summer/hiking-biking" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/wandern-und-biken.svg"
+alt="Hiking &amp; biking"
+title="Hiking &amp; biking">
+</a>                              </li>
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-summer/hiking-wellness" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/wandern-wellness.svg"
+alt="Hiking and Wellness"
+title="Hiking and Wellness">
+</a>                              </li>
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-summer/hiking-yoga" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/yoga.svg"
+alt="Hiking &amp; yoga"
+title="Hiking &amp; yoga">
+</a>                              </li>
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-summer/hiking-golfing" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/wandern-und-golf.svg"
+alt="Hiking &amp; Golfing"
+title="Hiking &amp; Golfing">
+</a>                              </li>
+</ul>
+</div>
+<div class="hotel-kristall">
+<span class="kristalle-wrapper"><svg class="kristall-icon" xmlns="http://www.w3.org/2000/svg" width="19.842" height="19.313" viewBox="0 0 19.842 19.313">
+<path data-name="Pfad 46" d="M390.158-42.08H372.649a.954.954,0,0,1-.951-.951v-2.312a.954.954,0,0,1,.951-.951h17.509a.954.954,0,0,1,.951.951v2.312a.953.953,0,0,1-.951.951" transform="translate(-371.697 61.393)" fill="#890c64"/>
+<path data-name="Pfad 47" d="M391.93-106.147l2.123,1.983a.626.626,0,0,1,.2.434l.446,13.062-5.351.183-.445-13.062a.624.624,0,0,1,.167-.447l1.983-2.122a.623.623,0,0,1,.88-.03" transform="translate(-384.571 106.315)" fill="#890c64"/>
+<path data-name="Pfad 48" d="M431.167-75.905l.646,1.455a.342.342,0,0,1,.006.261l-3.534,9.17-2.738-1.055,3.534-9.17a.34.34,0,0,1,.18-.189l1.455-.646a.342.342,0,0,1,.451.174" transform="translate(-412 83.707)" fill="#890c64"/>
+<path data-name="Pfad 49" d="M414.094-97.889l1.761,2.3a.621.621,0,0,1,.123.459l-1.529,11.617-5.287-.7,1.53-11.617a.619.619,0,0,1,.238-.412L413.224-98a.621.621,0,0,1,.871.114" transform="translate(-399.737 100.19)" fill="#890c64"/>
+<path data-name="Pfad 50" d="M372.969-82.9l-1.195,1.749a.454.454,0,0,0-.071.34l1.587,8.432,3.838-.722-1.587-8.432a.453.453,0,0,0-.19-.291l-1.749-1.2a.455.455,0,0,0-.632.119" transform="translate(-371.695 88.942)" fill="#890c64"/>
+</svg><svg class="kristall-icon" xmlns="http://www.w3.org/2000/svg" width="19.842" height="19.313" viewBox="0 0 19.842 19.313">
+<path data-name="Pfad 46" d="M390.158-42.08H372.649a.954.954,0,0,1-.951-.951v-2.312a.954.954,0,0,1,.951-.951h17.509a.954.954,0,0,1,.951.951v2.312a.953.953,0,0,1-.951.951" transform="translate(-371.697 61.393)" fill="#890c64"/>
+<path data-name="Pfad 47" d="M391.93-106.147l2.123,1.983a.626.626,0,0,1,.2.434l.446,13.062-5.351.183-.445-13.062a.624.624,0,0,1,.167-.447l1.983-2.122a.623.623,0,0,1,.88-.03" transform="translate(-384.571 106.315)" fill="#890c64"/>
+<path data-name="Pfad 48" d="M431.167-75.905l.646,1.455a.342.342,0,0,1,.006.261l-3.534,9.17-2.738-1.055,3.534-9.17a.34.34,0,0,1,.18-.189l1.455-.646a.342.342,0,0,1,.451.174" transform="translate(-412 83.707)" fill="#890c64"/>
+<path data-name="Pfad 49" d="M414.094-97.889l1.761,2.3a.621.621,0,0,1,.123.459l-1.529,11.617-5.287-.7,1.53-11.617a.619.619,0,0,1,.238-.412L413.224-98a.621.621,0,0,1,.871.114" transform="translate(-399.737 100.19)" fill="#890c64"/>
+<path data-name="Pfad 50" d="M372.969-82.9l-1.195,1.749a.454.454,0,0,0-.071.34l1.587,8.432,3.838-.722-1.587-8.432a.453.453,0,0,0-.19-.291l-1.749-1.2a.455.455,0,0,0-.632.119" transform="translate(-371.695 88.942)" fill="#890c64"/>
+</svg><svg class="kristall-icon" xmlns="http://www.w3.org/2000/svg" width="19.842" height="19.313" viewBox="0 0 19.842 19.313">
+<path data-name="Pfad 46" d="M390.158-42.08H372.649a.954.954,0,0,1-.951-.951v-2.312a.954.954,0,0,1,.951-.951h17.509a.954.954,0,0,1,.951.951v2.312a.953.953,0,0,1-.951.951" transform="translate(-371.697 61.393)" fill="#890c64"/>
+<path data-name="Pfad 47" d="M391.93-106.147l2.123,1.983a.626.626,0,0,1,.2.434l.446,13.062-5.351.183-.445-13.062a.624.624,0,0,1,.167-.447l1.983-2.122a.623.623,0,0,1,.88-.03" transform="translate(-384.571 106.315)" fill="#890c64"/>
+<path data-name="Pfad 48" d="M431.167-75.905l.646,1.455a.342.342,0,0,1,.006.261l-3.534,9.17-2.738-1.055,3.534-9.17a.34.34,0,0,1,.18-.189l1.455-.646a.342.342,0,0,1,.451.174" transform="translate(-412 83.707)" fill="#890c64"/>
+<path data-name="Pfad 49" d="M414.094-97.889l1.761,2.3a.621.621,0,0,1,.123.459l-1.529,11.617-5.287-.7,1.53-11.617a.619.619,0,0,1,.238-.412L413.224-98a.621.621,0,0,1,.871.114" transform="translate(-399.737 100.19)" fill="#890c64"/>
+<path data-name="Pfad 50" d="M372.969-82.9l-1.195,1.749a.454.454,0,0,0-.071.34l1.587,8.432,3.838-.722-1.587-8.432a.453.453,0,0,0-.19-.291l-1.749-1.2a.455.455,0,0,0-.632.119" transform="translate(-371.695 88.942)" fill="#890c64"/>
+</svg><svg class="kristall-icon" xmlns="http://www.w3.org/2000/svg" width="19.842" height="19.313" viewBox="0 0 19.842 19.313">
+<path data-name="Pfad 46" d="M390.158-42.08H372.649a.954.954,0,0,1-.951-.951v-2.312a.954.954,0,0,1,.951-.951h17.509a.954.954,0,0,1,.951.951v2.312a.953.953,0,0,1-.951.951" transform="translate(-371.697 61.393)" fill="#890c64"/>
+<path data-name="Pfad 47" d="M391.93-106.147l2.123,1.983a.626.626,0,0,1,.2.434l.446,13.062-5.351.183-.445-13.062a.624.624,0,0,1,.167-.447l1.983-2.122a.623.623,0,0,1,.88-.03" transform="translate(-384.571 106.315)" fill="#890c64"/>
+<path data-name="Pfad 48" d="M431.167-75.905l.646,1.455a.342.342,0,0,1,.006.261l-3.534,9.17-2.738-1.055,3.534-9.17a.34.34,0,0,1,.18-.189l1.455-.646a.342.342,0,0,1,.451.174" transform="translate(-412 83.707)" fill="#890c64"/>
+<path data-name="Pfad 49" d="M414.094-97.889l1.761,2.3a.621.621,0,0,1,.123.459l-1.529,11.617-5.287-.7,1.53-11.617a.619.619,0,0,1,.238-.412L413.224-98a.621.621,0,0,1,.871.114" transform="translate(-399.737 100.19)" fill="#890c64"/>
+<path data-name="Pfad 50" d="M372.969-82.9l-1.195,1.749a.454.454,0,0,0-.071.34l1.587,8.432,3.838-.722-1.587-8.432a.453.453,0,0,0-.19-.291l-1.749-1.2a.455.455,0,0,0-.632.119" transform="translate(-371.695 88.942)" fill="#890c64"/>
+</svg></span>      </div>
+</div>
+</div>
+<div class="ort-kette">Italy - South Tyrol - Merano/Bolzano - Naturpark Texelgruppe - Dorf Tirol bei Meran</div>
+<div class="list-buttons">
+<div class="hotel-details list-btn"><a href="/en/wanderhotels/hotel-golserhof">Details</a></div>
+<div class="bookinglink list-btn">
+<a href="/en/wanderhotels/hotel-golserhof?inquiry=1" rel="noopener">
+Inquire now    </a>
+</div>
+</div>
+</div>                                    <div class="cm_listing default" data-watchlist-id="53">
+<div class="watchlist-wrapper">
+<div class="ce_watchlist-component">
+<div class="ce_watchlist-form">
+<div class="watchlist-form">
+<button
+type="button"
+class="watchlist-button add-button"
+data-id="53"
+data-table="ctlg_wanderhotels"
+data-added="0"
+aria-pressed="false"
+>
+<span>Zu Favoriten hinzufügen</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+<div class="cm_listing_header"><a href="/en/wanderhotels/hotel-zirmerhof">
+<figure class="hotel-image-wrapper">
+<picture class="image-summer">
+<source
+srcset="/assets/images/w/wander-wellnesshotel-meran-zirmerhof-2023%28c%29-hannes-niederkofler-0my8g7cas3tgp41.webp"
+media="(min-width: 600px) and (max-width: 799px)"                 type="image/webp">
+<source
+srcset="/assets/images/g/wander-wellnesshotel-meran-zirmerhof-2023%28c%29-hannes-niederkofler-4je2ap02v3cemwg.jpg"
+media="(min-width: 600px) and (max-width: 799px)"                >
+<source
+srcset="/assets/images/c/wander-wellnesshotel-meran-zirmerhof-2023%28c%29-hannes-niederkofler-y52h0tsf29e5bbx.webp"
+media="(max-width: 799px)"                 type="image/webp">
+<source
+srcset="/assets/images/k/wander-wellnesshotel-meran-zirmerhof-2023%28c%29-hannes-niederkofler-zas8vy7fdk7nb2z.jpg"
+media="(max-width: 799px)"                >
+<source
+srcset="/assets/images/r/wander-wellnesshotel-meran-zirmerhof-2023%28c%29-hannes-niederkofler-r4fwn71zz8qcvvg.webp"
+type="image/webp">
+<img
+src="/assets/images/e/wander-wellnesshotel-meran-zirmerhof-2023%28c%29-hannes-niederkofler-gxk1nj5c1zmp3d2.jpg"
+width="500"
+height="500"
+loading="lazy"
+alt="In a quiet sunny location, you’ll find Zirmerhof, a hiking and wellness hotel in Merano."
+title="">
+</picture>
+<picture class="image-winter">
+<source
+srcset="/assets/images/z/pool-wellnesshotel-suedtirol-wanderhotel-meran-zirmerhof-2018%28c%29hotel-zirmerhof-min-we0w4rrztf6v1fs.webp"
+media="(min-width: 600px) and (max-width: 799px)"                 type="image/webp">
+<source
+srcset="/assets/images/e/pool-wellnesshotel-suedtirol-wanderhotel-meran-zirmerhof-2018%28c%29hotel-zirmerhof-min-vzmkwprhsxmn1vb.jpg"
+media="(min-width: 600px) and (max-width: 799px)"                >
+<source
+srcset="/assets/images/s/pool-wellnesshotel-suedtirol-wanderhotel-meran-zirmerhof-2018%28c%29hotel-zirmerhof-min-2fsqpn2afczkbav.webp"
+media="(max-width: 799px)"                 type="image/webp">
+<source
+srcset="/assets/images/x/pool-wellnesshotel-suedtirol-wanderhotel-meran-zirmerhof-2018%28c%29hotel-zirmerhof-min-94shf2y0njmr5ts.jpg"
+media="(max-width: 799px)"                >
+<source
+srcset="/assets/images/9/pool-wellnesshotel-suedtirol-wanderhotel-meran-zirmerhof-2018%28c%29hotel-zirmerhof-min-f3qxd14dd5v86vr.webp"
+type="image/webp">
+<img
+src="/assets/images/e/pool-wellnesshotel-suedtirol-wanderhotel-meran-zirmerhof-2018%28c%29hotel-zirmerhof-min-0a87p52fahj091f.jpg"
+width="500"
+height="500"
+loading="lazy"
+alt="As befits a wellness hotel in Merano, Wanderhotel Zirmerhof features a pool."
+title="">
+</picture>
+</figure>
+<div class="hotel-name-star heading--block">
+<span class="sterne-wrapper"><svg xmlns="http://www.w3.org/2000/svg" width="15.282" height="14.645" viewBox="0 0 15.282 14.645" class="star-icon"><path d="M15.242,6.03a.811.811,0,0,0-.7-.558l-4.412-.4L8.388.99a.813.813,0,0,0-1.495,0L5.15,5.071l-4.412.4A.813.813,0,0,0,.277,6.893L3.611,9.817l-.983,4.331a.812.812,0,0,0,1.209.878l3.8-2.275,3.8,2.275a.813.813,0,0,0,1.209-.878L11.67,9.817l3.335-2.924A.813.813,0,0,0,15.242,6.03Z" transform="translate(0 -0.496)" fill="#ffba00"/></svg><svg xmlns="http://www.w3.org/2000/svg" width="15.282" height="14.645" viewBox="0 0 15.282 14.645" class="star-icon"><path d="M15.242,6.03a.811.811,0,0,0-.7-.558l-4.412-.4L8.388.99a.813.813,0,0,0-1.495,0L5.15,5.071l-4.412.4A.813.813,0,0,0,.277,6.893L3.611,9.817l-.983,4.331a.812.812,0,0,0,1.209.878l3.8-2.275,3.8,2.275a.813.813,0,0,0,1.209-.878L11.67,9.817l3.335-2.924A.813.813,0,0,0,15.242,6.03Z" transform="translate(0 -0.496)" fill="#ffba00"/></svg><svg xmlns="http://www.w3.org/2000/svg" width="15.282" height="14.645" viewBox="0 0 15.282 14.645" class="star-icon"><path d="M15.242,6.03a.811.811,0,0,0-.7-.558l-4.412-.4L8.388.99a.813.813,0,0,0-1.495,0L5.15,5.071l-4.412.4A.813.813,0,0,0,.277,6.893L3.611,9.817l-.983,4.331a.812.812,0,0,0,1.209.878l3.8-2.275,3.8,2.275a.813.813,0,0,0,1.209-.878L11.67,9.817l3.335-2.924A.813.813,0,0,0,15.242,6.03Z" transform="translate(0 -0.496)" fill="#ffba00"/></svg><span class="superior">S</span></span>        <p>Hotel Zirmerhof</p>
+</div>
+</a></div>
+<div class="list-aktiv">
+<div class="list-all">
+<div class="winter">
+<ul class="waktiv">
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-winter/pure-winter-hiking" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/wandern-pur.svg"
+alt="Pure winter hiking"
+title="Pure winter hiking">
+</a>                              </li>
+</ul>
+</div>
+<div class="summer">
+<ul class="saktiv">
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-summer/pure-hiking" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/wandern-pur.svg"
+alt="Pure hiking"
+title="Pure hiking">
+</a>                              </li>
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-summer/hiking-biking" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/wandern-und-biken.svg"
+alt="Hiking &amp; biking"
+title="Hiking &amp; biking">
+</a>                              </li>
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-summer/hiking-climbing" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/wandern-klettern-und-bergsteigen.svg"
+alt="Hiking &amp; Climbing"
+title="Hiking &amp; Climbing">
+</a>                              </li>
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-summer/hiking-wellness" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/wandern-wellness.svg"
+alt="Hiking and Wellness"
+title="Hiking and Wellness">
+</a>                              </li>
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-summer/hiking-yoga" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/yoga.svg"
+alt="Hiking &amp; yoga"
+title="Hiking &amp; yoga">
+</a>                              </li>
+</ul>
+</div>
+<div class="hotel-kristall">
+<span class="kristalle-wrapper"><svg class="kristall-icon" xmlns="http://www.w3.org/2000/svg" width="19.842" height="19.313" viewBox="0 0 19.842 19.313">
+<path data-name="Pfad 46" d="M390.158-42.08H372.649a.954.954,0,0,1-.951-.951v-2.312a.954.954,0,0,1,.951-.951h17.509a.954.954,0,0,1,.951.951v2.312a.953.953,0,0,1-.951.951" transform="translate(-371.697 61.393)" fill="#890c64"/>
+<path data-name="Pfad 47" d="M391.93-106.147l2.123,1.983a.626.626,0,0,1,.2.434l.446,13.062-5.351.183-.445-13.062a.624.624,0,0,1,.167-.447l1.983-2.122a.623.623,0,0,1,.88-.03" transform="translate(-384.571 106.315)" fill="#890c64"/>
+<path data-name="Pfad 48" d="M431.167-75.905l.646,1.455a.342.342,0,0,1,.006.261l-3.534,9.17-2.738-1.055,3.534-9.17a.34.34,0,0,1,.18-.189l1.455-.646a.342.342,0,0,1,.451.174" transform="translate(-412 83.707)" fill="#890c64"/>
+<path data-name="Pfad 49" d="M414.094-97.889l1.761,2.3a.621.621,0,0,1,.123.459l-1.529,11.617-5.287-.7,1.53-11.617a.619.619,0,0,1,.238-.412L413.224-98a.621.621,0,0,1,.871.114" transform="translate(-399.737 100.19)" fill="#890c64"/>
+<path data-name="Pfad 50" d="M372.969-82.9l-1.195,1.749a.454.454,0,0,0-.071.34l1.587,8.432,3.838-.722-1.587-8.432a.453.453,0,0,0-.19-.291l-1.749-1.2a.455.455,0,0,0-.632.119" transform="translate(-371.695 88.942)" fill="#890c64"/>
+</svg><svg class="kristall-icon" xmlns="http://www.w3.org/2000/svg" width="19.842" height="19.313" viewBox="0 0 19.842 19.313">
+<path data-name="Pfad 46" d="M390.158-42.08H372.649a.954.954,0,0,1-.951-.951v-2.312a.954.954,0,0,1,.951-.951h17.509a.954.954,0,0,1,.951.951v2.312a.953.953,0,0,1-.951.951" transform="translate(-371.697 61.393)" fill="#890c64"/>
+<path data-name="Pfad 47" d="M391.93-106.147l2.123,1.983a.626.626,0,0,1,.2.434l.446,13.062-5.351.183-.445-13.062a.624.624,0,0,1,.167-.447l1.983-2.122a.623.623,0,0,1,.88-.03" transform="translate(-384.571 106.315)" fill="#890c64"/>
+<path data-name="Pfad 48" d="M431.167-75.905l.646,1.455a.342.342,0,0,1,.006.261l-3.534,9.17-2.738-1.055,3.534-9.17a.34.34,0,0,1,.18-.189l1.455-.646a.342.342,0,0,1,.451.174" transform="translate(-412 83.707)" fill="#890c64"/>
+<path data-name="Pfad 49" d="M414.094-97.889l1.761,2.3a.621.621,0,0,1,.123.459l-1.529,11.617-5.287-.7,1.53-11.617a.619.619,0,0,1,.238-.412L413.224-98a.621.621,0,0,1,.871.114" transform="translate(-399.737 100.19)" fill="#890c64"/>
+<path data-name="Pfad 50" d="M372.969-82.9l-1.195,1.749a.454.454,0,0,0-.071.34l1.587,8.432,3.838-.722-1.587-8.432a.453.453,0,0,0-.19-.291l-1.749-1.2a.455.455,0,0,0-.632.119" transform="translate(-371.695 88.942)" fill="#890c64"/>
+</svg><svg class="kristall-icon" xmlns="http://www.w3.org/2000/svg" width="19.842" height="19.313" viewBox="0 0 19.842 19.313">
+<path data-name="Pfad 46" d="M390.158-42.08H372.649a.954.954,0,0,1-.951-.951v-2.312a.954.954,0,0,1,.951-.951h17.509a.954.954,0,0,1,.951.951v2.312a.953.953,0,0,1-.951.951" transform="translate(-371.697 61.393)" fill="#890c64"/>
+<path data-name="Pfad 47" d="M391.93-106.147l2.123,1.983a.626.626,0,0,1,.2.434l.446,13.062-5.351.183-.445-13.062a.624.624,0,0,1,.167-.447l1.983-2.122a.623.623,0,0,1,.88-.03" transform="translate(-384.571 106.315)" fill="#890c64"/>
+<path data-name="Pfad 48" d="M431.167-75.905l.646,1.455a.342.342,0,0,1,.006.261l-3.534,9.17-2.738-1.055,3.534-9.17a.34.34,0,0,1,.18-.189l1.455-.646a.342.342,0,0,1,.451.174" transform="translate(-412 83.707)" fill="#890c64"/>
+<path data-name="Pfad 49" d="M414.094-97.889l1.761,2.3a.621.621,0,0,1,.123.459l-1.529,11.617-5.287-.7,1.53-11.617a.619.619,0,0,1,.238-.412L413.224-98a.621.621,0,0,1,.871.114" transform="translate(-399.737 100.19)" fill="#890c64"/>
+<path data-name="Pfad 50" d="M372.969-82.9l-1.195,1.749a.454.454,0,0,0-.071.34l1.587,8.432,3.838-.722-1.587-8.432a.453.453,0,0,0-.19-.291l-1.749-1.2a.455.455,0,0,0-.632.119" transform="translate(-371.695 88.942)" fill="#890c64"/>
+</svg><svg class="kristall-icon" xmlns="http://www.w3.org/2000/svg" width="19.842" height="19.313" viewBox="0 0 19.842 19.313">
+<path data-name="Pfad 46" d="M390.158-42.08H372.649a.954.954,0,0,1-.951-.951v-2.312a.954.954,0,0,1,.951-.951h17.509a.954.954,0,0,1,.951.951v2.312a.953.953,0,0,1-.951.951" transform="translate(-371.697 61.393)" fill="#890c64"/>
+<path data-name="Pfad 47" d="M391.93-106.147l2.123,1.983a.626.626,0,0,1,.2.434l.446,13.062-5.351.183-.445-13.062a.624.624,0,0,1,.167-.447l1.983-2.122a.623.623,0,0,1,.88-.03" transform="translate(-384.571 106.315)" fill="#890c64"/>
+<path data-name="Pfad 48" d="M431.167-75.905l.646,1.455a.342.342,0,0,1,.006.261l-3.534,9.17-2.738-1.055,3.534-9.17a.34.34,0,0,1,.18-.189l1.455-.646a.342.342,0,0,1,.451.174" transform="translate(-412 83.707)" fill="#890c64"/>
+<path data-name="Pfad 49" d="M414.094-97.889l1.761,2.3a.621.621,0,0,1,.123.459l-1.529,11.617-5.287-.7,1.53-11.617a.619.619,0,0,1,.238-.412L413.224-98a.621.621,0,0,1,.871.114" transform="translate(-399.737 100.19)" fill="#890c64"/>
+<path data-name="Pfad 50" d="M372.969-82.9l-1.195,1.749a.454.454,0,0,0-.071.34l1.587,8.432,3.838-.722-1.587-8.432a.453.453,0,0,0-.19-.291l-1.749-1.2a.455.455,0,0,0-.632.119" transform="translate(-371.695 88.942)" fill="#890c64"/>
+</svg></span>      </div>
+</div>
+</div>
+<div class="ort-kette">Italy - South Tyrol - Merano/Bolzano - Naturpark Texelgruppe - Riffian</div>
+<div class="list-buttons">
+<div class="hotel-details list-btn"><a href="/en/wanderhotels/hotel-zirmerhof">Details</a></div>
+<div class="bookinglink list-btn">
+<a href="/en/wanderhotels/hotel-zirmerhof?inquiry=1" rel="noopener">
+Inquire now    </a>
+</div>
+</div>
+</div>                                    <div class="cm_listing default" data-watchlist-id="42">
+<div class="watchlist-wrapper">
+<div class="ce_watchlist-component">
+<div class="ce_watchlist-form">
+<div class="watchlist-form">
+<button
+type="button"
+class="watchlist-button add-button"
+data-id="42"
+data-table="ctlg_wanderhotels"
+data-added="0"
+aria-pressed="false"
+>
+<span>Zu Favoriten hinzufügen</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+<div class="cm_listing_header"><a href="/en/wanderhotels/erlebnishotel-waltershof">
+<figure class="hotel-image-wrapper">
+<picture class="image-summer">
+<source
+srcset="/assets/images/q/hotel-waltershof-garten-aussenbereich-sommerwiese-natur-entspannung-2024%28c%29hotel-waltershof-2ts66430qz0891w.webp"
+media="(min-width: 600px) and (max-width: 799px)"                 type="image/webp">
+<source
+srcset="/assets/images/w/hotel-waltershof-garten-aussenbereich-sommerwiese-natur-entspannung-2024%28c%29hotel-waltershof-3mhmqrn309wqh83.jpg"
+media="(min-width: 600px) and (max-width: 799px)"                >
+<source
+srcset="/assets/images/c/hotel-waltershof-garten-aussenbereich-sommerwiese-natur-entspannung-2024%28c%29hotel-waltershof-p6bcyn1vhnne1na.webp"
+media="(max-width: 799px)"                 type="image/webp">
+<source
+srcset="/assets/images/g/hotel-waltershof-garten-aussenbereich-sommerwiese-natur-entspannung-2024%28c%29hotel-waltershof-jhhyr7bzeqwjhgk.jpg"
+media="(max-width: 799px)"                >
+<source
+srcset="/assets/images/p/hotel-waltershof-garten-aussenbereich-sommerwiese-natur-entspannung-2024%28c%29hotel-waltershof-2a7spq7y81x7zeh.webp"
+type="image/webp">
+<img
+src="/assets/images/2/hotel-waltershof-garten-aussenbereich-sommerwiese-natur-entspannung-2024%28c%29hotel-waltershof-t3dk3rvnah4854m.jpg"
+width="500"
+height="500"
+loading="lazy"
+alt="Beautiful summer meadow with a view of Hotel Waltershof in South Tyrol."
+title="">
+</picture>
+<picture class="image-winter">
+<source
+srcset="/assets/images/p/spa-bereich-spa-hotel-suedtirol-wanderhotel-waltershof-c-michael-kuppelwieser-min-hk2frx4dqcyzwxj.webp"
+media="(min-width: 600px) and (max-width: 799px)"                 type="image/webp">
+<source
+srcset="/assets/images/8/spa-bereich-spa-hotel-suedtirol-wanderhotel-waltershof-c-michael-kuppelwieser-min-b0detajj9327kwt.jpg"
+media="(min-width: 600px) and (max-width: 799px)"                >
+<source
+srcset="/assets/images/1/spa-bereich-spa-hotel-suedtirol-wanderhotel-waltershof-c-michael-kuppelwieser-min-cydjv9d1rv4qph4.webp"
+media="(max-width: 799px)"                 type="image/webp">
+<source
+srcset="/assets/images/9/spa-bereich-spa-hotel-suedtirol-wanderhotel-waltershof-c-michael-kuppelwieser-min-wrs88pbzgz7jn8d.jpg"
+media="(max-width: 799px)"                >
+<source
+srcset="/assets/images/h/spa-bereich-spa-hotel-suedtirol-wanderhotel-waltershof-c-michael-kuppelwieser-min-r2ce8we5rjxrmvz.webp"
+type="image/webp">
+<img
+src="/assets/images/f/spa-bereich-spa-hotel-suedtirol-wanderhotel-waltershof-c-michael-kuppelwieser-min-jeq6t1wwmcjp0dx.jpg"
+width="500"
+height="500"
+loading="lazy"
+alt="Whether as a spa hotel in South Tyrol or a Wanderhotel between Bolzano and Merano, the Wanderhotels Waltershof in St. Nikolaus always impresses."
+title="">
+</picture>
+</figure>
+<div class="hotel-name-star heading--block">
+<span class="sterne-wrapper"><svg xmlns="http://www.w3.org/2000/svg" width="15.282" height="14.645" viewBox="0 0 15.282 14.645" class="star-icon"><path d="M15.242,6.03a.811.811,0,0,0-.7-.558l-4.412-.4L8.388.99a.813.813,0,0,0-1.495,0L5.15,5.071l-4.412.4A.813.813,0,0,0,.277,6.893L3.611,9.817l-.983,4.331a.812.812,0,0,0,1.209.878l3.8-2.275,3.8,2.275a.813.813,0,0,0,1.209-.878L11.67,9.817l3.335-2.924A.813.813,0,0,0,15.242,6.03Z" transform="translate(0 -0.496)" fill="#ffba00"/></svg><svg xmlns="http://www.w3.org/2000/svg" width="15.282" height="14.645" viewBox="0 0 15.282 14.645" class="star-icon"><path d="M15.242,6.03a.811.811,0,0,0-.7-.558l-4.412-.4L8.388.99a.813.813,0,0,0-1.495,0L5.15,5.071l-4.412.4A.813.813,0,0,0,.277,6.893L3.611,9.817l-.983,4.331a.812.812,0,0,0,1.209.878l3.8-2.275,3.8,2.275a.813.813,0,0,0,1.209-.878L11.67,9.817l3.335-2.924A.813.813,0,0,0,15.242,6.03Z" transform="translate(0 -0.496)" fill="#ffba00"/></svg><svg xmlns="http://www.w3.org/2000/svg" width="15.282" height="14.645" viewBox="0 0 15.282 14.645" class="star-icon"><path d="M15.242,6.03a.811.811,0,0,0-.7-.558l-4.412-.4L8.388.99a.813.813,0,0,0-1.495,0L5.15,5.071l-4.412.4A.813.813,0,0,0,.277,6.893L3.611,9.817l-.983,4.331a.812.812,0,0,0,1.209.878l3.8-2.275,3.8,2.275a.813.813,0,0,0,1.209-.878L11.67,9.817l3.335-2.924A.813.813,0,0,0,15.242,6.03Z" transform="translate(0 -0.496)" fill="#ffba00"/></svg><svg xmlns="http://www.w3.org/2000/svg" width="15.282" height="14.645" viewBox="0 0 15.282 14.645" class="star-icon"><path d="M15.242,6.03a.811.811,0,0,0-.7-.558l-4.412-.4L8.388.99a.813.813,0,0,0-1.495,0L5.15,5.071l-4.412.4A.813.813,0,0,0,.277,6.893L3.611,9.817l-.983,4.331a.812.812,0,0,0,1.209.878l3.8-2.275,3.8,2.275a.813.813,0,0,0,1.209-.878L11.67,9.817l3.335-2.924A.813.813,0,0,0,15.242,6.03Z" transform="translate(0 -0.496)" fill="#ffba00"/></svg></span>        <p>Erlebnishotel Waltershof</p>
+</div>
+</a></div>
+<div class="list-aktiv">
+<div class="list-all">
+<div class="winter">
+<ul class="waktiv">
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-winter/pure-winter-hiking" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/wandern-pur.svg"
+alt="Pure winter hiking"
+title="Pure winter hiking">
+</a>                              </li>
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-winter/snowshoe-hiking" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/schneeschuh-wandern.svg"
+alt="Snowshoe hiking"
+title="Snowshoe hiking">
+</a>                              </li>
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-winter/skiing" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/ski-alpin-plus.svg"
+alt="Skiing"
+title="Skiing">
+</a>                              </li>
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-winter/winter-hiking-wellness" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/wandern-wellness.svg"
+alt="Winter hiking &amp; wellness"
+title="Winter hiking &amp; wellness">
+</a>                              </li>
+</ul>
+</div>
+<div class="summer">
+<ul class="saktiv">
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-summer/pure-hiking" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/wandern-pur.svg"
+alt="Pure hiking"
+title="Pure hiking">
+</a>                              </li>
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-summer/hiking-biking" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/wandern-und-biken.svg"
+alt="Hiking &amp; biking"
+title="Hiking &amp; biking">
+</a>                              </li>
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-summer/hiking-climbing" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/wandern-klettern-und-bergsteigen.svg"
+alt="Hiking &amp; Climbing"
+title="Hiking &amp; Climbing">
+</a>                              </li>
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-summer/hiking-wellness" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/wandern-wellness.svg"
+alt="Hiking and Wellness"
+title="Hiking and Wellness">
+</a>                              </li>
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-summer/hiking-yoga" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/yoga.svg"
+alt="Hiking &amp; yoga"
+title="Hiking &amp; yoga">
+</a>                              </li>
+</ul>
+</div>
+<div class="hotel-kristall">
+<span class="kristalle-wrapper"><svg class="kristall-icon" xmlns="http://www.w3.org/2000/svg" width="19.842" height="19.313" viewBox="0 0 19.842 19.313">
+<path data-name="Pfad 46" d="M390.158-42.08H372.649a.954.954,0,0,1-.951-.951v-2.312a.954.954,0,0,1,.951-.951h17.509a.954.954,0,0,1,.951.951v2.312a.953.953,0,0,1-.951.951" transform="translate(-371.697 61.393)" fill="#890c64"/>
+<path data-name="Pfad 47" d="M391.93-106.147l2.123,1.983a.626.626,0,0,1,.2.434l.446,13.062-5.351.183-.445-13.062a.624.624,0,0,1,.167-.447l1.983-2.122a.623.623,0,0,1,.88-.03" transform="translate(-384.571 106.315)" fill="#890c64"/>
+<path data-name="Pfad 48" d="M431.167-75.905l.646,1.455a.342.342,0,0,1,.006.261l-3.534,9.17-2.738-1.055,3.534-9.17a.34.34,0,0,1,.18-.189l1.455-.646a.342.342,0,0,1,.451.174" transform="translate(-412 83.707)" fill="#890c64"/>
+<path data-name="Pfad 49" d="M414.094-97.889l1.761,2.3a.621.621,0,0,1,.123.459l-1.529,11.617-5.287-.7,1.53-11.617a.619.619,0,0,1,.238-.412L413.224-98a.621.621,0,0,1,.871.114" transform="translate(-399.737 100.19)" fill="#890c64"/>
+<path data-name="Pfad 50" d="M372.969-82.9l-1.195,1.749a.454.454,0,0,0-.071.34l1.587,8.432,3.838-.722-1.587-8.432a.453.453,0,0,0-.19-.291l-1.749-1.2a.455.455,0,0,0-.632.119" transform="translate(-371.695 88.942)" fill="#890c64"/>
+</svg><svg class="kristall-icon" xmlns="http://www.w3.org/2000/svg" width="19.842" height="19.313" viewBox="0 0 19.842 19.313">
+<path data-name="Pfad 46" d="M390.158-42.08H372.649a.954.954,0,0,1-.951-.951v-2.312a.954.954,0,0,1,.951-.951h17.509a.954.954,0,0,1,.951.951v2.312a.953.953,0,0,1-.951.951" transform="translate(-371.697 61.393)" fill="#890c64"/>
+<path data-name="Pfad 47" d="M391.93-106.147l2.123,1.983a.626.626,0,0,1,.2.434l.446,13.062-5.351.183-.445-13.062a.624.624,0,0,1,.167-.447l1.983-2.122a.623.623,0,0,1,.88-.03" transform="translate(-384.571 106.315)" fill="#890c64"/>
+<path data-name="Pfad 48" d="M431.167-75.905l.646,1.455a.342.342,0,0,1,.006.261l-3.534,9.17-2.738-1.055,3.534-9.17a.34.34,0,0,1,.18-.189l1.455-.646a.342.342,0,0,1,.451.174" transform="translate(-412 83.707)" fill="#890c64"/>
+<path data-name="Pfad 49" d="M414.094-97.889l1.761,2.3a.621.621,0,0,1,.123.459l-1.529,11.617-5.287-.7,1.53-11.617a.619.619,0,0,1,.238-.412L413.224-98a.621.621,0,0,1,.871.114" transform="translate(-399.737 100.19)" fill="#890c64"/>
+<path data-name="Pfad 50" d="M372.969-82.9l-1.195,1.749a.454.454,0,0,0-.071.34l1.587,8.432,3.838-.722-1.587-8.432a.453.453,0,0,0-.19-.291l-1.749-1.2a.455.455,0,0,0-.632.119" transform="translate(-371.695 88.942)" fill="#890c64"/>
+</svg><svg class="kristall-icon" xmlns="http://www.w3.org/2000/svg" width="19.842" height="19.313" viewBox="0 0 19.842 19.313">
+<path data-name="Pfad 46" d="M390.158-42.08H372.649a.954.954,0,0,1-.951-.951v-2.312a.954.954,0,0,1,.951-.951h17.509a.954.954,0,0,1,.951.951v2.312a.953.953,0,0,1-.951.951" transform="translate(-371.697 61.393)" fill="#890c64"/>
+<path data-name="Pfad 47" d="M391.93-106.147l2.123,1.983a.626.626,0,0,1,.2.434l.446,13.062-5.351.183-.445-13.062a.624.624,0,0,1,.167-.447l1.983-2.122a.623.623,0,0,1,.88-.03" transform="translate(-384.571 106.315)" fill="#890c64"/>
+<path data-name="Pfad 48" d="M431.167-75.905l.646,1.455a.342.342,0,0,1,.006.261l-3.534,9.17-2.738-1.055,3.534-9.17a.34.34,0,0,1,.18-.189l1.455-.646a.342.342,0,0,1,.451.174" transform="translate(-412 83.707)" fill="#890c64"/>
+<path data-name="Pfad 49" d="M414.094-97.889l1.761,2.3a.621.621,0,0,1,.123.459l-1.529,11.617-5.287-.7,1.53-11.617a.619.619,0,0,1,.238-.412L413.224-98a.621.621,0,0,1,.871.114" transform="translate(-399.737 100.19)" fill="#890c64"/>
+<path data-name="Pfad 50" d="M372.969-82.9l-1.195,1.749a.454.454,0,0,0-.071.34l1.587,8.432,3.838-.722-1.587-8.432a.453.453,0,0,0-.19-.291l-1.749-1.2a.455.455,0,0,0-.632.119" transform="translate(-371.695 88.942)" fill="#890c64"/>
+</svg><svg class="kristall-icon" xmlns="http://www.w3.org/2000/svg" width="19.842" height="19.313" viewBox="0 0 19.842 19.313">
+<path data-name="Pfad 46" d="M390.158-42.08H372.649a.954.954,0,0,1-.951-.951v-2.312a.954.954,0,0,1,.951-.951h17.509a.954.954,0,0,1,.951.951v2.312a.953.953,0,0,1-.951.951" transform="translate(-371.697 61.393)" fill="#890c64"/>
+<path data-name="Pfad 47" d="M391.93-106.147l2.123,1.983a.626.626,0,0,1,.2.434l.446,13.062-5.351.183-.445-13.062a.624.624,0,0,1,.167-.447l1.983-2.122a.623.623,0,0,1,.88-.03" transform="translate(-384.571 106.315)" fill="#890c64"/>
+<path data-name="Pfad 48" d="M431.167-75.905l.646,1.455a.342.342,0,0,1,.006.261l-3.534,9.17-2.738-1.055,3.534-9.17a.34.34,0,0,1,.18-.189l1.455-.646a.342.342,0,0,1,.451.174" transform="translate(-412 83.707)" fill="#890c64"/>
+<path data-name="Pfad 49" d="M414.094-97.889l1.761,2.3a.621.621,0,0,1,.123.459l-1.529,11.617-5.287-.7,1.53-11.617a.619.619,0,0,1,.238-.412L413.224-98a.621.621,0,0,1,.871.114" transform="translate(-399.737 100.19)" fill="#890c64"/>
+<path data-name="Pfad 50" d="M372.969-82.9l-1.195,1.749a.454.454,0,0,0-.071.34l1.587,8.432,3.838-.722-1.587-8.432a.453.453,0,0,0-.19-.291l-1.749-1.2a.455.455,0,0,0-.632.119" transform="translate(-371.695 88.942)" fill="#890c64"/>
+</svg><svg class="kristall-icon" xmlns="http://www.w3.org/2000/svg" width="19.842" height="19.313" viewBox="0 0 19.842 19.313">
+<path data-name="Pfad 46" d="M390.158-42.08H372.649a.954.954,0,0,1-.951-.951v-2.312a.954.954,0,0,1,.951-.951h17.509a.954.954,0,0,1,.951.951v2.312a.953.953,0,0,1-.951.951" transform="translate(-371.697 61.393)" fill="#890c64"/>
+<path data-name="Pfad 47" d="M391.93-106.147l2.123,1.983a.626.626,0,0,1,.2.434l.446,13.062-5.351.183-.445-13.062a.624.624,0,0,1,.167-.447l1.983-2.122a.623.623,0,0,1,.88-.03" transform="translate(-384.571 106.315)" fill="#890c64"/>
+<path data-name="Pfad 48" d="M431.167-75.905l.646,1.455a.342.342,0,0,1,.006.261l-3.534,9.17-2.738-1.055,3.534-9.17a.34.34,0,0,1,.18-.189l1.455-.646a.342.342,0,0,1,.451.174" transform="translate(-412 83.707)" fill="#890c64"/>
+<path data-name="Pfad 49" d="M414.094-97.889l1.761,2.3a.621.621,0,0,1,.123.459l-1.529,11.617-5.287-.7,1.53-11.617a.619.619,0,0,1,.238-.412L413.224-98a.621.621,0,0,1,.871.114" transform="translate(-399.737 100.19)" fill="#890c64"/>
+<path data-name="Pfad 50" d="M372.969-82.9l-1.195,1.749a.454.454,0,0,0-.071.34l1.587,8.432,3.838-.722-1.587-8.432a.453.453,0,0,0-.19-.291l-1.749-1.2a.455.455,0,0,0-.632.119" transform="translate(-371.695 88.942)" fill="#890c64"/>
+</svg></span>      </div>
+</div>
+</div>
+<div class="ort-kette">Italy - South Tyrol - Merano/Bolzano - Nationalpark Stilfser Joch - St. Nikolaus</div>
+<div class="list-buttons">
+<div class="hotel-details list-btn"><a href="/en/wanderhotels/erlebnishotel-waltershof">Details</a></div>
+<div class="bookinglink list-btn">
+<a href="/en/wanderhotels/erlebnishotel-waltershof?inquiry=1" rel="noopener">
+Inquire now    </a>
+</div>
+</div>
+</div>                                    <div class="cm_listing default" data-watchlist-id="54">
+<div class="watchlist-wrapper">
+<div class="ce_watchlist-component">
+<div class="ce_watchlist-form">
+<div class="watchlist-form">
+<button
+type="button"
+class="watchlist-button add-button"
+data-id="54"
+data-table="ctlg_wanderhotels"
+data-added="0"
+aria-pressed="false"
+>
+<span>Zu Favoriten hinzufügen</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+<div class="cm_listing_header"><a href="/en/wanderhotels/natur-pur-hotel-unterpichl">
+<figure class="hotel-image-wrapper">
+<picture class="image-summer">
+<source
+srcset="/assets/images/w/natur-pur-hotel-unterpichl-au%C3%9Fenansicht-hoteleingang-nationalpark-stilfser-joch-2026%28c%29natur-pur-hotel-unterpichl-8qynrsbrsja0zc8.webp"
+media="(min-width: 600px) and (max-width: 799px)"                 type="image/webp">
+<source
+srcset="/assets/images/x/natur-pur-hotel-unterpichl-au%C3%9Fenansicht-hoteleingang-nationalpark-stilfser-joch-2026%28c%29natur-pur-hotel-unterpichl-wfn2edxhazvtbsz.jpg"
+media="(min-width: 600px) and (max-width: 799px)"                >
+<source
+srcset="/assets/images/j/natur-pur-hotel-unterpichl-au%C3%9Fenansicht-hoteleingang-nationalpark-stilfser-joch-2026%28c%29natur-pur-hotel-unterpichl-eh296ntgb1h23yf.webp"
+media="(max-width: 799px)"                 type="image/webp">
+<source
+srcset="/assets/images/5/natur-pur-hotel-unterpichl-au%C3%9Fenansicht-hoteleingang-nationalpark-stilfser-joch-2026%28c%29natur-pur-hotel-unterpichl-qdtd89mjqahrjpe.jpg"
+media="(max-width: 799px)"                >
+<source
+srcset="/assets/images/7/natur-pur-hotel-unterpichl-au%C3%9Fenansicht-hoteleingang-nationalpark-stilfser-joch-2026%28c%29natur-pur-hotel-unterpichl-he21jwc5gyt5rj3.webp"
+type="image/webp">
+<img
+src="/assets/images/v/natur-pur-hotel-unterpichl-au%C3%9Fenansicht-hoteleingang-nationalpark-stilfser-joch-2026%28c%29natur-pur-hotel-unterpichl-mcvva4zfbz8a0a0.jpg"
+width="500"
+height="500"
+loading="lazy"
+alt="Außenansicht des Natur pur Hotel Unterpichl mit Hoteleingang, nahe dem Nationalpark Stilfser Joch, Südtirol."
+title="">
+</picture>
+<picture class="image-winter">
+<source
+srcset="/assets/images/e/unterkunft-ultental-winter-wanderhotel-unterpichl-2020%28c%29natur-pur-hotel-unterpichl-min-m760k07hyawz9n3.webp"
+media="(min-width: 600px) and (max-width: 799px)"                 type="image/webp">
+<source
+srcset="/assets/images/y/unterkunft-ultental-winter-wanderhotel-unterpichl-2020%28c%29natur-pur-hotel-unterpichl-min-hk8hz3fhsdpegme.jpg"
+media="(min-width: 600px) and (max-width: 799px)"                >
+<source
+srcset="/assets/images/e/unterkunft-ultental-winter-wanderhotel-unterpichl-2020%28c%29natur-pur-hotel-unterpichl-min-3czzqa6jrc6bbcw.webp"
+media="(max-width: 799px)"                 type="image/webp">
+<source
+srcset="/assets/images/d/unterkunft-ultental-winter-wanderhotel-unterpichl-2020%28c%29natur-pur-hotel-unterpichl-min-n16eckcjhkbyxre.jpg"
+media="(max-width: 799px)"                >
+<source
+srcset="/assets/images/g/unterkunft-ultental-winter-wanderhotel-unterpichl-2020%28c%29natur-pur-hotel-unterpichl-min-32cmmz3wtktkvey.webp"
+type="image/webp">
+<img
+src="/assets/images/e/unterkunft-ultental-winter-wanderhotel-unterpichl-2020%28c%29natur-pur-hotel-unterpichl-min-ndrt06zxx0v29sk.jpg"
+width="500"
+height="500"
+loading="lazy"
+alt="Even in winter, Wanderhotel Unterpichl, a hiking hotel between Merano and Bolzano, shines."
+title="">
+</picture>
+</figure>
+<div class="hotel-name-star heading--block">
+<span class="sterne-wrapper"><svg xmlns="http://www.w3.org/2000/svg" width="15.282" height="14.645" viewBox="0 0 15.282 14.645" class="star-icon"><path d="M15.242,6.03a.811.811,0,0,0-.7-.558l-4.412-.4L8.388.99a.813.813,0,0,0-1.495,0L5.15,5.071l-4.412.4A.813.813,0,0,0,.277,6.893L3.611,9.817l-.983,4.331a.812.812,0,0,0,1.209.878l3.8-2.275,3.8,2.275a.813.813,0,0,0,1.209-.878L11.67,9.817l3.335-2.924A.813.813,0,0,0,15.242,6.03Z" transform="translate(0 -0.496)" fill="#ffba00"/></svg><svg xmlns="http://www.w3.org/2000/svg" width="15.282" height="14.645" viewBox="0 0 15.282 14.645" class="star-icon"><path d="M15.242,6.03a.811.811,0,0,0-.7-.558l-4.412-.4L8.388.99a.813.813,0,0,0-1.495,0L5.15,5.071l-4.412.4A.813.813,0,0,0,.277,6.893L3.611,9.817l-.983,4.331a.812.812,0,0,0,1.209.878l3.8-2.275,3.8,2.275a.813.813,0,0,0,1.209-.878L11.67,9.817l3.335-2.924A.813.813,0,0,0,15.242,6.03Z" transform="translate(0 -0.496)" fill="#ffba00"/></svg><svg xmlns="http://www.w3.org/2000/svg" width="15.282" height="14.645" viewBox="0 0 15.282 14.645" class="star-icon"><path d="M15.242,6.03a.811.811,0,0,0-.7-.558l-4.412-.4L8.388.99a.813.813,0,0,0-1.495,0L5.15,5.071l-4.412.4A.813.813,0,0,0,.277,6.893L3.611,9.817l-.983,4.331a.812.812,0,0,0,1.209.878l3.8-2.275,3.8,2.275a.813.813,0,0,0,1.209-.878L11.67,9.817l3.335-2.924A.813.813,0,0,0,15.242,6.03Z" transform="translate(0 -0.496)" fill="#ffba00"/></svg><span class="superior">S</span></span>        <p>Natur pur Hotel Unterpichl</p>
+</div>
+</a></div>
+<div class="list-aktiv">
+<div class="list-all">
+<div class="winter">
+<ul class="waktiv">
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-winter/pure-winter-hiking" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/wandern-pur.svg"
+alt="Pure winter hiking"
+title="Pure winter hiking">
+</a>                              </li>
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-winter/snowshoe-hiking" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/schneeschuh-wandern.svg"
+alt="Snowshoe hiking"
+title="Snowshoe hiking">
+</a>                              </li>
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-winter/skiing" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/ski-alpin-plus.svg"
+alt="Skiing"
+title="Skiing">
+</a>                              </li>
+</ul>
+</div>
+<div class="summer">
+<ul class="saktiv">
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-summer/pure-hiking" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/wandern-pur.svg"
+alt="Pure hiking"
+title="Pure hiking">
+</a>                              </li>
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-summer/hiking-biking" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/wandern-und-biken.svg"
+alt="Hiking &amp; biking"
+title="Hiking &amp; biking">
+</a>                              </li>
+</ul>
+</div>
+<div class="hotel-kristall">
+<span class="kristalle-wrapper"><svg class="kristall-icon" xmlns="http://www.w3.org/2000/svg" width="19.842" height="19.313" viewBox="0 0 19.842 19.313">
+<path data-name="Pfad 46" d="M390.158-42.08H372.649a.954.954,0,0,1-.951-.951v-2.312a.954.954,0,0,1,.951-.951h17.509a.954.954,0,0,1,.951.951v2.312a.953.953,0,0,1-.951.951" transform="translate(-371.697 61.393)" fill="#890c64"/>
+<path data-name="Pfad 47" d="M391.93-106.147l2.123,1.983a.626.626,0,0,1,.2.434l.446,13.062-5.351.183-.445-13.062a.624.624,0,0,1,.167-.447l1.983-2.122a.623.623,0,0,1,.88-.03" transform="translate(-384.571 106.315)" fill="#890c64"/>
+<path data-name="Pfad 48" d="M431.167-75.905l.646,1.455a.342.342,0,0,1,.006.261l-3.534,9.17-2.738-1.055,3.534-9.17a.34.34,0,0,1,.18-.189l1.455-.646a.342.342,0,0,1,.451.174" transform="translate(-412 83.707)" fill="#890c64"/>
+<path data-name="Pfad 49" d="M414.094-97.889l1.761,2.3a.621.621,0,0,1,.123.459l-1.529,11.617-5.287-.7,1.53-11.617a.619.619,0,0,1,.238-.412L413.224-98a.621.621,0,0,1,.871.114" transform="translate(-399.737 100.19)" fill="#890c64"/>
+<path data-name="Pfad 50" d="M372.969-82.9l-1.195,1.749a.454.454,0,0,0-.071.34l1.587,8.432,3.838-.722-1.587-8.432a.453.453,0,0,0-.19-.291l-1.749-1.2a.455.455,0,0,0-.632.119" transform="translate(-371.695 88.942)" fill="#890c64"/>
+</svg><svg class="kristall-icon" xmlns="http://www.w3.org/2000/svg" width="19.842" height="19.313" viewBox="0 0 19.842 19.313">
+<path data-name="Pfad 46" d="M390.158-42.08H372.649a.954.954,0,0,1-.951-.951v-2.312a.954.954,0,0,1,.951-.951h17.509a.954.954,0,0,1,.951.951v2.312a.953.953,0,0,1-.951.951" transform="translate(-371.697 61.393)" fill="#890c64"/>
+<path data-name="Pfad 47" d="M391.93-106.147l2.123,1.983a.626.626,0,0,1,.2.434l.446,13.062-5.351.183-.445-13.062a.624.624,0,0,1,.167-.447l1.983-2.122a.623.623,0,0,1,.88-.03" transform="translate(-384.571 106.315)" fill="#890c64"/>
+<path data-name="Pfad 48" d="M431.167-75.905l.646,1.455a.342.342,0,0,1,.006.261l-3.534,9.17-2.738-1.055,3.534-9.17a.34.34,0,0,1,.18-.189l1.455-.646a.342.342,0,0,1,.451.174" transform="translate(-412 83.707)" fill="#890c64"/>
+<path data-name="Pfad 49" d="M414.094-97.889l1.761,2.3a.621.621,0,0,1,.123.459l-1.529,11.617-5.287-.7,1.53-11.617a.619.619,0,0,1,.238-.412L413.224-98a.621.621,0,0,1,.871.114" transform="translate(-399.737 100.19)" fill="#890c64"/>
+<path data-name="Pfad 50" d="M372.969-82.9l-1.195,1.749a.454.454,0,0,0-.071.34l1.587,8.432,3.838-.722-1.587-8.432a.453.453,0,0,0-.19-.291l-1.749-1.2a.455.455,0,0,0-.632.119" transform="translate(-371.695 88.942)" fill="#890c64"/>
+</svg><svg class="kristall-icon" xmlns="http://www.w3.org/2000/svg" width="19.842" height="19.313" viewBox="0 0 19.842 19.313">
+<path data-name="Pfad 46" d="M390.158-42.08H372.649a.954.954,0,0,1-.951-.951v-2.312a.954.954,0,0,1,.951-.951h17.509a.954.954,0,0,1,.951.951v2.312a.953.953,0,0,1-.951.951" transform="translate(-371.697 61.393)" fill="#890c64"/>
+<path data-name="Pfad 47" d="M391.93-106.147l2.123,1.983a.626.626,0,0,1,.2.434l.446,13.062-5.351.183-.445-13.062a.624.624,0,0,1,.167-.447l1.983-2.122a.623.623,0,0,1,.88-.03" transform="translate(-384.571 106.315)" fill="#890c64"/>
+<path data-name="Pfad 48" d="M431.167-75.905l.646,1.455a.342.342,0,0,1,.006.261l-3.534,9.17-2.738-1.055,3.534-9.17a.34.34,0,0,1,.18-.189l1.455-.646a.342.342,0,0,1,.451.174" transform="translate(-412 83.707)" fill="#890c64"/>
+<path data-name="Pfad 49" d="M414.094-97.889l1.761,2.3a.621.621,0,0,1,.123.459l-1.529,11.617-5.287-.7,1.53-11.617a.619.619,0,0,1,.238-.412L413.224-98a.621.621,0,0,1,.871.114" transform="translate(-399.737 100.19)" fill="#890c64"/>
+<path data-name="Pfad 50" d="M372.969-82.9l-1.195,1.749a.454.454,0,0,0-.071.34l1.587,8.432,3.838-.722-1.587-8.432a.453.453,0,0,0-.19-.291l-1.749-1.2a.455.455,0,0,0-.632.119" transform="translate(-371.695 88.942)" fill="#890c64"/>
+</svg></span>      </div>
+</div>
+</div>
+<div class="ort-kette">Italy - South Tyrol - Merano/Bolzano - Nationalpark Stilfser Joch - St. Walburg</div>
+<div class="list-buttons">
+<div class="hotel-details list-btn"><a href="/en/wanderhotels/natur-pur-hotel-unterpichl">Details</a></div>
+<div class="bookinglink list-btn">
+<a href="/en/wanderhotels/natur-pur-hotel-unterpichl?inquiry=1" rel="noopener">
+Inquire now    </a>
+</div>
+</div>
+</div>                                    <div class="cm_listing default" data-watchlist-id="62">
+<div class="watchlist-wrapper">
+<div class="ce_watchlist-component">
+<div class="ce_watchlist-form">
+<div class="watchlist-form">
+<button
+type="button"
+class="watchlist-button add-button"
+data-id="62"
+data-table="ctlg_wanderhotels"
+data-added="0"
+aria-pressed="false"
+>
+<span>Zu Favoriten hinzufügen</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+<div class="cm_listing_header"><a href="/en/wanderhotels/wanderhotel-regina">
+<figure class="hotel-image-wrapper">
+<picture class="image-summer">
+<source
+srcset="/assets/images/t/wandern-oberbozen-suedtirol-urlaub-wanderhotel-regina-outdoor-pool-c-hotel-regina%20%288%29-min-sj84mq5c14szn1d.webp"
+media="(min-width: 600px) and (max-width: 799px)"                 type="image/webp">
+<source
+srcset="/assets/images/f/wandern-oberbozen-suedtirol-urlaub-wanderhotel-regina-outdoor-pool-c-hotel-regina%20%288%29-min-tmsz662m1hxa1pr.jpg"
+media="(min-width: 600px) and (max-width: 799px)"                >
+<source
+srcset="/assets/images/p/wandern-oberbozen-suedtirol-urlaub-wanderhotel-regina-outdoor-pool-c-hotel-regina%20%288%29-min-4618rd12tt3hhdq.webp"
+media="(max-width: 799px)"                 type="image/webp">
+<source
+srcset="/assets/images/9/wandern-oberbozen-suedtirol-urlaub-wanderhotel-regina-outdoor-pool-c-hotel-regina%20%288%29-min-tsyn5yvr4ct0tva.jpg"
+media="(max-width: 799px)"                >
+<source
+srcset="/assets/images/w/wandern-oberbozen-suedtirol-urlaub-wanderhotel-regina-outdoor-pool-c-hotel-regina%20%288%29-min-d8e6t3bt1ha3y8k.webp"
+type="image/webp">
+<img
+src="/assets/images/q/wandern-oberbozen-suedtirol-urlaub-wanderhotel-regina-outdoor-pool-c-hotel-regina%20%288%29-min-qby5d2na1akq737.jpg"
+width="500"
+height="500"
+loading="lazy"
+alt="Wellness hotel in Bolzano and Wanderhotel between Merano and Bolzano: a warm welcome to the Wanderhotel Regina."
+title="">
+</picture>
+<picture class="image-winter">
+<source
+srcset="/assets/images/4/sommer-urlaub-bozen-meran-hotel-mit-panorama-infinity-pool-wanderhotel-regina-juli-2023-c-michael-lintner%20%282%29-min-et7xv618sx2q4zj.webp"
+media="(min-width: 600px) and (max-width: 799px)"                 type="image/webp">
+<source
+srcset="/assets/images/5/sommer-urlaub-bozen-meran-hotel-mit-panorama-infinity-pool-wanderhotel-regina-juli-2023-c-michael-lintner%20%282%29-min-ayt9qfjxcc4xh43.jpg"
+media="(min-width: 600px) and (max-width: 799px)"                >
+<source
+srcset="/assets/images/n/sommer-urlaub-bozen-meran-hotel-mit-panorama-infinity-pool-wanderhotel-regina-juli-2023-c-michael-lintner%20%282%29-min-jyvhb6hgex32k4s.webp"
+media="(max-width: 799px)"                 type="image/webp">
+<source
+srcset="/assets/images/t/sommer-urlaub-bozen-meran-hotel-mit-panorama-infinity-pool-wanderhotel-regina-juli-2023-c-michael-lintner%20%282%29-min-9hczrtanqfssbd4.jpg"
+media="(max-width: 799px)"                >
+<source
+srcset="/assets/images/n/sommer-urlaub-bozen-meran-hotel-mit-panorama-infinity-pool-wanderhotel-regina-juli-2023-c-michael-lintner%20%282%29-min-qs5wwkq03hsdmec.webp"
+type="image/webp">
+<img
+src="/assets/images/2/sommer-urlaub-bozen-meran-hotel-mit-panorama-infinity-pool-wanderhotel-regina-juli-2023-c-michael-lintner%20%282%29-min-cqxw8f337fwpepe.jpg"
+width="500"
+height="500"
+loading="lazy"
+alt="A hotel in Bolzano with an outdoor pool as well as South Tyrolean charm and joie de vivre: the Wanderhotel Regina."
+title="">
+</picture>
+</figure>
+<div class="hotel-name-star heading--block">
+<span class="sterne-wrapper"><svg xmlns="http://www.w3.org/2000/svg" width="15.282" height="14.645" viewBox="0 0 15.282 14.645" class="star-icon"><path d="M15.242,6.03a.811.811,0,0,0-.7-.558l-4.412-.4L8.388.99a.813.813,0,0,0-1.495,0L5.15,5.071l-4.412.4A.813.813,0,0,0,.277,6.893L3.611,9.817l-.983,4.331a.812.812,0,0,0,1.209.878l3.8-2.275,3.8,2.275a.813.813,0,0,0,1.209-.878L11.67,9.817l3.335-2.924A.813.813,0,0,0,15.242,6.03Z" transform="translate(0 -0.496)" fill="#ffba00"/></svg><svg xmlns="http://www.w3.org/2000/svg" width="15.282" height="14.645" viewBox="0 0 15.282 14.645" class="star-icon"><path d="M15.242,6.03a.811.811,0,0,0-.7-.558l-4.412-.4L8.388.99a.813.813,0,0,0-1.495,0L5.15,5.071l-4.412.4A.813.813,0,0,0,.277,6.893L3.611,9.817l-.983,4.331a.812.812,0,0,0,1.209.878l3.8-2.275,3.8,2.275a.813.813,0,0,0,1.209-.878L11.67,9.817l3.335-2.924A.813.813,0,0,0,15.242,6.03Z" transform="translate(0 -0.496)" fill="#ffba00"/></svg><svg xmlns="http://www.w3.org/2000/svg" width="15.282" height="14.645" viewBox="0 0 15.282 14.645" class="star-icon"><path d="M15.242,6.03a.811.811,0,0,0-.7-.558l-4.412-.4L8.388.99a.813.813,0,0,0-1.495,0L5.15,5.071l-4.412.4A.813.813,0,0,0,.277,6.893L3.611,9.817l-.983,4.331a.812.812,0,0,0,1.209.878l3.8-2.275,3.8,2.275a.813.813,0,0,0,1.209-.878L11.67,9.817l3.335-2.924A.813.813,0,0,0,15.242,6.03Z" transform="translate(0 -0.496)" fill="#ffba00"/></svg><span class="superior">S</span></span>        <p>Wanderhotel Regina</p>
+</div>
+</a></div>
+<div class="list-aktiv">
+<div class="list-all">
+<div class="winter">
+<ul class="waktiv">
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-winter/pure-winter-hiking" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/wandern-pur.svg"
+alt="Pure winter hiking"
+title="Pure winter hiking">
+</a>                              </li>
+</ul>
+</div>
+<div class="summer">
+<ul class="saktiv">
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-summer/pure-hiking" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/wandern-pur.svg"
+alt="Pure hiking"
+title="Pure hiking">
+</a>                              </li>
+<li>
+<a href="https://www.wanderhotels.com/en/active-in-summer/hiking-biking" class="activity-link">                    <img loading="lazy"
+src="files/content/graphics/filter-icons/wandern-und-biken.svg"
+alt="Hiking &amp; biking"
+title="Hiking &amp; biking">
+</a>                              </li>
+</ul>
+</div>
+<div class="hotel-kristall">
+<span class="kristalle-wrapper"><svg class="kristall-icon" xmlns="http://www.w3.org/2000/svg" width="19.842" height="19.313" viewBox="0 0 19.842 19.313">
+<path data-name="Pfad 46" d="M390.158-42.08H372.649a.954.954,0,0,1-.951-.951v-2.312a.954.954,0,0,1,.951-.951h17.509a.954.954,0,0,1,.951.951v2.312a.953.953,0,0,1-.951.951" transform="translate(-371.697 61.393)" fill="#890c64"/>
+<path data-name="Pfad 47" d="M391.93-106.147l2.123,1.983a.626.626,0,0,1,.2.434l.446,13.062-5.351.183-.445-13.062a.624.624,0,0,1,.167-.447l1.983-2.122a.623.623,0,0,1,.88-.03" transform="translate(-384.571 106.315)" fill="#890c64"/>
+<path data-name="Pfad 48" d="M431.167-75.905l.646,1.455a.342.342,0,0,1,.006.261l-3.534,9.17-2.738-1.055,3.534-9.17a.34.34,0,0,1,.18-.189l1.455-.646a.342.342,0,0,1,.451.174" transform="translate(-412 83.707)" fill="#890c64"/>
+<path data-name="Pfad 49" d="M414.094-97.889l1.761,2.3a.621.621,0,0,1,.123.459l-1.529,11.617-5.287-.7,1.53-11.617a.619.619,0,0,1,.238-.412L413.224-98a.621.621,0,0,1,.871.114" transform="translate(-399.737 100.19)" fill="#890c64"/>
+<path data-name="Pfad 50" d="M372.969-82.9l-1.195,1.749a.454.454,0,0,0-.071.34l1.587,8.432,3.838-.722-1.587-8.432a.453.453,0,0,0-.19-.291l-1.749-1.2a.455.455,0,0,0-.632.119" transform="translate(-371.695 88.942)" fill="#890c64"/>
+</svg><svg class="kristall-icon" xmlns="http://www.w3.org/2000/svg" width="19.842" height="19.313" viewBox="0 0 19.842 19.313">
+<path data-name="Pfad 46" d="M390.158-42.08H372.649a.954.954,0,0,1-.951-.951v-2.312a.954.954,0,0,1,.951-.951h17.509a.954.954,0,0,1,.951.951v2.312a.953.953,0,0,1-.951.951" transform="translate(-371.697 61.393)" fill="#890c64"/>
+<path data-name="Pfad 47" d="M391.93-106.147l2.123,1.983a.626.626,0,0,1,.2.434l.446,13.062-5.351.183-.445-13.062a.624.624,0,0,1,.167-.447l1.983-2.122a.623.623,0,0,1,.88-.03" transform="translate(-384.571 106.315)" fill="#890c64"/>
+<path data-name="Pfad 48" d="M431.167-75.905l.646,1.455a.342.342,0,0,1,.006.261l-3.534,9.17-2.738-1.055,3.534-9.17a.34.34,0,0,1,.18-.189l1.455-.646a.342.342,0,0,1,.451.174" transform="translate(-412 83.707)" fill="#890c64"/>
+<path data-name="Pfad 49" d="M414.094-97.889l1.761,2.3a.621.621,0,0,1,.123.459l-1.529,11.617-5.287-.7,1.53-11.617a.619.619,0,0,1,.238-.412L413.224-98a.621.621,0,0,1,.871.114" transform="translate(-399.737 100.19)" fill="#890c64"/>
+<path data-name="Pfad 50" d="M372.969-82.9l-1.195,1.749a.454.454,0,0,0-.071.34l1.587,8.432,3.838-.722-1.587-8.432a.453.453,0,0,0-.19-.291l-1.749-1.2a.455.455,0,0,0-.632.119" transform="translate(-371.695 88.942)" fill="#890c64"/>
+</svg><svg class="kristall-icon" xmlns="http://www.w3.org/2000/svg" width="19.842" height="19.313" viewBox="0 0 19.842 19.313">
+<path data-name="Pfad 46" d="M390.158-42.08H372.649a.954.954,0,0,1-.951-.951v-2.312a.954.954,0,0,1,.951-.951h17.509a.954.954,0,0,1,.951.951v2.312a.953.953,0,0,1-.951.951" transform="translate(-371.697 61.393)" fill="#890c64"/>
+<path data-name="Pfad 47" d="M391.93-106.147l2.123,1.983a.626.626,0,0,1,.2.434l.446,13.062-5.351.183-.445-13.062a.624.624,0,0,1,.167-.447l1.983-2.122a.623.623,0,0,1,.88-.03" transform="translate(-384.571 106.315)" fill="#890c64"/>
+<path data-name="Pfad 48" d="M431.167-75.905l.646,1.455a.342.342,0,0,1,.006.261l-3.534,9.17-2.738-1.055,3.534-9.17a.34.34,0,0,1,.18-.189l1.455-.646a.342.342,0,0,1,.451.174" transform="translate(-412 83.707)" fill="#890c64"/>
+<path data-name="Pfad 49" d="M414.094-97.889l1.761,2.3a.621.621,0,0,1,.123.459l-1.529,11.617-5.287-.7,1.53-11.617a.619.619,0,0,1,.238-.412L413.224-98a.621.621,0,0,1,.871.114" transform="translate(-399.737 100.19)" fill="#890c64"/>
+<path data-name="Pfad 50" d="M372.969-82.9l-1.195,1.749a.454.454,0,0,0-.071.34l1.587,8.432,3.838-.722-1.587-8.432a.453.453,0,0,0-.19-.291l-1.749-1.2a.455.455,0,0,0-.632.119" transform="translate(-371.695 88.942)" fill="#890c64"/>
+</svg><svg class="kristall-icon" xmlns="http://www.w3.org/2000/svg" width="19.842" height="19.313" viewBox="0 0 19.842 19.313">
+<path data-name="Pfad 46" d="M390.158-42.08H372.649a.954.954,0,0,1-.951-.951v-2.312a.954.954,0,0,1,.951-.951h17.509a.954.954,0,0,1,.951.951v2.312a.953.953,0,0,1-.951.951" transform="translate(-371.697 61.393)" fill="#890c64"/>
+<path data-name="Pfad 47" d="M391.93-106.147l2.123,1.983a.626.626,0,0,1,.2.434l.446,13.062-5.351.183-.445-13.062a.624.624,0,0,1,.167-.447l1.983-2.122a.623.623,0,0,1,.88-.03" transform="translate(-384.571 106.315)" fill="#890c64"/>
+<path data-name="Pfad 48" d="M431.167-75.905l.646,1.455a.342.342,0,0,1,.006.261l-3.534,9.17-2.738-1.055,3.534-9.17a.34.34,0,0,1,.18-.189l1.455-.646a.342.342,0,0,1,.451.174" transform="translate(-412 83.707)" fill="#890c64"/>
+<path data-name="Pfad 49" d="M414.094-97.889l1.761,2.3a.621.621,0,0,1,.123.459l-1.529,11.617-5.287-.7,1.53-11.617a.619.619,0,0,1,.238-.412L413.224-98a.621.621,0,0,1,.871.114" transform="translate(-399.737 100.19)" fill="#890c64"/>
+<path data-name="Pfad 50" d="M372.969-82.9l-1.195,1.749a.454.454,0,0,0-.071.34l1.587,8.432,3.838-.722-1.587-8.432a.453.453,0,0,0-.19-.291l-1.749-1.2a.455.455,0,0,0-.632.119" transform="translate(-371.695 88.942)" fill="#890c64"/>
+</svg></span>      </div>
+</div>
+</div>
+<div class="ort-kette">Italy - South Tyrol - Merano/Bolzano - Sarntaler Alpen - Oberbozen</div>
+<div class="list-buttons">
+<div class="hotel-details list-btn"><a href="/en/wanderhotels/wanderhotel-regina">Details</a></div>
+<div class="bookinglink list-btn">
+<a href="/en/wanderhotels/wanderhotel-regina?inquiry=1" rel="noopener">
+Inquire now    </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="last">
+<div class="inside">
+<div class="mod_article padd-top padd-bot block" id="article-1032">
+<div class="ce_rs_column_start grid-two rs-column">
+<div class="last-left content-element-group">
+<div class="last-big-text heading--section content-text">
+<div class="rte">
+<p>The <span style="text-decoration: underline;">Mountains</span> are calling.</p>
+</div>
+</div>
+<div class="content-element-group">
+<div class="last-small-text content-text">
+<div class="rte">
+<p>Flip through the Wanderhotels!</p>
+</div>
+</div>
+<div class="content-image">
+<figure>
+<picture>
+<source srcset="/assets/images/j/wanderhotels-suedtirol-oesterreich-schwarzwald-hoteltipp-auswahl%28c%29cam-poetry-6d6d0a7bbq4n00k.webp" type="image/webp" width="1000" height="1000">
+<img src="/assets/images/z/wanderhotels-suedtirol-oesterreich-schwarzwald-hoteltipp-auswahl%28c%29cam-poetry-hen1xrj11dsh9wf.jpg" alt="A woman looks at the hotel guide on the table and discovers tips for Wanderhotels in South Tyrol, Austria, and the Black Forest." width="1000" height="1000" loading="lazy">
+</picture>
+<figcaption>© Cam Poetry</figcaption>
+</figure>
+</div>
+</div>
+<div class="buttn bigbuttn content-hyperlink">
+<a
+href="/en/hotel-guide"
+data-open-overlay="#hotelguide-overlay"
+title="Order Wanderhotels hotel guide"
+>
+Order hotel guide
+</a>
+</div>
+</div>
+<div class="last-right content-element-group">
+<div class="buttn bigbuttn content-hyperlink">
+<a
+href="/en/newsletter-subscription"
+data-open-overlay="#newsletter-overlay"
+title="Wanderhotels newsletter – subscribe to Alpenpost"
+>
+Subscribe to newsletter
+</a>
+</div>
+<div class="content-element-group">
+<div class="last-small-text content-text">
+<div class="rte">
+<p>Subscribe to our newsletter &amp;<br>Win a hiking vacation</p>
+</div>
+</div>
+<div class="content-image">
+<figure>
+<picture>
+<source srcset="/assets/images/a/neu-website-wanderhotels-newsletteranmeldung%28c%29kwer-2kqeazpmc14my0j.webp" type="image/webp" width="1000" height="1000">
+<img src="/assets/images/h/neu-website-wanderhotels-newsletteranmeldung%28c%29kwer-yskwq71ntrmae54.jpg" alt="Newsletter sign-up on the Wanderhotels website." width="1000" height="1000" loading="lazy">
+</picture>
+<figcaption>© KWER</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div
+id="hotelguide-overlay"
+class="modal-overlay"
+aria-hidden="true"
+style="display: none;">
+<div class="modal-overlay__content">
+<button
+type="button"
+class="modal-overlay__close"
+aria-label="Close">
+&times;
+</button>
+<div class="modal-overlay__body center">
+<div class="flex-col intro content-element-group">
+<div class="einleitung content-text">
+<div class="rte heading">
+<p>The Wanderhotels <strong>Hotel Guide</strong></p>
+<div class="flex-col intro center content-element-group">
+<div class="introduction content-text">
+<div class="rte">
+<p>Your handy hotel guide to all hiking hotels in Austria, South Tyrol, and the Black Forest. You can order the catalog conveniently and free of charge to your home or <a href="https://online.fliphtml5.com/Wanderhotels/xrdv/" target="_blank" rel="noopener"><strong>browse through it online right away.</strong></a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- indexer::stop -->
+<div class="ce_form block">
+<form method="post" enctype="application/x-www-form-urlencoded" id="hotelguide-form" class="cff" data-ajax-form="18">
+<div class="formbody">
+<input type="hidden" name="FORM_SUBMIT" value="auto_auto_hotelguide">
+<input type="hidden" name="REQUEST_TOKEN" value="4f4828dbda8e.K4W6EM3KvPUQnJR8Xojdxw-W0YlRkQCOlzBSniNeqEc.aqj0JYuI5pRbyO5Ic-a29EXXgewJwTf0xVYz0FU5hQVut8gnpvnzn37R9w">
+<div class="widget widget-select select mandatory">
+<select name="anrede" id="ctrl_261" class="select mandatory" required>
+<option value="Frau">Ms.</option>
+<option value="Herr">Mr.</option>
+<option value="Familie">Family</option>
+<option value="Divers">Diverse</option>
+</select>
+</div>
+<div class="grid-two">
+<div class="widget widget-text mandatory">
+<input type="text" name="vorname" id="ctrl_263" class="text mandatory" value="" required placeholder="First name*">
+</div>
+<div class="widget widget-text mandatory">
+<input type="text" name="nachname" id="ctrl_264" class="text mandatory" value="" required placeholder="Last name*">
+</div>
+</div>
+<div class="widget widget-text mandatory">
+<input type="text" name="strasse" id="ctrl_266" class="text mandatory" value="" required placeholder="Street / House number*">
+</div>
+<div class="grid-two">
+<div class="widget widget-text mandatory">
+<input type="text" name="plz" id="ctrl_268" class="text mandatory" value="" required placeholder="Postal code*">
+</div>
+<div class="widget widget-text mandatory">
+<input type="text" name="ort" id="ctrl_269" class="text mandatory" value="" required placeholder="Location*">
+</div>
+</div>
+<div class="widget widget-select select mandatory">
+<select name="laender" id="ctrl_271" class="select mandatory" required>
+<option value="">Select country</option>
+<option value="AT">Austria</option>
+<option value="DE">Germany</option>
+<option value="IT">Italy</option>
+<option value="" disabled>---</option>
+<option value="AF">Afghanistan</option>
+<option value="AX">Åland Islands</option>
+<option value="AL">Albania</option>
+<option value="DZ">Algeria</option>
+<option value="AS">American Samoa</option>
+<option value="AD">Andorra</option>
+<option value="AO">Angola</option>
+<option value="AI">Anguilla</option>
+<option value="AQ">Antarctica</option>
+<option value="AG">Antigua & Barbuda</option>
+<option value="AR">Argentina</option>
+<option value="AM">Armenia</option>
+<option value="AW">Aruba</option>
+<option value="AU">Australia</option>
+<option value="AZ">Azerbaijan</option>
+<option value="BS">Bahamas</option>
+<option value="BH">Bahrain</option>
+<option value="BD">Bangladesh</option>
+<option value="BB">Barbados</option>
+<option value="BY">Belarus</option>
+<option value="BE">Belgium</option>
+<option value="BZ">Belize</option>
+<option value="BJ">Benin</option>
+<option value="BM">Bermuda</option>
+<option value="BT">Bhutan</option>
+<option value="BO">Bolivia</option>
+<option value="BA">Bosnia & Herzegovina</option>
+<option value="BW">Botswana</option>
+<option value="BV">Bouvet Island</option>
+<option value="BR">Brazil</option>
+<option value="IO">British Indian Ocean Territory</option>
+<option value="VG">British Virgin Islands</option>
+<option value="BN">Brunei</option>
+<option value="BG">Bulgaria</option>
+<option value="BF">Burkina Faso</option>
+<option value="BI">Burundi</option>
+<option value="KH">Cambodia</option>
+<option value="CM">Cameroon</option>
+<option value="CA">Canada</option>
+<option value="CV">Cape Verde</option>
+<option value="BQ">Caribbean Netherlands</option>
+<option value="KY">Cayman Islands</option>
+<option value="CF">Central African Republic</option>
+<option value="TD">Chad</option>
+<option value="CL">Chile</option>
+<option value="CN">China</option>
+<option value="CX">Christmas Island</option>
+<option value="CC">Cocos (Keeling) Islands</option>
+<option value="CO">Colombia</option>
+<option value="KM">Comoros</option>
+<option value="CG">Congo - Brazzaville</option>
+<option value="CD">Congo - Kinshasa</option>
+<option value="CK">Cook Islands</option>
+<option value="CR">Costa Rica</option>
+<option value="CI">Côte d’Ivoire</option>
+<option value="HR">Croatia</option>
+<option value="CU">Cuba</option>
+<option value="CW">Curaçao</option>
+<option value="CY">Cyprus</option>
+<option value="CZ">Czechia</option>
+<option value="DK">Denmark</option>
+<option value="DJ">Djibouti</option>
+<option value="DM">Dominica</option>
+<option value="DO">Dominican Republic</option>
+<option value="EC">Ecuador</option>
+<option value="EG">Egypt</option>
+<option value="SV">El Salvador</option>
+<option value="GQ">Equatorial Guinea</option>
+<option value="ER">Eritrea</option>
+<option value="EE">Estonia</option>
+<option value="SZ">Eswatini</option>
+<option value="ET">Ethiopia</option>
+<option value="FK">Falkland Islands</option>
+<option value="FO">Faroe Islands</option>
+<option value="FJ">Fiji</option>
+<option value="FI">Finland</option>
+<option value="FR">France</option>
+<option value="GF">French Guiana</option>
+<option value="PF">French Polynesia</option>
+<option value="TF">French Southern Territories</option>
+<option value="GA">Gabon</option>
+<option value="GM">Gambia</option>
+<option value="GE">Georgia</option>
+<option value="GH">Ghana</option>
+<option value="GI">Gibraltar</option>
+<option value="GR">Greece</option>
+<option value="GL">Greenland</option>
+<option value="GD">Grenada</option>
+<option value="GP">Guadeloupe</option>
+<option value="GU">Guam</option>
+<option value="GT">Guatemala</option>
+<option value="GG">Guernsey</option>
+<option value="GN">Guinea</option>
+<option value="GW">Guinea-Bissau</option>
+<option value="GY">Guyana</option>
+<option value="HT">Haiti</option>
+<option value="HM">Heard & McDonald Islands</option>
+<option value="HN">Honduras</option>
+<option value="HK">Hong Kong SAR China</option>
+<option value="HU">Hungary</option>
+<option value="IS">Iceland</option>
+<option value="IN">India</option>
+<option value="ID">Indonesia</option>
+<option value="IR">Iran</option>
+<option value="IQ">Iraq</option>
+<option value="IE">Ireland</option>
+<option value="IM">Isle of Man</option>
+<option value="IL">Israel</option>
+<option value="JM">Jamaica</option>
+<option value="JP">Japan</option>
+<option value="JE">Jersey</option>
+<option value="JO">Jordan</option>
+<option value="KZ">Kazakhstan</option>
+<option value="KE">Kenya</option>
+<option value="KI">Kiribati</option>
+<option value="KW">Kuwait</option>
+<option value="KG">Kyrgyzstan</option>
+<option value="LA">Laos</option>
+<option value="LV">Latvia</option>
+<option value="LB">Lebanon</option>
+<option value="LS">Lesotho</option>
+<option value="LR">Liberia</option>
+<option value="LY">Libya</option>
+<option value="LI">Liechtenstein</option>
+<option value="LT">Lithuania</option>
+<option value="LU">Luxembourg</option>
+<option value="MO">Macao SAR China</option>
+<option value="MG">Madagascar</option>
+<option value="MW">Malawi</option>
+<option value="MY">Malaysia</option>
+<option value="MV">Maldives</option>
+<option value="ML">Mali</option>
+<option value="MT">Malta</option>
+<option value="MH">Marshall Islands</option>
+<option value="MQ">Martinique</option>
+<option value="MR">Mauritania</option>
+<option value="MU">Mauritius</option>
+<option value="YT">Mayotte</option>
+<option value="MX">Mexico</option>
+<option value="FM">Micronesia</option>
+<option value="MD">Moldova</option>
+<option value="MC">Monaco</option>
+<option value="MN">Mongolia</option>
+<option value="ME">Montenegro</option>
+<option value="MS">Montserrat</option>
+<option value="MA">Morocco</option>
+<option value="MZ">Mozambique</option>
+<option value="MM">Myanmar (Burma)</option>
+<option value="NA">Namibia</option>
+<option value="NR">Nauru</option>
+<option value="NP">Nepal</option>
+<option value="NL">Netherlands</option>
+<option value="NC">New Caledonia</option>
+<option value="NZ">New Zealand</option>
+<option value="NI">Nicaragua</option>
+<option value="NE">Niger</option>
+<option value="NG">Nigeria</option>
+<option value="NU">Niue</option>
+<option value="NF">Norfolk Island</option>
+<option value="KP">North Korea</option>
+<option value="MK">North Macedonia</option>
+<option value="MP">Northern Mariana Islands</option>
+<option value="NO">Norway</option>
+<option value="OM">Oman</option>
+<option value="PK">Pakistan</option>
+<option value="PW">Palau</option>
+<option value="PS">Palestinian Territories</option>
+<option value="PA">Panama</option>
+<option value="PG">Papua New Guinea</option>
+<option value="PY">Paraguay</option>
+<option value="PE">Peru</option>
+<option value="PH">Philippines</option>
+<option value="PN">Pitcairn Islands</option>
+<option value="PL">Poland</option>
+<option value="PT">Portugal</option>
+<option value="PR">Puerto Rico</option>
+<option value="QA">Qatar</option>
+<option value="RE">Réunion</option>
+<option value="RO">Romania</option>
+<option value="RU">Russia</option>
+<option value="RW">Rwanda</option>
+<option value="WS">Samoa</option>
+<option value="SM">San Marino</option>
+<option value="ST">São Tomé & Príncipe</option>
+<option value="SA">Saudi Arabia</option>
+<option value="SN">Senegal</option>
+<option value="RS">Serbia</option>
+<option value="SC">Seychelles</option>
+<option value="SL">Sierra Leone</option>
+<option value="SG">Singapore</option>
+<option value="SX">Sint Maarten</option>
+<option value="SK">Slovakia</option>
+<option value="SI">Slovenia</option>
+<option value="SB">Solomon Islands</option>
+<option value="SO">Somalia</option>
+<option value="ZA">South Africa</option>
+<option value="GS">South Georgia & South Sandwich Islands</option>
+<option value="KR">South Korea</option>
+<option value="SS">South Sudan</option>
+<option value="ES">Spain</option>
+<option value="LK">Sri Lanka</option>
+<option value="BL">St. Barthélemy</option>
+<option value="SH">St. Helena</option>
+<option value="KN">St. Kitts & Nevis</option>
+<option value="LC">St. Lucia</option>
+<option value="MF">St. Martin</option>
+<option value="PM">St. Pierre & Miquelon</option>
+<option value="VC">St. Vincent & Grenadines</option>
+<option value="SD">Sudan</option>
+<option value="SR">Suriname</option>
+<option value="SJ">Svalbard & Jan Mayen</option>
+<option value="SE">Sweden</option>
+<option value="CH">Switzerland</option>
+<option value="SY">Syria</option>
+<option value="TW">Taiwan</option>
+<option value="TJ">Tajikistan</option>
+<option value="TZ">Tanzania</option>
+<option value="TH">Thailand</option>
+<option value="TL">Timor-Leste</option>
+<option value="TG">Togo</option>
+<option value="TK">Tokelau</option>
+<option value="TO">Tonga</option>
+<option value="TT">Trinidad & Tobago</option>
+<option value="TN">Tunisia</option>
+<option value="TR">Turkey</option>
+<option value="TM">Turkmenistan</option>
+<option value="TC">Turks & Caicos Islands</option>
+<option value="TV">Tuvalu</option>
+<option value="UM">U.S. Outlying Islands</option>
+<option value="VI">U.S. Virgin Islands</option>
+<option value="UG">Uganda</option>
+<option value="UA">Ukraine</option>
+<option value="AE">United Arab Emirates</option>
+<option value="GB">United Kingdom</option>
+<option value="US">United States</option>
+<option value="UY">Uruguay</option>
+<option value="UZ">Uzbekistan</option>
+<option value="VU">Vanuatu</option>
+<option value="VA">Vatican City</option>
+<option value="VE">Venezuela</option>
+<option value="VN">Vietnam</option>
+<option value="WF">Wallis & Futuna</option>
+<option value="EH">Western Sahara</option>
+<option value="YE">Yemen</option>
+<option value="ZM">Zambia</option>
+<option value="ZW">Zimbabwe</option>
+</select>
+</div>
+<div class="widget widget-checkbox mandatory">
+<fieldset id="ctrl_272" class="checkbox_container mandatory">
+<input type="hidden" name="dsgvo" value="">
+<span><input type="checkbox" name="dsgvo" id="opt_272_0" class="checkbox" value="ja" required> <label id="lbl_272_0" for="opt_272_0">I have read the <a href="/en/privacy-policy">Privacy Policy</a> and agree to it.*</label></span>
+</fieldset>
+</div>
+<div class="widget widget-checkbox">
+<fieldset id="ctrl_273" class="checkbox_container">
+<input type="hidden" name="newsletter" value="">
+<span><input type="checkbox" name="newsletter" id="opt_273_0" class="checkbox" value="ja" checked> <label id="lbl_273_0" for="opt_273_0">I would like to sign up for the Wanderhotels newsletter.</label></span>
+</fieldset>
+</div>
+<fieldset class="" data-cff-condition="newsletter == &apos;ja&apos;">
+<div class="widget widget-text mandatory">
+<input type="email" name="email" id="ctrl_275" class="text mandatory" value="" required placeholder="Email address*">
+</div>
+</fieldset>
+<div class="widget widget-captcha widget-friendly-captcha mandatory">
+<div id="ctrl_478" data-fc-version="v1" class="frc-captcha" data-sitekey="FCMIV9UN43V7BEU5" data-start="none" data-lang="en"></div>
+</div>
+<div class="widget widget-submit violett">
+<button type="submit" id="ctrl_278" class="submit violett">send</button>
+</div>
+</div>
+</form>
+</div>
+<!-- indexer::continue -->
+<script>window.addEventListener('DOMContentLoaded',()=>{const el=document.querySelector('[data-ajax-form="18"]');function request(form,body,callback){const xhr=new XMLHttpRequest();xhr.open('POST',form.action,!0);xhr.setRequestHeader('Accept','text/html');xhr.setRequestHeader('X-Requested-With','XMLHttpRequest');xhr.setRequestHeader('X-Contao-Ajax-Form',form.querySelector('[name="FORM_SUBMIT"]').value);form.ariaBusy='true';form.dataset.ajaxForm='loading';xhr.onload=()=>{form.dispatchEvent(new CustomEvent('ajax-form-onload',{bubbles:!0,detail:{body,form,xhr},}));form.ariaBusy='false';form.dataset.ajaxForm='';callback(xhr)};xhr.send(body||null)}
+function initForm(form){form.addEventListener('submit',e=>{e.preventDefault();const formData=new FormData(form);if(e.submitter){formData.append(e.submitter.name,e.submitter.value);e.submitter.disabled=!0;setTimeout(()=>e.submitter.disabled=!1,30000)}
+request(form,formData,xhr=>{const location=xhr.getResponseHeader('X-Ajax-Location');if(location){window.location.href=location;return}
+const range=document.createRange();range.selectNode(form.parentNode);const newForm=range.createContextualFragment(xhr.responseText).firstElementChild;form.replaceWith(newForm);if(!newForm.getAttribute('action')){newForm.action=xhr.responseURL}
+initForm(newForm)})})}
+initForm(el)})</script>
+</div>
+</div>
+</div><div
+id="newsletter-overlay"
+class="modal-overlay"
+aria-hidden="true"
+style="display: none;">
+<div class="modal-overlay__content">
+<button
+type="button"
+class="modal-overlay__close"
+aria-label="Close">
+&times;
+</button>
+<div class="modal-overlay__body center">
+<div class="flex-col intro content-element-group">
+<div class="einleitung content-text">
+<div class="rte heading">
+<p>Wanderhotels <strong>Alpenpost</strong></p>
+<div class="flex-col intro center content-element-group">
+<div class="introduction content-text">
+<div class="rte">
+<p>You will receive your Alpen-Post after confirming your email address. Please check your spam folder!</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- indexer::stop -->
+<div class="ce_form block">
+<form method="post" enctype="application/x-www-form-urlencoded" id="brevo" data-ajax-form="15">
+<div class="formbody">
+<input type="hidden" name="FORM_SUBMIT" value="auto_auto_newsletter_signup">
+<input type="hidden" name="REQUEST_TOKEN" value="4f4828dbda8e.K4W6EM3KvPUQnJR8Xojdxw-W0YlRkQCOlzBSniNeqEc.aqj0JYuI5pRbyO5Ic-a29EXXgewJwTf0xVYz0FU5hQVut8gnpvnzn37R9w">
+<div class="widget widget-text mandatory">
+<input type="email" name="email" id="ctrl_210" class="text mandatory" value="" required placeholder="Email*">
+</div>
+<div class="grid-two">
+<div class="widget widget-text mandatory">
+<input type="text" name="firstname" id="ctrl_212" class="text mandatory" value="" required placeholder="First name*">
+</div>
+<div class="widget widget-text mandatory">
+<input type="text" name="lastname" id="ctrl_213" class="text mandatory" value="" required placeholder="Last name*">
+</div>
+</div>
+<div class="widget widget-checkbox mandatory">
+<fieldset id="ctrl_215" class="checkbox_container mandatory">
+<input type="hidden" name="dsgvo" value="">
+<span><input type="checkbox" name="dsgvo" id="opt_215_0" class="checkbox" value="ja" required> <label id="lbl_215_0" for="opt_215_0">I have read the <a href="/en/privacy-policy">Privacy Policy</a> and agree to it.*</label></span>
+</fieldset>
+</div>
+<div class="widget widget-explanation explanation newserkl">
+<p>Every year, a hiking vacation is raffled off among all new newsletter subscriptions taken out between January 1 and December 31 of that year.</p></div>
+<div class="widget widget-captcha widget-friendly-captcha mandatory">
+<div id="ctrl_472" data-fc-version="v1" class="frc-captcha" data-sitekey="FCMIV9UN43V7BEU5" data-start="none" data-lang="en"></div>
+</div>
+<div class="widget widget-submit violett">
+<button type="submit" id="ctrl_217" class="submit violett">subscribe now</button>
+</div>
+</div>
+</form>
+</div>
+<!-- indexer::continue -->
+<script>window.addEventListener('DOMContentLoaded',()=>{const el=document.querySelector('[data-ajax-form="15"]');function request(form,body,callback){const xhr=new XMLHttpRequest();xhr.open('POST',form.action,!0);xhr.setRequestHeader('Accept','text/html');xhr.setRequestHeader('X-Requested-With','XMLHttpRequest');xhr.setRequestHeader('X-Contao-Ajax-Form',form.querySelector('[name="FORM_SUBMIT"]').value);form.ariaBusy='true';form.dataset.ajaxForm='loading';xhr.onload=()=>{form.dispatchEvent(new CustomEvent('ajax-form-onload',{bubbles:!0,detail:{body,form,xhr},}));form.ariaBusy='false';form.dataset.ajaxForm='';callback(xhr)};xhr.send(body||null)}
+function initForm(form){form.addEventListener('submit',e=>{e.preventDefault();const formData=new FormData(form);if(e.submitter){formData.append(e.submitter.name,e.submitter.value);e.submitter.disabled=!0;setTimeout(()=>e.submitter.disabled=!1,30000)}
+request(form,formData,xhr=>{const location=xhr.getResponseHeader('X-Ajax-Location');if(location){window.location.href=location;return}
+const range=document.createRange();range.selectNode(form.parentNode);const newForm=range.createContextualFragment(xhr.responseText).firstElementChild;form.replaceWith(newForm);if(!newForm.getAttribute('action')){newForm.action=xhr.responseURL}
+initForm(newForm)})})}
+initForm(el)})</script>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="before-footer">
+<div class="inside">
+<div class="before-buttons">
+<a href="/en/member-area" title="Wanderhotels Members Area"><img loading="lazy" src="files/content/graphics/member.svg" alt=""> Members Area</a>
+<a href="/en/wanderhotels-wanderconcierge" title="Hiking Concierge"><img loading="lazy" src="files/content/graphics/wanderer.svg" alt=""> Hiking Concierge</a>
+<a href="/en/hiking-scout" title="Wanderhotels Hiking Scout"><img loading="lazy" src="files/content/graphics/rucksack.svg" alt=""> Hiking Scout</a>
+<a href="/en/our-team" title="Wanderhotels Team"><img loading="lazy" src="files/content/graphics/partner.svg" alt=""> Our Team</a>
+<a href="/en/podcast-press" title="Wanderhotels Press & Podcast"><img loading="lazy" src="files/content/graphics/presse.svg" alt=""> Podcasts & Press</a>
+</div>  </div>
+</div>
+<footer id="footer">
+<div class="inside">
+<div class="footer-inner">
+<div>
+<div class="flogo">
+<a href="/en/"><img loading="lazy" src="files/content/graphics/wanderhotels-logo-black.svg" alt="Wanderhotels Logo"></a>
+</div>
+</div>
+<div>
+<div class="flinks">
+<a class="col" href="mailto:info@wanderhotels.com">info@wanderhotels.com</a>
+<a href="tel:+436763621179">+43 676 36 21 179</a>
+</div>
+</div>
+<div>
+<strong>Stay up to date.</strong><br>
+#wanderhotels #hikingholiday<br><br>
+<div class="social">
+<a href="https://www.facebook.com/wanderhotels/" target="_blank" rel="noopener" title="Facebook"><img loading="lazy" src="files/content/graphics/facebook.svg" alt="Facebook"></a>
+<a href="https://www.instagram.com/wanderhotels/" target="_blank" rel="noopener" title="Instagram"><img loading="lazy" src="files/content/graphics/instagram.svg" alt="Instagram"></a>
+<a href="https://www.youtube.com/c/wanderhotels" target="_blank" rel="noopener" title="YouTube"><img loading="lazy" src="files/content/graphics/youtube.svg" alt="YouTube"></a>
+<a href="https://at.pinterest.com/wanderhotels/" target="_blank" rel="noopener" title="Pinterest"><img loading="lazy" src="files/content/graphics/pinterest.svg" alt="Pinterest"></a>
+</div>
+</div>
+<div>
+<div>
+<strong><img loading="lazy" src="files/content/graphics/marker.svg" width="10" height="15" alt="Contact & Location"> Contact & Location</strong><br><br>
+Südtiroler Platz 2 / 3rd floor<br>
+9900 Lienz | Austria
+</div>
+</div>
+<div>
+<strong>Tourismusverein Wanderhotels in Europa e.V.</strong><br><br>
+Monday - Thursday | 09:00 - 15:00<br>
+Friday | 09:00 - 12:00
+</div>
+<div>
+<strong class="vio">Become part of the Wanderhotels!</strong>
+<div class="buttn violett"><a href="/en/become-a-member" title="Become a Wanderhotels member">Become a member</a></div>
+</div>
+</div>
+<div class="afterfooter">
+<div>
+© 2026 Wanderhotels
+</div>
+<div class="aflinks">
+<a href="/en/legal-notice" title="Legal notice">Legal notice</a>
+<a href="/en/privacy-policy" title="Privacy policy">Privacy policy</a>
+<a href="/en/sitemap" title="Sitemap">Sitemap</a>
+<a href="/en/terms-conditions" title="Terms & Conditions">Terms & Conditions</a>
+</div>
+<div class="copy-right">
+<a href="https://www.kwer.at" target="_blank" class="kwer-copyright" rel="noopener">
+created by <svg id="eMwvqfb2mHI1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 38.84 5.45" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+<g>
+<path id="eMwvqfb2mHI3" d="M2.55,2.44l2.42,3.01h-1.18L1.87,3.17l-.86,.89v1.39H0V0H1.01V2.8L3.7,0h1.13L2.55,2.44Z" opacity="0"/>
+<path id="eMwvqfb2mHI4" d="M14.44,0h.96l-1.8,5.44h-1.07l-1.34-4.03-1.37,4.03h-1.08L6.93,0h1.05l1.35,4.13L10.74,0h.93l1.38,4.16L14.44,0Z" opacity="0"/>
+<path id="eMwvqfb2mHI5" d="M18.57,4.6h3.07v.85h-4.08V0h3.97V.86h-2.96v1.41h2.63v.83h-2.63v1.5Z" opacity="0"/>
+<path id="eMwvqfb2mHI6" d="M28.9,3c.2-.3,.3-.65,.3-1.06s-.09-.74-.28-1.03c-.19-.29-.45-.51-.8-.67-.35-.16-.76-.23-1.23-.23h-2.24V5.45h1.01v-1.59h1.23c.09,0,.16,0,.21,0l1.11,1.59h1.09l-1.25-1.79c.37-.15,.66-.37,.86-.66Zm-1.06-.25c-.23,.19-.56,.28-1,.28h-1.18V.86h1.18c.44,0,.77,.09,1,.28,.23,.19,.34,.45,.34,.8s-.11,.62-.34,.8Z" opacity="0"/>
+</g>
+<g id="eMwvqfb2mHI7" transform="translate(0 4.9225)">
+<polygon points="36.1 2.72 38.84 5.45 38.84 0 36.1 2.72" transform="translate(-33.093671-4.922)"/>
+<polygon points="33.39 0 33.39 2.73 36.14 0 33.39 0" transform="translate(-33.09367-4.922)"/>
+<polygon points="33.39 5.45 36.12 5.45 33.39 2.73 33.39 5.45" transform="translate(-33.09367-4.931)"/>
+</g>
+<script>document.addEventListener('DOMContentLoaded',function(){var j=jQuery.noConflict();j(".kwer-copyright").hover(function(){<![CDATA[!function(t,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function"==typeof define&&define.amd?define(n):((t="undefined"!=typeof globalThis?globalThis:t||self).__SVGATOR_PLAYER__=t.__SVGATOR_PLAYER__||{},t.__SVGATOR_PLAYER__["5c7f360c"]=n())}(this,(function(){"use strict";function t(t,n){var r=Object.keys(t);if(Object.getOwnPropertySymbols){var e=Object.getOwnPropertySymbols(t);n&&(e=e.filter((function(n){return Object.getOwnPropertyDescriptor(t,n).enumerable}))),r.push.apply(r,e)}return r}function n(n){for(var r=1;r<arguments.length;r++){var e=null!=arguments[r]?arguments[r]:{};r%2?t(Object(e),!0).forEach((function(t){u(n,t,e[t])})):Object.getOwnPropertyDescriptors?Object.defineProperties(n,Object.getOwnPropertyDescriptors(e)):t(Object(e)).forEach((function(t){Object.defineProperty(n,t,Object.getOwnPropertyDescriptor(e,t))}))}return n}function r(t){return(r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t})(t)}function e(t,n){if(!(t instanceof n))throw new TypeError("Cannot call a class as a function")}function i(t,n){for(var r=0;r<n.length;r++){var e=n[r];e.enumerable=e.enumerable||!1,e.configurable=!0,"value"in e&&(e.writable=!0),Object.defineProperty(t,e.key,e)}}function o(t,n,r){return n&&i(t.prototype,n),r&&i(t,r),t}function u(t,n,r){return n in t?Object.defineProperty(t,n,{value:r,enumerable:!0,configurable:!0,writable:!0}):t[n]=r,t}function a(t){return(a=Object.setPrototypeOf?Object.getPrototypeOf:function(t){return t.__proto__||Object.getPrototypeOf(t)})(t)}function l(t,n){return(l=Object.setPrototypeOf||function(t,n){return t.__proto__=n,t})(t,n)}function f(){if("undefined"==typeof Reflect||!Reflect.construct)return!1;if(Reflect.construct.sham)return!1;if("function"==typeof Proxy)return!0;try{return Boolean.prototype.valueOf.call(Reflect.construct(Boolean,[],(function(){}))),!0}catch(t){return!1}}function s(t,n,r){return(s=f()?Reflect.construct:function(t,n,r){var e=[null];e.push.apply(e,n);var i=new(Function.bind.apply(t,e));return r&&l(i,r.prototype),i}).apply(null,arguments)}function c(t,n){if(n&&("object"==typeof n||"function"==typeof n))return n;if(void 0!==n)throw new TypeError("Derived constructors may only return object or undefined");return function(t){if(void 0===t)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return t}(t)}function h(t,n,r){return(h="undefined"!=typeof Reflect&&Reflect.get?Reflect.get:function(t,n,r){var e=function(t,n){for(;!Object.prototype.hasOwnProperty.call(t,n)&&null!==(t=a(t)););return t}(t,n);if(e){var i=Object.getOwnPropertyDescriptor(e,n);return i.get?i.get.call(r):i.value}})(t,n,r||t)}function v(t){return function(t){if(Array.isArray(t))return y(t)}(t)||function(t){if("undefined"!=typeof Symbol&&null!=t[Symbol.iterator]||null!=t["@@iterator"])return Array.from(t)}(t)||function(t,n){if(!t)return;if("string"==typeof t)return y(t,n);var r=Object.prototype.toString.call(t).slice(8,-1);"Object"===r&&t.constructor&&(r=t.constructor.name);if("Map"===r||"Set"===r)return Array.from(t);if("Arguments"===r||/^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(r))return y(t,n)}(t)||function(){throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.")}()}function y(t,n){(null==n||n>t.length)&&(n=t.length);for(var r=0,e=new Array(n);r<n;r++)e[r]=t[r];return e}var g=d(Math.pow(10,-6));function d(t){var n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:6;if(Number.isInteger(t))return t;var r=Math.pow(10,n);return Math.round((+t+Number.EPSILON)*r)/r}function p(t,n){var r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:g;return Math.abs(t-n)<r}var m=Math.PI/180;function b(t){return t}function w(t,n,r){var e=1-r;return 3*r*e*(t*e+n*r)+r*r*r}function A(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:0,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:0,r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:1,e=arguments.length>3&&void 0!==arguments[3]?arguments[3]:1;return t<0||t>1||r<0||r>1?null:p(t,n)&&p(r,e)?b:function(i){if(i<=0)return t>0?i*n/t:0===n&&r>0?i*e/r:0;if(i>=1)return r<1?1+(i-1)*(e-1)/(r-1):1===r&&t<1?1+(i-1)*(n-1)/(t-1):1;for(var o,u=0,a=1;u<a;){var l=w(t,r,o=(u+a)/2);if(p(i,l))break;l<i?u=o:a=o}return w(n,e,o)}}function x(){return 1}function k(t){return 1===t?1:0}function S(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:1,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:0;if(1===t){if(0===n)return k;if(1===n)return x}var r=1/t;return function(t){return t>=1?1:(t+=n*r)-t%r}}var _=Math.sin,O=Math.cos,j=Math.acos,M=Math.asin,P=Math.tan,E=Math.atan2,I=Math.PI/180,R=180/Math.PI,F=Math.sqrt,N=function(){function t(){var n=arguments.length>0&&void 0!==arguments[0]?arguments[0]:1,r=arguments.length>1&&void 0!==arguments[1]?arguments[1]:0,i=arguments.length>2&&void 0!==arguments[2]?arguments[2]:0,o=arguments.length>3&&void 0!==arguments[3]?arguments[3]:1,u=arguments.length>4&&void 0!==arguments[4]?arguments[4]:0,a=arguments.length>5&&void 0!==arguments[5]?arguments[5]:0;e(this,t),this.m=[n,r,i,o,u,a],this.i=null,this.w=null,this.s=null}return o(t,[{key:"determinant",get:function(){var t=this.m;return t[0]*t[3]-t[1]*t[2]}},{key:"isIdentity",get:function(){if(null===this.i){var t=this.m;this.i=1===t[0]&&0===t[1]&&0===t[2]&&1===t[3]&&0===t[4]&&0===t[5]}return this.i}},{key:"point",value:function(t,n){var r=this.m;return{x:r[0]*t+r[2]*n+r[4],y:r[1]*t+r[3]*n+r[5]}}},{key:"translateSelf",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:0,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:0;if(!t&&!n)return this;var r=this.m;return r[4]+=r[0]*t+r[2]*n,r[5]+=r[1]*t+r[3]*n,this.w=this.s=this.i=null,this}},{key:"rotateSelf",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:0;if(t%=360){var n=_(t*=I),r=O(t),e=this.m,i=e[0],o=e[1];e[0]=i*r+e[2]*n,e[1]=o*r+e[3]*n,e[2]=e[2]*r-i*n,e[3]=e[3]*r-o*n,this.w=this.s=this.i=null}return this}},{key:"scaleSelf",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:1,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:1;if(1!==t||1!==n){var r=this.m;r[0]*=t,r[1]*=t,r[2]*=n,r[3]*=n,this.w=this.s=this.i=null}return this}},{key:"skewSelf",value:function(t,n){if(n%=360,(t%=360)||n){var r=this.m,e=r[0],i=r[1],o=r[2],u=r[3];t&&(t=P(t*I),r[2]+=e*t,r[3]+=i*t),n&&(n=P(n*I),r[0]+=o*n,r[1]+=u*n),this.w=this.s=this.i=null}return this}},{key:"resetSelf",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:1,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:0,r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:0,e=arguments.length>3&&void 0!==arguments[3]?arguments[3]:1,i=arguments.length>4&&void 0!==arguments[4]?arguments[4]:0,o=arguments.length>5&&void 0!==arguments[5]?arguments[5]:0,u=this.m;return u[0]=t,u[1]=n,u[2]=r,u[3]=e,u[4]=i,u[5]=o,this.w=this.s=this.i=null,this}},{key:"recomposeSelf",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:null,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:null,r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:null,e=arguments.length>3&&void 0!==arguments[3]?arguments[3]:null,i=arguments.length>4&&void 0!==arguments[4]?arguments[4]:null;return this.isIdentity||this.resetSelf(),t&&(t.x||t.y)&&this.translateSelf(t.x,t.y),n&&this.rotateSelf(n),r&&(r.x&&this.skewSelf(r.x,0),r.y&&this.skewSelf(0,r.y)),!e||1===e.x&&1===e.y||this.scaleSelf(e.x,e.y),i&&(i.x||i.y)&&this.translateSelf(i.x,i.y),this}},{key:"decompose",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:0,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:0,r=this.m,e=r[0]*r[0]+r[1]*r[1],i=[[r[0],r[1]],[r[2],r[3]]],o=F(e);if(0===o)return{origin:{x:d(r[4]),y:d(r[5])},translate:{x:d(t),y:d(n)},scale:{x:0,y:0},skew:{x:0,y:0},rotate:0};i[0][0]/=o,i[0][1]/=o;var u=r[0]*r[3]-r[1]*r[2]<0;u&&(o=-o);var a=i[0][0]*i[1][0]+i[0][1]*i[1][1];i[1][0]-=i[0][0]*a,i[1][1]-=i[0][1]*a;var l=F(i[1][0]*i[1][0]+i[1][1]*i[1][1]);if(0===l)return{origin:{x:d(r[4]),y:d(r[5])},translate:{x:d(t),y:d(n)},scale:{x:d(o),y:0},skew:{x:0,y:0},rotate:0};i[1][0]/=l,i[1][1]/=l,a/=l;var f=0;return i[1][1]<0?(f=j(i[1][1])*R,i[0][1]<0&&(f=360-f)):f=M(i[0][1])*R,u&&(f=-f),a=E(a,F(i[0][0]*i[0][0]+i[0][1]*i[0][1]))*R,u&&(a=-a),{origin:{x:d(r[4]),y:d(r[5])},translate:{x:d(t),y:d(n)},scale:{x:d(o),y:d(l)},skew:{x:d(a),y:0},rotate:d(f)}}},{key:"clone",value:function(){var t=this.m;return new this.constructor(t[0],t[1],t[2],t[3],t[4],t[5])}},{key:"toString",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:" ";if(null===this.s){var n=this.m.map((function(t){return d(t)}));1===n[0]&&0===n[1]&&0===n[2]&&1===n[3]?this.s="translate("+n[4]+t+n[5]+")":this.s="matrix("+n.join(t)+")"}return this.s}}],[{key:"create",value:function(t){return t?Array.isArray(t)?s(this,v(t)):t instanceof this?t.clone():(new this).recomposeSelf(t.origin,t.rotate,t.skew,t.scale,t.translate):new this}}]),t}();function T(t,n,r){return t>=.5?r:n}function B(t,n,r){return 0===t||n===r?n:t*(r-n)+n}function q(t,n,r){var e=B(t,n,r);return e<=0?0:e}function L(t,n,r){var e=B(t,n,r);return e<=0?0:e>=1?1:e}function C(t,n,r){return 0===t?n:1===t?r:{x:B(t,n.x,r.x),y:B(t,n.y,r.y)}}function D(t,n,r){var e=function(t,n,r){return Math.round(B(t,n,r))}(t,n,r);return e<=0?0:e>=255?255:e}function z(t,n,r){return 0===t?n:1===t?r:{r:D(t,n.r,r.r),g:D(t,n.g,r.g),b:D(t,n.b,r.b),a:B(t,null==n.a?1:n.a,null==r.a?1:r.a)}}function V(t,n){for(var r=[],e=0;e<t;e++)r.push(n);return r}function G(t,n){if(--n<=0)return t;var r=(t=Object.assign([],t)).length;do{for(var e=0;e<r;e++)t.push(t[e])}while(--n>0);return t}var Y,$=function(){function t(n){e(this,t),this.list=n,this.length=n.length}return o(t,[{key:"setAttribute",value:function(t,n){for(var r=this.list,e=0;e<this.length;e++)r[e].setAttribute(t,n)}},{key:"removeAttribute",value:function(t){for(var n=this.list,r=0;r<this.length;r++)n[r].removeAttribute(t)}},{key:"style",value:function(t,n){for(var r=this.list,e=0;e<this.length;e++)r[e].style[t]=n}}]),t}(),U=/-./g,Q=function(t,n){return n.toUpperCase()};function H(t){return"function"==typeof t?t:T}function J(t){return t?"function"==typeof t?t:Array.isArray(t)?function(t){var n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:b;if(!Array.isArray(t))return n;switch(t.length){case 1:return S(t[0])||n;case 2:return S(t[0],t[1])||n;case 4:return A(t[0],t[1],t[2],t[3])||n}return n}(t,null):function(t,n){var r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:b;switch(t){case"linear":return b;case"steps":return S(n.steps||1,n.jump||0)||r;case"bezier":case"cubic-bezier":return A(n.x1||0,n.y1||0,n.x2||0,n.y2||0)||r}return r}(t.type,t.value,null):null}function Z(t,n,r){var e=arguments.length>3&&void 0!==arguments[3]&&arguments[3],i=n.length-1;if(t<=n[0].t)return e?[0,0,n[0].v]:n[0].v;if(t>=n[i].t)return e?[i,1,n[i].v]:n[i].v;var o,u=n[0],a=null;for(o=1;o<=i;o++){if(!(t>n[o].t)){a=n[o];break}u=n[o]}return null==a?e?[i,1,n[i].v]:n[i].v:u.t===a.t?e?[o,1,a.v]:a.v:(t=(t-u.t)/(a.t-u.t),u.e&&(t=u.e(t)),e?[o,t,r(t,u.v,a.v)]:r(t,u.v,a.v))}function K(t,n){var r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:null;return t&&t.length?"function"!=typeof n?null:("function"!=typeof r&&(r=null),function(e){var i=Z(e,t,n);return null!=i&&r&&(i=r(i)),i}):null}function W(t,n){return t.t-n.t}function X(t,n,e,i,o){var u,a="@"===e[0],l="#"===e[0],f=Y[e],s=T;switch(a?(u=e.substr(1),e=u.replace(U,Q)):l&&(e=e.substr(1)),r(f)){case"function":if(s=f(i,o,Z,J,e,a,n,t),l)return s;break;case"string":s=K(i,H(f));break;case"object":if((s=K(i,H(f.i),f.f))&&"function"==typeof f.u)return f.u(n,s,e,a,t)}return s?function(t,n,r){if(arguments.length>3&&void 0!==arguments[3]&&arguments[3])return t instanceof $?function(e){return t.style(n,r(e))}:function(e){return t.style[n]=r(e)};if(Array.isArray(n)){var e=n.length;return function(i){var o=r(i);if(null==o)for(var u=0;u<e;u++)t[u].removeAttribute(n);else for(var a=0;a<e;a++)t[a].setAttribute(n,o)}}return function(e){var i=r(e);null==i?t.removeAttribute(n):t.setAttribute(n,i)}}(n,e,s,a):null}function tt(t,n,e,i){if(!i||"object"!==r(i))return null;var o=null,u=null;return Array.isArray(i)?u=function(t){if(!t||!t.length)return null;for(var n=0;n<t.length;n++)t[n].e&&(t[n].e=J(t[n].e));return t.sort(W)}(i):(u=i.keys,o=i.data||null),u?X(t,n,e,u,o):null}function nt(t,n,r){if(!r)return null;var e=[];for(var i in r)if(r.hasOwnProperty(i)){var o=tt(t,n,i,r[i]);o&&e.push(o)}return e.length?e:null}function rt(t,n){if(!n.duration||n.duration<0)return null;var r=function(t,n){if(!n)return null;var r=[];if(Array.isArray(n))for(var e=n.length,i=0;i<e;i++){var o=n[i];if(2===o.length){var u=null;if("string"==typeof o[0])u=t.getElementById(o[0]);else if(Array.isArray(o[0])){u=[];for(var a=0;a<o[0].length;a++)if("string"==typeof o[0][a]){var l=t.getElementById(o[0][a]);l&&u.push(l)}u=u.length?1===u.length?u[0]:new $(u):null}if(u){var f=nt(t,u,o[1]);f&&(r=r.concat(f))}}}else for(var s in n)if(n.hasOwnProperty(s)){var c=t.getElementById(s);if(c){var h=nt(t,c,n[s]);h&&(r=r.concat(h))}}return r.length?r:null}(t,n.elements);return r?function(t,n){var r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:1/0,e=arguments.length>3&&void 0!==arguments[3]?arguments[3]:1,i=arguments.length>4&&void 0!==arguments[4]&&arguments[4],o=arguments.length>5&&void 0!==arguments[5]?arguments[5]:1,u=t.length,a=e>0?n:0;i&&r%2==0&&(a=n-a);var l=null;return function(f,s){var c=f%n,h=1+(f-c)/n;s*=e,i&&h%2==0&&(s=-s);var v=!1;if(h>r)c=a,v=!0,-1===o&&(c=e>0?0:n);else if(s<0&&(c=n-c),c===l)return!1;l=c;for(var y=0;y<u;y++)t[y](c);return v}}(r,n.duration,n.iterations||1/0,n.direction||1,!!n.alternate,n.fill||1):null}function et(t){return+("0x"+(t.replace(/[^0-9a-fA-F]+/g,"")||27))}function it(t,n,r){return!t||!r||n>t.length?t:t.substring(0,n)+it(t.substring(n+1),r,r)}function ot(t){var n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:27;return!t||t%n?t%n:ot(t/n,n)}function ut(t,n,r){if(t&&t.length){var e=et(r),i=et(n),o=ot(e)+5,u=it(t,ot(e,5),o);return u=u.replace(/\x7c$/g,"==").replace(/\x2f$/g,"="),u=function(t,n,r){var e=+("0x"+t.substring(0,4));t=t.substring(4);for(var i=n%e+r%27,o=[],u=0;u<t.length;u+=2)if("|"!==t[u]){var a=+("0x"+t[u]+t[u+1])-i;o.push(a)}else{var l=+("0x"+t.substring(u+1,u+1+4))-i;u+=3,o.push(l)}return String.fromCharCode.apply(String,o)}(u=(u=atob(u)).replace(/[\x41-\x5A]/g,""),i,e),u=JSON.parse(u)}}Number.isInteger||(Number.isInteger=function(t){return"number"==typeof t&&isFinite(t)&&Math.floor(t)===t}),Number.EPSILON||(Number.EPSILON=2220446049250313e-31);var at=function(){function t(n,r){var i=arguments.length>2&&void 0!==arguments[2]?arguments[2]:{};e(this,t),this._id=0,this._running=!1,this._rollingBack=!1,this._animations=n,this.duration=r.duration,this.alternate=r.alternate,this.fill=r.fill,this.iterations=r.iterations,this.direction=i.direction||1,this.speed=i.speed||1,this.fps=i.fps||100,this.offset=i.offset||0,this.rollbackStartOffset=0}return o(t,[{key:"_rollback",value:function(){var t=this,n=1/0,r=null;this.rollbackStartOffset=this.offset,this._rollingBack||(this._rollingBack=!0,this._running=!0);this._id=window.requestAnimationFrame((function e(i){if(t._rollingBack){null==r&&(r=i);var o=i-r,u=t.rollbackStartOffset-o,a=Math.round(u*t.speed);if(a>t.duration&&n!=1/0){var l=!!t.alternate&&a/t.duration%2>1,f=a%t.duration;a=(f+=l?t.duration:0)||t.duration}var s=t.fps?1e3/t.fps:0,c=Math.max(0,a);if(c<n-s){t.offset=c,n=c;for(var h=t._animations,v=h.length,y=0;y<v;y++)h[y](c,t.direction)}var g=!1;if(t.iterations>0&&-1===t.fill){var d=t.iterations*t.duration,p=d==a;a=p?0:a,t.offset=p?0:t.offset,g=a>d}a>0&&t.offset>=a&&!g?t._id=window.requestAnimationFrame(e):t.stop()}}))}},{key:"_start",value:function(){var t=this,n=arguments.length>0&&void 0!==arguments[0]?arguments[0]:0,r=-1/0,e=null,i={},o=function o(u){t._running=!0,null==e&&(e=u);var a=Math.round((u-e+n)*t.speed),l=t.fps?1e3/t.fps:0;if(a>r+l&&!t._rollingBack){t.offset=a,r=a;for(var f=t._animations,s=f.length,c=0,h=0;h<s;h++)i[h]?c++:(i[h]=f[h](a,t.direction),i[h]&&c++);if(c===s)return void t._stop()}t._id=window.requestAnimationFrame(o)};this._id=window.requestAnimationFrame(o)}},{key:"_stop",value:function(){this._id&&window.cancelAnimationFrame(this._id),this._running=!1,this._rollingBack=!1}},{key:"play",value:function(){!this._rollingBack&&this._running||(this._rollingBack=!1,this.rollbackStartOffset>this.duration&&(this.offset=this.rollbackStartOffset-(this.rollbackStartOffset-this.offset)%this.duration,this.rollbackStartOffset=0),this._start(this.offset))}},{key:"stop",value:function(){this._stop(),this.offset=0,this.rollbackStartOffset=0;var t=this.direction,n=this._animations;window.requestAnimationFrame((function(){for(var r=0;r<n.length;r++)n[r](0,t)}))}},{key:"reachedToEnd",value:function(){return this.iterations>0&&this.offset>=this.iterations*this.duration}},{key:"restart",value:function(){this._stop(),this.offset=0,this._start()}},{key:"pause",value:function(){this._stop()}},{key:"reverse",value:function(){this.direction=-this.direction}}],[{key:"build",value:function(r,e){return delete r.animationSettings,r.options=ut(r.options,r.root,"5c7f360c"),r.animations.map((function(t){var e=ut(t.s,r.root,"5c7f360c");for(var i in delete t.s,r.animationSettings||(r.animationSettings=n({},e)),e)e.hasOwnProperty(i)&&(t[i]=e[i])})),(r=function(t,n){if(Y=n,!t||!t.root||!Array.isArray(t.animations))return null;for(var r=document.getElementsByTagName("svg"),e=!1,i=0;i<r.length;i++)if(r[i].id===t.root&&!r[i].svgatorAnimation){(e=r[i]).svgatorAnimation=!0;break}if(!e)return null;var o=t.animations.map((function(t){return rt(e,t)})).filter((function(t){return!!t}));return o.length?{element:e,animations:o,animationSettings:t.animationSettings,options:t.options||void 0}:null}(r,e))?{el:r.element,options:r.options||{},player:new t(r.animations,r.animationSettings,r.options)}:null}},{key:"push",value:function(t){return this.build(t)}},{key:"init",value:function(){var t=this,n=window.__SVGATOR_PLAYER__&&window.__SVGATOR_PLAYER__["5c7f360c"];Array.isArray(n)&&n.splice(0).forEach((function(n){return t.build(n)}))}}]),t}();function lt(t){return d(t)+""}function ft(t){var n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:" ";return t&&t.length?t.map(lt).join(n):""}function st(t){if(!t)return"transparent";if(null==t.a||t.a>=1){var n=function(t){return 1===(t=parseInt(t).toString(16)).length?"0"+t:t},r=function(t){return t.charAt(0)===t.charAt(1)},e=n(t.r),i=n(t.g),o=n(t.b);return r(e)&&r(i)&&r(o)&&(e=e.charAt(0),i=i.charAt(0),o=o.charAt(0)),"#"+e+i+o}return"rgba("+t.r+","+t.g+","+t.b+","+t.a+")"}function ct(t){return t?"url(#"+t+")":"none"}!function(){for(var t=0,n=["ms","moz","webkit","o"],r=0;r<n.length&&!window.requestAnimationFrame;++r)window.requestAnimationFrame=window[n[r]+"RequestAnimationFrame"],window.cancelAnimationFrame=window[n[r]+"CancelAnimationFrame"]||window[n[r]+"CancelRequestAnimationFrame"];window.requestAnimationFrame||(window.requestAnimationFrame=function(n){var r=Date.now(),e=Math.max(0,16-(r-t)),i=window.setTimeout((function(){n(r+e)}),e);return t=r+e,i},window.cancelAnimationFrame=window.clearTimeout)}();var ht={f:null,i:function(t,n,r){return 0===t?n:1===t?r:{x:q(t,n.x,r.x),y:q(t,n.y,r.y)}},u:function(t,n){return function(r){var e=n(r);t.setAttribute("rx",lt(e.x)),t.setAttribute("ry",lt(e.y))}}},vt={f:null,i:function(t,n,r){return 0===t?n:1===t?r:{width:q(t,n.width,r.width),height:q(t,n.height,r.height)}},u:function(t,n){return function(r){var e=n(r);t.setAttribute("width",lt(e.width)),t.setAttribute("height",lt(e.height))}}};Object.freeze({M:2,L:2,Z:0,H:1,V:1,C:6,Q:4,T:2,S:4,A:7});var yt={},gt=null;function dt(t){var n=function(){if(gt)return gt;if("object"!==("undefined"==typeof document?"undefined":r(document))||!document.createElementNS)return{};var t=document.createElementNS("http://www.w3.org/2000/svg","svg");return t&&t.style?(t.style.position="absolute",t.style.opacity="0.01",t.style.zIndex="-9999",t.style.left="-9999px",t.style.width="1px",t.style.height="1px",gt={svg:t}):{}}().svg;if(!n)return function(t){return null};var e=document.createElementNS(n.namespaceURI,"path");e.setAttributeNS(null,"d",t),e.setAttributeNS(null,"fill","none"),e.setAttributeNS(null,"stroke","none"),n.appendChild(e);var i=e.getTotalLength();return function(t){var n=e.getPointAtLength(i*t);return{x:n.x,y:n.y}}}function pt(t){return yt[t]?yt[t]:yt[t]=dt(t)}function mt(t,n,r,e){if(!t||!e)return!1;var i=["M",t.x,t.y];if(n&&r&&(i.push("C"),i.push(n.x),i.push(n.y),i.push(r.x),i.push(r.y)),n?!r:r){var o=n||r;i.push("Q"),i.push(o.x),i.push(o.y)}return n||r||i.push("L"),i.push(e.x),i.push(e.y),i.join(" ")}function bt(t,n,r,e){var i=arguments.length>4&&void 0!==arguments[4]?arguments[4]:1,o=mt(t,n,r,e),u=pt(o);try{return u(i)}catch(t){return null}}function wt(t,n,r){return t+(n-t)*r}function At(t,n,r){var e=arguments.length>3&&void 0!==arguments[3]&&arguments[3],i={x:wt(t.x,n.x,r),y:wt(t.y,n.y,r)};return e&&(i.a=xt(t,n)),i}function xt(t,n){return Math.atan2(n.y-t.y,n.x-t.x)}function kt(t,n,r,e){var i=1-e;return i*i*t+2*i*e*n+e*e*r}function St(t,n,r,e){return 2*(1-e)*(n-t)+2*e*(r-n)}function _t(t,n,r,e){var i=arguments.length>4&&void 0!==arguments[4]&&arguments[4],o=bt(t,n,null,r,e);return o||(o={x:kt(t.x,n.x,r.x,e),y:kt(t.y,n.y,r.y,e)}),i&&(o.a=Ot(t,n,r,e)),o}function Ot(t,n,r,e){return Math.atan2(St(t.y,n.y,r.y,e),St(t.x,n.x,r.x,e))}function jt(t,n,r,e,i){var o=i*i;return i*o*(e-t+3*(n-r))+3*o*(t+r-2*n)+3*i*(n-t)+t}function Mt(t,n,r,e,i){var o=1-i;return 3*(o*o*(n-t)+2*o*i*(r-n)+i*i*(e-r))}function Pt(t,n,r,e,i){var o=arguments.length>5&&void 0!==arguments[5]&&arguments[5],u=bt(t,n,r,e,i);return u||(u={x:jt(t.x,n.x,r.x,e.x,i),y:jt(t.y,n.y,r.y,e.y,i)}),o&&(u.a=Et(t,n,r,e,i)),u}function Et(t,n,r,e,i){return Math.atan2(Mt(t.y,n.y,r.y,e.y,i),Mt(t.x,n.x,r.x,e.x,i))}function It(t,n,r){var e=arguments.length>3&&void 0!==arguments[3]&&arguments[3];if(Ft(n)){if(Nt(r))return _t(n,r.start,r,t,e)}else if(Ft(r)){if(n.end)return _t(n,n.end,r,t,e)}else{if(n.end)return r.start?Pt(n,n.end,r.start,r,t,e):_t(n,n.end,r,t,e);if(r.start)return _t(n,r.start,r,t,e)}return At(n,r,t,e)}function Rt(t,n,r){var e=It(t,n,r,!0);return e.a=function(t){return arguments.length>1&&void 0!==arguments[1]&&arguments[1]?t+Math.PI:t}(e.a)/m,e}function Ft(t){return!t.type||"corner"===t.type}function Nt(t){return null!=t.start&&!Ft(t)}var Tt=new N;var Bt={f:lt,i:B},qt={f:lt,i:L};function Lt(t,n,r){return t.map((function(t){return function(t,n,r){var e=t.v;if(!e||"g"!==e.t||e.s||!e.v||!e.r)return t;var i=r.getElementById(e.r),o=i&&i.querySelectorAll("stop")||[];return e.s=e.v.map((function(t,n){var r=o[n]&&o[n].getAttribute("offset");return{c:t,o:r=d(parseInt(r)/100)}})),delete e.v,t}(t,0,r)}))}var Ct={gt:"gradientTransform",c:{x:"cx",y:"cy"},rd:"r",f:{x:"x1",y:"y1"},to:{x:"x2",y:"y2"}};function Dt(t,n,e,i,o,u,a,l){return Lt(t,0,l),n=function(t,n,r){for(var e,i,o,u=t.length-1,a={},l=0;l<=u;l++)(e=t[l]).e&&(e.e=n(e.e)),e.v&&"g"===(i=e.v).t&&i.r&&(o=r.getElementById(i.r))&&(a[i.r]={e:o,s:o.querySelectorAll("stop")});return a}(t,i,l),function(i){var o=e(i,t,zt);if(!o)return"none";if("c"===o.t)return st(o.v);if("g"===o.t){if(!n[o.r])return ct(o.r);var u=n[o.r];return function(t,n){for(var r=t.s,e=r.length;e<n.length;e++){var i=r[r.length-1].cloneNode();i.id=Yt(i.id),t.e.appendChild(i),r=t.s=t.e.querySelectorAll("stop")}for(var o=0,u=r.length,a=n.length-1;o<u;o++)r[o].setAttribute("stop-color",st(n[Math.min(o,a)].c)),r[o].setAttribute("offset",n[Math.min(o,a)].o)}(u,o.s),Object.keys(Ct).forEach((function(t){if(void 0!==o[t])if("object"!==r(Ct[t])){var n,e="gt"===t?(n=o[t],Array.isArray(n)?"matrix("+n.join(" ")+")":""):o[t],i=Ct[t];u.e.setAttribute(i,e)}else Object.keys(Ct[t]).forEach((function(n){if(void 0!==o[t][n]){var r=o[t][n],e=Ct[t][n];u.e.setAttribute(e,r)}}))})),ct(o.r)}return"none"}}function zt(t,r,e){if(0===t)return r;if(1===t)return e;if(r&&e){var i=r.t;if(i===e.t)switch(r.t){case"c":return{t:i,v:z(t,r.v,e.v)};case"g":if(r.r===e.r){var o={t:i,s:Vt(t,r.s,e.s),r:r.r};return r.gt&&e.gt&&(o.gt=function(t,n,r){var e=n.length;if(e!==r.length)return T(t,n,r);for(var i=new Array(e),o=0;o<e;o++)i[o]=B(t,n[o],r[o]);return i}(t,r.gt,e.gt)),r.c?(o.c=C(t,r.c,e.c),o.rd=q(t,r.rd,e.rd)):r.f&&(o.f=C(t,r.f,e.f),o.to=C(t,r.to,e.to)),o}}if("c"===r.t&&"g"===e.t||"c"===e.t&&"g"===r.t){var u="c"===r.t?r:e,a="g"===r.t?n({},r):n({},e),l=a.s.map((function(t){return{c:u.v,o:t.o}}));return a.s="c"===r.t?Vt(t,l,a.s):Vt(t,a.s,l),a}}return T(t,r,e)}function Vt(t,n,r){if(n.length===r.length)return n.map((function(n,e){return Gt(t,n,r[e])}));for(var e=Math.max(n.length,r.length),i=[],o=0;o<e;o++){var u=Gt(t,n[Math.min(o,n.length-1)],r[Math.min(o,r.length-1)]);i.push(u)}return i}function Gt(t,n,r){return{o:L(t,n.o,r.o||0),c:z(t,n.c,r.c||{})}}function Yt(t){return t.replace(/-fill-([0-9]+)$/,(function(t,n){return"-fill-"+(+n+1)}))}var $t={fill:Dt,"fill-opacity":qt,stroke:Dt,"stroke-opacity":qt,"stroke-width":Bt,"stroke-dashoffset":{f:lt,i:B},"stroke-dasharray":{f:function(t){var n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:" ";return t&&t.length>0&&(t=t.map((function(t){return d(t,4)}))),ft(t,n)},i:function(t,n,r){var e,i,o,u=n.length,a=r.length;if(u!==a)if(0===u)n=V(u=a,0);else if(0===a)a=u,r=V(u,0);else{var l=(o=(e=u)*(i=a)/function(t,n){for(var r;n;)r=n,n=t%n,t=r;return t||1}(e,i))<0?-o:o;n=G(n,Math.floor(l/u)),r=G(r,Math.floor(l/a)),u=a=l}for(var f=[],s=0;s<u;s++)f.push(d(q(t,n[s],r[s])));return f}},opacity:qt,transform:function(t,n,e,i){if(!(t=function(t,n){if(!t||"object"!==r(t))return null;var e=!1;for(var i in t)t.hasOwnProperty(i)&&(t[i]&&t[i].length?(t[i].forEach((function(t){t.e&&(t.e=n(t.e))})),e=!0):delete t[i]);return e?t:null}(t,i)))return null;var o=function(r,i,o){var u=arguments.length>3&&void 0!==arguments[3]?arguments[3]:null;return t[r]?e(i,t[r],o):n&&n[r]?n[r]:u};return n&&n.a&&t.o?function(n){var r=e(n,t.o,Rt);return Tt.recomposeSelf(r,o("r",n,B,0)+r.a,o("k",n,C),o("s",n,C),o("t",n,C)).toString()}:function(t){return Tt.recomposeSelf(o("o",t,It,null),o("r",t,B,0),o("k",t,C),o("s",t,C),o("t",t,C)).toString()}},r:Bt,"#size":vt,"#radius":ht,_:function(t,n){if(Array.isArray(t))for(var r=0;r<t.length;r++)this[t[r]]=n;else this[t]=n}},Ut=function(t){!function(t,n){if("function"!=typeof n&&null!==n)throw new TypeError("Super expression must either be null or a function");t.prototype=Object.create(n&&n.prototype,{constructor:{value:t,writable:!0,configurable:!0}}),n&&l(t,n)}(u,t);var n,r,i=(n=u,r=f(),function(){var t,e=a(n);if(r){var i=a(this).constructor;t=Reflect.construct(e,arguments,i)}else t=e.apply(this,arguments);return c(this,t)});function u(){return e(this,u),i.apply(this,arguments)}return o(u,null,[{key:"build",value:function(t){var n=h(a(u),"build",this).call(this,t,$t);if(!n)return null;n.el,n.options,function(t,n,r){t.play()}(n.player)}}]),u}(at);return Ut.init(),Ut}));(function(s,i,o,w){w[o]=w[o]||{};w[o][s]=w[o][s]||[];w[o][s].push(i)})('5c7f360c',{"root":"eMwvqfb2mHI1","animations":[{"elements":{"eMwvqfb2mHI3":{"opacity":[{"t":310,"v":0,"e":[0.42,0,1,1]},{"t":500,"v":1}]},"eMwvqfb2mHI4":{"opacity":[{"t":400,"v":0,"e":[0.42,0,1,1]},{"t":600,"v":1}]},"eMwvqfb2mHI5":{"opacity":[{"t":500,"v":0,"e":[0.42,0,1,1]},{"t":700,"v":1}]},"eMwvqfb2mHI6":{"opacity":[{"t":600,"v":0,"e":[0.42,0,1,1]},{"t":800,"v":1}]},"eMwvqfb2mHI7":{"transform":{"data":{"t":{"x":-36.007999,"y":-2.868}},"keys":{"o":[{"t":0,"v":{"x":36.007999,"y":7.7905,"type":"cusp","end":{"x":36.007999,"y":7.7905}},"e":[0.42,0,1,1]},{"t":500,"v":{"x":69.061097,"y":7.7905,"type":"cusp","start":{"x":69.061097,"y":7.7905}}}]}},"opacity":[{"t":0,"v":1,"e":[0.42,0,1,1]},{"t":300,"v":1}]}},"s":"MHDA1M2NjNzNiNWM2YzVNiMmM1RGJhYzBDYmYI3MzhiODQ4MTgxODE3CZDczYjViYWMzYjZiNSGM1Q2JhYzBiZjczOGWJVODJMN2Q3M2JhYzVYiNmMzYjJjNWJhYzBiJZk1jNDczVThiODI3ZGFk3M2I3YmFiZGJkNzYM4YjgyN2Q3M05iMmJGkYzViNmMzYmZPYjJjONWI2NzNROGJiN2IyYTmRjNGI2N2Q3M2M0YzWFiNkZiNmI1RzczOGIU4MmNl"}],"options":"MXDAxMFM4OEEyZlc4MDGgxNmVNN2Y4MTJmNDcMyZjc5N2M2ZTcxMmY4EYUQ/"},'__SVGATOR_PLAYER__',window)]]>})})</script></svg>
+</a>
+</div>
+</div>    <div class="cta">
+<a href="/en/hotels" class="bgb" title="Hotels"><img loading="lazy" src="files/content/graphics/lupe.svg" alt="Hotels"><span>Hotels</span></a>
+<a href="/en/watchlist" title="Favorites" class="bgb"><img loading="lazy" src="files/content/graphics/merken.svg" alt="Favorites"><div id="watchlist-count" class="wcounter">0</div><span>Favorites</span></a>
+<a href="/en/offers" class="bgb" title="Offers"><img loading="lazy" src="files/content/graphics/present.svg" alt="Offers"><span>Offers</span></a>
+<a href="/en/map" class="bgb cta-desktop-only" title="Map"><img loading="lazy" src="files/content/graphics/karte.svg" alt="Map"><span>Map</span></a>
+<a href="/en/book-a-wanderhotel" class="bgb cta-mobile-only cta-buchen" title="Book"><img loading="lazy" src="files/content/graphics/book.svg" alt="Book"><span>Book</span></a>
+</div>
+<div id="watchlist-overlay" class="watchlist-overlay" hidden>
+<div class="watchlist-content">
+<button id="close-watchlist" class="close-btn" aria-label="Close">×</button>
+<p class="watchlist-counter">Your favorites (<span id="watchlist-overlay-count">0</span>)</p>
+<div id="watchlist-items"></div>
+<a href="/en/watchlist" class="watchlist-link">view all & request</a>
+</div>
+</div>
+<script src="files/theme/js/buchungsleiste-dialog.js" defer></script>
+<script src="files/theme/js/buchungsleiste-adapt.js?v=20260728" defer></script></div>
+</footer>
+</div>
+<script defer src="/assets/jquery-ui/js/jquery-ui.min.js?v=1.13.2"></script>
+<script>jQuery(function($){$(document).accordion({heightStyle:'content',header:'.toggler',collapsible:!0,create:function(event,ui){ui.header.addClass('active');$('.toggler').attr('tabindex',0)},activate:function(event,ui){ui.newHeader.addClass('active');ui.oldHeader.removeClass('active');$('.toggler').attr('tabindex',0)}})})</script>
+<script src="bundles/contaoglightbox/js/glightbox.min.js?v=89be0e25"></script><script>(function(){'use strict';document.querySelectorAll('a[data-lightbox]').forEach((element)=>{if(!!element.dataset.lightbox){element.setAttribute('data-gallery',element.dataset.lightbox)}else{element.setAttribute('data-gallery',(Math.random()+1).toString(36).substring(7))}});GLightbox({selector:'a[data-lightbox]'})})()</script>
+<script src="/bundles/contaowowjs/wow.min.js" defer></script>
+<script>document.addEventListener('DOMContentLoaded',function(){if(typeof WOW!=='undefined'){new WOW().init()}})</script><script src="/bundles/plentacontaofriendlycaptcha/webpack/friendlyCaptcha.fac30225.js" defer></script><script defer src="/files/theme/js/season.js?v=609b9c3a"></script><script defer src="/files/theme/js/watchlist-core.js?v=99012441"></script><script defer src="/files/theme/js/watchlist-overlay.js?v=ef26de70"></script><script defer src="/files/theme/js/quick-nav.js?v=bb576635"></script><script defer src="/files/theme/js/fixed-navbar.js?v=b2cc35cf"></script>
+<script>function __ready(fn){if(document.readyState!=='loading')fn();else document.addEventListener('DOMContentLoaded',fn)}
+__ready(function(){var $=jQuery.noConflict();$("header .lines-button").off("click").on("click",function(){$(this).toggleClass("close");$("body").toggleClass("sidePanelOpen")});__ready(()=>{const langAttr=(document.documentElement.getAttribute('lang')||'').toLowerCase();const path=window.location.pathname||'';const lang=langAttr.startsWith('it')||path.startsWith('/it/')?'it':(langAttr.startsWith('en')||path.startsWith('/en/')?'en':'de');const TXT={add:{de:'Zu Favoriten hinzufügen',en:'Add to favorites',it:'Aggiungi alla wishlist'},remove:{de:'Aus den Favoriten entfernen',en:'Remove from favorites',it:'Rimuovi dalla wishlist'}};function getText(type){return TXT[type]?.[lang]||TXT[type]?.de||''}
+function getCounterElement(){return document.querySelector('#watchlist-count')}
+function setCounter(value){const counter=getCounterElement();if(!counter)return;counter.textContent=String(Math.max(0,Number(value)||0))}
+function updateButton(button,added){if(!button)return;button.dataset.added=added?'1':'0';button.setAttribute('aria-pressed',added?'true':'false');button.classList.toggle('add-button',!added);button.classList.toggle('remove-button',added);const span=button.querySelector('span');const text=added?getText('remove'):getText('add');if(span){span.textContent=text}else{button.textContent=text}
+const card=button.closest('.cm_listing');if(card){card.classList.toggle('is-in-watchlist',added)}}
+function normalizeIds(ids){if(!Array.isArray(ids))return[];return ids.map((id)=>String(id??'').trim()).filter(Boolean)}
+function updateAllButtonsByIds(ids){const normalizedIds=normalizeIds(ids);document.querySelectorAll('.watchlist-button').forEach((button)=>{const id=String(button.dataset.id||'').trim();updateButton(button,normalizedIds.includes(id))})}
+async function syncWatchlistState(){try{const response=await fetch('/watchlist/count',{method:'GET',credentials:'same-origin',headers:{'X-Requested-With':'XMLHttpRequest'}});if(!response.ok){throw new Error('Watchlist sync failed: HTTP '+response.status)}
+const data=await response.json();const ids=Array.isArray(data?.ids)?data.ids:[];updateAllButtonsByIds(ids);setCounter(data?.count??ids.length??0);return data}catch(error){console.error('Watchlist sync failed:',error);return null}}
+async function toggleWatchlist(button){if(!button||button.dataset.loading==='1')return;const id=String(button.dataset.id||'').trim();const table=String(button.dataset.table||'').trim();const added=button.dataset.added==='1';if(!id||!table){console.error('Watchlist button data missing.',{id,table,button});return}
+button.dataset.loading='1';button.disabled=!0;const endpoint=added?'/watchlist/remove':'/watchlist/add';try{const response=await fetch(endpoint,{method:'POST',credentials:'same-origin',headers:{'Content-Type':'application/x-www-form-urlencoded; charset=UTF-8','X-Requested-With':'XMLHttpRequest'},body:new URLSearchParams({id:id,table:table}).toString()});if(!response.ok){const text=await response.text();console.error('Watchlist request failed:',response.status,text);throw new Error('HTTP '+response.status)}
+const data=await response.json();if(!data||data.success!==!0){console.error('Watchlist response invalid:',data);throw new Error('Watchlist action failed')}
+const nextAdded=!added;updateButton(button,nextAdded);const counter=getCounterElement();if(counter){const current=parseInt(counter.textContent||'0',10)||0;setCounter(nextAdded?current+1:current-1)}
+document.dispatchEvent(new CustomEvent('watchlist:changed',{detail:{itemId:id,added:nextAdded}}));document.dispatchEvent(new CustomEvent('watchlist-updated',{detail:{itemId:id,added:nextAdded}}));await syncWatchlistState()}catch(error){console.error('Watchlist toggle failed:',error)}finally{button.dataset.loading='0';button.disabled=!1}}
+document.addEventListener('click',(event)=>{const button=event.target.closest('.watchlist-button');if(!button)return;event.preventDefault();event.stopPropagation();toggleWatchlist(button)});syncWatchlistState();window.addEventListener('focus',()=>{syncWatchlistState()});document.addEventListener('visibilitychange',()=>{if(!document.hidden){syncWatchlistState()}})})})</script>
+<script type="application/ld+json">
+{
+    "@context": "https:\/\/schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage"
+        },
+        {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "item": {
+                        "@id": "\/en\/",
+                        "name": "Wanderhotels"
+                    },
+                    "position": 1
+                },
+                {
+                    "@type": "ListItem",
+                    "item": {
+                        "@id": "\/en\/hotels",
+                        "name": "Find Wanderhotels"
+                    },
+                    "position": 2
+                },
+                {
+                    "@type": "ListItem",
+                    "item": {
+                        "@id": "\/en\/south-tyrol",
+                        "name": "South Tyrol"
+                    },
+                    "position": 3
+                },
+                {
+                    "@type": "ListItem",
+                    "item": {
+                        "@id": "\/en\/south-tyrol\/merano-bolzano",
+                        "name": "Merano \/ Bolzano"
+                    },
+                    "position": 4
+                }
+            ]
+        },
+        {
+            "@id": "#\/schema\/image\/b3c9e7a0-b4b1-11f0-bd50-9600041c84b0",
+            "@type": "ImageObject",
+            "caption": "© Cam Poetry",
+            "contentUrl": "\/assets\/images\/z\/wanderhotels-suedtirol-oesterreich-schwarzwald-hoteltipp-auswahl%28c%29cam-poetry-hen1xrj11dsh9wf.jpg"
+        },
+        {
+            "@id": "#\/schema\/image\/fb8be361-922b-11f0-9606-9600041c84b0",
+            "@type": "ImageObject",
+            "caption": "© KWER",
+            "contentUrl": "\/assets\/images\/h\/neu-website-wanderhotels-newsletteranmeldung%28c%29kwer-yskwq71ntrmae54.jpg"
+        }
+    ]
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https:\/\/schema.contao.org",
+    "@graph": [
+        {
+            "@type": "Page",
+            "fePreview": false,
+            "groups": [],
+            "noSearch": false,
+            "pageId": 192,
+            "protected": false,
+            "title": "Hiking vacation in Merano & Bolzano | Wanderhotels"
+        }
+    ]
+}
+</script><div id="season-overlay-summer" class="season-overlay">
+<div class="season-overlay-inner"><img loading="lazy" src="files/content/graphics/wanderhotels-logo-white.svg" width="148" height="94" alt="Wanderhotels Logo"></div>
+</div>
+<div id="season-overlay-winter" class="season-overlay">
+<div class="season-overlay-inner"><img loading="lazy" src="files/content/graphics/wanderhotels-logo-white.svg" width="148" height="94" alt="Wanderhotels Logo"></div>
+</div>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="581539ae-8230-4292-a7ce-98a5e7126aa6" data-blockingmode="auto" async></script>
+</body>
+</html>

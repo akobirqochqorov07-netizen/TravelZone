@@ -1,0 +1,116 @@
+[
+  {
+    "id": "silk-road-travel",
+    "slug": "silk-road-travel",
+    "name": "Silk Road Travel",
+    "logo": "/branding/agencies/placeholder.svg",
+    "description": {
+      "en": "Specialists in Silk Road heritage tours and popular international getaways from Tashkent. Warm hosts, clear packages, and trusted partners abroad.",
+      "ru": "Специалисты по турам по Шёлковому пути и популярным зарубежным направлениям из Ташкента. Тёплый сервис, понятные пакеты и надёжные партнёры за рубежом.",
+      "uz": "Ipak yo'li merosi va Toshkentdan mashhur xalqaro sayohatlar bo'yicha mutaxassislar. Iliq mehmondo'stlik, aniq paketlar va ishonchli xorijiy hamkorlar."
+    },
+    "location": "Tashkent, Uzbekistan",
+    "contact": { "phone": "+998901112233", "email": "info@silkroadtravel.uz", "telegram": "@silkroadtravel" },
+    "yearsExperience": 12,
+    "verified": true,
+    "rating": 4.8,
+    "tourCount": 24,
+    "destinations": ["dubai", "istanbul", "samarkand", "bukhara", "khiva"],
+    "reviewsCount": 156
+  },
+  {
+    "id": "oasis-voyages",
+    "slug": "oasis-voyages",
+    "name": "Oasis Voyages",
+    "logo": "/branding/agencies/placeholder.svg",
+    "description": {
+      "en": "Beach and resort specialists — Antalya, Maldives, and Bali packages tailored for Uzbek families and couples.",
+      "ru": "Специалисты по пляжному отдыху — пакеты в Анталью, на Мальдивы и Бали для узбекских семей и пар.",
+      "uz": "Plyaj va kurort mutaxassislari — o'zbek oilalari va juftliklar uchun Antalya, Maldiv va Bali paketlari."
+    },
+    "location": "Tashkent, Uzbekistan",
+    "contact": { "phone": "+998907654321", "email": "hello@oasisvoyages.uz", "telegram": "@oasisvoyages" },
+    "yearsExperience": 8,
+    "verified": true,
+    "rating": 4.7,
+    "tourCount": 18,
+    "destinations": ["antalya", "maldives", "bali", "dubai"],
+    "reviewsCount": 98
+  },
+  {
+    "id": "tashkent-wings",
+    "slug": "tashkent-wings",
+    "name": "Tashkent Wings",
+    "logo": "/branding/agencies/placeholder.svg",
+    "description": {
+      "en": "Europe city breaks and flight-inclusive tours to Paris, London, and Istanbul — efficient planning from Tashkent.",
+      "ru": "Городские туры по Европе и пакеты с перелётом в Париж, Лондон и Стамбул — чёткое планирование из Ташкента.",
+      "uz": "Yevropa shahar sayohatlari va Parij, London, Istanbulga parvozli turlar — Toshkentdan samarali rejalashtirish."
+    },
+    "location": "Tashkent, Uzbekistan",
+    "contact": { "phone": "+998935551122", "email": "book@tashkentwings.uz", "telegram": "@tashkentwings" },
+    "yearsExperience": 6,
+    "verified": true,
+    "rating": 4.6,
+    "tourCount": 15,
+    "destinations": ["paris", "london", "istanbul", "dubai"],
+    "reviewsCount": 72
+  },
+  {
+    "id": "chimgan-peaks",
+    "slug": "chimgan-peaks",
+    "name": "Chimgan Peaks",
+    "logo": "/branding/agencies/placeholder.svg",
+    "description": {
+      "en": "Mountain adventures near Tashkent — weekend hikes, ski days, and guided Chimgan escapes for every season.",
+      "ru": "Горные приключения рядом с Ташкентом — походы на выходные, лыжные дни и гиды по Чимгану в любой сезон.",
+      "uz": "Toshkent yaqinidagi tog' sarguzashtlari — dam olish kunlari sayrlari, chang'i kunlari va har faslda Chimyon gidi."
+    },
+    "location": "Tashkent, Uzbekistan",
+    "contact": { "phone": "+998901234567", "email": "info@chimganpeaks.uz", "telegram": "@chimganpeaks" },
+    "yearsExperience": 9,
+    "verified": true,
+    "rating": 4.9,
+    "tourCount": 11,
+    "destinations": ["chimgan", "tashkent"],
+    "reviewsCount": 203
+  },
+  {
+    "id": "registan-routes",
+    "slug": "registan-routes",
+    "name": "Registan Routes",
+    "logo": "/branding/agencies/placeholder.svg",
+    "description": {
+      "en": "Uzbekistan classics done right — Samarkand, Bukhara, and Khiva with expert local guides and boutique stays.",
+      "ru": "Классика Узбекистана как надо — Самарканд, Бухара и Хива с опытными местными гидами и уютным жильём.",
+      "uz": "O'zbekiston klassikasi to'g'ri tarzda — tajribali mahalliy gidlar va boutique mehmonxonalar bilan Samarqand, Buxoro va Xiva."
+    },
+    "location": "Samarkand, Uzbekistan",
+    "contact": { "phone": "+998933334455", "email": "tours@registanroutes.uz", "telegram": "@registanroutes" },
+    "yearsExperience": 14,
+    "verified": true,
+    "rating": 4.9,
+    "tourCount": 20,
+    "destinations": ["samarkand", "bukhara", "khiva", "tashkent"],
+    "reviewsCount": 241
+  },
+  {
+    "id": "amber-horizon",
+    "slug": "amber-horizon",
+    "name": "Amber Horizon",
+    "logo": "/branding/agencies/placeholder.svg",
+    "description": {
+      "en": "Premium mixed itineraries — Dubai luxury weekends, Turkish coasts, and curated Central Asia circuits.",
+      "ru": "Премиальные комбинированные маршруты — люксовые уикенды в Дубае, турецкое побережье и подборные туры по Центральной Азии.",
+      "uz": "Premium aralash marshrutlar — Dubayda hashamatli dam olish, Turkiya qirg'oqlari va Markaziy Osiyo sayohlari."
+    },
+    "location": "Tashkent, Uzbekistan",
+    "contact": { "phone": "+998909998877", "email": "concierge@amberhorizon.uz", "telegram": "@amberhorizon" },
+    "yearsExperience": 7,
+    "verified": true,
+    "rating": 4.8,
+    "tourCount": 16,
+    "destinations": ["dubai", "antalya", "maldives", "samarkand", "bali"],
+    "reviewsCount": 118
+  }
+]

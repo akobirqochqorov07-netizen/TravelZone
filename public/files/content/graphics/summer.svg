@@ -1,0 +1,31 @@
+<svg id="Gruppe_1485" data-name="Gruppe 1485" xmlns="http://www.w3.org/2000/svg" width="19.891" height="19.891" viewBox="0 0 19.891 19.891">
+  <g id="Gruppe_1124" data-name="Gruppe 1124">
+    <path id="Pfad_10150" data-name="Pfad 10150" d="M16.251,11.269a4.982,4.982,0,1,0,4.982,4.982A4.988,4.988,0,0,0,16.251,11.269Z" transform="translate(-6.306 -6.306)" fill="#ffba00"/>
+    <g id="Gruppe_1123" data-name="Gruppe 1123">
+      <g id="Gruppe_1115" data-name="Gruppe 1115" transform="translate(8.973)">
+        <path id="Pfad_10151" data-name="Pfad 10151" d="M21.345,3.5a.972.972,0,0,1-.972-.972V.972a.972.972,0,0,1,1.944,0V2.527A.972.972,0,0,1,21.345,3.5Z" transform="translate(-20.373)" fill="#ffba00"/>
+      </g>
+      <g id="Gruppe_1116" data-name="Gruppe 1116" transform="translate(8.973 16.391)">
+        <path id="Pfad_10152" data-name="Pfad 10152" d="M21.345,37.215a.972.972,0,0,0-.972.972v1.555a.972.972,0,1,0,1.944,0V38.187A.972.972,0,0,0,21.345,37.215Z" transform="translate(-20.373 -37.215)" fill="#ffba00"/>
+      </g>
+      <g id="Gruppe_1117" data-name="Gruppe 1117" transform="translate(14.219 2.628)">
+        <path id="Pfad_10153" data-name="Pfad 10153" d="M32.567,8.726a.973.973,0,0,1,0-1.375l1.1-1.1a.972.972,0,0,1,1.375,1.375l-1.1,1.1A.972.972,0,0,1,32.567,8.726Z" transform="translate(-32.282 -5.967)" fill="#ffba00"/>
+      </g>
+      <g id="Gruppe_1118" data-name="Gruppe 1118" transform="translate(2.628 14.219)">
+        <path id="Pfad_10154" data-name="Pfad 10154" d="M8.726,32.568a.971.971,0,0,0-1.375,0l-1.1,1.1a.972.972,0,1,0,1.375,1.375l1.1-1.1A.971.971,0,0,0,8.726,32.568Z" transform="translate(-5.967 -32.283)" fill="#ffba00"/>
+      </g>
+      <g id="Gruppe_1119" data-name="Gruppe 1119" transform="translate(16.391 8.973)">
+        <path id="Pfad_10155" data-name="Pfad 10155" d="M37.215,21.345a.972.972,0,0,1,.972-.972h1.555a.972.972,0,1,1,0,1.944H38.187A.972.972,0,0,1,37.215,21.345Z" transform="translate(-37.215 -20.373)" fill="#ffba00"/>
+      </g>
+      <g id="Gruppe_1120" data-name="Gruppe 1120" transform="translate(0 8.973)">
+        <path id="Pfad_10156" data-name="Pfad 10156" d="M3.5,21.345a.972.972,0,0,0-.972-.972H.972a.972.972,0,1,0,0,1.944H2.527A.972.972,0,0,0,3.5,21.345Z" transform="translate(0 -20.373)" fill="#ffba00"/>
+      </g>
+      <g id="Gruppe_1121" data-name="Gruppe 1121" transform="translate(14.218 14.22)">
+        <path id="Pfad_10157" data-name="Pfad 10157" d="M32.566,32.569a.973.973,0,0,1,1.375,0l1.1,1.1a.972.972,0,0,1-1.375,1.374l-1.1-1.1A.971.971,0,0,1,32.566,32.569Z" transform="translate(-32.282 -32.284)" fill="#ffba00"/>
+      </g>
+      <g id="Gruppe_1122" data-name="Gruppe 1122" transform="translate(2.628 2.628)">
+        <path id="Pfad_10158" data-name="Pfad 10158" d="M8.726,8.726a.972.972,0,0,0,0-1.375l-1.1-1.1A.972.972,0,1,0,6.251,7.626l1.1,1.1A.971.971,0,0,0,8.726,8.726Z" transform="translate(-5.966 -5.967)" fill="#ffba00"/>
+      </g>
+    </g>
+  </g>
+</svg>

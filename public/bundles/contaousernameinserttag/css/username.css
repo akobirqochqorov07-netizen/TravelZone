@@ -1,0 +1,33 @@
+.username {
+  display: inline-block;
+  direction: ltr;
+}
+
+.username div[contenteditable] {
+  display: inline-block; /* statt inline-flex */
+  min-width: 20px;
+  border-bottom: 1px dashed #888;
+  outline: none;
+  color: #6B0B4E;
+  white-space: nowrap;
+  direction: ltr;
+  unicode-bidi: isolate; /* nicht plaintext! */
+  text-align: left;
+  -webkit-user-modify: read-write-plaintext-only;
+}
+
+/* Default (DE Fallback) */
+.username div.empty::before {
+  content: "Dein Name";
+  color: #888;
+}
+
+/* EN */
+html:lang(en) .username div.empty::before {
+  content: "Your name";
+}
+
+/* IT */
+html:lang(it) .username div.empty::before {
+  content: "Il tuo nome";
+}

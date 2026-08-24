@@ -1,0 +1,746 @@
+/* Travel Zone product overrides — preserve clone design, only adapt product chrome */
+
+/* ---- Cyrillic font consistency for Russian language ---- */
+/* gyst-variable (TypeKit) is Latin-only. When lang=ru the browser falls back
+   to system serif which looks visually different from UZ/EN.
+   We override key display headings to use Cormorant (Google Fonts, includes Cyrillic)
+   as the explicit fallback in the font-family stack for all languages. */
+:root {
+  --font2-cyrillic: 'Cormorant', gyst-variable, Georgia, serif;
+}
+
+/* Hero heading */
+.heading--hero .rte p,
+.heading--hero h1,
+.heading--hero h2,
+.heading--hero h3 {
+  font-family: var(--font2-cyrillic) !important;
+  font-weight: 300 !important;
+}
+
+/* All major display serif headings */
+h1,
+h2,
+h3,
+.h1,
+.h2,
+.h3,
+.content-text h2,
+.padd2 h2 {
+  font-family: var(--font2-cyrillic);
+}
+
+
+.logo-link {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+  background: transparent !important;
+}
+
+.logo img,
+.logo-beige img,
+.flogo img,
+.season-overlay-inner img {
+  max-height: 85px !important;
+  height: 85px !important;
+  width: auto !important;
+  object-fit: contain;
+  background: transparent !important;
+  mix-blend-mode: normal !important;
+  filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.15));
+}
+
+.before-header .logo img {
+  max-height: 64px;
+  filter: none;
+}
+
+.logo-text-sub {
+  font-family: var(--font2, gyst-variable, Georgia, serif);
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-top: 6px;
+  line-height: 1.1;
+  color: #ffffff;
+  text-align: center;
+}
+
+.logo-beige .logo-text-sub {
+  color: var(--black, #1a1a1a);
+}
+
+/* 4-season switcher: keep existing button style, allow wrapping */
+.switcher {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 8px 16px;
+  max-width: 420px;
+  margin-left: auto;
+}
+
+.switcher .season-switch {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 0;
+  white-space: nowrap;
+}
+
+.switcher .season-switch.is-active span,
+.switcher .season-switch[aria-disabled="true"] span {
+  opacity: 1;
+  font-weight: 500;
+}
+
+/* Remove season/slide loading spinners for instant video switching */
+.slide-loader,
+.slide-loader .spinner,
+#loader,
+#loader .spinner {
+  display: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+}
+
+/* Remove dark season transition overlay */
+.season-overlay,
+#season-overlay-spring,
+#season-overlay-summer,
+#season-overlay-autumn,
+#season-overlay-winter {
+  display: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+}
+
+/* Ensure RockSolid Discovery Slider cards (.ba-item) fill full height with their images */
+.ba-item {
+  border-radius: 50px !important;
+  background-color: var(--dark) !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+}
+
+.ba-item picture {
+  width: 100% !important;
+  height: 100% !important;
+  display: block !important;
+}
+
+.ba-item picture img,
+.ba-item img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  object-position: center !important;
+  display: block !important;
+}
+
+.ba-item .rte {
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.85) 0%, rgba(0, 0, 0, 0.2) 60%, transparent 100%) !important;
+  color: #fff !important;
+}
+
+
+
+
+.lang-switch.level_1,
+.mod_changelanguage .level_1 {
+  display: flex;
+  gap: 14px;
+  list-style: none;
+  margin: 0 0 0 32px;
+  padding: 0;
+}
+
+.lang-switch a.is-active,
+.mod_changelanguage a.is-active {
+  opacity: 1;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.lang-switch a,
+.mod_changelanguage a {
+  opacity: 0.75;
+}
+
+/* Season visibility helpers for spring/autumn (mirrors summer/winter) */
+/* Season blocks: season.js toggles .spring/.summer/.autumn/.winter visibility */
+body.spring .start-slider:not(.spring),
+body.summer .start-slider:not(.summer),
+body.autumn .start-slider:not(.autumn),
+body.winter .start-slider:not(.winter) {
+  display: none !important;
+}
+
+/* Contact / Support blocks — reuse existing footer visual language */
+.tz-contact-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  padding: 60px var(--padd, 80px);
+  background: var(--col3, #F4F1EE);
+}
+
+.tz-contact-card h3 {
+  font-family: var(--font2, gyst-variable, Georgia, serif);
+  font-weight: 300;
+  font-size: 2em;
+  margin: 0 0 12px;
+}
+
+.tz-contact-card p {
+  margin: 0 0 24px;
+  opacity: 0.85;
+}
+
+.tz-contact-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.tz-contact-actions a,
+.tz-contact-actions button {
+  border: 1px solid var(--black, #1a1a1a);
+  border-radius: 40px;
+  padding: 14px 28px;
+  background: transparent;
+  cursor: pointer;
+  font: inherit;
+  color: inherit;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.tz-contact-actions a:hover,
+.tz-contact-actions button:hover {
+  background: var(--violett, #6b4c7a);
+  border-color: var(--violett, #6b4c7a);
+  color: #fff;
+}
+
+.tz-about {
+  padding: 100px var(--padd, 80px);
+  text-align: center;
+}
+
+/* Section 4 Why Travel Zone cleanup */
+.padd2.flex {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: wrap !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  gap: 40px !important;
+  padding: 80px var(--padd, 80px) !important;
+}
+
+.padd2.flex>.rs-column {
+  float: none !important;
+  margin: 0 !important;
+  flex: 1 1 45% !important;
+  max-width: 48% !important;
+}
+
+.padd2 .slider-over {
+  position: relative !important;
+  top: auto !important;
+  right: auto !important;
+  margin: 0 !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.12);
+}
+
+.padd2 .slider-over img {
+  width: 100%;
+  height: 480px;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+@media (max-width: 799px) {
+  .padd2.flex {
+    flex-direction: column !important;
+    gap: 30px !important;
+  }
+
+  .padd2.flex>.rs-column {
+    flex: 1 1 100% !important;
+    max-width: 100% !important;
+  }
+}
+
+.tz-about-steps {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  max-width: 1100px;
+  margin: 50px auto 0;
+  text-align: left;
+}
+
+.tz-about-steps ol {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0 0;
+  counter-reset: tzstep;
+}
+
+.tz-about-steps li {
+  counter-increment: tzstep;
+  padding: 10px 0 10px 42px;
+  position: relative;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.tz-about-steps li::before {
+  content: counter(tzstep);
+  position: absolute;
+  left: 0;
+  top: 10px;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  border: 1px solid currentColor;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.7em;
+}
+
+@media (max-width: 799px) {
+
+  .tz-contact-grid,
+  .tz-about-steps {
+    grid-template-columns: 1fr;
+  }
+
+  .switcher {
+    max-width: 100%;
+    padding-right: 16px;
+    gap: 6px 10px;
+  }
+
+  .switcher .season-switch span {
+    font-size: 0.85em;
+  }
+
+  .logo img,
+  .logo-beige img {
+    max-height: 55px !important;
+    height: 55px !important;
+    width: auto !important;
+  }
+}
+
+/* Anchor scroll offset for fixed header */
+#tours,
+#destinations,
+#agencies,
+#about,
+#contact,
+#support,
+#partner,
+#inquiry {
+  scroll-margin-top: 120px;
+}
+
+#catalog-list-container .cm_listing img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Card Detail Modal */
+.tz-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 99999;
+  background: rgba(15, 23, 42, 0.75);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.tz-modal-backdrop.is-open {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.tz-modal-dialog {
+  position: relative;
+  width: 100%;
+  max-width: 640px;
+  background: #ffffff;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.35);
+  transform: translateY(20px) scale(0.96);
+  transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+  display: flex;
+  flex-direction: column;
+}
+
+.tz-modal-backdrop.is-open .tz-modal-dialog {
+  transform: translateY(0) scale(1);
+}
+
+.tz-modal-close {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  z-index: 10;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  border: none;
+  font-size: 22px;
+  line-height: 1;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s;
+}
+
+.tz-modal-close:hover {
+  background: rgba(0, 0, 0, 0.8);
+}
+
+.tz-modal-media {
+  position: relative;
+  height: 240px;
+  overflow: hidden;
+}
+
+.tz-modal-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.tz-modal-badge {
+  position: absolute;
+  bottom: 16px;
+  left: 20px;
+  background: rgba(255, 255, 255, 0.92);
+  color: #1e293b;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  padding: 6px 14px;
+  border-radius: 100px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.tz-modal-body {
+  padding: 28px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  color: #334155;
+}
+
+.tz-modal-body h2 {
+  font-family: var(--font2, serif);
+  font-size: 24px;
+  font-weight: 600;
+  color: #0f172a;
+  margin: 0;
+  line-height: 1.25;
+}
+
+.tz-modal-desc {
+  font-size: 15px;
+  line-height: 1.6;
+  color: #475569;
+  margin: 0;
+}
+
+.tz-modal-highlights {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 16px 20px;
+}
+
+.tz-modal-highlights h4 {
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #64748b;
+  margin: 0 0 10px 0;
+}
+
+.tz-modal-highlights ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.tz-modal-highlights li {
+  font-size: 14px;
+  font-weight: 500;
+  color: #1e293b;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.tz-check {
+  color: #10b981;
+  font-weight: 700;
+}
+
+.tz-modal-actions {
+  display: flex;
+  gap: 12px;
+  margin-top: 8px;
+}
+
+.tz-btn-primary {
+  flex: 1;
+  text-align: center;
+  background: #0f172a;
+  color: #ffffff;
+  padding: 12px 24px;
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 14px;
+  text-decoration: none;
+  transition: background 0.2s;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tz-btn-primary:hover {
+  background: #334155;
+  color: #ffffff;
+}
+
+.tz-btn-secondary {
+  background: #f1f5f9;
+  color: #475569;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.tz-btn-secondary:hover {
+  background: #e2e8f0;
+}
+
+/* Section 3: Horizontal Carousel Slider & Category Filter Tabs */
+.tz-catalog-tabs-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 10px 14px;
+  margin-bottom: 30px;
+}
+
+.tz-tab-btn {
+  background: #f1f5f9;
+  color: #475569;
+  border: 1px solid #e2e8f0;
+  padding: 10px 22px;
+  border-radius: 100px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.tz-tab-btn:hover {
+  background: #e2e8f0;
+  color: #0f172a;
+}
+
+.tz-tab-btn.active {
+  background: #0f172a;
+  color: #ffffff;
+  border-color: #0f172a;
+  box-shadow: 0 4px 14px rgba(15, 23, 42, 0.25);
+}
+
+.tz-slider-controls-wrap {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  width: 100%;
+}
+
+.tz-slider-arrow {
+  flex-shrink: 0;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: #ffffff;
+  color: #0f172a;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+  font-size: 20px;
+  font-weight: 700;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+  z-index: 5;
+}
+
+.tz-slider-arrow:hover {
+  background: #0f172a;
+  color: #ffffff;
+  border-color: #0f172a;
+  transform: scale(1.06);
+}
+
+.tz-catalog-track-wrapper {
+  flex: 1;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  scroll-snap-type: x mandatory;
+  padding: 10px 4px 20px 4px;
+  scrollbar-width: thin;
+  scrollbar-color: #cbd5e1 transparent;
+}
+
+.tz-catalog-track-wrapper::-webkit-scrollbar {
+  height: 6px;
+}
+
+.tz-catalog-track-wrapper::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 10px;
+}
+
+.tz-catalog-track {
+  display: flex;
+  gap: 24px;
+}
+
+.tz-catalog-card {
+  flex: 0 0 320px;
+  max-width: 320px;
+  scroll-snap-align: start;
+  background: #ffffff;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+  border: 1px solid #f1f5f9;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.tz-catalog-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.12);
+}
+
+.tz-catalog-card .list-image {
+  position: relative;
+  height: 220px;
+}
+
+.tz-card-cat-badge {
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  background: rgba(15, 23, 42, 0.85);
+  backdrop-filter: blur(4px);
+  color: #ffffff;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  padding: 4px 10px;
+  border-radius: 6px;
+}
+
+.tz-card-cat-badge.uzbekistan {
+  background: rgba(16, 185, 129, 0.9);
+}
+
+.tz-card-cat-badge.mountains {
+  background: rgba(245, 158, 11, 0.9);
+}
+
+.tz-card-cat-badge.hotels {
+  background: rgba(99, 102, 241, 0.9);
+}
+
+@media (max-width: 640px) {
+  .tz-catalog-card {
+    flex: 0 0 280px;
+    max-width: 280px;
+  }
+
+  .tz-slider-arrow {
+    display: none;
+  }
+}
+
+/* Agencies Infinite Carousel */
+.tz-agencies-carousel {
+  overflow: hidden;
+  width: 100%;
+  position: relative;
+  padding: 10px 0;
+}
+
+.tz-agencies-track {
+  display: flex;
+  gap: 24px;
+  width: max-content;
+  animation: tz-infinite-scroll 35s linear infinite;
+}
+
+.tz-agencies-track:hover {
+  animation-play-state: paused;
+}
+
+.tz-agency-card {
+  width: 320px;
+  flex-shrink: 0;
+}
+
+@keyframes tz-infinite-scroll {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-50%);
+  }
+}

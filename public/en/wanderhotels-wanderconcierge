@@ -1,0 +1,1338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Your Wanderhotels Wanderconcierge | Wanderhotels</title>
+<base href="https://www.wanderhotels.com/">
+<meta name="robots" content="index,follow">
+<meta name="description" content="Wanderhotels – Wanderconcierge ✔ Tips for hiking with children ✔ What to do in the event of a thunderstorm in the mountains ▶ Find out more now!">
+<meta name="generator" content="Contao Open Source CMS">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Your Wanderhotels Wanderconcierge | Wanderhotels">
+<meta property="og:description" content="Wanderhotels – Wanderconcierge ✔ Tips for hiking with children ✔ What to do in the event of a thunderstorm in the mountains ▶ Find out more now!">
+<meta property="og:url" content="https://www.wanderhotels.com/en/wanderhotels-wanderconcierge">
+<meta property="og:image" content="https://www.wanderhotels.com/files/content/graphics/og-default.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:site_name" content="Wanderhotels">
+<meta property="og:locale" content="en">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Your Wanderhotels Wanderconcierge | Wanderhotels">
+<meta name="twitter:description" content="Wanderhotels – Wanderconcierge ✔ Tips for hiking with children ✔ What to do in the event of a thunderstorm in the mountains ▶ Find out more now!">
+<meta name="twitter:image" content="https://www.wanderhotels.com/files/content/graphics/og-default.jpg">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://consentcdn.cookiebot.com">
+<link rel="canonical" href="https://www.wanderhotels.com/en/wanderhotels-wanderconcierge">
+<script>(function(){var KEY="wh-season";var params=new URLSearchParams(window.location.search);var seasonFromUrl=params.get("season");function isValidSeason(value){return value==="summer"||value==="winter"}
+function dayOfYear(date){var start=new Date(date.getFullYear(),0,0);return Math.floor((date-start+(start.getTimezoneOffset()-date.getTimezoneOffset())*60000)/86400000)}
+function getCurrentSeason(){var now=new Date();var day=dayOfYear(now);var year=now.getFullYear();var summerStart=dayOfYear(new Date(year,0,31));var winterStart=dayOfYear(new Date(year,8,30));return day>=summerStart&&day<winterStart?"summer":"winter"}
+var storedSeason=null;try{storedSeason=sessionStorage.getItem(KEY)}catch(e){}
+var initialSeason=isValidSeason(seasonFromUrl)?seasonFromUrl:isValidSeason(storedSeason)?storedSeason:getCurrentSeason();try{sessionStorage.setItem(KEY,initialSeason)}catch(e){}
+document.documentElement.classList.remove("season-summer","season-winter");document.documentElement.classList.add("season-"+initialSeason);document.documentElement.setAttribute("data-season",initialSeason);window.__INITIAL_SEASON__=initialSeason})()</script>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,shrink-to-fit=no">
+<link rel="stylesheet" href="/bundles/daesigncalendarfield/flatpickr/flatpickr.min.css?v=7e9ac4f9"><link rel="preload" as="style" href="/bundles/contaowowjs/animate.min.css?v=cc65f6e2" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="/bundles/contaowowjs/animate.min.css?v=cc65f6e2"></noscript><link rel="stylesheet" href="/assets/css/layout.min.css,responsive.min.css,rocksolid-slider.min.css,defau...-f8216a71.css"><script>window.ACTIVITY_LINK_MAP={"sommer":{"13":"https://www.wanderhotels.com/en/active-in-summer/pure-hiking","18":"https://www.wanderhotels.com/en/active-in-summer/hiking-biking","14":"https://www.wanderhotels.com/en/active-in-summer/hiking-climbing","15":"https://www.wanderhotels.com/en/active-in-summer/hiking-wellness","16":"https://www.wanderhotels.com/en/active-in-summer/hiking-yoga","17":"https://www.wanderhotels.com/en/active-in-summer/hiking-golfing"},"winter":{"3":"https://www.wanderhotels.com/en/active-in-winter/pure-winter-hiking","6":"https://www.wanderhotels.com/en/active-in-winter/snowshoe-hiking","7":"https://www.wanderhotels.com/en/active-in-winter/cross-country-skiing","9":"https://www.wanderhotels.com/en/active-in-winter/skiing","8":"https://www.wanderhotels.com/en/active-in-winter/ski-tours","4":"https://www.wanderhotels.com/en/active-in-winter/winter-hiking-wellness","5":"https://www.wanderhotels.com/en/active-in-winter/winter-hiking-yoga"}}</script><script src="/assets/js/nav-accordion.js,modal-overlay.js-b1c2bfbf.js" defer></script><script src="/assets/js/jquery.min.js,rocksolid-slider.min.js-49acb026.js"></script><script src="/bundles/daesigncalendarfield/flatpickr/flatpickr.min.js?v=7e9ac4f9"></script><script src="/bundles/daesigncalendarfield/flatpickr/l10n/en.js"></script><script defer src="/bundles/terminal42conditionalformfields/conditionalformfields.js?v=f9a36529"></script><link rel="alternate" hreflang="de" href="https://www.wanderhotels.com/de/wanderhotels-wanderconcierge">
+<link rel="alternate" hreflang="x-default" href="https://www.wanderhotels.com/de/wanderhotels-wanderconcierge">
+<link rel="alternate" hreflang="en" href="https://www.wanderhotels.com/en/wanderhotels-wanderconcierge">
+<link rel="alternate" hreflang="it" href="https://www.wanderhotels.com/it/concierge-escursionistico">
+<link rel="preconnect" href="https://privacy-analytics-proxy.cookiebot.com" crossorigin>
+<link rel="preload" href="https://use.typekit.net/ire6qmm.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://use.typekit.net/ire6qmm.css"></noscript>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=!0;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f)})(window,document,'script','dataLayer','GTM-KL8FXTN')</script>
+<!-- End Google Tag Manager -->
+</head>
+<body id="top" class="vertical-text parallax">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KL8FXTN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="wrapper">
+<header id="header">
+<div class="inside">
+<nav class="nav-overlay main-nav" aria-label="Main">
+<ul class="nav-root">
+<li
+class="nav-col mod_customnav gap-after-1 gap-after-4"
+id="nav-hotel-finden"        >
+<div class="nav-col-inner">
+<a href="/en/hotels" title="Find Wanderhotels in the Alps | Wanderhotels">Find Wanderhotels</a>
+<ul class="level_1">
+<li><a href="/en/book-a-wanderhotel" title="Book a Wanderhotel | Wanderhotels" class="dark-header merkliste">Check availability &amp; book</a></li>
+<li class="has-children">
+<div class="nav-item">
+<a href="/en/austria" title="Hiking vacation in Austria | Wanderhotels" class="full parallax">Austria</a>
+<button
+class="submenu-toggle"
+aria-expanded="false"
+aria-label="Open submenu">
+<span class="chevron" aria-hidden="true"></span>
+</button>
+</div>
+<ul class="level_2">
+<li><a href="/en/austria/vorarlberg" title="Hiking vacation in Vorarlberg | Wanderhotels" class="full parallax">Vorarlberg</a></li>
+<li><a href="/en/austria/tyrol" title="Hiking vacation in Tyrol | Wanderhotels" class="full parallax">Tyrol</a></li>
+<li><a href="/en/austria/salzburg-region" title="Hiking vacation in the Salzburg region | Wanderhotels" class="full parallax">Salzburg region</a></li>
+<li><a href="/en/austria/carinthia" title="Hiking vacation in Carinthia | Wanderhotels" class="full parallax">Carinthia</a></li>
+<li><a href="/en/austria/styria" title="Hiking vacation in Styria | Wanderhotels" class="full parallax">Styria</a></li>
+<li><a href="/en/austria/upper-austria" title="Hiking vacation in Upper Austria | Wanderhotels" class="full parallax">Upper Austria</a></li>
+</ul>
+</li>
+<li class="has-children">
+<div class="nav-item">
+<a href="/en/south-tyrol" title="Hiking vacation in South Tyrol | Wanderhotels" class="full parallax">South Tyrol</a>
+<button
+class="submenu-toggle"
+aria-expanded="false"
+aria-label="Open submenu">
+<span class="chevron" aria-hidden="true"></span>
+</button>
+</div>
+<ul class="level_2">
+<li><a href="/en/south-tyrol/vinschgau" title="Hiking vacation in Val Venosta | Wanderhotels" class="full parallax">Vinschgau</a></li>
+<li><a href="/en/south-tyrol/merano-bolzano" title="Hiking vacation in Merano &amp; Bolzano | Wanderhotels" class="full parallax">Merano / Bolzano</a></li>
+<li><a href="/en/south-tyrol/eisack-valley" title="Hiking vacation in the Eisack Valley | Wanderhotels" class="full parallax">Eisack Valley</a></li>
+<li><a href="/en/south-tyrol/dolomites" title="Hiking vacation in the Dolomites | Wanderhotels" class="full parallax">Dolomites</a></li>
+</ul>
+</li>
+<li><a href="/en/black-forest" title="Hiking vacation in the Black Forest | Wanderhotels" class="full parallax">Black Forest</a></li>
+<li><a href="/en/hotels-for-solo-travelers" title="Travel alone – hike together | Wanderhotels" class="kriterien vertical-text parallax">Hotels for solo travelers</a></li>
+<li><a href="/en/dog-friendly-hotels" title="Dog-friendly hotels - Hiking with your dog | Wanderhotels" class="white kriterien vertical-text parallax">Dog-friendly hotels</a></li>
+<li><a href="/en/hotels-for-family-vacations" title="Hiking vacation with children | Wanderhotels" class="kriterien vertical-text parallax">Hotels for family vacations</a></li>
+<li><a href="/en/eco-friendly-hotels" title="Eco-friendly hotels in Austria and South Tyrol" class="white kriterien vertical-text parallax">Eco-friendly hotels</a></li>
+</ul>
+</div>
+</li>
+<li
+class="nav-col mod_customnav"
+id="nav-aktiv-sommer"        >
+<div class="nav-col-inner">
+<strong aria-current="page">Active in summer</strong>
+<ul class="level_1">
+<li><a href="/en/active-in-summer/pure-hiking" title="Hiking in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Pure hiking</a></li>
+<li><a href="/en/active-in-summer/hiking-biking" title="Mountain bike vacation in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Hiking &amp; Biking</a></li>
+<li><a href="/en/active-in-summer/hiking-climbing" title="Climbing vacation in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Hiking &amp; Climbing</a></li>
+<li><a href="/en/active-in-summer/hiking-wellness" title="Hiking &amp; Wellness | Wanderhotels" class="vertical-text dark-header parallax">Hiking &amp; Wellness</a></li>
+<li><a href="/en/active-in-summer/hiking-yoga" title="Yoga and hiking in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Hiking &amp; Yoga</a></li>
+<li><a href="/en/active-in-summer/hiking-golfing" title="Hiking &amp; Golfing | Wanderhotels" class="vertical-text dark-header parallax">Hiking &amp; Golfing</a></li>
+</ul>
+</div>
+</li>
+<li
+class="nav-col mod_customnav"
+id="nav-aktiv-winter"        >
+<div class="nav-col-inner">
+<strong aria-current="page">Active in winter</strong>
+<ul class="level_1">
+<li><a href="/en/active-in-winter/pure-winter-hiking" title="Pure winter hiking in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Pure winter hiking</a></li>
+<li><a href="/en/active-in-winter/snowshoe-hiking" title="Snowshoe hiking in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Snowshoe hiking</a></li>
+<li><a href="/en/active-in-winter/cross-country-skiing" title="Cross-country skiing vacation in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Cross-country skiing</a></li>
+<li><a href="/en/active-in-winter/skiing" title="Hotels for a perfect skiing vacation | Wanderhotels" class="vertical-text dark-header parallax">Skiing</a></li>
+<li><a href="/en/active-in-winter/ski-tours" title="Ski touring in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Ski tours</a></li>
+<li><a href="/en/active-in-winter/winter-hiking-wellness" title="Winter hiking &amp; wellness | Wanderhotels" class="vertical-text dark-header parallax">Winter hiking &amp; wellness</a></li>
+<li><a href="/en/active-in-winter/winter-hiking-yoga" title="Winter hiking &amp; yoga in the Alps | Wanderhotels" class="vertical-text dark-header parallax">Winter hiking &amp; yoga</a></li>
+</ul>
+</div>
+</li>
+<li
+class="nav-col mod_customnav gap-after-3 gap-after-5"
+id="nav-wanderlust"        >
+<div class="nav-col-inner">
+<strong aria-current="page">Wanderlust</strong>
+<ul class="level_1">
+<li><a href="/en/the-gipfelclub" title="The Gipfelclub – Bonus Program of the Hiking Hotels | Hiking Hotels" class="no-big-einleitung">The Gipfelclub</a></li>
+<li><a href="/en/the-quality-pledge" title="The Wanderhotels quality promise – Naturally high quality. Noticeably better. | Wanderhotels" class="vertical-text">The quality pledge</a></li>
+<li><strong class="active vertical-text parallax" aria-current="page">Wanderconcierge</strong></li>
+<li><a href="/en/voucher-shop" title="Voucher shop | Wanderhotels">Voucher</a></li>
+<li><a href="/en/map" title="Overview of Wanderhotels | Wanderhotels" class="white parallax">Map</a></li>
+<li><a href="/en/tips-for-hiking" title="Tips for hiking | Wanderhotels" class="parallax">Tips for hiking</a></li>
+<li><a href="/en/delicious-recipes" title="Delicious recipes | Wanderhotels">Delicious recipes</a></li>
+<li><a href="/en/from-the-wanderhotels" title="From the Wanderhotels | Wanderhotels">From the Wanderhotels</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</nav>    <div id="loader"><div class="spinner"></div></div>    <div class="before-header">
+<div class="flex">
+<div class="menu">
+<div class="clicker menupc">
+<button class="lines-button x" aria-label="Toggle Navigation">
+<span class="lines"></span>
+<span class="navname">MENU</span>
+</button>
+</div>
+<a href="/en/hotels" title="Find Wanderhotels">Hotels</a>
+<a href="/en/offers" title="Wanderhotels Offers">Offers</a>
+</div>
+<nav class="mod_changelanguage block">
+<ul class="level_1">
+<li class="lang-de"><a href="/de/wanderhotels-wanderconcierge" title="Dein Wanderhotels-Wanderconcierge | Wanderhotels" class="lang-de" hreflang="de" aria-label="Go to current page in German">DE</a></li>
+<li class="lang-it"><a href="/it/concierge-escursionistico" title="Il tuo concierge escursionistico Wanderhotels | Wanderhotels" class="lang-it" hreflang="it" aria-label="Go to current page in Italian">IT</a></li>
+</ul>
+</nav>
+</div>
+<div class="logo">
+<a href="/en/" title="Wanderhotels">
+<img loading="lazy" src="files/content/graphics/wanderhotels-logo-white.svg" alt="Wanderhotels Logo" title="Wanderhotels">
+</a>
+</div>
+<div class="logo-beige">
+<a href="/en/" title="Wanderhotels">
+<img loading="lazy" src="files/content/graphics/wanderhotels-logo-beige.svg" alt="Wanderhotels Logo" title="Wanderhotels">
+</a>
+</div>
+<div class="switcher">
+<button class="season-switch" data-season="summer" title="Wanderhotels Summer">
+<img loading="lazy" src="files/content/graphics/summer.svg" height="15" width="15" alt="Summer">
+<span>Summer</span>
+</button>
+<button class="season-switch" data-season="winter" title="Wanderhotels Winter">
+<img loading="lazy" src="files/content/graphics/winter.svg" height="15" width="15" alt="Winter">
+<span>Winter</span>
+</button>
+</div>
+</div>
+<div class="mod_article block" id="article-1384">
+<div class="mod_rocksolid_slider img-opaci block">
+<div data-rsts-name="Wanderservice von A-Z" data-rsts-center="true">
+<div class="heading--hero center content-text">
+<div class="rte">
+<p>Hiking service<br><span style="text-decoration: underline;">from A to Z</span></p>
+</div>
+</div>
+<div class="heading--meta center content-text">
+<div class="rte">
+<p>Wanderhotels Hiking Concierge</p>
+</div>
+</div>
+<picture>
+<source srcset="/assets/images/y/wandern-mit-wanderfuehrern-hoteltipp-beste-alpine-wanderhotels%28c%29the-visualvein-81vhbyncdepp7ct.webp" media="(min-width: 1200px) and (max-width: 1500px)" type="image/webp" width="1500" height="1000">
+<source srcset="/assets/images/6/wandern-mit-wanderfuehrern-hoteltipp-beste-alpine-wanderhotels%28c%29the-visualvein-gxzsqansxqmbskg.jpg" media="(min-width: 1200px) and (max-width: 1500px)" width="1500" height="1000">
+<source srcset="/assets/images/0/wandern-mit-wanderfuehrern-hoteltipp-beste-alpine-wanderhotels%28c%29the-visualvein-1htg4ntgr0qnr6v.webp" media="(min-width: 800px) and (max-width: 1199px)" type="image/webp" width="1200" height="800">
+<source srcset="/assets/images/8/wandern-mit-wanderfuehrern-hoteltipp-beste-alpine-wanderhotels%28c%29the-visualvein-yjtk0h8nt1spt56.jpg" media="(min-width: 800px) and (max-width: 1199px)" width="1200" height="800">
+<source srcset="/assets/images/c/wandern-mit-wanderfuehrern-hoteltipp-beste-alpine-wanderhotels%28c%29the-visualvein-s5t66ep6g5b77sj.webp" media="(min-width: 600px) and (max-width: 799px)" type="image/webp" width="1000" height="600">
+<source srcset="/assets/images/e/wandern-mit-wanderfuehrern-hoteltipp-beste-alpine-wanderhotels%28c%29the-visualvein-x76agz74gq7b791.jpg" media="(min-width: 600px) and (max-width: 799px)" width="1000" height="600">
+<source srcset="/assets/images/2/wandern-mit-wanderfuehrern-hoteltipp-beste-alpine-wanderhotels%28c%29the-visualvein-xnyk60xk846jrrs.webp" media="(max-width: 599px)" type="image/webp" width="600" height="900">
+<source srcset="/assets/images/n/wandern-mit-wanderfuehrern-hoteltipp-beste-alpine-wanderhotels%28c%29the-visualvein-vb7kwrbnk7zbaw3.jpg" media="(max-width: 599px)" width="600" height="900">
+<source srcset="/assets/images/w/wandern-mit-wanderfuehrern-hoteltipp-beste-alpine-wanderhotels%28c%29the-visualvein-0m4z9t9scf9rx3k.webp" type="image/webp" width="2000" height="1300">
+<img src="/assets/images/r/wandern-mit-wanderfuehrern-hoteltipp-beste-alpine-wanderhotels%28c%29the-visualvein-j07e4qw02qyhybs.jpg" width="2000" height="1300" alt="Solo traveller planning a summer hike with a mountain guide in Austria – personal mountain experiences and guided nature adventures in the Alps." loading="lazy" data-rsts-background data-rsts-scale-mode="crop" data-rsts-position="left">
+</picture>
+<span class="rsts-copyright">© The visualvein</span>
+</div>
+</div>
+<script>(function(){var sliderElement=[].slice.call(document.getElementsByClassName('mod_rocksolid_slider'),-1)[0];if(window.jQuery&&jQuery.fn.rstSlider){init()}else{document.addEventListener('DOMContentLoaded',init)}
+function init(){var $=jQuery;var slider=$(sliderElement);slider.find('video[data-rsts-background], [data-rsts-type=video] video').each(function(){this.player=!0});slider.rstSlider({"type":"slide","direction":"x","width":"100%","height":"100vh","navType":"none","scaleMode":"crop","imagePosition":"center","centerContent":!0,"random":!1,"loop":!1,"videoAutoplay":!1,"autoplayProgress":!1,"pauseAutoplayOnHover":!1,"keyboard":!0,"captions":!1,"controls":!1,"thumbControls":!1,"combineNavItems":!0,"visibleAreaAlign":0.5,"gapSize":"0%"});$(function(){if(!$.fn.colorbox){return}
+var lightboxConfig={loop:!1,rel:function(){return $(this).attr('data-lightbox')},maxWidth:'95%',maxHeight:'95%'};var update=function(links){links.colorbox(lightboxConfig)};slider.on('rsts-slidestart rsts-slidestop',function(event){update(slider.find('a[data-lightbox]'))});update(slider.find('a[data-lightbox]'))})}})()</script>
+</div>
+<!-- indexer::stop -->
+<div class="mod_form buchungsleiste block">
+<form action="/en/book-a-wanderhotel" method="get" enctype="application/x-www-form-urlencoded">
+<div class="formbody">
+<div class="widget widget-text widget-calendar mandatory">
+<div id="ctrl_526_wrapper">
+<input
+type="text"
+name="date_from"
+id="ctrl_526"
+class="text mandatory"
+placeholder="Arrival"
+value=""
+required  data-input
+autocomplete="off"
+>
+<a class="input-button" style="cursor: pointer;" title="" data-toggle="">
+<!-- Fallback-SVG -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 17" style="width: 16px; height: 16px;">
+<path d="M14 2V1h-3v1H6V1H3v1H0v15h17V2h-3zM12 2h1v2h-1V2zM4 2h1v2H4V2zM16 16H1v-8.921h15V16zM1 6.079v-3.079h2v2h3V3h5v2h3V3h2v3.079H1z" fill="#000"></path>
+</svg>
+</a>
+</div>
+<script>picker_526=flatpickr("#ctrl_526_wrapper",{"locale":"en","dateFormat":"d.m.Y","allowInput":!0,"weekNumbers":!0,"minDate":new Date().fp_incr(0),"wrap":!0,})</script>
+</div>
+<div class="widget widget-text widget-calendar mandatory">
+<div id="ctrl_527_wrapper">
+<input
+type="text"
+name="date_to"
+id="ctrl_527"
+class="text mandatory"
+placeholder="Departure"
+value=""
+required  data-input
+autocomplete="off"
+>
+<a class="input-button" style="cursor: pointer;" title="" data-toggle="">
+<!-- Fallback-SVG -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 17" style="width: 16px; height: 16px;">
+<path d="M14 2V1h-3v1H6V1H3v1H0v15h17V2h-3zM12 2h1v2h-1V2zM4 2h1v2H4V2zM16 16H1v-8.921h15V16zM1 6.079v-3.079h2v2h3V3h5v2h3V3h2v3.079H1z" fill="#000"></path>
+</svg>
+</a>
+</div>
+<script>picker_527=flatpickr("#ctrl_527_wrapper",{"locale":"en","dateFormat":"d.m.Y","allowInput":!0,"weekNumbers":!0,"minDate":new Date().fp_incr(0),"wrap":!0,})</script>
+</div>
+<div class="widget widget-select select">
+<select name="persons_adults" id="ctrl_528" class="select">
+<option value="1">1</option>
+<option value="2" selected>2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+</select>
+</div>
+<div class="widget widget-submit btn-buchen">
+<button type="submit" id="ctrl_529" class="violett submit btn-buchen">book</button>
+</div>
+</div>
+</form>
+</div>
+<!-- indexer::continue -->
+<script>(function(){var wrapper=document.currentScript.previousElementSibling;var form=wrapper?wrapper.querySelector('form'):null;if(!form)return;var button=form.querySelector('.btn-buchen');if(!button)return;function value(name){var el=form.querySelector('[name="'+name+'"]');return el&&el.value?el.value.trim():''}
+function toIso(v){var m=v.match(/^(\d{2})\.(\d{2})\.(\d{4})$/);return m?m[3]+'-'+m[2]+'-'+m[1]:''}
+button.addEventListener('click',function(e){e.preventDefault();if(typeof form.reportValidity==='function'&&!form.reportValidity())return;var params=['vri_x=1'];var from=toIso(value('date_from'));var to=toIso(value('date_to'));var adults=parseInt(value('persons_adults'),10);if(from)params.push('hotel_crits[date_from]='+from);if(to)params.push('hotel_crits[date_to]='+to);if(adults>0)params.push('hotel_crits[persons_adults]='+adults);var target=form.getAttribute('action')||'';if(!target)return;window.location.href=target.split('#')[0]+'#?'+params.join('&')})})()</script>
+</div>
+</header>
+<div id="bread">
+<div class="inside">
+<!-- indexer::stop -->
+<nav class="mod_breadcrumb block" aria-label="Breadcrumb">
+<ul>
+<li><a href="/en/" title="Wanderhotels">Wanderhotels</a></li>
+<li><a href="/en/the-gipfelclub" title="Wanderlust">Wanderlust</a></li>
+<li class="active" aria-current="page">Wanderconcierge</li>
+</ul>
+</nav>
+<!-- indexer::continue -->
+</div>
+</div>
+<div id="container">
+<main id="main">
+<div class="inside">
+<div class="mod_article block" id="article-1385">
+<div class="flex-col intro center content-element-group">
+<div class="einleitung violett-underline content-text">
+<div class="rte">
+<h1>Your hiking hotel <br><strong>hiking concierge</strong></h1>
+<p>The journey to the summit or mountain lake does not begin when you set off on the trail, but with all the questions, big and small, that arise in advance when planning your tour. To ensure that your <a title="Hiking Hotels in Austria" href="/en/austria">hiking vacation in Austria</a> South Tyrol, or the Black Forest is a <strong>carefree experience</strong>, the <strong>Hiking Hotels hiking concierge</strong> is there to offer you advice and assistance. They advise on <strong>safety in the mountains,</strong> explain the difficulty of various tours, know how to interpret weather forecasts correctly, and know which alpine huts serve the best Kaiserschmarrn.<br><br>Whether <a title="Dog-friendly hiking hotels" href="/en/dog-friendly-hotels">hiking with your dog</a> in Austria, <a title="Hiking hotels for family vacations" href="/en/hotels-for-family-vacations">hiking with children</a> in South Tyrol, or mountain hiking for beginners in the Black Forest: competent advice is always important.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+</div>
+<div id="full">
+<div class="inside">
+<div class="mod_article grafik-bottom block" id="white">
+<section class="enable-animation">
+<div class="marquee">
+<ul class="marquee__content">
+<li data-cursor="-lg">
+<img loading="lazy"
+src="files/content/graphics/icons/gefuehrte.svg"
+height="35"
+alt=""
+>
+Mountain Moments Designer              </li>
+<li data-cursor="-lg">
+<img loading="lazy"
+src="files/content/graphics/icons/herz.svg"
+height="35"
+alt=""
+>
+Wanderlust fulfillment              </li>
+</ul>
+<ul aria-hidden="true" class="marquee__content">
+<li data-cursor="-lg">
+<img loading="lazy"
+src="files/content/graphics/icons/gefuehrte.svg"
+height="35"
+alt=""
+>
+Mountain Moments Designer              </li>
+<li data-cursor="-lg">
+<img loading="lazy"
+src="files/content/graphics/icons/herz.svg"
+height="35"
+alt=""
+>
+Wanderlust fulfillment              </li>
+</ul>
+</div>
+<div class="marquee marquee--reverse">
+<ul class="marquee__content">
+<li data-cursor="-lg">
+<img loading="lazy"
+src="files/content/graphics/icons/tipp.svg"
+height="35"
+alt=""
+>
+Wohlühl signposts              </li>
+<li data-cursor="-lg">
+<img loading="lazy"
+src="files/content/graphics/icons/sonne.svg"
+height="35"
+alt=""
+>
+Distant Viewer              </li>
+</ul>
+<ul aria-hidden="true" class="marquee__content">
+<li data-cursor="-lg">
+<img loading="lazy"
+src="files/content/graphics/icons/tipp.svg"
+height="35"
+alt=""
+>
+Wohlühl signposts              </li>
+<li data-cursor="-lg">
+<img loading="lazy"
+src="files/content/graphics/icons/sonne.svg"
+height="35"
+alt=""
+>
+Distant Viewer              </li>
+</ul>
+</div>
+</section><div class="rs-columns ce_rs_columns_start padd2 flex">
+<div class="rs-column -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row"><div class="rs-columns ce_rs_columns_start flex-end">
+<div class="rs-column -large-col-1-1 -large-first -large-last -large-first-row -medium-col-1-1 -medium-first -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
+<div class="content-text">
+<div class="rte">
+<h2>Guided hikes<br><strong>and advice</strong></h2>
+<p>Thanks to the <strong>expert hiking advice</strong> and <strong>tailor-made tour planning</strong> provided by our hiking experts, you can focus entirely on the <strong>sensory experience of nature</strong>. Majestic peaks shrouded in clouds. Playful light and shadow in evergreen forests. Clear morning air after a cool night. The first sip of refreshing spring water. A <a title="Find hiking hotels" href="/en/hotels">hiking vacation in the Alps</a> is when <strong>boundless views</strong> meet <strong>goosebump moments</strong>.</p>
+</div>
+</div>
+</div><div class="rs-column -large-col-1-1 -large-first -large-last -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last">
+<div class="buttn bigviolett content-hyperlink">
+<a href="/en/hotels" title="Find Wanderhotes">to the hotel overview</a>            </div>
+</div></div>
+</div><div class="rs-column -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last"><div class="mod_rocksolid_slider round-corners block">
+<div data-rsts-type="image">
+<picture>
+<source srcset="/assets/images/6/wanderung-oesterreich-ausruestung-verleih-wanderhotel-kaernten%28c%29cam-poetry-2ds6jc3zaz22ge4.webp" media="(min-width: 1701px) and (max-width: 1900px)" type="image/webp" width="800" height="1000">
+<source srcset="/assets/images/a/wanderung-oesterreich-ausruestung-verleih-wanderhotel-kaernten%28c%29cam-poetry-y5g1yx7ejas0c56.jpg" media="(min-width: 1701px) and (max-width: 1900px)" width="800" height="1000">
+<source srcset="/assets/images/m/wanderung-oesterreich-ausruestung-verleih-wanderhotel-kaernten%28c%29cam-poetry-5hyj2zdvpxwq1qv.webp" media="(min-width: 1501px) and (max-width: 1700px)" type="image/webp" width="700" height="1000">
+<source srcset="/assets/images/z/wanderung-oesterreich-ausruestung-verleih-wanderhotel-kaernten%28c%29cam-poetry-2w9mt1dg1b1cc88.jpg" media="(min-width: 1501px) and (max-width: 1700px)" width="700" height="1000">
+<source srcset="/assets/images/6/wanderung-oesterreich-ausruestung-verleih-wanderhotel-kaernten%28c%29cam-poetry-dvrxy2vqbabqftt.webp" media="(min-width: 1200px) and (max-width: 1500px)" type="image/webp" width="600" height="700">
+<source srcset="/assets/images/2/wanderung-oesterreich-ausruestung-verleih-wanderhotel-kaernten%28c%29cam-poetry-ynprm75p0jg0c7x.jpg" media="(min-width: 1200px) and (max-width: 1500px)" width="600" height="700">
+<source srcset="/assets/images/b/wanderung-oesterreich-ausruestung-verleih-wanderhotel-kaernten%28c%29cam-poetry-e70yxzk3af5kz1h.webp" media="(min-width: 800px) and (max-width: 1199px)" type="image/webp" width="500" height="700">
+<source srcset="/assets/images/h/wanderung-oesterreich-ausruestung-verleih-wanderhotel-kaernten%28c%29cam-poetry-tr39a91w9cbtxvs.jpg" media="(min-width: 800px) and (max-width: 1199px)" width="500" height="700">
+<source srcset="/assets/images/2/wanderung-oesterreich-ausruestung-verleih-wanderhotel-kaernten%28c%29cam-poetry-401qt1xgds9k0mc.webp" media="(min-width: 600px) and (max-width: 799px)" type="image/webp" width="500" height="500">
+<source srcset="/assets/images/0/wanderung-oesterreich-ausruestung-verleih-wanderhotel-kaernten%28c%29cam-poetry-spfwrvttvbq2j7q.jpg" media="(min-width: 600px) and (max-width: 799px)" width="500" height="500">
+<source srcset="/assets/images/n/wanderung-oesterreich-ausruestung-verleih-wanderhotel-kaernten%28c%29cam-poetry-heccarrmyavc9yt.webp" media="(max-width: 599px)" type="image/webp" width="550" height="700">
+<source srcset="/assets/images/x/wanderung-oesterreich-ausruestung-verleih-wanderhotel-kaernten%28c%29cam-poetry-bxp8v0srwmbzdqm.jpg" media="(max-width: 599px)" width="550" height="700">
+<source srcset="/assets/images/n/wanderung-oesterreich-ausruestung-verleih-wanderhotel-kaernten%28c%29cam-poetry-ce11qgywdbnzafw.webp" type="image/webp" width="900" height="900">
+<img src="/assets/images/8/wanderung-oesterreich-ausruestung-verleih-wanderhotel-kaernten%28c%29cam-poetry-wst1370jrepv9kc.jpg" width="900" height="900" alt="A woman wearing a blue backpack with the Wanderhotels logo stands at a summit cross." loading="lazy" class="img-hoch">
+</picture>
+<p class="rsts-text">© Cam Poetry</p>
+</div>
+</div>
+<script>(function(){var sliderElement=[].slice.call(document.getElementsByClassName('mod_rocksolid_slider'),-1)[0];if(window.jQuery&&jQuery.fn.rstSlider){init()}else{document.addEventListener('DOMContentLoaded',init)}
+function init(){var $=jQuery;var slider=$(sliderElement);slider.find('video[data-rsts-background], [data-rsts-type=video] video').each(function(){this.player=!0});slider.rstSlider({"type":"slide","direction":"x","width":"100%","height":"css","navType":"none","scaleMode":"crop","imagePosition":"center","centerContent":!0,"random":!1,"loop":!0,"videoAutoplay":!1,"autoplayProgress":!1,"pauseAutoplayOnHover":!1,"keyboard":!0,"captions":!0,"controls":!1,"thumbControls":!1,"combineNavItems":!0,"visibleAreaAlign":0.5,"gapSize":"0%"});$(function(){if(!$.fn.colorbox){return}
+var lightboxConfig={loop:!1,rel:function(){return $(this).attr('data-lightbox')},maxWidth:'95%',maxHeight:'95%'};var update=function(links){links.colorbox(lightboxConfig)};slider.on('rsts-slidestart rsts-slidestop',function(event){update(slider.find('a[data-lightbox]'))});update(slider.find('a[data-lightbox]'))})}})()</script></div></div>
+</div>
+<div class="mod_article block" id="white">
+<div class="center padd-bot container content-text">
+<div class="rte">
+<h2>One calling,<br><strong>many faces</strong></h2>
+<p><strong>Whether it&#39;s the hotelier himself, the in-house hiking guide, or a receptionist who loves the mountains:<br></strong>at least five times a week, there will be a knowledgeable contact person available for you at your hiking hotel – offering personal support and sound expert advice.</p>
+</div>
+</div>
+<div class="mod_rocksolid_slider content-slider withtext block">
+<div data-rsts-name="Claudia Robatscher">
+<div class="steps-quali content-element-group">
+<div class="steps-img content-element-group">
+<div class="round-corners content-image">
+<figure>
+<picture>
+<source srcset="/assets/images/q/berg-abenteuer-gefuehrte-wanderung-wanderhotel-pattissenhof-2022%28c%29stefanie-resch-a3d9jsp53hsy27d.webp" media="(min-width: 1200px) and (max-width: 1500px)" type="image/webp" width="650" height="500">
+<source srcset="/assets/images/8/berg-abenteuer-gefuehrte-wanderung-wanderhotel-pattissenhof-2022%28c%29stefanie-resch-j6fpwa7kvwasham.jpg" media="(min-width: 1200px) and (max-width: 1500px)" width="650" height="500">
+<source srcset="/assets/images/e/berg-abenteuer-gefuehrte-wanderung-wanderhotel-pattissenhof-2022%28c%29stefanie-resch-xfb3rtn0przk4ef.webp" media="(min-width: 800px) and (max-width: 1199px)" type="image/webp" width="500" height="500">
+<source srcset="/assets/images/r/berg-abenteuer-gefuehrte-wanderung-wanderhotel-pattissenhof-2022%28c%29stefanie-resch-qsyt4rwt74ksjcx.jpg" media="(min-width: 800px) and (max-width: 1199px)" width="500" height="500">
+<source srcset="/assets/images/0/berg-abenteuer-gefuehrte-wanderung-wanderhotel-pattissenhof-2022%28c%29stefanie-resch-myfj00tb9sw84hh.webp" media="(min-width: 600px) and (max-width: 799px)" type="image/webp" width="750" height="500">
+<source srcset="/assets/images/m/berg-abenteuer-gefuehrte-wanderung-wanderhotel-pattissenhof-2022%28c%29stefanie-resch-32ytzjspj4s4gvp.jpg" media="(min-width: 600px) and (max-width: 799px)" width="750" height="500">
+<source srcset="/assets/images/z/berg-abenteuer-gefuehrte-wanderung-wanderhotel-pattissenhof-2022%28c%29stefanie-resch-n3jnrszcz0erwr0.webp" media="(max-width: 599px)" type="image/webp" width="550" height="550">
+<source srcset="/assets/images/6/berg-abenteuer-gefuehrte-wanderung-wanderhotel-pattissenhof-2022%28c%29stefanie-resch-6t8czq57ejws4vn.jpg" media="(max-width: 599px)" width="550" height="550">
+<source srcset="/assets/images/4/berg-abenteuer-gefuehrte-wanderung-wanderhotel-pattissenhof-2022%28c%29stefanie-resch-vs5d5r0w3ad573k.webp" type="image/webp" width="750" height="600">
+<img src="/assets/images/x/berg-abenteuer-gefuehrte-wanderung-wanderhotel-pattissenhof-2022%28c%29stefanie-resch-9xs29nyv36nzh8v.jpg" width="750" height="600" alt="Claudia shows two guests the route on the map during a guided hike." loading="lazy" class="small-image-quadrat">
+</picture>
+</figure>
+</div>
+<div class="hl-big steps-title content-text">
+<div class="rte">
+<h3>Claudia Robatscher</h3>
+</div>
+</div>
+</div>
+<div class="big-text content-text">
+<div class="rte">
+<p>Claudia is a mountain enthusiast through and through – almost as if she were born with hiking boots on her feet.</p>        </div>
+</div>
+</div>
+</div>
+<div data-rsts-name="Stefan Leppert">
+<div class="steps-quali content-element-group">
+<div class="steps-img content-element-group">
+<div class="round-corners content-image">
+<figure>
+<picture>
+<source srcset="/assets/images/2/wanderhotels-wanderconcierge-wandern-tirol-wanderhotel-sonnalp%28c%29hotel-sonnalp-min-aajsneb7fa88v21.webp" media="(min-width: 1200px) and (max-width: 1500px)" type="image/webp" width="650" height="500">
+<source srcset="/assets/images/r/wanderhotels-wanderconcierge-wandern-tirol-wanderhotel-sonnalp%28c%29hotel-sonnalp-min-9z9fzc048z74b8x.jpg" media="(min-width: 1200px) and (max-width: 1500px)" width="650" height="500">
+<source srcset="/assets/images/7/wanderhotels-wanderconcierge-wandern-tirol-wanderhotel-sonnalp%28c%29hotel-sonnalp-min-nxdc4rk7pfwhe5w.webp" media="(min-width: 800px) and (max-width: 1199px)" type="image/webp" width="500" height="500">
+<source srcset="/assets/images/k/wanderhotels-wanderconcierge-wandern-tirol-wanderhotel-sonnalp%28c%29hotel-sonnalp-min-ev08nama2d1p52r.jpg" media="(min-width: 800px) and (max-width: 1199px)" width="500" height="500">
+<source srcset="/assets/images/7/wanderhotels-wanderconcierge-wandern-tirol-wanderhotel-sonnalp%28c%29hotel-sonnalp-min-xwn8syqqtas1rrz.webp" media="(min-width: 600px) and (max-width: 799px)" type="image/webp" width="750" height="500">
+<source srcset="/assets/images/r/wanderhotels-wanderconcierge-wandern-tirol-wanderhotel-sonnalp%28c%29hotel-sonnalp-min-hmjgxse3h4br9jd.jpg" media="(min-width: 600px) and (max-width: 799px)" width="750" height="500">
+<source srcset="/assets/images/h/wanderhotels-wanderconcierge-wandern-tirol-wanderhotel-sonnalp%28c%29hotel-sonnalp-min-mg9ge0kmty541n2.webp" media="(max-width: 599px)" type="image/webp" width="550" height="550">
+<source srcset="/assets/images/7/wanderhotels-wanderconcierge-wandern-tirol-wanderhotel-sonnalp%28c%29hotel-sonnalp-min-3h1ye89sg02dhpb.jpg" media="(max-width: 599px)" width="550" height="550">
+<source srcset="/assets/images/j/wanderhotels-wanderconcierge-wandern-tirol-wanderhotel-sonnalp%28c%29hotel-sonnalp-min-sjm0qn7kfqg997q.webp" type="image/webp" width="750" height="600">
+<img src="/assets/images/t/wanderhotels-wanderconcierge-wandern-tirol-wanderhotel-sonnalp%28c%29hotel-sonnalp-min-0h18qdc83axcy99.jpg" width="750" height="600" alt="Wanderhotel hiking concierge Stefan shows the most beautiful hikes in Kirchberg in Tyrol." loading="lazy" class="small-image-quadrat">
+</picture>
+</figure>
+</div>
+<div class="hl-big steps-title content-text">
+<div class="rte">
+<h3>Stefan Leppert</h3>
+</div>
+</div>
+</div>
+<div class="big-text content-text">
+<div class="rte">
+<p data-start="648" data-end="732">The mountains are Stefan&#39;s great passion – the Kitzbühel Alps are his favorite place.</p>        </div>
+</div>
+</div>
+</div>
+<div data-rsts-name="Gerlinde Ortner">
+<div class="steps-quali content-element-group">
+<div class="steps-img content-element-group">
+<div class="round-corners content-image">
+<figure>
+<picture>
+<source srcset="/assets/images/p/gerlinde-wanderhotels-wanderconcierge-zirmerhof-wandern-meran%28c%29hotel-zirmerhof-rf4h36gbkaem2v1.webp" media="(min-width: 1200px) and (max-width: 1500px)" type="image/webp" width="650" height="500">
+<source srcset="/assets/images/f/gerlinde-wanderhotels-wanderconcierge-zirmerhof-wandern-meran%28c%29hotel-zirmerhof-dp6q4hhpxvzmdz3.jpg" media="(min-width: 1200px) and (max-width: 1500px)" width="650" height="500">
+<source srcset="/assets/images/t/gerlinde-wanderhotels-wanderconcierge-zirmerhof-wandern-meran%28c%29hotel-zirmerhof-r9t9zj3w2h688fv.webp" media="(min-width: 800px) and (max-width: 1199px)" type="image/webp" width="500" height="500">
+<source srcset="/assets/images/n/gerlinde-wanderhotels-wanderconcierge-zirmerhof-wandern-meran%28c%29hotel-zirmerhof-d9xz347mn2vjsm1.jpg" media="(min-width: 800px) and (max-width: 1199px)" width="500" height="500">
+<source srcset="/assets/images/2/gerlinde-wanderhotels-wanderconcierge-zirmerhof-wandern-meran%28c%29hotel-zirmerhof-mcy77x2kqpxw6ke.webp" media="(min-width: 600px) and (max-width: 799px)" type="image/webp" width="750" height="500">
+<source srcset="/assets/images/c/gerlinde-wanderhotels-wanderconcierge-zirmerhof-wandern-meran%28c%29hotel-zirmerhof-13skqt2pynekmfk.jpg" media="(min-width: 600px) and (max-width: 799px)" width="750" height="500">
+<source srcset="/assets/images/y/gerlinde-wanderhotels-wanderconcierge-zirmerhof-wandern-meran%28c%29hotel-zirmerhof-m6rjsz3gf5pht9x.webp" media="(max-width: 599px)" type="image/webp" width="550" height="550">
+<source srcset="/assets/images/d/gerlinde-wanderhotels-wanderconcierge-zirmerhof-wandern-meran%28c%29hotel-zirmerhof-179wxtt2mx53xj2.jpg" media="(max-width: 599px)" width="550" height="550">
+<source srcset="/assets/images/d/gerlinde-wanderhotels-wanderconcierge-zirmerhof-wandern-meran%28c%29hotel-zirmerhof-dyfeggcbv57brxj.webp" type="image/webp" width="750" height="600">
+<img src="/assets/images/y/gerlinde-wanderhotels-wanderconcierge-zirmerhof-wandern-meran%28c%29hotel-zirmerhof-ey0tb9m932pakfp.jpg" width="750" height="600" alt="Gerlinde is a Wanderhotels hiking concierge through and through and leads the hiking in Merano." loading="lazy" class="small-image-quadrat">
+</picture>
+</figure>
+</div>
+<div class="hl-big steps-title content-text">
+<div class="rte">
+<h3>Gerlinde Ortner</h3>
+</div>
+</div>
+</div>
+<div class="big-text content-text">
+<div class="rte">
+<p data-start="460" data-end="531">Gerlinde keeps finding new favorite spots in Merano&#39;s diversity.</p>        </div>
+</div>
+</div>
+</div>
+<div data-rsts-name="Johannes Wieser">
+<div class="steps-quali content-element-group">
+<div class="steps-img content-element-group">
+<div class="round-corners content-image">
+<figure>
+<picture>
+<source srcset="/assets/images/z/wanderurlaub-suedtirol-wanderconcierge-wanderhotels-hotel-wieser-sterzing-2023%28c%29fabian-schaiter-vf2d1n1y7yknwwg.webp" media="(min-width: 1200px) and (max-width: 1500px)" type="image/webp" width="650" height="500">
+<source srcset="/assets/images/s/wanderurlaub-suedtirol-wanderconcierge-wanderhotels-hotel-wieser-sterzing-2023%28c%29fabian-schaiter-txkjsyc3rz0f03t.jpg" media="(min-width: 1200px) and (max-width: 1500px)" width="650" height="500">
+<source srcset="/assets/images/2/wanderurlaub-suedtirol-wanderconcierge-wanderhotels-hotel-wieser-sterzing-2023%28c%29fabian-schaiter-kkwysk3q10kstx7.webp" media="(min-width: 800px) and (max-width: 1199px)" type="image/webp" width="500" height="500">
+<source srcset="/assets/images/a/wanderurlaub-suedtirol-wanderconcierge-wanderhotels-hotel-wieser-sterzing-2023%28c%29fabian-schaiter-6989kj5b3hq9pnw.jpg" media="(min-width: 800px) and (max-width: 1199px)" width="500" height="500">
+<source srcset="/assets/images/a/wanderurlaub-suedtirol-wanderconcierge-wanderhotels-hotel-wieser-sterzing-2023%28c%29fabian-schaiter-hq30c6hsgh6evxc.webp" media="(min-width: 600px) and (max-width: 799px)" type="image/webp" width="750" height="500">
+<source srcset="/assets/images/c/wanderurlaub-suedtirol-wanderconcierge-wanderhotels-hotel-wieser-sterzing-2023%28c%29fabian-schaiter-kxa6ar3p8zmm79b.jpg" media="(min-width: 600px) and (max-width: 799px)" width="750" height="500">
+<source srcset="/assets/images/t/wanderurlaub-suedtirol-wanderconcierge-wanderhotels-hotel-wieser-sterzing-2023%28c%29fabian-schaiter-rzqfv9rhdz81369.webp" media="(max-width: 599px)" type="image/webp" width="550" height="550">
+<source srcset="/assets/images/6/wanderurlaub-suedtirol-wanderconcierge-wanderhotels-hotel-wieser-sterzing-2023%28c%29fabian-schaiter-m2bfmps0xgxyv05.jpg" media="(max-width: 599px)" width="550" height="550">
+<source srcset="/assets/images/w/wanderurlaub-suedtirol-wanderconcierge-wanderhotels-hotel-wieser-sterzing-2023%28c%29fabian-schaiter-08t7kej2zzd1aqy.webp" type="image/webp" width="750" height="600">
+<img src="/assets/images/g/wanderurlaub-suedtirol-wanderconcierge-wanderhotels-hotel-wieser-sterzing-2023%28c%29fabian-schaiter-mg7w831tw1z1bzk.jpg" width="750" height="600" alt="Hiking in Sterzing brings joy to Wanderhotels&#39; Wanderconcierge Johannes. Follow his great tips!" loading="lazy" class="small-image-quadrat">
+</picture>
+</figure>
+</div>
+<div class="hl-big steps-title content-text">
+<div class="rte">
+<h3>Johannes Wieser</h3>
+</div>
+</div>
+</div>
+<div class="big-text content-text">
+<div class="rte">
+<p data-start="493" data-end="565">The mountains around Sterzing are like a second home to Johannes.</p>        </div>
+</div>
+</div>
+</div>
+<div data-rsts-name="Werner Call">
+<div class="steps-quali content-element-group">
+<div class="steps-img content-element-group">
+<div class="round-corners content-image">
+<figure>
+<picture>
+<source srcset="/assets/images/8/hotel-warth-wanderfuehrer-wanderhotel-jaegeralpe%28c%29lisa-immler-photography-jzdznhsk08qceax.webp" media="(min-width: 1200px) and (max-width: 1500px)" type="image/webp" width="650" height="500">
+<source srcset="/assets/images/s/hotel-warth-wanderfuehrer-wanderhotel-jaegeralpe%28c%29lisa-immler-photography-4s0mjvfem7czgv2.jpg" media="(min-width: 1200px) and (max-width: 1500px)" width="650" height="500">
+<source srcset="/assets/images/x/hotel-warth-wanderfuehrer-wanderhotel-jaegeralpe%28c%29lisa-immler-photography-12phrzxxjp0p9k3.webp" media="(min-width: 800px) and (max-width: 1199px)" type="image/webp" width="500" height="500">
+<source srcset="/assets/images/0/hotel-warth-wanderfuehrer-wanderhotel-jaegeralpe%28c%29lisa-immler-photography-rqdkxbemr8mj5f9.jpg" media="(min-width: 800px) and (max-width: 1199px)" width="500" height="500">
+<source srcset="/assets/images/z/hotel-warth-wanderfuehrer-wanderhotel-jaegeralpe%28c%29lisa-immler-photography-8s26hq4ewx27e8p.webp" media="(min-width: 600px) and (max-width: 799px)" type="image/webp" width="750" height="500">
+<source srcset="/assets/images/k/hotel-warth-wanderfuehrer-wanderhotel-jaegeralpe%28c%29lisa-immler-photography-g7ea2y57mzrzmrj.jpg" media="(min-width: 600px) and (max-width: 799px)" width="750" height="500">
+<source srcset="/assets/images/d/hotel-warth-wanderfuehrer-wanderhotel-jaegeralpe%28c%29lisa-immler-photography-3v20gmn0y4byes5.webp" media="(max-width: 599px)" type="image/webp" width="550" height="550">
+<source srcset="/assets/images/d/hotel-warth-wanderfuehrer-wanderhotel-jaegeralpe%28c%29lisa-immler-photography-827ymw6pmd1ere3.jpg" media="(max-width: 599px)" width="550" height="550">
+<source srcset="/assets/images/f/hotel-warth-wanderfuehrer-wanderhotel-jaegeralpe%28c%29lisa-immler-photography-np04c1r0p8sbgzr.webp" type="image/webp" width="750" height="600">
+<img src="/assets/images/b/hotel-warth-wanderfuehrer-wanderhotel-jaegeralpe%28c%29lisa-immler-photography-ypzytm2w6azr82z.jpg" width="750" height="600" alt="Jasmin is a Wanderhotel Wander Concierge and loves hiking with her dog." loading="lazy" class="small-image-quadrat">
+</picture>
+</figure>
+</div>
+<div class="hl-big steps-title content-text">
+<div class="rte">
+<h3>Jasmin Jäger</h3>
+</div>
+</div>
+</div>
+<div class="big-text content-text">
+<div class="rte">
+<p>Jasmine knows Vorarlberg&#39;s hiking trails like the back of her hand – and knows exactly where dogs will feel right at home.</p>        </div>
+</div>
+</div>
+</div>
+</div>
+<script>(function(){var sliderElement=[].slice.call(document.getElementsByClassName('mod_rocksolid_slider'),-1)[0];if(window.jQuery&&jQuery.fn.rstSlider){init()}else{document.addEventListener('DOMContentLoaded',init)}
+function init(){var $=jQuery;var slider=$(sliderElement);slider.find('video[data-rsts-background], [data-rsts-type=video] video').each(function(){this.player=!0});slider.rstSlider({"type":"slide","direction":"x","width":"100%","height":"css","navType":"none","scaleMode":"crop","imagePosition":"center","centerContent":!1,"random":!1,"loop":!0,"videoAutoplay":!1,"autoplayProgress":!1,"pauseAutoplayOnHover":!1,"keyboard":!0,"captions":!1,"controls":!0,"thumbControls":!1,"combineNavItems":!0,"preloadSlides":10,"duration":1500,"autoplay":6000,"slideMaxCount":2,"slideMinSize":250,"prevNextSteps":1,"visibleArea":0.7,"visibleAreaAlign":0.5,"gapSize":"3%"});$(function(){if(!$.fn.colorbox){return}
+var lightboxConfig={loop:!1,rel:function(){return $(this).attr('data-lightbox')},maxWidth:'95%',maxHeight:'95%'};var update=function(links){links.colorbox(lightboxConfig)};slider.on('rsts-slidestart rsts-slidestop',function(event){update(slider.find('a[data-lightbox]'))});update(slider.find('a[data-lightbox]'))})}})()</script>
+</div>
+<div class="mod_article flex-col teaser big-padd-top big-padd-bot container bg-beige block" id="article-1388">
+<div class="center violett-underline content-text">
+<div class="rte">
+<h2>Ready for your<br><strong>hiking vacation?</strong></h2>
+</div>
+</div>
+<div class="two-grid padd-top content-element-group">
+<div class="relative round-corners content-element-group">
+<div class="content-hyperlink">
+<figure>
+<a href="/en/active-in-summer/hiking-biking" title="Hiking hotels for hiking and biking">                                            <picture>
+<source srcset="/assets/images/m/tourentipp-bike-and-hike-nationalpark-hohe-tauern-wanderhotel-osttirol-2024%28c%29martin-lugger-y2v1tbhx37t2w11.webp" media="(min-width: 1200px) and (max-width: 1500px)" type="image/webp" width="700" height="600">
+<source srcset="/assets/images/1/tourentipp-bike-and-hike-nationalpark-hohe-tauern-wanderhotel-osttirol-2024%28c%29martin-lugger-ey46cdzw3axh7ag.jpg" media="(min-width: 1200px) and (max-width: 1500px)" width="700" height="600">
+<source srcset="/assets/images/9/tourentipp-bike-and-hike-nationalpark-hohe-tauern-wanderhotel-osttirol-2024%28c%29martin-lugger-h6kva5b0t37band.webp" media="(min-width: 800px) and (max-width: 1199px)" type="image/webp" width="550" height="600">
+<source srcset="/assets/images/p/tourentipp-bike-and-hike-nationalpark-hohe-tauern-wanderhotel-osttirol-2024%28c%29martin-lugger-06degcm1trh0bgc.jpg" media="(min-width: 800px) and (max-width: 1199px)" width="550" height="600">
+<source srcset="/assets/images/j/tourentipp-bike-and-hike-nationalpark-hohe-tauern-wanderhotel-osttirol-2024%28c%29martin-lugger-kz6nze6bs1rjb0j.webp" media="(min-width: 600px) and (max-width: 799px)" type="image/webp" width="750" height="500">
+<source srcset="/assets/images/1/tourentipp-bike-and-hike-nationalpark-hohe-tauern-wanderhotel-osttirol-2024%28c%29martin-lugger-7nqvwqrf9m1x503.jpg" media="(min-width: 600px) and (max-width: 799px)" width="750" height="500">
+<source srcset="/assets/images/0/tourentipp-bike-and-hike-nationalpark-hohe-tauern-wanderhotel-osttirol-2024%28c%29martin-lugger-ys3gf8mw4nwpjjp.webp" media="(max-width: 599px)" type="image/webp" width="550" height="550">
+<source srcset="/assets/images/m/tourentipp-bike-and-hike-nationalpark-hohe-tauern-wanderhotel-osttirol-2024%28c%29martin-lugger-yfz09ggnrzf3h0k.jpg" media="(max-width: 599px)" width="550" height="550">
+<source srcset="/assets/images/2/tourentipp-bike-and-hike-nationalpark-hohe-tauern-wanderhotel-osttirol-2024%28c%29martin-lugger-n0hyfzga2109vpk.webp" type="image/webp" width="1200" height="800">
+<img src="/assets/images/b/tourentipp-bike-and-hike-nationalpark-hohe-tauern-wanderhotel-osttirol-2024%28c%29martin-lugger-t1g16bh9apmtt29.jpg" alt="A couple enjoys a relaxed snack after their mountain bike tour in the Austrian Alps." width="1200" height="800" loading="lazy" class="teaser-img">
+</picture>
+</a>
+<figcaption>© Martin Lugger</figcaption>
+</figure>
+</div>
+<div class="image-text content-text">
+<div class="rte">
+<p>Active in summer</p>
+<h3>Hiking &amp; Biking</h3>
+</div>
+</div>
+</div>
+<div class="relative round-corners content-element-group">
+<div class="content-hyperlink">
+<figure>
+<a href="/en/from-the-wanderhotels" title="Stories from the hiking hotels">                                            <picture>
+<source srcset="/assets/images/h/selbstgemacht-brot-rezept-wanderhotel-taubers-bio-vitalhotel%28c%29klaus-peterlin-0hb9dna0gamy9h4.webp" media="(min-width: 1200px) and (max-width: 1500px)" type="image/webp" width="700" height="600">
+<source srcset="/assets/images/p/selbstgemacht-brot-rezept-wanderhotel-taubers-bio-vitalhotel%28c%29klaus-peterlin-43402yqkmrmh1az.jpg" media="(min-width: 1200px) and (max-width: 1500px)" width="700" height="600">
+<source srcset="/assets/images/s/selbstgemacht-brot-rezept-wanderhotel-taubers-bio-vitalhotel%28c%29klaus-peterlin-cz8sy2kzqqkgxpy.webp" media="(min-width: 800px) and (max-width: 1199px)" type="image/webp" width="550" height="600">
+<source srcset="/assets/images/e/selbstgemacht-brot-rezept-wanderhotel-taubers-bio-vitalhotel%28c%29klaus-peterlin-cm4sgzjb3zecdwr.jpg" media="(min-width: 800px) and (max-width: 1199px)" width="550" height="600">
+<source srcset="/assets/images/z/selbstgemacht-brot-rezept-wanderhotel-taubers-bio-vitalhotel%28c%29klaus-peterlin-jd0t8nhdq72f99r.webp" media="(min-width: 600px) and (max-width: 799px)" type="image/webp" width="750" height="500">
+<source srcset="/assets/images/d/selbstgemacht-brot-rezept-wanderhotel-taubers-bio-vitalhotel%28c%29klaus-peterlin-jnbvezf07dadenw.jpg" media="(min-width: 600px) and (max-width: 799px)" width="750" height="500">
+<source srcset="/assets/images/1/selbstgemacht-brot-rezept-wanderhotel-taubers-bio-vitalhotel%28c%29klaus-peterlin-xp3b56aywxc7t7e.webp" media="(max-width: 599px)" type="image/webp" width="550" height="550">
+<source srcset="/assets/images/a/selbstgemacht-brot-rezept-wanderhotel-taubers-bio-vitalhotel%28c%29klaus-peterlin-cwp1cps7p6tkpkk.jpg" media="(max-width: 599px)" width="550" height="550">
+<source srcset="/assets/images/z/selbstgemacht-brot-rezept-wanderhotel-taubers-bio-vitalhotel%28c%29klaus-peterlin-mdpbkr3a3b6s81z.webp" type="image/webp" width="1200" height="800">
+<img src="/assets/images/h/selbstgemacht-brot-rezept-wanderhotel-taubers-bio-vitalhotel%28c%29klaus-peterlin-ybv72bam2t4ghs3.jpg" alt="Chef at a hiking hotel preparing homemade organic bread – regional specialties and fresh culinary delights for guests on a hiking holiday." width="1200" height="800" loading="lazy" class="teaser-img">
+</picture>
+</a>
+<figcaption>© Klaus Peterlin</figcaption>
+</figure>
+</div>
+<div class="image-text content-text">
+<div class="rte">
+<p>Stories</p>
+<h3>From the hiking hotels</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="last">
+<div class="inside">
+<div class="mod_article padd-top padd-bot block" id="article-1389">
+<div class="ce_rs_column_start grid-two rs-column">
+<div class="last-left content-element-group">
+<div class="last-big-text heading--section content-text">
+<div class="rte">
+<p>The <span style="text-decoration: underline;">Mountains</span> are calling.</p>
+</div>
+</div>
+<div class="content-element-group">
+<div class="last-small-text content-text">
+<div class="rte">
+<p>Flip through the Wanderhotels!</p>
+</div>
+</div>
+<div class="content-image">
+<figure>
+<picture>
+<source srcset="/assets/images/j/wanderhotels-suedtirol-oesterreich-schwarzwald-hoteltipp-auswahl%28c%29cam-poetry-6d6d0a7bbq4n00k.webp" type="image/webp" width="1000" height="1000">
+<img src="/assets/images/z/wanderhotels-suedtirol-oesterreich-schwarzwald-hoteltipp-auswahl%28c%29cam-poetry-hen1xrj11dsh9wf.jpg" alt="A woman looks at the hotel guide on the table and discovers tips for Wanderhotels in South Tyrol, Austria, and the Black Forest." width="1000" height="1000" loading="lazy">
+</picture>
+<figcaption>© Cam Poetry</figcaption>
+</figure>
+</div>
+</div>
+<div class="buttn bigbuttn content-hyperlink">
+<a
+href="/en/hotel-guide"
+data-open-overlay="#hotelguide-overlay"
+title="Order Wanderhotels hotel guide"
+>
+Order hotel guide
+</a>
+</div>
+</div>
+<div class="last-right content-element-group">
+<div class="buttn bigbuttn content-hyperlink">
+<a
+href="/en/newsletter-subscription"
+data-open-overlay="#newsletter-overlay"
+title="Wanderhotels newsletter – subscribe to Alpenpost"
+>
+Subscribe to newsletter
+</a>
+</div>
+<div class="content-element-group">
+<div class="last-small-text content-text">
+<div class="rte">
+<p>Subscribe to our newsletter &amp;<br>Win a hiking vacation</p>
+</div>
+</div>
+<div class="content-image">
+<figure>
+<picture>
+<source srcset="/assets/images/a/neu-website-wanderhotels-newsletteranmeldung%28c%29kwer-2kqeazpmc14my0j.webp" type="image/webp" width="1000" height="1000">
+<img src="/assets/images/h/neu-website-wanderhotels-newsletteranmeldung%28c%29kwer-yskwq71ntrmae54.jpg" alt="Newsletter sign-up on the Wanderhotels website." width="1000" height="1000" loading="lazy">
+</picture>
+<figcaption>© KWER</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div
+id="hotelguide-overlay"
+class="modal-overlay"
+aria-hidden="true"
+style="display: none;">
+<div class="modal-overlay__content">
+<button
+type="button"
+class="modal-overlay__close"
+aria-label="Close">
+&times;
+</button>
+<div class="modal-overlay__body center">
+<div class="flex-col intro content-element-group">
+<div class="einleitung content-text">
+<div class="rte heading">
+<p>The Wanderhotels <strong>Hotel Guide</strong></p>
+<div class="flex-col intro center content-element-group">
+<div class="introduction content-text">
+<div class="rte">
+<p>Your handy hotel guide to all hiking hotels in Austria, South Tyrol, and the Black Forest. You can order the catalog conveniently and free of charge to your home or <a href="https://online.fliphtml5.com/Wanderhotels/xrdv/" target="_blank" rel="noopener"><strong>browse through it online right away.</strong></a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- indexer::stop -->
+<div class="ce_form block">
+<form method="post" enctype="application/x-www-form-urlencoded" id="hotelguide-form" class="cff" data-ajax-form="18">
+<div class="formbody">
+<input type="hidden" name="FORM_SUBMIT" value="auto_auto_hotelguide">
+<input type="hidden" name="REQUEST_TOKEN" value="e2f1cbce01bb8f5d4d2ee5b.tj0rl0RelSIUoK0vRFQCAgp9mgdiV95OCMsg3323J6M.03tt3RRm2GlOz9hOcR9lMzwI1HAlDZt6buZVrhzed_eCBVjQFyjMWmSVyg">
+<div class="widget widget-select select mandatory">
+<select name="anrede" id="ctrl_261" class="select mandatory" required>
+<option value="Frau">Ms.</option>
+<option value="Herr">Mr.</option>
+<option value="Familie">Family</option>
+<option value="Divers">Diverse</option>
+</select>
+</div>
+<div class="grid-two">
+<div class="widget widget-text mandatory">
+<input type="text" name="vorname" id="ctrl_263" class="text mandatory" value="" required placeholder="First name*">
+</div>
+<div class="widget widget-text mandatory">
+<input type="text" name="nachname" id="ctrl_264" class="text mandatory" value="" required placeholder="Last name*">
+</div>
+</div>
+<div class="widget widget-text mandatory">
+<input type="text" name="strasse" id="ctrl_266" class="text mandatory" value="" required placeholder="Street / House number*">
+</div>
+<div class="grid-two">
+<div class="widget widget-text mandatory">
+<input type="text" name="plz" id="ctrl_268" class="text mandatory" value="" required placeholder="Postal code*">
+</div>
+<div class="widget widget-text mandatory">
+<input type="text" name="ort" id="ctrl_269" class="text mandatory" value="" required placeholder="Location*">
+</div>
+</div>
+<div class="widget widget-select select mandatory">
+<select name="laender" id="ctrl_271" class="select mandatory" required>
+<option value="">Select country</option>
+<option value="AT">Austria</option>
+<option value="DE">Germany</option>
+<option value="IT">Italy</option>
+<option value="" disabled>---</option>
+<option value="AF">Afghanistan</option>
+<option value="AX">Åland Islands</option>
+<option value="AL">Albania</option>
+<option value="DZ">Algeria</option>
+<option value="AS">American Samoa</option>
+<option value="AD">Andorra</option>
+<option value="AO">Angola</option>
+<option value="AI">Anguilla</option>
+<option value="AQ">Antarctica</option>
+<option value="AG">Antigua & Barbuda</option>
+<option value="AR">Argentina</option>
+<option value="AM">Armenia</option>
+<option value="AW">Aruba</option>
+<option value="AU">Australia</option>
+<option value="AZ">Azerbaijan</option>
+<option value="BS">Bahamas</option>
+<option value="BH">Bahrain</option>
+<option value="BD">Bangladesh</option>
+<option value="BB">Barbados</option>
+<option value="BY">Belarus</option>
+<option value="BE">Belgium</option>
+<option value="BZ">Belize</option>
+<option value="BJ">Benin</option>
+<option value="BM">Bermuda</option>
+<option value="BT">Bhutan</option>
+<option value="BO">Bolivia</option>
+<option value="BA">Bosnia & Herzegovina</option>
+<option value="BW">Botswana</option>
+<option value="BV">Bouvet Island</option>
+<option value="BR">Brazil</option>
+<option value="IO">British Indian Ocean Territory</option>
+<option value="VG">British Virgin Islands</option>
+<option value="BN">Brunei</option>
+<option value="BG">Bulgaria</option>
+<option value="BF">Burkina Faso</option>
+<option value="BI">Burundi</option>
+<option value="KH">Cambodia</option>
+<option value="CM">Cameroon</option>
+<option value="CA">Canada</option>
+<option value="CV">Cape Verde</option>
+<option value="BQ">Caribbean Netherlands</option>
+<option value="KY">Cayman Islands</option>
+<option value="CF">Central African Republic</option>
+<option value="TD">Chad</option>
+<option value="CL">Chile</option>
+<option value="CN">China</option>
+<option value="CX">Christmas Island</option>
+<option value="CC">Cocos (Keeling) Islands</option>
+<option value="CO">Colombia</option>
+<option value="KM">Comoros</option>
+<option value="CG">Congo - Brazzaville</option>
+<option value="CD">Congo - Kinshasa</option>
+<option value="CK">Cook Islands</option>
+<option value="CR">Costa Rica</option>
+<option value="CI">Côte d’Ivoire</option>
+<option value="HR">Croatia</option>
+<option value="CU">Cuba</option>
+<option value="CW">Curaçao</option>
+<option value="CY">Cyprus</option>
+<option value="CZ">Czechia</option>
+<option value="DK">Denmark</option>
+<option value="DJ">Djibouti</option>
+<option value="DM">Dominica</option>
+<option value="DO">Dominican Republic</option>
+<option value="EC">Ecuador</option>
+<option value="EG">Egypt</option>
+<option value="SV">El Salvador</option>
+<option value="GQ">Equatorial Guinea</option>
+<option value="ER">Eritrea</option>
+<option value="EE">Estonia</option>
+<option value="SZ">Eswatini</option>
+<option value="ET">Ethiopia</option>
+<option value="FK">Falkland Islands</option>
+<option value="FO">Faroe Islands</option>
+<option value="FJ">Fiji</option>
+<option value="FI">Finland</option>
+<option value="FR">France</option>
+<option value="GF">French Guiana</option>
+<option value="PF">French Polynesia</option>
+<option value="TF">French Southern Territories</option>
+<option value="GA">Gabon</option>
+<option value="GM">Gambia</option>
+<option value="GE">Georgia</option>
+<option value="GH">Ghana</option>
+<option value="GI">Gibraltar</option>
+<option value="GR">Greece</option>
+<option value="GL">Greenland</option>
+<option value="GD">Grenada</option>
+<option value="GP">Guadeloupe</option>
+<option value="GU">Guam</option>
+<option value="GT">Guatemala</option>
+<option value="GG">Guernsey</option>
+<option value="GN">Guinea</option>
+<option value="GW">Guinea-Bissau</option>
+<option value="GY">Guyana</option>
+<option value="HT">Haiti</option>
+<option value="HM">Heard & McDonald Islands</option>
+<option value="HN">Honduras</option>
+<option value="HK">Hong Kong SAR China</option>
+<option value="HU">Hungary</option>
+<option value="IS">Iceland</option>
+<option value="IN">India</option>
+<option value="ID">Indonesia</option>
+<option value="IR">Iran</option>
+<option value="IQ">Iraq</option>
+<option value="IE">Ireland</option>
+<option value="IM">Isle of Man</option>
+<option value="IL">Israel</option>
+<option value="JM">Jamaica</option>
+<option value="JP">Japan</option>
+<option value="JE">Jersey</option>
+<option value="JO">Jordan</option>
+<option value="KZ">Kazakhstan</option>
+<option value="KE">Kenya</option>
+<option value="KI">Kiribati</option>
+<option value="KW">Kuwait</option>
+<option value="KG">Kyrgyzstan</option>
+<option value="LA">Laos</option>
+<option value="LV">Latvia</option>
+<option value="LB">Lebanon</option>
+<option value="LS">Lesotho</option>
+<option value="LR">Liberia</option>
+<option value="LY">Libya</option>
+<option value="LI">Liechtenstein</option>
+<option value="LT">Lithuania</option>
+<option value="LU">Luxembourg</option>
+<option value="MO">Macao SAR China</option>
+<option value="MG">Madagascar</option>
+<option value="MW">Malawi</option>
+<option value="MY">Malaysia</option>
+<option value="MV">Maldives</option>
+<option value="ML">Mali</option>
+<option value="MT">Malta</option>
+<option value="MH">Marshall Islands</option>
+<option value="MQ">Martinique</option>
+<option value="MR">Mauritania</option>
+<option value="MU">Mauritius</option>
+<option value="YT">Mayotte</option>
+<option value="MX">Mexico</option>
+<option value="FM">Micronesia</option>
+<option value="MD">Moldova</option>
+<option value="MC">Monaco</option>
+<option value="MN">Mongolia</option>
+<option value="ME">Montenegro</option>
+<option value="MS">Montserrat</option>
+<option value="MA">Morocco</option>
+<option value="MZ">Mozambique</option>
+<option value="MM">Myanmar (Burma)</option>
+<option value="NA">Namibia</option>
+<option value="NR">Nauru</option>
+<option value="NP">Nepal</option>
+<option value="NL">Netherlands</option>
+<option value="NC">New Caledonia</option>
+<option value="NZ">New Zealand</option>
+<option value="NI">Nicaragua</option>
+<option value="NE">Niger</option>
+<option value="NG">Nigeria</option>
+<option value="NU">Niue</option>
+<option value="NF">Norfolk Island</option>
+<option value="KP">North Korea</option>
+<option value="MK">North Macedonia</option>
+<option value="MP">Northern Mariana Islands</option>
+<option value="NO">Norway</option>
+<option value="OM">Oman</option>
+<option value="PK">Pakistan</option>
+<option value="PW">Palau</option>
+<option value="PS">Palestinian Territories</option>
+<option value="PA">Panama</option>
+<option value="PG">Papua New Guinea</option>
+<option value="PY">Paraguay</option>
+<option value="PE">Peru</option>
+<option value="PH">Philippines</option>
+<option value="PN">Pitcairn Islands</option>
+<option value="PL">Poland</option>
+<option value="PT">Portugal</option>
+<option value="PR">Puerto Rico</option>
+<option value="QA">Qatar</option>
+<option value="RE">Réunion</option>
+<option value="RO">Romania</option>
+<option value="RU">Russia</option>
+<option value="RW">Rwanda</option>
+<option value="WS">Samoa</option>
+<option value="SM">San Marino</option>
+<option value="ST">São Tomé & Príncipe</option>
+<option value="SA">Saudi Arabia</option>
+<option value="SN">Senegal</option>
+<option value="RS">Serbia</option>
+<option value="SC">Seychelles</option>
+<option value="SL">Sierra Leone</option>
+<option value="SG">Singapore</option>
+<option value="SX">Sint Maarten</option>
+<option value="SK">Slovakia</option>
+<option value="SI">Slovenia</option>
+<option value="SB">Solomon Islands</option>
+<option value="SO">Somalia</option>
+<option value="ZA">South Africa</option>
+<option value="GS">South Georgia & South Sandwich Islands</option>
+<option value="KR">South Korea</option>
+<option value="SS">South Sudan</option>
+<option value="ES">Spain</option>
+<option value="LK">Sri Lanka</option>
+<option value="BL">St. Barthélemy</option>
+<option value="SH">St. Helena</option>
+<option value="KN">St. Kitts & Nevis</option>
+<option value="LC">St. Lucia</option>
+<option value="MF">St. Martin</option>
+<option value="PM">St. Pierre & Miquelon</option>
+<option value="VC">St. Vincent & Grenadines</option>
+<option value="SD">Sudan</option>
+<option value="SR">Suriname</option>
+<option value="SJ">Svalbard & Jan Mayen</option>
+<option value="SE">Sweden</option>
+<option value="CH">Switzerland</option>
+<option value="SY">Syria</option>
+<option value="TW">Taiwan</option>
+<option value="TJ">Tajikistan</option>
+<option value="TZ">Tanzania</option>
+<option value="TH">Thailand</option>
+<option value="TL">Timor-Leste</option>
+<option value="TG">Togo</option>
+<option value="TK">Tokelau</option>
+<option value="TO">Tonga</option>
+<option value="TT">Trinidad & Tobago</option>
+<option value="TN">Tunisia</option>
+<option value="TR">Turkey</option>
+<option value="TM">Turkmenistan</option>
+<option value="TC">Turks & Caicos Islands</option>
+<option value="TV">Tuvalu</option>
+<option value="UM">U.S. Outlying Islands</option>
+<option value="VI">U.S. Virgin Islands</option>
+<option value="UG">Uganda</option>
+<option value="UA">Ukraine</option>
+<option value="AE">United Arab Emirates</option>
+<option value="GB">United Kingdom</option>
+<option value="US">United States</option>
+<option value="UY">Uruguay</option>
+<option value="UZ">Uzbekistan</option>
+<option value="VU">Vanuatu</option>
+<option value="VA">Vatican City</option>
+<option value="VE">Venezuela</option>
+<option value="VN">Vietnam</option>
+<option value="WF">Wallis & Futuna</option>
+<option value="EH">Western Sahara</option>
+<option value="YE">Yemen</option>
+<option value="ZM">Zambia</option>
+<option value="ZW">Zimbabwe</option>
+</select>
+</div>
+<div class="widget widget-checkbox mandatory">
+<fieldset id="ctrl_272" class="checkbox_container mandatory">
+<input type="hidden" name="dsgvo" value="">
+<span><input type="checkbox" name="dsgvo" id="opt_272_0" class="checkbox" value="ja" required> <label id="lbl_272_0" for="opt_272_0">I have read the <a href="/en/privacy-policy">Privacy Policy</a> and agree to it.*</label></span>
+</fieldset>
+</div>
+<div class="widget widget-checkbox">
+<fieldset id="ctrl_273" class="checkbox_container">
+<input type="hidden" name="newsletter" value="">
+<span><input type="checkbox" name="newsletter" id="opt_273_0" class="checkbox" value="ja" checked> <label id="lbl_273_0" for="opt_273_0">I would like to sign up for the Wanderhotels newsletter.</label></span>
+</fieldset>
+</div>
+<fieldset class="" data-cff-condition="newsletter == &apos;ja&apos;">
+<div class="widget widget-text mandatory">
+<input type="email" name="email" id="ctrl_275" class="text mandatory" value="" required placeholder="Email address*">
+</div>
+</fieldset>
+<div class="widget widget-captcha widget-friendly-captcha mandatory">
+<div id="ctrl_478" data-fc-version="v1" class="frc-captcha" data-sitekey="FCMIV9UN43V7BEU5" data-start="none" data-lang="en"></div>
+</div>
+<div class="widget widget-submit violett">
+<button type="submit" id="ctrl_278" class="submit violett">send</button>
+</div>
+</div>
+</form>
+</div>
+<!-- indexer::continue -->
+<script>window.addEventListener('DOMContentLoaded',()=>{const el=document.querySelector('[data-ajax-form="18"]');function request(form,body,callback){const xhr=new XMLHttpRequest();xhr.open('POST',form.action,!0);xhr.setRequestHeader('Accept','text/html');xhr.setRequestHeader('X-Requested-With','XMLHttpRequest');xhr.setRequestHeader('X-Contao-Ajax-Form',form.querySelector('[name="FORM_SUBMIT"]').value);form.ariaBusy='true';form.dataset.ajaxForm='loading';xhr.onload=()=>{form.dispatchEvent(new CustomEvent('ajax-form-onload',{bubbles:!0,detail:{body,form,xhr},}));form.ariaBusy='false';form.dataset.ajaxForm='';callback(xhr)};xhr.send(body||null)}
+function initForm(form){form.addEventListener('submit',e=>{e.preventDefault();const formData=new FormData(form);if(e.submitter){formData.append(e.submitter.name,e.submitter.value);e.submitter.disabled=!0;setTimeout(()=>e.submitter.disabled=!1,30000)}
+request(form,formData,xhr=>{const location=xhr.getResponseHeader('X-Ajax-Location');if(location){window.location.href=location;return}
+const range=document.createRange();range.selectNode(form.parentNode);const newForm=range.createContextualFragment(xhr.responseText).firstElementChild;form.replaceWith(newForm);if(!newForm.getAttribute('action')){newForm.action=xhr.responseURL}
+initForm(newForm)})})}
+initForm(el)})</script>
+</div>
+</div>
+</div><div
+id="newsletter-overlay"
+class="modal-overlay"
+aria-hidden="true"
+style="display: none;">
+<div class="modal-overlay__content">
+<button
+type="button"
+class="modal-overlay__close"
+aria-label="Close">
+&times;
+</button>
+<div class="modal-overlay__body center">
+<div class="flex-col intro content-element-group">
+<div class="einleitung content-text">
+<div class="rte heading">
+<p>Wanderhotels <strong>Alpenpost</strong></p>
+<div class="flex-col intro center content-element-group">
+<div class="introduction content-text">
+<div class="rte">
+<p>You will receive your Alpen-Post after confirming your email address. Please check your spam folder!</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- indexer::stop -->
+<div class="ce_form block">
+<form method="post" enctype="application/x-www-form-urlencoded" id="brevo" data-ajax-form="15">
+<div class="formbody">
+<input type="hidden" name="FORM_SUBMIT" value="auto_auto_newsletter_signup">
+<input type="hidden" name="REQUEST_TOKEN" value="e2f1cbce01bb8f5d4d2ee5b.tj0rl0RelSIUoK0vRFQCAgp9mgdiV95OCMsg3323J6M.03tt3RRm2GlOz9hOcR9lMzwI1HAlDZt6buZVrhzed_eCBVjQFyjMWmSVyg">
+<div class="widget widget-text mandatory">
+<input type="email" name="email" id="ctrl_210" class="text mandatory" value="" required placeholder="Email*">
+</div>
+<div class="grid-two">
+<div class="widget widget-text mandatory">
+<input type="text" name="firstname" id="ctrl_212" class="text mandatory" value="" required placeholder="First name*">
+</div>
+<div class="widget widget-text mandatory">
+<input type="text" name="lastname" id="ctrl_213" class="text mandatory" value="" required placeholder="Last name*">
+</div>
+</div>
+<div class="widget widget-checkbox mandatory">
+<fieldset id="ctrl_215" class="checkbox_container mandatory">
+<input type="hidden" name="dsgvo" value="">
+<span><input type="checkbox" name="dsgvo" id="opt_215_0" class="checkbox" value="ja" required> <label id="lbl_215_0" for="opt_215_0">I have read the <a href="/en/privacy-policy">Privacy Policy</a> and agree to it.*</label></span>
+</fieldset>
+</div>
+<div class="widget widget-explanation explanation newserkl">
+<p>Every year, a hiking vacation is raffled off among all new newsletter subscriptions taken out between January 1 and December 31 of that year.</p></div>
+<div class="widget widget-captcha widget-friendly-captcha mandatory">
+<div id="ctrl_472" data-fc-version="v1" class="frc-captcha" data-sitekey="FCMIV9UN43V7BEU5" data-start="none" data-lang="en"></div>
+</div>
+<div class="widget widget-submit violett">
+<button type="submit" id="ctrl_217" class="submit violett">subscribe now</button>
+</div>
+</div>
+</form>
+</div>
+<!-- indexer::continue -->
+<script>window.addEventListener('DOMContentLoaded',()=>{const el=document.querySelector('[data-ajax-form="15"]');function request(form,body,callback){const xhr=new XMLHttpRequest();xhr.open('POST',form.action,!0);xhr.setRequestHeader('Accept','text/html');xhr.setRequestHeader('X-Requested-With','XMLHttpRequest');xhr.setRequestHeader('X-Contao-Ajax-Form',form.querySelector('[name="FORM_SUBMIT"]').value);form.ariaBusy='true';form.dataset.ajaxForm='loading';xhr.onload=()=>{form.dispatchEvent(new CustomEvent('ajax-form-onload',{bubbles:!0,detail:{body,form,xhr},}));form.ariaBusy='false';form.dataset.ajaxForm='';callback(xhr)};xhr.send(body||null)}
+function initForm(form){form.addEventListener('submit',e=>{e.preventDefault();const formData=new FormData(form);if(e.submitter){formData.append(e.submitter.name,e.submitter.value);e.submitter.disabled=!0;setTimeout(()=>e.submitter.disabled=!1,30000)}
+request(form,formData,xhr=>{const location=xhr.getResponseHeader('X-Ajax-Location');if(location){window.location.href=location;return}
+const range=document.createRange();range.selectNode(form.parentNode);const newForm=range.createContextualFragment(xhr.responseText).firstElementChild;form.replaceWith(newForm);if(!newForm.getAttribute('action')){newForm.action=xhr.responseURL}
+initForm(newForm)})})}
+initForm(el)})</script>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="before-footer">
+<div class="inside">
+<div class="before-buttons">
+<a href="/en/member-area" title="Wanderhotels Members Area"><img loading="lazy" src="files/content/graphics/member.svg" alt=""> Members Area</a>
+<a href="/en/wanderhotels-wanderconcierge" title="Hiking Concierge"><img loading="lazy" src="files/content/graphics/wanderer.svg" alt=""> Hiking Concierge</a>
+<a href="/en/hiking-scout" title="Wanderhotels Hiking Scout"><img loading="lazy" src="files/content/graphics/rucksack.svg" alt=""> Hiking Scout</a>
+<a href="/en/our-team" title="Wanderhotels Team"><img loading="lazy" src="files/content/graphics/partner.svg" alt=""> Our Team</a>
+<a href="/en/podcast-press" title="Wanderhotels Press & Podcast"><img loading="lazy" src="files/content/graphics/presse.svg" alt=""> Podcasts & Press</a>
+</div>  </div>
+</div>
+<footer id="footer">
+<div class="inside">
+<div class="footer-inner">
+<div>
+<div class="flogo">
+<a href="/en/"><img loading="lazy" src="files/content/graphics/wanderhotels-logo-black.svg" alt="Wanderhotels Logo"></a>
+</div>
+</div>
+<div>
+<div class="flinks">
+<a class="col" href="mailto:info@wanderhotels.com">info@wanderhotels.com</a>
+<a href="tel:+436763621179">+43 676 36 21 179</a>
+</div>
+</div>
+<div>
+<strong>Stay up to date.</strong><br>
+#wanderhotels #hikingholiday<br><br>
+<div class="social">
+<a href="https://www.facebook.com/wanderhotels/" target="_blank" rel="noopener" title="Facebook"><img loading="lazy" src="files/content/graphics/facebook.svg" alt="Facebook"></a>
+<a href="https://www.instagram.com/wanderhotels/" target="_blank" rel="noopener" title="Instagram"><img loading="lazy" src="files/content/graphics/instagram.svg" alt="Instagram"></a>
+<a href="https://www.youtube.com/c/wanderhotels" target="_blank" rel="noopener" title="YouTube"><img loading="lazy" src="files/content/graphics/youtube.svg" alt="YouTube"></a>
+<a href="https://at.pinterest.com/wanderhotels/" target="_blank" rel="noopener" title="Pinterest"><img loading="lazy" src="files/content/graphics/pinterest.svg" alt="Pinterest"></a>
+</div>
+</div>
+<div>
+<div>
+<strong><img loading="lazy" src="files/content/graphics/marker.svg" width="10" height="15" alt="Contact & Location"> Contact & Location</strong><br><br>
+Südtiroler Platz 2 / 3rd floor<br>
+9900 Lienz | Austria
+</div>
+</div>
+<div>
+<strong>Tourismusverein Wanderhotels in Europa e.V.</strong><br><br>
+Monday - Thursday | 09:00 - 15:00<br>
+Friday | 09:00 - 12:00
+</div>
+<div>
+<strong class="vio">Become part of the Wanderhotels!</strong>
+<div class="buttn violett"><a href="/en/become-a-member" title="Become a Wanderhotels member">Become a member</a></div>
+</div>
+</div>
+<div class="afterfooter">
+<div>
+© 2026 Wanderhotels
+</div>
+<div class="aflinks">
+<a href="/en/legal-notice" title="Legal notice">Legal notice</a>
+<a href="/en/privacy-policy" title="Privacy policy">Privacy policy</a>
+<a href="/en/sitemap" title="Sitemap">Sitemap</a>
+<a href="/en/terms-conditions" title="Terms & Conditions">Terms & Conditions</a>
+</div>
+<div class="copy-right">
+<a href="https://www.kwer.at" target="_blank" class="kwer-copyright" rel="noopener">
+created by <svg id="eMwvqfb2mHI1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 38.84 5.45" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+<g>
+<path id="eMwvqfb2mHI3" d="M2.55,2.44l2.42,3.01h-1.18L1.87,3.17l-.86,.89v1.39H0V0H1.01V2.8L3.7,0h1.13L2.55,2.44Z" opacity="0"/>
+<path id="eMwvqfb2mHI4" d="M14.44,0h.96l-1.8,5.44h-1.07l-1.34-4.03-1.37,4.03h-1.08L6.93,0h1.05l1.35,4.13L10.74,0h.93l1.38,4.16L14.44,0Z" opacity="0"/>
+<path id="eMwvqfb2mHI5" d="M18.57,4.6h3.07v.85h-4.08V0h3.97V.86h-2.96v1.41h2.63v.83h-2.63v1.5Z" opacity="0"/>
+<path id="eMwvqfb2mHI6" d="M28.9,3c.2-.3,.3-.65,.3-1.06s-.09-.74-.28-1.03c-.19-.29-.45-.51-.8-.67-.35-.16-.76-.23-1.23-.23h-2.24V5.45h1.01v-1.59h1.23c.09,0,.16,0,.21,0l1.11,1.59h1.09l-1.25-1.79c.37-.15,.66-.37,.86-.66Zm-1.06-.25c-.23,.19-.56,.28-1,.28h-1.18V.86h1.18c.44,0,.77,.09,1,.28,.23,.19,.34,.45,.34,.8s-.11,.62-.34,.8Z" opacity="0"/>
+</g>
+<g id="eMwvqfb2mHI7" transform="translate(0 4.9225)">
+<polygon points="36.1 2.72 38.84 5.45 38.84 0 36.1 2.72" transform="translate(-33.093671-4.922)"/>
+<polygon points="33.39 0 33.39 2.73 36.14 0 33.39 0" transform="translate(-33.09367-4.922)"/>
+<polygon points="33.39 5.45 36.12 5.45 33.39 2.73 33.39 5.45" transform="translate(-33.09367-4.931)"/>
+</g>
+<script>document.addEventListener('DOMContentLoaded',function(){var j=jQuery.noConflict();j(".kwer-copyright").hover(function(){<![CDATA[!function(t,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function"==typeof define&&define.amd?define(n):((t="undefined"!=typeof globalThis?globalThis:t||self).__SVGATOR_PLAYER__=t.__SVGATOR_PLAYER__||{},t.__SVGATOR_PLAYER__["5c7f360c"]=n())}(this,(function(){"use strict";function t(t,n){var r=Object.keys(t);if(Object.getOwnPropertySymbols){var e=Object.getOwnPropertySymbols(t);n&&(e=e.filter((function(n){return Object.getOwnPropertyDescriptor(t,n).enumerable}))),r.push.apply(r,e)}return r}function n(n){for(var r=1;r<arguments.length;r++){var e=null!=arguments[r]?arguments[r]:{};r%2?t(Object(e),!0).forEach((function(t){u(n,t,e[t])})):Object.getOwnPropertyDescriptors?Object.defineProperties(n,Object.getOwnPropertyDescriptors(e)):t(Object(e)).forEach((function(t){Object.defineProperty(n,t,Object.getOwnPropertyDescriptor(e,t))}))}return n}function r(t){return(r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t})(t)}function e(t,n){if(!(t instanceof n))throw new TypeError("Cannot call a class as a function")}function i(t,n){for(var r=0;r<n.length;r++){var e=n[r];e.enumerable=e.enumerable||!1,e.configurable=!0,"value"in e&&(e.writable=!0),Object.defineProperty(t,e.key,e)}}function o(t,n,r){return n&&i(t.prototype,n),r&&i(t,r),t}function u(t,n,r){return n in t?Object.defineProperty(t,n,{value:r,enumerable:!0,configurable:!0,writable:!0}):t[n]=r,t}function a(t){return(a=Object.setPrototypeOf?Object.getPrototypeOf:function(t){return t.__proto__||Object.getPrototypeOf(t)})(t)}function l(t,n){return(l=Object.setPrototypeOf||function(t,n){return t.__proto__=n,t})(t,n)}function f(){if("undefined"==typeof Reflect||!Reflect.construct)return!1;if(Reflect.construct.sham)return!1;if("function"==typeof Proxy)return!0;try{return Boolean.prototype.valueOf.call(Reflect.construct(Boolean,[],(function(){}))),!0}catch(t){return!1}}function s(t,n,r){return(s=f()?Reflect.construct:function(t,n,r){var e=[null];e.push.apply(e,n);var i=new(Function.bind.apply(t,e));return r&&l(i,r.prototype),i}).apply(null,arguments)}function c(t,n){if(n&&("object"==typeof n||"function"==typeof n))return n;if(void 0!==n)throw new TypeError("Derived constructors may only return object or undefined");return function(t){if(void 0===t)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return t}(t)}function h(t,n,r){return(h="undefined"!=typeof Reflect&&Reflect.get?Reflect.get:function(t,n,r){var e=function(t,n){for(;!Object.prototype.hasOwnProperty.call(t,n)&&null!==(t=a(t)););return t}(t,n);if(e){var i=Object.getOwnPropertyDescriptor(e,n);return i.get?i.get.call(r):i.value}})(t,n,r||t)}function v(t){return function(t){if(Array.isArray(t))return y(t)}(t)||function(t){if("undefined"!=typeof Symbol&&null!=t[Symbol.iterator]||null!=t["@@iterator"])return Array.from(t)}(t)||function(t,n){if(!t)return;if("string"==typeof t)return y(t,n);var r=Object.prototype.toString.call(t).slice(8,-1);"Object"===r&&t.constructor&&(r=t.constructor.name);if("Map"===r||"Set"===r)return Array.from(t);if("Arguments"===r||/^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(r))return y(t,n)}(t)||function(){throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.")}()}function y(t,n){(null==n||n>t.length)&&(n=t.length);for(var r=0,e=new Array(n);r<n;r++)e[r]=t[r];return e}var g=d(Math.pow(10,-6));function d(t){var n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:6;if(Number.isInteger(t))return t;var r=Math.pow(10,n);return Math.round((+t+Number.EPSILON)*r)/r}function p(t,n){var r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:g;return Math.abs(t-n)<r}var m=Math.PI/180;function b(t){return t}function w(t,n,r){var e=1-r;return 3*r*e*(t*e+n*r)+r*r*r}function A(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:0,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:0,r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:1,e=arguments.length>3&&void 0!==arguments[3]?arguments[3]:1;return t<0||t>1||r<0||r>1?null:p(t,n)&&p(r,e)?b:function(i){if(i<=0)return t>0?i*n/t:0===n&&r>0?i*e/r:0;if(i>=1)return r<1?1+(i-1)*(e-1)/(r-1):1===r&&t<1?1+(i-1)*(n-1)/(t-1):1;for(var o,u=0,a=1;u<a;){var l=w(t,r,o=(u+a)/2);if(p(i,l))break;l<i?u=o:a=o}return w(n,e,o)}}function x(){return 1}function k(t){return 1===t?1:0}function S(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:1,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:0;if(1===t){if(0===n)return k;if(1===n)return x}var r=1/t;return function(t){return t>=1?1:(t+=n*r)-t%r}}var _=Math.sin,O=Math.cos,j=Math.acos,M=Math.asin,P=Math.tan,E=Math.atan2,I=Math.PI/180,R=180/Math.PI,F=Math.sqrt,N=function(){function t(){var n=arguments.length>0&&void 0!==arguments[0]?arguments[0]:1,r=arguments.length>1&&void 0!==arguments[1]?arguments[1]:0,i=arguments.length>2&&void 0!==arguments[2]?arguments[2]:0,o=arguments.length>3&&void 0!==arguments[3]?arguments[3]:1,u=arguments.length>4&&void 0!==arguments[4]?arguments[4]:0,a=arguments.length>5&&void 0!==arguments[5]?arguments[5]:0;e(this,t),this.m=[n,r,i,o,u,a],this.i=null,this.w=null,this.s=null}return o(t,[{key:"determinant",get:function(){var t=this.m;return t[0]*t[3]-t[1]*t[2]}},{key:"isIdentity",get:function(){if(null===this.i){var t=this.m;this.i=1===t[0]&&0===t[1]&&0===t[2]&&1===t[3]&&0===t[4]&&0===t[5]}return this.i}},{key:"point",value:function(t,n){var r=this.m;return{x:r[0]*t+r[2]*n+r[4],y:r[1]*t+r[3]*n+r[5]}}},{key:"translateSelf",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:0,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:0;if(!t&&!n)return this;var r=this.m;return r[4]+=r[0]*t+r[2]*n,r[5]+=r[1]*t+r[3]*n,this.w=this.s=this.i=null,this}},{key:"rotateSelf",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:0;if(t%=360){var n=_(t*=I),r=O(t),e=this.m,i=e[0],o=e[1];e[0]=i*r+e[2]*n,e[1]=o*r+e[3]*n,e[2]=e[2]*r-i*n,e[3]=e[3]*r-o*n,this.w=this.s=this.i=null}return this}},{key:"scaleSelf",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:1,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:1;if(1!==t||1!==n){var r=this.m;r[0]*=t,r[1]*=t,r[2]*=n,r[3]*=n,this.w=this.s=this.i=null}return this}},{key:"skewSelf",value:function(t,n){if(n%=360,(t%=360)||n){var r=this.m,e=r[0],i=r[1],o=r[2],u=r[3];t&&(t=P(t*I),r[2]+=e*t,r[3]+=i*t),n&&(n=P(n*I),r[0]+=o*n,r[1]+=u*n),this.w=this.s=this.i=null}return this}},{key:"resetSelf",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:1,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:0,r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:0,e=arguments.length>3&&void 0!==arguments[3]?arguments[3]:1,i=arguments.length>4&&void 0!==arguments[4]?arguments[4]:0,o=arguments.length>5&&void 0!==arguments[5]?arguments[5]:0,u=this.m;return u[0]=t,u[1]=n,u[2]=r,u[3]=e,u[4]=i,u[5]=o,this.w=this.s=this.i=null,this}},{key:"recomposeSelf",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:null,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:null,r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:null,e=arguments.length>3&&void 0!==arguments[3]?arguments[3]:null,i=arguments.length>4&&void 0!==arguments[4]?arguments[4]:null;return this.isIdentity||this.resetSelf(),t&&(t.x||t.y)&&this.translateSelf(t.x,t.y),n&&this.rotateSelf(n),r&&(r.x&&this.skewSelf(r.x,0),r.y&&this.skewSelf(0,r.y)),!e||1===e.x&&1===e.y||this.scaleSelf(e.x,e.y),i&&(i.x||i.y)&&this.translateSelf(i.x,i.y),this}},{key:"decompose",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:0,n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:0,r=this.m,e=r[0]*r[0]+r[1]*r[1],i=[[r[0],r[1]],[r[2],r[3]]],o=F(e);if(0===o)return{origin:{x:d(r[4]),y:d(r[5])},translate:{x:d(t),y:d(n)},scale:{x:0,y:0},skew:{x:0,y:0},rotate:0};i[0][0]/=o,i[0][1]/=o;var u=r[0]*r[3]-r[1]*r[2]<0;u&&(o=-o);var a=i[0][0]*i[1][0]+i[0][1]*i[1][1];i[1][0]-=i[0][0]*a,i[1][1]-=i[0][1]*a;var l=F(i[1][0]*i[1][0]+i[1][1]*i[1][1]);if(0===l)return{origin:{x:d(r[4]),y:d(r[5])},translate:{x:d(t),y:d(n)},scale:{x:d(o),y:0},skew:{x:0,y:0},rotate:0};i[1][0]/=l,i[1][1]/=l,a/=l;var f=0;return i[1][1]<0?(f=j(i[1][1])*R,i[0][1]<0&&(f=360-f)):f=M(i[0][1])*R,u&&(f=-f),a=E(a,F(i[0][0]*i[0][0]+i[0][1]*i[0][1]))*R,u&&(a=-a),{origin:{x:d(r[4]),y:d(r[5])},translate:{x:d(t),y:d(n)},scale:{x:d(o),y:d(l)},skew:{x:d(a),y:0},rotate:d(f)}}},{key:"clone",value:function(){var t=this.m;return new this.constructor(t[0],t[1],t[2],t[3],t[4],t[5])}},{key:"toString",value:function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:" ";if(null===this.s){var n=this.m.map((function(t){return d(t)}));1===n[0]&&0===n[1]&&0===n[2]&&1===n[3]?this.s="translate("+n[4]+t+n[5]+")":this.s="matrix("+n.join(t)+")"}return this.s}}],[{key:"create",value:function(t){return t?Array.isArray(t)?s(this,v(t)):t instanceof this?t.clone():(new this).recomposeSelf(t.origin,t.rotate,t.skew,t.scale,t.translate):new this}}]),t}();function T(t,n,r){return t>=.5?r:n}function B(t,n,r){return 0===t||n===r?n:t*(r-n)+n}function q(t,n,r){var e=B(t,n,r);return e<=0?0:e}function L(t,n,r){var e=B(t,n,r);return e<=0?0:e>=1?1:e}function C(t,n,r){return 0===t?n:1===t?r:{x:B(t,n.x,r.x),y:B(t,n.y,r.y)}}function D(t,n,r){var e=function(t,n,r){return Math.round(B(t,n,r))}(t,n,r);return e<=0?0:e>=255?255:e}function z(t,n,r){return 0===t?n:1===t?r:{r:D(t,n.r,r.r),g:D(t,n.g,r.g),b:D(t,n.b,r.b),a:B(t,null==n.a?1:n.a,null==r.a?1:r.a)}}function V(t,n){for(var r=[],e=0;e<t;e++)r.push(n);return r}function G(t,n){if(--n<=0)return t;var r=(t=Object.assign([],t)).length;do{for(var e=0;e<r;e++)t.push(t[e])}while(--n>0);return t}var Y,$=function(){function t(n){e(this,t),this.list=n,this.length=n.length}return o(t,[{key:"setAttribute",value:function(t,n){for(var r=this.list,e=0;e<this.length;e++)r[e].setAttribute(t,n)}},{key:"removeAttribute",value:function(t){for(var n=this.list,r=0;r<this.length;r++)n[r].removeAttribute(t)}},{key:"style",value:function(t,n){for(var r=this.list,e=0;e<this.length;e++)r[e].style[t]=n}}]),t}(),U=/-./g,Q=function(t,n){return n.toUpperCase()};function H(t){return"function"==typeof t?t:T}function J(t){return t?"function"==typeof t?t:Array.isArray(t)?function(t){var n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:b;if(!Array.isArray(t))return n;switch(t.length){case 1:return S(t[0])||n;case 2:return S(t[0],t[1])||n;case 4:return A(t[0],t[1],t[2],t[3])||n}return n}(t,null):function(t,n){var r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:b;switch(t){case"linear":return b;case"steps":return S(n.steps||1,n.jump||0)||r;case"bezier":case"cubic-bezier":return A(n.x1||0,n.y1||0,n.x2||0,n.y2||0)||r}return r}(t.type,t.value,null):null}function Z(t,n,r){var e=arguments.length>3&&void 0!==arguments[3]&&arguments[3],i=n.length-1;if(t<=n[0].t)return e?[0,0,n[0].v]:n[0].v;if(t>=n[i].t)return e?[i,1,n[i].v]:n[i].v;var o,u=n[0],a=null;for(o=1;o<=i;o++){if(!(t>n[o].t)){a=n[o];break}u=n[o]}return null==a?e?[i,1,n[i].v]:n[i].v:u.t===a.t?e?[o,1,a.v]:a.v:(t=(t-u.t)/(a.t-u.t),u.e&&(t=u.e(t)),e?[o,t,r(t,u.v,a.v)]:r(t,u.v,a.v))}function K(t,n){var r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:null;return t&&t.length?"function"!=typeof n?null:("function"!=typeof r&&(r=null),function(e){var i=Z(e,t,n);return null!=i&&r&&(i=r(i)),i}):null}function W(t,n){return t.t-n.t}function X(t,n,e,i,o){var u,a="@"===e[0],l="#"===e[0],f=Y[e],s=T;switch(a?(u=e.substr(1),e=u.replace(U,Q)):l&&(e=e.substr(1)),r(f)){case"function":if(s=f(i,o,Z,J,e,a,n,t),l)return s;break;case"string":s=K(i,H(f));break;case"object":if((s=K(i,H(f.i),f.f))&&"function"==typeof f.u)return f.u(n,s,e,a,t)}return s?function(t,n,r){if(arguments.length>3&&void 0!==arguments[3]&&arguments[3])return t instanceof $?function(e){return t.style(n,r(e))}:function(e){return t.style[n]=r(e)};if(Array.isArray(n)){var e=n.length;return function(i){var o=r(i);if(null==o)for(var u=0;u<e;u++)t[u].removeAttribute(n);else for(var a=0;a<e;a++)t[a].setAttribute(n,o)}}return function(e){var i=r(e);null==i?t.removeAttribute(n):t.setAttribute(n,i)}}(n,e,s,a):null}function tt(t,n,e,i){if(!i||"object"!==r(i))return null;var o=null,u=null;return Array.isArray(i)?u=function(t){if(!t||!t.length)return null;for(var n=0;n<t.length;n++)t[n].e&&(t[n].e=J(t[n].e));return t.sort(W)}(i):(u=i.keys,o=i.data||null),u?X(t,n,e,u,o):null}function nt(t,n,r){if(!r)return null;var e=[];for(var i in r)if(r.hasOwnProperty(i)){var o=tt(t,n,i,r[i]);o&&e.push(o)}return e.length?e:null}function rt(t,n){if(!n.duration||n.duration<0)return null;var r=function(t,n){if(!n)return null;var r=[];if(Array.isArray(n))for(var e=n.length,i=0;i<e;i++){var o=n[i];if(2===o.length){var u=null;if("string"==typeof o[0])u=t.getElementById(o[0]);else if(Array.isArray(o[0])){u=[];for(var a=0;a<o[0].length;a++)if("string"==typeof o[0][a]){var l=t.getElementById(o[0][a]);l&&u.push(l)}u=u.length?1===u.length?u[0]:new $(u):null}if(u){var f=nt(t,u,o[1]);f&&(r=r.concat(f))}}}else for(var s in n)if(n.hasOwnProperty(s)){var c=t.getElementById(s);if(c){var h=nt(t,c,n[s]);h&&(r=r.concat(h))}}return r.length?r:null}(t,n.elements);return r?function(t,n){var r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:1/0,e=arguments.length>3&&void 0!==arguments[3]?arguments[3]:1,i=arguments.length>4&&void 0!==arguments[4]&&arguments[4],o=arguments.length>5&&void 0!==arguments[5]?arguments[5]:1,u=t.length,a=e>0?n:0;i&&r%2==0&&(a=n-a);var l=null;return function(f,s){var c=f%n,h=1+(f-c)/n;s*=e,i&&h%2==0&&(s=-s);var v=!1;if(h>r)c=a,v=!0,-1===o&&(c=e>0?0:n);else if(s<0&&(c=n-c),c===l)return!1;l=c;for(var y=0;y<u;y++)t[y](c);return v}}(r,n.duration,n.iterations||1/0,n.direction||1,!!n.alternate,n.fill||1):null}function et(t){return+("0x"+(t.replace(/[^0-9a-fA-F]+/g,"")||27))}function it(t,n,r){return!t||!r||n>t.length?t:t.substring(0,n)+it(t.substring(n+1),r,r)}function ot(t){var n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:27;return!t||t%n?t%n:ot(t/n,n)}function ut(t,n,r){if(t&&t.length){var e=et(r),i=et(n),o=ot(e)+5,u=it(t,ot(e,5),o);return u=u.replace(/\x7c$/g,"==").replace(/\x2f$/g,"="),u=function(t,n,r){var e=+("0x"+t.substring(0,4));t=t.substring(4);for(var i=n%e+r%27,o=[],u=0;u<t.length;u+=2)if("|"!==t[u]){var a=+("0x"+t[u]+t[u+1])-i;o.push(a)}else{var l=+("0x"+t.substring(u+1,u+1+4))-i;u+=3,o.push(l)}return String.fromCharCode.apply(String,o)}(u=(u=atob(u)).replace(/[\x41-\x5A]/g,""),i,e),u=JSON.parse(u)}}Number.isInteger||(Number.isInteger=function(t){return"number"==typeof t&&isFinite(t)&&Math.floor(t)===t}),Number.EPSILON||(Number.EPSILON=2220446049250313e-31);var at=function(){function t(n,r){var i=arguments.length>2&&void 0!==arguments[2]?arguments[2]:{};e(this,t),this._id=0,this._running=!1,this._rollingBack=!1,this._animations=n,this.duration=r.duration,this.alternate=r.alternate,this.fill=r.fill,this.iterations=r.iterations,this.direction=i.direction||1,this.speed=i.speed||1,this.fps=i.fps||100,this.offset=i.offset||0,this.rollbackStartOffset=0}return o(t,[{key:"_rollback",value:function(){var t=this,n=1/0,r=null;this.rollbackStartOffset=this.offset,this._rollingBack||(this._rollingBack=!0,this._running=!0);this._id=window.requestAnimationFrame((function e(i){if(t._rollingBack){null==r&&(r=i);var o=i-r,u=t.rollbackStartOffset-o,a=Math.round(u*t.speed);if(a>t.duration&&n!=1/0){var l=!!t.alternate&&a/t.duration%2>1,f=a%t.duration;a=(f+=l?t.duration:0)||t.duration}var s=t.fps?1e3/t.fps:0,c=Math.max(0,a);if(c<n-s){t.offset=c,n=c;for(var h=t._animations,v=h.length,y=0;y<v;y++)h[y](c,t.direction)}var g=!1;if(t.iterations>0&&-1===t.fill){var d=t.iterations*t.duration,p=d==a;a=p?0:a,t.offset=p?0:t.offset,g=a>d}a>0&&t.offset>=a&&!g?t._id=window.requestAnimationFrame(e):t.stop()}}))}},{key:"_start",value:function(){var t=this,n=arguments.length>0&&void 0!==arguments[0]?arguments[0]:0,r=-1/0,e=null,i={},o=function o(u){t._running=!0,null==e&&(e=u);var a=Math.round((u-e+n)*t.speed),l=t.fps?1e3/t.fps:0;if(a>r+l&&!t._rollingBack){t.offset=a,r=a;for(var f=t._animations,s=f.length,c=0,h=0;h<s;h++)i[h]?c++:(i[h]=f[h](a,t.direction),i[h]&&c++);if(c===s)return void t._stop()}t._id=window.requestAnimationFrame(o)};this._id=window.requestAnimationFrame(o)}},{key:"_stop",value:function(){this._id&&window.cancelAnimationFrame(this._id),this._running=!1,this._rollingBack=!1}},{key:"play",value:function(){!this._rollingBack&&this._running||(this._rollingBack=!1,this.rollbackStartOffset>this.duration&&(this.offset=this.rollbackStartOffset-(this.rollbackStartOffset-this.offset)%this.duration,this.rollbackStartOffset=0),this._start(this.offset))}},{key:"stop",value:function(){this._stop(),this.offset=0,this.rollbackStartOffset=0;var t=this.direction,n=this._animations;window.requestAnimationFrame((function(){for(var r=0;r<n.length;r++)n[r](0,t)}))}},{key:"reachedToEnd",value:function(){return this.iterations>0&&this.offset>=this.iterations*this.duration}},{key:"restart",value:function(){this._stop(),this.offset=0,this._start()}},{key:"pause",value:function(){this._stop()}},{key:"reverse",value:function(){this.direction=-this.direction}}],[{key:"build",value:function(r,e){return delete r.animationSettings,r.options=ut(r.options,r.root,"5c7f360c"),r.animations.map((function(t){var e=ut(t.s,r.root,"5c7f360c");for(var i in delete t.s,r.animationSettings||(r.animationSettings=n({},e)),e)e.hasOwnProperty(i)&&(t[i]=e[i])})),(r=function(t,n){if(Y=n,!t||!t.root||!Array.isArray(t.animations))return null;for(var r=document.getElementsByTagName("svg"),e=!1,i=0;i<r.length;i++)if(r[i].id===t.root&&!r[i].svgatorAnimation){(e=r[i]).svgatorAnimation=!0;break}if(!e)return null;var o=t.animations.map((function(t){return rt(e,t)})).filter((function(t){return!!t}));return o.length?{element:e,animations:o,animationSettings:t.animationSettings,options:t.options||void 0}:null}(r,e))?{el:r.element,options:r.options||{},player:new t(r.animations,r.animationSettings,r.options)}:null}},{key:"push",value:function(t){return this.build(t)}},{key:"init",value:function(){var t=this,n=window.__SVGATOR_PLAYER__&&window.__SVGATOR_PLAYER__["5c7f360c"];Array.isArray(n)&&n.splice(0).forEach((function(n){return t.build(n)}))}}]),t}();function lt(t){return d(t)+""}function ft(t){var n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:" ";return t&&t.length?t.map(lt).join(n):""}function st(t){if(!t)return"transparent";if(null==t.a||t.a>=1){var n=function(t){return 1===(t=parseInt(t).toString(16)).length?"0"+t:t},r=function(t){return t.charAt(0)===t.charAt(1)},e=n(t.r),i=n(t.g),o=n(t.b);return r(e)&&r(i)&&r(o)&&(e=e.charAt(0),i=i.charAt(0),o=o.charAt(0)),"#"+e+i+o}return"rgba("+t.r+","+t.g+","+t.b+","+t.a+")"}function ct(t){return t?"url(#"+t+")":"none"}!function(){for(var t=0,n=["ms","moz","webkit","o"],r=0;r<n.length&&!window.requestAnimationFrame;++r)window.requestAnimationFrame=window[n[r]+"RequestAnimationFrame"],window.cancelAnimationFrame=window[n[r]+"CancelAnimationFrame"]||window[n[r]+"CancelRequestAnimationFrame"];window.requestAnimationFrame||(window.requestAnimationFrame=function(n){var r=Date.now(),e=Math.max(0,16-(r-t)),i=window.setTimeout((function(){n(r+e)}),e);return t=r+e,i},window.cancelAnimationFrame=window.clearTimeout)}();var ht={f:null,i:function(t,n,r){return 0===t?n:1===t?r:{x:q(t,n.x,r.x),y:q(t,n.y,r.y)}},u:function(t,n){return function(r){var e=n(r);t.setAttribute("rx",lt(e.x)),t.setAttribute("ry",lt(e.y))}}},vt={f:null,i:function(t,n,r){return 0===t?n:1===t?r:{width:q(t,n.width,r.width),height:q(t,n.height,r.height)}},u:function(t,n){return function(r){var e=n(r);t.setAttribute("width",lt(e.width)),t.setAttribute("height",lt(e.height))}}};Object.freeze({M:2,L:2,Z:0,H:1,V:1,C:6,Q:4,T:2,S:4,A:7});var yt={},gt=null;function dt(t){var n=function(){if(gt)return gt;if("object"!==("undefined"==typeof document?"undefined":r(document))||!document.createElementNS)return{};var t=document.createElementNS("http://www.w3.org/2000/svg","svg");return t&&t.style?(t.style.position="absolute",t.style.opacity="0.01",t.style.zIndex="-9999",t.style.left="-9999px",t.style.width="1px",t.style.height="1px",gt={svg:t}):{}}().svg;if(!n)return function(t){return null};var e=document.createElementNS(n.namespaceURI,"path");e.setAttributeNS(null,"d",t),e.setAttributeNS(null,"fill","none"),e.setAttributeNS(null,"stroke","none"),n.appendChild(e);var i=e.getTotalLength();return function(t){var n=e.getPointAtLength(i*t);return{x:n.x,y:n.y}}}function pt(t){return yt[t]?yt[t]:yt[t]=dt(t)}function mt(t,n,r,e){if(!t||!e)return!1;var i=["M",t.x,t.y];if(n&&r&&(i.push("C"),i.push(n.x),i.push(n.y),i.push(r.x),i.push(r.y)),n?!r:r){var o=n||r;i.push("Q"),i.push(o.x),i.push(o.y)}return n||r||i.push("L"),i.push(e.x),i.push(e.y),i.join(" ")}function bt(t,n,r,e){var i=arguments.length>4&&void 0!==arguments[4]?arguments[4]:1,o=mt(t,n,r,e),u=pt(o);try{return u(i)}catch(t){return null}}function wt(t,n,r){return t+(n-t)*r}function At(t,n,r){var e=arguments.length>3&&void 0!==arguments[3]&&arguments[3],i={x:wt(t.x,n.x,r),y:wt(t.y,n.y,r)};return e&&(i.a=xt(t,n)),i}function xt(t,n){return Math.atan2(n.y-t.y,n.x-t.x)}function kt(t,n,r,e){var i=1-e;return i*i*t+2*i*e*n+e*e*r}function St(t,n,r,e){return 2*(1-e)*(n-t)+2*e*(r-n)}function _t(t,n,r,e){var i=arguments.length>4&&void 0!==arguments[4]&&arguments[4],o=bt(t,n,null,r,e);return o||(o={x:kt(t.x,n.x,r.x,e),y:kt(t.y,n.y,r.y,e)}),i&&(o.a=Ot(t,n,r,e)),o}function Ot(t,n,r,e){return Math.atan2(St(t.y,n.y,r.y,e),St(t.x,n.x,r.x,e))}function jt(t,n,r,e,i){var o=i*i;return i*o*(e-t+3*(n-r))+3*o*(t+r-2*n)+3*i*(n-t)+t}function Mt(t,n,r,e,i){var o=1-i;return 3*(o*o*(n-t)+2*o*i*(r-n)+i*i*(e-r))}function Pt(t,n,r,e,i){var o=arguments.length>5&&void 0!==arguments[5]&&arguments[5],u=bt(t,n,r,e,i);return u||(u={x:jt(t.x,n.x,r.x,e.x,i),y:jt(t.y,n.y,r.y,e.y,i)}),o&&(u.a=Et(t,n,r,e,i)),u}function Et(t,n,r,e,i){return Math.atan2(Mt(t.y,n.y,r.y,e.y,i),Mt(t.x,n.x,r.x,e.x,i))}function It(t,n,r){var e=arguments.length>3&&void 0!==arguments[3]&&arguments[3];if(Ft(n)){if(Nt(r))return _t(n,r.start,r,t,e)}else if(Ft(r)){if(n.end)return _t(n,n.end,r,t,e)}else{if(n.end)return r.start?Pt(n,n.end,r.start,r,t,e):_t(n,n.end,r,t,e);if(r.start)return _t(n,r.start,r,t,e)}return At(n,r,t,e)}function Rt(t,n,r){var e=It(t,n,r,!0);return e.a=function(t){return arguments.length>1&&void 0!==arguments[1]&&arguments[1]?t+Math.PI:t}(e.a)/m,e}function Ft(t){return!t.type||"corner"===t.type}function Nt(t){return null!=t.start&&!Ft(t)}var Tt=new N;var Bt={f:lt,i:B},qt={f:lt,i:L};function Lt(t,n,r){return t.map((function(t){return function(t,n,r){var e=t.v;if(!e||"g"!==e.t||e.s||!e.v||!e.r)return t;var i=r.getElementById(e.r),o=i&&i.querySelectorAll("stop")||[];return e.s=e.v.map((function(t,n){var r=o[n]&&o[n].getAttribute("offset");return{c:t,o:r=d(parseInt(r)/100)}})),delete e.v,t}(t,0,r)}))}var Ct={gt:"gradientTransform",c:{x:"cx",y:"cy"},rd:"r",f:{x:"x1",y:"y1"},to:{x:"x2",y:"y2"}};function Dt(t,n,e,i,o,u,a,l){return Lt(t,0,l),n=function(t,n,r){for(var e,i,o,u=t.length-1,a={},l=0;l<=u;l++)(e=t[l]).e&&(e.e=n(e.e)),e.v&&"g"===(i=e.v).t&&i.r&&(o=r.getElementById(i.r))&&(a[i.r]={e:o,s:o.querySelectorAll("stop")});return a}(t,i,l),function(i){var o=e(i,t,zt);if(!o)return"none";if("c"===o.t)return st(o.v);if("g"===o.t){if(!n[o.r])return ct(o.r);var u=n[o.r];return function(t,n){for(var r=t.s,e=r.length;e<n.length;e++){var i=r[r.length-1].cloneNode();i.id=Yt(i.id),t.e.appendChild(i),r=t.s=t.e.querySelectorAll("stop")}for(var o=0,u=r.length,a=n.length-1;o<u;o++)r[o].setAttribute("stop-color",st(n[Math.min(o,a)].c)),r[o].setAttribute("offset",n[Math.min(o,a)].o)}(u,o.s),Object.keys(Ct).forEach((function(t){if(void 0!==o[t])if("object"!==r(Ct[t])){var n,e="gt"===t?(n=o[t],Array.isArray(n)?"matrix("+n.join(" ")+")":""):o[t],i=Ct[t];u.e.setAttribute(i,e)}else Object.keys(Ct[t]).forEach((function(n){if(void 0!==o[t][n]){var r=o[t][n],e=Ct[t][n];u.e.setAttribute(e,r)}}))})),ct(o.r)}return"none"}}function zt(t,r,e){if(0===t)return r;if(1===t)return e;if(r&&e){var i=r.t;if(i===e.t)switch(r.t){case"c":return{t:i,v:z(t,r.v,e.v)};case"g":if(r.r===e.r){var o={t:i,s:Vt(t,r.s,e.s),r:r.r};return r.gt&&e.gt&&(o.gt=function(t,n,r){var e=n.length;if(e!==r.length)return T(t,n,r);for(var i=new Array(e),o=0;o<e;o++)i[o]=B(t,n[o],r[o]);return i}(t,r.gt,e.gt)),r.c?(o.c=C(t,r.c,e.c),o.rd=q(t,r.rd,e.rd)):r.f&&(o.f=C(t,r.f,e.f),o.to=C(t,r.to,e.to)),o}}if("c"===r.t&&"g"===e.t||"c"===e.t&&"g"===r.t){var u="c"===r.t?r:e,a="g"===r.t?n({},r):n({},e),l=a.s.map((function(t){return{c:u.v,o:t.o}}));return a.s="c"===r.t?Vt(t,l,a.s):Vt(t,a.s,l),a}}return T(t,r,e)}function Vt(t,n,r){if(n.length===r.length)return n.map((function(n,e){return Gt(t,n,r[e])}));for(var e=Math.max(n.length,r.length),i=[],o=0;o<e;o++){var u=Gt(t,n[Math.min(o,n.length-1)],r[Math.min(o,r.length-1)]);i.push(u)}return i}function Gt(t,n,r){return{o:L(t,n.o,r.o||0),c:z(t,n.c,r.c||{})}}function Yt(t){return t.replace(/-fill-([0-9]+)$/,(function(t,n){return"-fill-"+(+n+1)}))}var $t={fill:Dt,"fill-opacity":qt,stroke:Dt,"stroke-opacity":qt,"stroke-width":Bt,"stroke-dashoffset":{f:lt,i:B},"stroke-dasharray":{f:function(t){var n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:" ";return t&&t.length>0&&(t=t.map((function(t){return d(t,4)}))),ft(t,n)},i:function(t,n,r){var e,i,o,u=n.length,a=r.length;if(u!==a)if(0===u)n=V(u=a,0);else if(0===a)a=u,r=V(u,0);else{var l=(o=(e=u)*(i=a)/function(t,n){for(var r;n;)r=n,n=t%n,t=r;return t||1}(e,i))<0?-o:o;n=G(n,Math.floor(l/u)),r=G(r,Math.floor(l/a)),u=a=l}for(var f=[],s=0;s<u;s++)f.push(d(q(t,n[s],r[s])));return f}},opacity:qt,transform:function(t,n,e,i){if(!(t=function(t,n){if(!t||"object"!==r(t))return null;var e=!1;for(var i in t)t.hasOwnProperty(i)&&(t[i]&&t[i].length?(t[i].forEach((function(t){t.e&&(t.e=n(t.e))})),e=!0):delete t[i]);return e?t:null}(t,i)))return null;var o=function(r,i,o){var u=arguments.length>3&&void 0!==arguments[3]?arguments[3]:null;return t[r]?e(i,t[r],o):n&&n[r]?n[r]:u};return n&&n.a&&t.o?function(n){var r=e(n,t.o,Rt);return Tt.recomposeSelf(r,o("r",n,B,0)+r.a,o("k",n,C),o("s",n,C),o("t",n,C)).toString()}:function(t){return Tt.recomposeSelf(o("o",t,It,null),o("r",t,B,0),o("k",t,C),o("s",t,C),o("t",t,C)).toString()}},r:Bt,"#size":vt,"#radius":ht,_:function(t,n){if(Array.isArray(t))for(var r=0;r<t.length;r++)this[t[r]]=n;else this[t]=n}},Ut=function(t){!function(t,n){if("function"!=typeof n&&null!==n)throw new TypeError("Super expression must either be null or a function");t.prototype=Object.create(n&&n.prototype,{constructor:{value:t,writable:!0,configurable:!0}}),n&&l(t,n)}(u,t);var n,r,i=(n=u,r=f(),function(){var t,e=a(n);if(r){var i=a(this).constructor;t=Reflect.construct(e,arguments,i)}else t=e.apply(this,arguments);return c(this,t)});function u(){return e(this,u),i.apply(this,arguments)}return o(u,null,[{key:"build",value:function(t){var n=h(a(u),"build",this).call(this,t,$t);if(!n)return null;n.el,n.options,function(t,n,r){t.play()}(n.player)}}]),u}(at);return Ut.init(),Ut}));(function(s,i,o,w){w[o]=w[o]||{};w[o][s]=w[o][s]||[];w[o][s].push(i)})('5c7f360c',{"root":"eMwvqfb2mHI1","animations":[{"elements":{"eMwvqfb2mHI3":{"opacity":[{"t":310,"v":0,"e":[0.42,0,1,1]},{"t":500,"v":1}]},"eMwvqfb2mHI4":{"opacity":[{"t":400,"v":0,"e":[0.42,0,1,1]},{"t":600,"v":1}]},"eMwvqfb2mHI5":{"opacity":[{"t":500,"v":0,"e":[0.42,0,1,1]},{"t":700,"v":1}]},"eMwvqfb2mHI6":{"opacity":[{"t":600,"v":0,"e":[0.42,0,1,1]},{"t":800,"v":1}]},"eMwvqfb2mHI7":{"transform":{"data":{"t":{"x":-36.007999,"y":-2.868}},"keys":{"o":[{"t":0,"v":{"x":36.007999,"y":7.7905,"type":"cusp","end":{"x":36.007999,"y":7.7905}},"e":[0.42,0,1,1]},{"t":500,"v":{"x":69.061097,"y":7.7905,"type":"cusp","start":{"x":69.061097,"y":7.7905}}}]}},"opacity":[{"t":0,"v":1,"e":[0.42,0,1,1]},{"t":300,"v":1}]}},"s":"MHDA1M2NjNzNiNWM2YzVNiMmM1RGJhYzBDYmYI3MzhiODQ4MTgxODE3CZDczYjViYWMzYjZiNSGM1Q2JhYzBiZjczOGWJVODJMN2Q3M2JhYzVYiNmMzYjJjNWJhYzBiJZk1jNDczVThiODI3ZGFk3M2I3YmFiZGJkNzYM4YjgyN2Q3M05iMmJGkYzViNmMzYmZPYjJjONWI2NzNROGJiN2IyYTmRjNGI2N2Q3M2M0YzWFiNkZiNmI1RzczOGIU4MmNl"}],"options":"MXDAxMFM4OEEyZlc4MDGgxNmVNN2Y4MTJmNDcMyZjc5N2M2ZTcxMmY4EYUQ/"},'__SVGATOR_PLAYER__',window)]]>})})</script></svg>
+</a>
+</div>
+</div>    <div class="cta">
+<a href="/en/hotels" class="bgb" title="Hotels"><img loading="lazy" src="files/content/graphics/lupe.svg" alt="Hotels"><span>Hotels</span></a>
+<a href="/en/watchlist" title="Favorites" class="bgb"><img loading="lazy" src="files/content/graphics/merken.svg" alt="Favorites"><div id="watchlist-count" class="wcounter">0</div><span>Favorites</span></a>
+<a href="/en/offers" class="bgb" title="Offers"><img loading="lazy" src="files/content/graphics/present.svg" alt="Offers"><span>Offers</span></a>
+<a href="/en/map" class="bgb cta-desktop-only" title="Map"><img loading="lazy" src="files/content/graphics/karte.svg" alt="Map"><span>Map</span></a>
+<a href="/en/book-a-wanderhotel" class="bgb cta-mobile-only cta-buchen" title="Book"><img loading="lazy" src="files/content/graphics/book.svg" alt="Book"><span>Book</span></a>
+</div>
+<div id="watchlist-overlay" class="watchlist-overlay" hidden>
+<div class="watchlist-content">
+<button id="close-watchlist" class="close-btn" aria-label="Close">×</button>
+<p class="watchlist-counter">Your favorites (<span id="watchlist-overlay-count">0</span>)</p>
+<div id="watchlist-items"></div>
+<a href="/en/watchlist" class="watchlist-link">view all & request</a>
+</div>
+</div>
+<script src="files/theme/js/buchungsleiste-dialog.js" defer></script>
+<script src="files/theme/js/buchungsleiste-adapt.js?v=20260728" defer></script></div>
+</footer>
+</div>
+<script src="bundles/contaoglightbox/js/glightbox.min.js?v=89be0e25"></script><script>(function(){'use strict';document.querySelectorAll('a[data-lightbox]').forEach((element)=>{if(!!element.dataset.lightbox){element.setAttribute('data-gallery',element.dataset.lightbox)}else{element.setAttribute('data-gallery',(Math.random()+1).toString(36).substring(7))}});GLightbox({selector:'a[data-lightbox]'})})()</script>
+<script src="/bundles/contaowowjs/wow.min.js" defer></script>
+<script>document.addEventListener('DOMContentLoaded',function(){if(typeof WOW!=='undefined'){new WOW().init()}})</script><script src="/bundles/plentacontaofriendlycaptcha/webpack/friendlyCaptcha.fac30225.js" defer></script><script defer src="/files/theme/js/season.js?v=609b9c3a"></script><script defer src="/files/theme/js/watchlist-core.js?v=99012441"></script><script defer src="/files/theme/js/watchlist-overlay.js?v=ef26de70"></script><script defer src="/files/theme/js/quick-nav.js?v=bb576635"></script><script defer src="/files/theme/js/fixed-navbar.js?v=b2cc35cf"></script>
+<script>document.addEventListener('DOMContentLoaded',function(){var $=jQuery.noConflict();$("header .lines-button").off("click").on("click",function(){$(this).toggleClass("close");$("body").toggleClass("sidePanelOpen")})})</script>
+<script type="application/ld+json">
+{
+    "@context": "https:\/\/schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage"
+        },
+        {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "item": {
+                        "@id": "\/en\/",
+                        "name": "Wanderhotels"
+                    },
+                    "position": 1
+                },
+                {
+                    "@type": "ListItem",
+                    "item": {
+                        "@id": "\/en\/the-gipfelclub",
+                        "name": "Wanderlust"
+                    },
+                    "position": 2
+                },
+                {
+                    "@type": "ListItem",
+                    "item": {
+                        "@id": "\/en\/wanderhotels-wanderconcierge",
+                        "name": "Wanderconcierge"
+                    },
+                    "position": 3
+                }
+            ]
+        },
+        {
+            "@id": "#\/schema\/image\/c348473c-b4b5-11f0-bd50-9600041c84b0",
+            "@type": "ImageObject",
+            "caption": "© Martin Lugger",
+            "contentUrl": "\/assets\/images\/b\/tourentipp-bike-and-hike-nationalpark-hohe-tauern-wanderhotel-osttirol-2024%28c%29martin-lugger-t1g16bh9apmtt29.jpg"
+        },
+        {
+            "@id": "#\/schema\/image\/2a885842-bafd-11f0-bd50-9600041c84b0",
+            "@type": "ImageObject",
+            "caption": "© Klaus Peterlin",
+            "contentUrl": "\/assets\/images\/h\/selbstgemacht-brot-rezept-wanderhotel-taubers-bio-vitalhotel%28c%29klaus-peterlin-ybv72bam2t4ghs3.jpg"
+        },
+        {
+            "@id": "#\/schema\/image\/b3c9e7a0-b4b1-11f0-bd50-9600041c84b0",
+            "@type": "ImageObject",
+            "caption": "© Cam Poetry",
+            "contentUrl": "\/assets\/images\/z\/wanderhotels-suedtirol-oesterreich-schwarzwald-hoteltipp-auswahl%28c%29cam-poetry-hen1xrj11dsh9wf.jpg"
+        },
+        {
+            "@id": "#\/schema\/image\/fb8be361-922b-11f0-9606-9600041c84b0",
+            "@type": "ImageObject",
+            "caption": "© KWER",
+            "contentUrl": "\/assets\/images\/h\/neu-website-wanderhotels-newsletteranmeldung%28c%29kwer-yskwq71ntrmae54.jpg"
+        }
+    ]
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https:\/\/schema.contao.org",
+    "@graph": [
+        {
+            "@type": "Page",
+            "fePreview": false,
+            "groups": [],
+            "noSearch": false,
+            "pageId": 259,
+            "protected": false,
+            "title": "Your Wanderhotels Wanderconcierge | Wanderhotels"
+        }
+    ]
+}
+</script><div id="season-overlay-summer" class="season-overlay">
+<div class="season-overlay-inner"><img loading="lazy" src="files/content/graphics/wanderhotels-logo-white.svg" width="148" height="94" alt="Wanderhotels Logo"></div>
+</div>
+<div id="season-overlay-winter" class="season-overlay">
+<div class="season-overlay-inner"><img loading="lazy" src="files/content/graphics/wanderhotels-logo-white.svg" width="148" height="94" alt="Wanderhotels Logo"></div>
+</div>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="581539ae-8230-4292-a7ce-98a5e7126aa6" data-blockingmode="auto" async></script>
+</body>
+</html>
