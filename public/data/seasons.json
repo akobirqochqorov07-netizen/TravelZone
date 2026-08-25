@@ -1,17 +1,26 @@
 {
-  "seasons": ["spring", "summer", "autumn", "winter"],
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
   "media": {
     "spring": {
-      "poster": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=1600&q=80",
+      "poster": "/assets/images/a/thumb_spring.jpg",
       "videoHd": "/files/content/media/video/HD/spring.mp4",
       "videoMobile": "/files/content/media/video/mobile/spring_mobile.mp4"
     },
-    "summer": { "useExisting": true },
+    "summer": {
+      "useExisting": true
+    },
     "autumn": {
-      "poster": "https://images.unsplash.com/photo-1508261307936-14bae8635d53?auto=format&fit=crop&w=1600&q=80",
+      "poster": "/assets/images/a/thumb_autumn.jpg",
       "videoHd": "/files/content/media/video/HD/autumn.mp4",
       "videoMobile": "/files/content/media/video/mobile/autumn_mobile.mp4"
     },
-    "winter": { "useExisting": true }
+    "winter": {
+      "useExisting": true
+    }
   }
 }
