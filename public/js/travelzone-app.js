@@ -3,28 +3,23 @@
  * Changes content/data only; preserves layout, CSS, animations.
  */
 (function () {
-  // Base URL: works both on localhost and GitHub Pages (/TravelZone/)
+  // Base URL: read from <base href> tag (Vite sets this correctly for both local and GitHub Pages)
   const BASE = (function() {
-    const tag = document.querySelector('base');
-    if (tag && tag.href) {
-      try {
-        const u = new URL(tag.href);
-        return u.pathname.replace(/\/$/, '');
-      } catch(e) {}
-    }
-    // Auto-detect from script src path
-    const scripts = document.querySelectorAll('script[src]');
-    for (const s of scripts) {
-      const m = s.src.match(/^(.*?)\/js\/travelzone-app\.js/);
-      if (m) {
-        try { return new URL(m[1]).pathname.replace(/\/$/, ''); } catch(e) {}
+    const tag = document.querySelector('base[href]');
+    if (!tag) return '';
+    try {
+      const href = tag.getAttribute('href') || '/';
+      // Convert absolute URL to pathname if needed
+      if (href.startsWith('http')) {
+        return new URL(href).pathname.replace(/\/$/, '');
       }
-    }
-    return '';
+      return href.replace(/\/$/, '');
+    } catch(e) { return ''; }
   })();
 
   function baseUrl(path) {
-    return BASE + path;
+    // Avoid double slashes
+    return BASE ? BASE + path : path;
   }
 
   // Expose for season.js

@@ -42,10 +42,10 @@ function apiMiddleware(req, res, next) {
   next();
 }
 
-export default defineConfig({
+export default defineConfig(({ command }) => ({
   root: '.',
   publicDir: 'public',
-  base: '/TravelZone/',
+  base: command === 'build' ? '/TravelZone/' : '/',
   server: {
     port: 3000,
     open: '/?season=summer',
@@ -57,9 +57,20 @@ export default defineConfig({
         server.middlewares.use(apiMiddleware);
       },
     },
+    {
+      name: 'fix-base-href',
+      transformIndexHtml(html, ctx) {
+        if (ctx.server) return html; // dev mode — keep as is
+        // production: fix <base href> to match repo subfolder
+        return html.replace(
+          /<base href="[^"]*">/,
+          '<base href="/TravelZone/">'
+        );
+      }
+    }
   ],
   build: {
     outDir: 'dist',
     emptyOutDir: true,
   },
-});
+}));
