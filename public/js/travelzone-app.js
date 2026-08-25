@@ -3,6 +3,33 @@
  * Changes content/data only; preserves layout, CSS, animations.
  */
 (function () {
+  // Base URL: works both on localhost and GitHub Pages (/TravelZone/)
+  const BASE = (function() {
+    const tag = document.querySelector('base');
+    if (tag && tag.href) {
+      try {
+        const u = new URL(tag.href);
+        return u.pathname.replace(/\/$/, '');
+      } catch(e) {}
+    }
+    // Auto-detect from script src path
+    const scripts = document.querySelectorAll('script[src]');
+    for (const s of scripts) {
+      const m = s.src.match(/^(.*?)\/js\/travelzone-app\.js/);
+      if (m) {
+        try { return new URL(m[1]).pathname.replace(/\/$/, ''); } catch(e) {}
+      }
+    }
+    return '';
+  })();
+
+  function baseUrl(path) {
+    return BASE + path;
+  }
+
+  // Expose for season.js
+  window.BASE_URL = BASE;
+
   const LANG_KEY = 'tz-lang';
   const SUPPORTED = ['uz', 'ru', 'en'];
   let dict = {};
@@ -322,7 +349,7 @@
       <div class="tz-modal-dialog">
         <button type="button" class="tz-modal-close" aria-label="Close">&times;</button>
         <div class="tz-modal-media">
-          <img src="${details.image}" alt="${details.title}">
+          <img src="${details.image && details.image.startsWith("/") ? baseUrl(details.image) : details.image}" alt="${details.title}">
           <span class="tz-modal-badge">${details.badge || 'Travel Zone'}</span>
         </div>
         <div class="tz-modal-body">
@@ -368,14 +395,14 @@
   }
 
   const CARD_IMAGES = {
-    findTours: '/assets/images/services/find-tours-card.png',
-    agencies: '/assets/images/services/agencies-card.png',
-    stories: '/assets/images/services/stories-card.png',
-    deals: '/assets/images/services/deals-card.png',
-    concierge: '/assets/images/services/concierge-card.jpg',
-    partner: '/assets/images/services/b2b-card.jpg',
-    newsletter: '/assets/images/services/newsletter-card.png',
-    scout: '/assets/images/services/scout-reward-card.png'
+    findTours: baseUrl('/assets/images/services/find-tours-card.png'),
+    agencies: baseUrl('/assets/images/services/agencies-card.png'),
+    stories: baseUrl('/assets/images/services/stories-card.png'),
+    deals: baseUrl('/assets/images/services/deals-card.png'),
+    concierge: baseUrl('/assets/images/services/concierge-card.jpg'),
+    partner: baseUrl('/assets/images/services/b2b-card.jpg'),
+    newsletter: baseUrl('/assets/images/services/newsletter-card.png'),
+    scout: baseUrl('/assets/images/services/scout-reward-card.png')
   };
 
   function updateContentSliders() {
@@ -394,7 +421,8 @@
           rte.innerHTML = `<p>${card.subtitle}</p><h3>${card.title}</h3>`;
         }
         const details = t(`cardDetails.${cfg.key}`);
-        const imgSrc = (details && typeof details === 'object' && details.image) || CARD_IMAGES[cfg.key] || tour?.coverImage || dest?.coverImage;
+        const rawImg = (details && typeof details === 'object' && details.image) || CARD_IMAGES[cfg.key] || tour?.coverImage || dest?.coverImage;
+        const imgSrc = rawImg && rawImg.startsWith('/') ? baseUrl(rawImg) : rawImg;
         if (imgSrc) setCardImage(link, imgSrc, localized(card?.title || tour?.title));
         const copy = link.querySelector('.rsts-copyright');
         if (copy) copy.textContent = '';
@@ -764,7 +792,7 @@
     const url = new URL(location.href);
     url.searchParams.set('lang', lang);
     history.replaceState({}, '', url);
-    dict = await loadJson(`/i18n/${lang}.json`);
+    dict = await loadJson(baseUrl(`/i18n/${lang}.json`));
     applyText();
     applySeasonLabels();
     updateContentSliders();
@@ -821,12 +849,12 @@
     lang = getInitialLang();
     const [enFallback, destinationsData, toursData, agenciesData, contactData, seasonsData] =
       await Promise.all([
-        loadJson('/i18n/en.json').catch(() => ({})),
-        loadJson('/data/destinations.json').catch(() => []),
-        loadJson('/data/tours.json').catch(() => []),
-        loadJson('/data/agencies.json').catch(() => []),
-        loadJson('/data/contact.json').catch(() => null),
-        loadJson('/data/seasons.json').catch(() => null),
+        loadJson(baseUrl('/i18n/en.json')).catch(() => ({})),
+        loadJson(baseUrl('/data/destinations.json')).catch(() => []),
+        loadJson(baseUrl('/data/tours.json')).catch(() => []),
+        loadJson(baseUrl('/data/agencies.json')).catch(() => []),
+        loadJson(baseUrl('/data/contact.json')).catch(() => null),
+        loadJson(baseUrl('/data/seasons.json')).catch(() => null),
       ]);
     destinations = Array.isArray(destinationsData) ? destinationsData : destinationsData.destinations || [];
     tours = Array.isArray(toursData) ? toursData : toursData.tours || [];
@@ -835,7 +863,7 @@
     seasons = seasonsData;
 
     try {
-      dict = await loadJson(`/i18n/${lang}.json`);
+      dict = await loadJson(baseUrl(`/i18n/${lang}.json`));
     } catch {
       dict = enFallback;
       lang = 'en';

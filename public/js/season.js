@@ -186,7 +186,7 @@
     syncButtons(season);
     if (updateHistory) updateUrl(season, historyMode);
     if (saveSession) {
-      fetch('/set-season', {
+      fetch((window.BASE_URL||'') + '/set-season', {
         method: 'POST',
         headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
         body: new URLSearchParams({ season }),
