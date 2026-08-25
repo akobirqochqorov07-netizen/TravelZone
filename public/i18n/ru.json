@@ -102,7 +102,7 @@
     "findTours": {
       "title": "Поиск и бронирование туров",
       "badge": "Travel Zone Marketplace",
-      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
+      "image": "/assets/images/services/find-tours-card.png",
       "description": "Найдите сотни проверенных турпакетов по Узбекистану и всему миру на Travel Zone. Каждый тур включает доступные цены, прозрачные условия и сопровождение экспертов.",
       "highlights": [
         "100% проверенные турагентства",
@@ -113,7 +113,7 @@
     "agencies": {
       "title": "Надёжные Турагентства",
       "badge": "Verified Partners",
-      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80",
+      "image": "/assets/images/services/agencies-card.png",
       "description": "Мы сотрудничаем только с лицензированными турагентствами, имеющими высокий рейтинг клиентов.",
       "highlights": [
         "Лицензированные туроператоры",
@@ -124,7 +124,7 @@
     "stories": {
       "title": "Истории и Вдохновение Travel Zone",
       "badge": "Travel Stories",
-      "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=1200&q=80",
+      "image": "/assets/images/services/stories-card.png",
       "description": "Опыт путешественников, фоторепортажи с горных вершин и полезные советы для поездок в лучшие уголки мира.",
       "highlights": [
         "Эксклюзивные путеводители и советы",
@@ -133,12 +133,12 @@
       ]
     },
     "deals": {
-      "title": "Эксклюзивные Скидки и Предложения",
-      "badge": "Special Deals",
-      "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-      "description": "Сезонные скидки по популярным направлениям, горящие туры и подарочные сертификаты.",
+      "title": "Специальные Предложения и Акции",
+      "badge": "Эксклюзивные Скидки",
+      "image": "/assets/images/services/deals-card.png",
+      "description": "Сезонные скидки, туры последней минуты и специальные акции по лучшим направлениям. Путешествуйте выгодно!",
       "highlights": [
-        "Сезонные скидки до 30%",
+        "Скидки до 30% в сезон",
         "Специальные пакеты для семей и групп",
         "Бонусы за раннее бронирование"
       ]
@@ -146,7 +146,7 @@
     "concierge": {
       "title": "Персональный Консьерж Travel Zone",
       "badge": "VIP Support",
-      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80",
+      "image": "/assets/images/services/concierge-card.jpg",
       "description": "Наш туристический консьерж поможет подобрать тур по вашим индивидуальным пожеланиям и составить идеальный маршрут.",
       "highlights": [
         "Подбор индивидуального маршрута и билетов",
@@ -157,7 +157,7 @@
     "partner": {
       "title": "B2B Партнёрская Программа Travel Zone",
       "badge": "Business Integration",
-      "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=1200&q=80",
+      "image": "/assets/images/services/b2b-card.jpg",
       "description": "У вас есть турагентство? Размещайте туры на платформе Travel Zone и привлекайте тысячи новых путешественников.",
       "highlights": [
         "Удобная панель управления и статистика",
@@ -168,7 +168,7 @@
     "newsletter": {
       "title": "Подписка на Эксклюзивные Новости и Скидки",
       "badge": "Newsletter",
-      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80",
+      "image": "/assets/images/services/newsletter-card.png",
       "description": "Подпишитесь и первыми получайте информацию о свежих турах, горячих акциях и секретах путешествий.",
       "highlights": [
         "Еженедельные подборки лучших туров",
@@ -179,7 +179,7 @@
     "scout": {
       "title": "Travel Zone Scout — Делитесь Опытом и Получайте Призы",
       "badge": "Travel Scout",
-      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "image": "/assets/images/services/scout-reward-card.png",
       "description": "Путешествуйте, делитесь фотографиями и отзывами, повышайте рейтинг и получайте ваучеры и подарки на будущие поездки.",
       "highlights": [
         "Бонусные баллы за отзывы",

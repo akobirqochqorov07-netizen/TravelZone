@@ -1,5 +1,15 @@
 /* Travel Zone product overrides — preserve clone design, only adapt product chrome */
 
+/* Smooth scrolling & GPU acceleration */
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 /* ---- Cyrillic font consistency for Russian language ---- */
 /* gyst-variable (TypeKit) is Latin-only. When lang=ru the browser falls back
    to system serif which looks visually different from UZ/EN.
@@ -121,30 +131,46 @@ h3,
 /* Ensure RockSolid Discovery Slider cards (.ba-item) fill full height with their images */
 .ba-item {
   border-radius: 50px !important;
-  background-color: var(--dark) !important;
+  background-color: #111 !important;
   background-size: cover !important;
-  background-position: center !important;
+  background-position: center center !important;
   background-repeat: no-repeat !important;
+  overflow: hidden !important;
+  position: relative !important;
 }
 
+/* Hide the picture/img inside ba-item — background-image is used instead */
+.ba-item>picture,
 .ba-item picture {
+  position: absolute !important;
+  inset: 0 !important;
   width: 100% !important;
   height: 100% !important;
   display: block !important;
+  pointer-events: none !important;
 }
 
 .ba-item picture img,
-.ba-item img {
+.ba-item img[data-rsts-background] {
+  position: absolute !important;
+  inset: 0 !important;
   width: 100% !important;
   height: 100% !important;
   object-fit: cover !important;
-  object-position: center !important;
+  object-position: center center !important;
   display: block !important;
+}
+
+.ba-item .content-text {
+  position: relative !important;
+  z-index: 2 !important;
 }
 
 .ba-item .rte {
   background: linear-gradient(to top, rgba(0, 0, 0, 0.85) 0%, rgba(0, 0, 0, 0.2) 60%, transparent 100%) !important;
   color: #fff !important;
+  position: relative !important;
+  z-index: 2 !important;
 }
 
 
@@ -171,13 +197,33 @@ h3,
   opacity: 0.75;
 }
 
-/* Season visibility helpers for spring/autumn (mirrors summer/winter) */
-/* Season blocks: season.js toggles .spring/.summer/.autumn/.winter visibility */
-body.spring .start-slider:not(.spring),
-body.summer .start-slider:not(.summer),
-body.autumn .start-slider:not(.autumn),
-body.winter .start-slider:not(.winter) {
+/* ===== SEASON ISOLATION — hero video only =====
+   Season switching ONLY affects .start-slider inside #article-833 (the hero).
+   NO other page sections (intro, catalog, compare, etc.) are affected.
+   Default: hide all seasonal sliders, show only the active one. */
+#article-833 .start-slider {
+  will-change: transform;
+}
+
+/* Hide all seasonal sliders by default */
+#article-833 .start-slider.spring,
+#article-833 .start-slider.summer,
+#article-833 .start-slider.autumn,
+#article-833 .start-slider.winter {
   display: none !important;
+}
+
+/* Show ONLY the active season slider */
+html[data-season="spring"] #article-833 .start-slider.spring,
+html[data-season="summer"] #article-833 .start-slider.summer,
+html[data-season="autumn"] #article-833 .start-slider.autumn,
+html[data-season="winter"] #article-833 .start-slider.winter {
+  display: block !important;
+}
+
+/* Fallback: if a slider has no season class, always show it */
+#article-833 .start-slider:not(.spring):not(.summer):not(.autumn):not(.winter) {
+  display: block !important;
 }
 
 /* Contact / Support blocks — reuse existing footer visual language */
@@ -257,16 +303,30 @@ body.winter .start-slider:not(.winter) {
   margin: 0 !important;
   width: 100% !important;
   max-width: 100% !important;
+  max-height: 360px !important;
   border-radius: 20px;
   overflow: hidden;
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.12);
 }
 
-.padd2 .slider-over img {
-  width: 100%;
-  height: 480px;
-  object-fit: cover;
-  border-radius: 20px;
+.padd2 .slider-over img,
+.padd2 .slider-over .img-hoch,
+.padd2 .slider-over picture img {
+  width: 100% !important;
+  height: 360px !important;
+  max-height: 360px !important;
+  object-fit: cover !important;
+  object-position: center top !important;
+  border-radius: 20px !important;
+  display: block !important;
+}
+
+.padd2 .slider-over .rsts-slide,
+.padd2 .slider-over .rsts-slides,
+.padd2 .slider-over>div {
+  max-height: 360px !important;
+  height: 360px !important;
+  overflow: hidden !important;
 }
 
 @media (max-width: 799px) {
@@ -559,171 +619,299 @@ body.winter .start-slider:not(.winter) {
   background: #e2e8f0;
 }
 
-/* Section 3: Horizontal Carousel Slider & Category Filter Tabs */
-.tz-catalog-tabs-bar {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-  gap: 10px 14px;
-  margin-bottom: 30px;
-}
-
-.tz-tab-btn {
-  background: #f1f5f9;
-  color: #475569;
-  border: 1px solid #e2e8f0;
-  padding: 10px 22px;
-  border-radius: 100px;
-  font-size: 14px;
-  font-weight: 600;
-  cursor: pointer;
-  transition: all 0.25s ease;
-}
-
-.tz-tab-btn:hover {
-  background: #e2e8f0;
-  color: #0f172a;
-}
-
-.tz-tab-btn.active {
-  background: #0f172a;
-  color: #ffffff;
-  border-color: #0f172a;
-  box-shadow: 0 4px 14px rgba(15, 23, 42, 0.25);
-}
-
-.tz-slider-controls-wrap {
+/* ===== TOUR CATALOG — wanderhotels.com style ===== */
+.tz-catalog-slider-wrap {
   position: relative;
   display: flex;
-  align-items: center;
-  gap: 16px;
-  width: 100%;
-}
-
-.tz-slider-arrow {
-  flex-shrink: 0;
-  width: 44px;
-  height: 44px;
-  border-radius: 50%;
-  background: #ffffff;
-  color: #0f172a;
-  border: 1px solid #e2e8f0;
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
-  font-size: 20px;
-  font-weight: 700;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: all 0.2s ease;
-  z-index: 5;
-}
-
-.tz-slider-arrow:hover {
-  background: #0f172a;
-  color: #ffffff;
-  border-color: #0f172a;
-  transform: scale(1.06);
+  gap: 24px;
+  align-items: flex-start;
 }
 
 .tz-catalog-track-wrapper {
-  flex: 1;
   overflow-x: auto;
   scroll-behavior: smooth;
   scroll-snap-type: x mandatory;
-  padding: 10px 4px 20px 4px;
-  scrollbar-width: thin;
-  scrollbar-color: #cbd5e1 transparent;
+  padding: 10px 0 30px;
+  scrollbar-width: none;
+  cursor: grab;
+  -webkit-overflow-scrolling: touch;
+}
+
+.tz-catalog-track-wrapper:active {
+  cursor: grabbing;
 }
 
 .tz-catalog-track-wrapper::-webkit-scrollbar {
-  height: 6px;
-}
-
-.tz-catalog-track-wrapper::-webkit-scrollbar-thumb {
-  background: #cbd5e1;
-  border-radius: 10px;
+  display: none;
 }
 
 .tz-catalog-track {
   display: flex;
-  gap: 24px;
+  gap: 50px;
+  width: max-content;
 }
 
-.tz-catalog-card {
-  flex: 0 0 320px;
-  max-width: 320px;
+/* Wanderhotels card */
+.tz-wh-card {
+  flex: 0 0 auto;
+  width: 340px;
+  background: #fff;
+  border-radius: 0;
+  display: grid;
+  grid-template-rows: auto auto 1fr auto auto;
+  box-shadow: rgb(0 0 0 / .1) 0 4px 6px -1px, rgb(0 0 0 / .06) 0 2px 4px -1px;
   scroll-snap-align: start;
-  background: #ffffff;
-  border-radius: 16px;
-  overflow: hidden;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
-  border: 1px solid #f1f5f9;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition: box-shadow 0.2s ease;
 }
 
-.tz-catalog-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.12);
+.tz-wh-card:hover {
+  box-shadow: rgb(0 0 0 / .15) 0 10px 20px -4px;
 }
 
-.tz-catalog-card .list-image {
+/* Image — square 1:1 */
+.tz-wh-card__image {
   position: relative;
-  height: 220px;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  background: var(--dark, #111);
 }
 
-.tz-card-cat-badge {
+.tz-wh-card__image a {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.tz-wh-card__image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: opacity 0.3s ease;
+}
+
+.tz-wh-card__image:hover img {
+  opacity: 0.85;
+}
+
+/* Category badge */
+.tz-wh-badge {
   position: absolute;
   top: 14px;
   left: 14px;
-  background: rgba(15, 23, 42, 0.85);
-  backdrop-filter: blur(4px);
-  color: #ffffff;
+  background: rgba(15, 23, 42, 0.82);
+  color: #fff;
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 0.8px;
   text-transform: uppercase;
   padding: 4px 10px;
-  border-radius: 6px;
+  border-radius: 4px;
+  backdrop-filter: blur(4px);
 }
 
-.tz-card-cat-badge.uzbekistan {
+.tz-wh-badge.uzbekistan {
   background: rgba(16, 185, 129, 0.9);
 }
 
-.tz-card-cat-badge.mountains {
+.tz-wh-badge.mountains {
   background: rgba(245, 158, 11, 0.9);
 }
 
-.tz-card-cat-badge.hotels {
+.tz-wh-badge.hotels {
   background: rgba(99, 102, 241, 0.9);
 }
 
-@media (max-width: 640px) {
-  .tz-catalog-card {
-    flex: 0 0 280px;
-    max-width: 280px;
+/* Watchlist button */
+.tz-wh-watchlist {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+/* Location bar */
+.tz-wh-card__ort {
+  background: #f9f9f9;
+  padding: 12px 20px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.8em;
+  line-height: 1.3;
+  min-height: 40px;
+}
+
+.tz-wh-card__ort::before {
+  content: '';
+  flex-shrink: 0;
+  width: 12px;
+  height: 20px;
+  background: url(/files/content/graphics/marker-list.svg) no-repeat center / contain;
+}
+
+/* Body */
+.tz-wh-card__body {
+  padding: 16px 20px 8px;
+}
+
+.tz-wh-card__body h3 {
+  font-family: var(--font2, Georgia, serif);
+  font-size: 1.4em;
+  font-weight: 300;
+  margin: 0 0 6px;
+  line-height: 1.1;
+}
+
+.tz-wh-card__body h3 a {
+  color: var(--black, #383838);
+  text-decoration: none;
+}
+
+.tz-wh-card__body h3 a:hover {
+  color: var(--col1, #890C64);
+}
+
+.tz-wh-agency {
+  font-size: 0.8em;
+  opacity: 0.65;
+  margin: 0;
+}
+
+.tz-wh-verified {
+  font-size: 0.85em;
+  color: var(--col1, #890C64);
+  font-weight: 600;
+}
+
+/* Prices — Summer / Winter */
+.tz-wh-card__prices {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  background: #f4f4f4;
+  padding: 14px 20px;
+  gap: 8px;
+}
+
+.tz-wh-price {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.82em;
+}
+
+.tz-wh-price img {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+}
+
+.tz-wh-price span {
+  font-family: var(--font2, Georgia, serif);
+  font-size: 1.15em;
+  font-weight: 400;
+}
+
+/* Buttons */
+.tz-wh-card__btns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  background: #f4f4f4;
+}
+
+.tz-wh-btn-outline,
+.tz-wh-btn-fill {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px 10px;
+  font-size: 0.85em;
+  text-decoration: none;
+  text-align: center;
+  border-top: 2px solid #c5c5c5;
+  transition: background 0.2s, color 0.2s;
+  line-height: 1;
+}
+
+.tz-wh-btn-outline {
+  color: var(--black, #383838);
+  background: #fff;
+}
+
+.tz-wh-btn-outline:hover {
+  background: #f0f0f0;
+}
+
+.tz-wh-btn-fill {
+  background: var(--col1, #890C64);
+  color: #fff;
+  border-color: var(--col1, #890C64);
+}
+
+.tz-wh-btn-fill:hover {
+  background: var(--violett, #6B0B4E);
+}
+
+/* Prev / Next arrows */
+.tz-catalog-prev,
+.tz-catalog-next {
+  position: absolute;
+  top: 110px;
+  transform: translateY(-50%);
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+  z-index: 5;
+  padding: 0;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tz-catalog-prev {
+  left: -50px;
+}
+
+.tz-catalog-next {
+  right: -50px;
+}
+
+.tz-catalog-prev img,
+.tz-catalog-next img {
+  width: 36px;
+  height: auto;
+}
+
+@media (max-width: 799px) {
+  .tz-wh-card {
+    width: 260px;
   }
 
-  .tz-slider-arrow {
+  .tz-catalog-track {
+    gap: 20px;
+  }
+
+  .tz-catalog-prev,
+  .tz-catalog-next {
     display: none;
   }
 }
 
 /* Agencies Infinite Carousel */
 .tz-agencies-carousel {
-  overflow: hidden;
+  overflow: visible;
   width: 100%;
   position: relative;
-  padding: 10px 0;
+  padding: 10px 0 20px;
 }
 
 .tz-agencies-track {
   display: flex;
   gap: 24px;
   width: max-content;
-  animation: tz-infinite-scroll 35s linear infinite;
+  animation: tz-infinite-scroll 40s linear infinite;
+  padding-bottom: 10px;
 }
 
 .tz-agencies-track:hover {
@@ -735,6 +923,89 @@ body.winter .start-slider:not(.winter) {
   flex-shrink: 0;
 }
 
+.tz-agency-card-inner {
+  background: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 16px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+  padding: 24px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 16px;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.tz-agency-card-inner:hover {
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.12);
+  transform: translateY(-3px);
+}
+
+.tz-agency-card-body h3 {
+  margin: 0 0 10px;
+  font-size: 1.15em;
+  font-weight: 600;
+  line-height: 1.3;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.tz-agency-badge {
+  font-size: 0.65em;
+  background: rgba(107, 76, 122, 0.1);
+  color: #6b4c7a;
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.tz-agency-desc {
+  margin: 0 0 10px;
+  font-size: 0.9em;
+  line-height: 1.5;
+  opacity: 0.75;
+}
+
+.tz-agency-meta {
+  margin: 0;
+  font-size: 0.82em;
+  opacity: 0.6;
+  font-weight: 500;
+}
+
+.tz-agency-card-footer {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  border-top: 1px solid rgba(0, 0, 0, 0.06);
+  padding-top: 14px;
+}
+
+.tz-agency-tours-btn {
+  display: block;
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+  background: var(--col1, #890C64);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-size: 0.9em;
+  font-weight: 500;
+  cursor: pointer;
+  font-family: inherit;
+  text-decoration: none;
+  transition: background 0.2s;
+}
+
+.tz-agency-tours-btn:hover {
+  background: var(--violett, #6B0B4E);
+}
+
 @keyframes tz-infinite-scroll {
   0% {
     transform: translateX(0);
@@ -743,4 +1014,412 @@ body.winter .start-slider:not(.winter) {
   100% {
     transform: translateX(-50%);
   }
+}
+
+
+/* ===== TZ SERVICES SLIDER ===== */
+.tz-services-section {
+  position: relative;
+  padding: 0;
+  padding-bottom: 120px;
+  overflow: visible;
+}
+
+.tz-services-track {
+  display: flex;
+  gap: 2%;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  padding: 0 60px 0 60px;
+  align-items: flex-start;
+}
+
+.tz-services-track::-webkit-scrollbar {
+  display: none;
+}
+
+.tz-service-card {
+  flex: 0 0 32%;
+  max-width: 400px;
+  min-width: 320px;
+  height: 60vh;
+  min-height: 500px;
+  border-radius: 50px;
+  overflow: hidden;
+  position: relative;
+  scroll-snap-align: start;
+  display: block;
+  text-decoration: none;
+  cursor: pointer;
+  background-color: var(--dark, #0F020B);
+  transition: box-shadow 0.3s ease;
+}
+
+/* Every even card shifted down 100px — exactly like wanderhotels.com */
+.tz-service-card:nth-child(even) {
+  margin-top: 100px;
+}
+
+.tz-service-card:hover {
+  cursor: pointer;
+}
+
+.tz-service-card img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  transition: opacity 0.3s ease;
+}
+
+.tz-service-card:hover img {
+  opacity: 0.5;
+}
+
+.tz-service-card__text {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  padding: 40px;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.4) 59%, transparent 100%);
+  color: #fff;
+  z-index: 10;
+  display: flex;
+  align-content: flex-end;
+  flex-wrap: wrap;
+}
+
+.tz-service-card__text p {
+  width: 100%;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 0;
+  font-weight: 500;
+  font-size: 0.85em;
+}
+
+.tz-service-card__text h3 {
+  font-family: var(--font2, gyst-variable, Georgia, serif);
+  font-size: 2.2em;
+  font-weight: 300;
+  margin: 0;
+  line-height: 1;
+  color: #fff;
+  width: 100%;
+  padding-right: 80px;
+}
+
+/* Nav arrows — bottom right, like wanderhotels.com */
+.tz-services-prev,
+.tz-services-next {
+  position: absolute;
+  bottom: 240px;
+  z-index: 10;
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  border: none;
+  background: #fff;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
+  font-size: 18px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s, color 0.2s;
+}
+
+.tz-services-prev {
+  right: 116px;
+}
+
+.tz-services-next {
+  right: 60px;
+}
+
+.tz-services-prev:hover,
+.tz-services-next:hover {
+  background: var(--dark, #1a1a1a);
+  color: #fff;
+}
+
+@media (min-width: 1200px) and (max-width: 1500px) {
+  .tz-service-card {
+    flex: 0 0 33%;
+    height: 60vh;
+  }
+
+  .tz-service-card__text h3 {
+    font-size: 2em;
+  }
+}
+
+@media (min-width: 800px) and (max-width: 1199px) {
+  .tz-services-section {
+    padding-bottom: 100px;
+  }
+
+  .tz-service-card {
+    flex: 0 0 45%;
+    height: 500px;
+    min-height: 400px;
+  }
+
+  .tz-service-card:nth-child(even) {
+    margin-top: 80px;
+  }
+
+  .tz-service-card__text h3 {
+    font-size: 2em;
+  }
+}
+
+@media (max-width: 799px) {
+  .tz-services-section {
+    padding-bottom: 60px;
+  }
+
+  .tz-services-track {
+    padding: 0 20px;
+    gap: 16px;
+  }
+
+  .tz-service-card {
+    flex: 0 0 75vw;
+    height: 400px;
+    min-height: 360px;
+    border-radius: 30px;
+  }
+
+  .tz-service-card:nth-child(even) {
+    margin-top: 40px;
+  }
+
+  .tz-service-card__text h3 {
+    font-size: 1.8em;
+    padding-right: 0;
+  }
+
+  .tz-services-prev,
+  .tz-services-next {
+    display: none;
+  }
+}
+
+/* ===== CATALOG TAB BUTTONS — liquid glass ===== */
+.tz-catalog-tabs-bar {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 8px;
+  margin-bottom: 0;
+  position: sticky;
+  top: 80px;
+  align-self: start;
+  z-index: 10;
+  min-width: 160px;
+}
+
+.cm_listing {
+  display: block !important;
+  width: 100% !important;
+  flex-direction: unset !important;
+}
+
+.tz-tab-btn {
+  position: relative;
+  padding: 10px 8px;
+  width: 160px;
+  min-width: 0;
+  text-align: center;
+  border-radius: 100px;
+  border: 1px solid rgba(180, 162, 141, 0.4);
+  background: rgba(255, 255, 255, 0.45);
+  backdrop-filter: blur(14px) saturate(160%);
+  -webkit-backdrop-filter: blur(14px) saturate(160%);
+  color: var(--black, #383838);
+  font-size: 0.82em;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.22s ease;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06), inset 0 1px 0 rgba(255, 255, 255, 0.6);
+  font-family: inherit;
+  white-space: normal;
+  line-height: 1.3;
+}
+
+.tz-tab-btn:hover {
+  background: rgba(255, 255, 255, 0.7);
+  border-color: rgba(180, 162, 141, 0.6);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1), inset 0 1px 0 rgba(255, 255, 255, 0.7);
+  transform: translateY(-1px);
+}
+
+.tz-tab-btn.active {
+  background: rgba(137, 12, 100, 0.88);
+  border-color: rgba(137, 12, 100, 0.5);
+  color: #fff;
+  box-shadow: 0 4px 18px rgba(137, 12, 100, 0.28), inset 0 1px 0 rgba(255, 255, 255, 0.18);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+}
+
+/* Hide ALL slider arrows */
+.tz-catalog-prev,
+.tz-catalog-next,
+.tz-services-prev,
+.tz-services-next,
+.prev-slide,
+.next-slide {
+  display: none !important;
+}
+
+/* Catalog wrapper — no overflow clip so cards show fully */
+#tours .catalog-list-container-wrapper {
+  overflow: visible !important;
+  padding: 0 !important;
+}
+
+#tours .catalog-list-container-wrapper .mod_listing-table {
+  overflow: visible !important;
+}
+
+#article-835 {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+#article-835 .content-slider,
+#article-835 .tz-services-section {
+  min-height: auto !important;
+  padding-bottom: 120px !important;
+  background-image: none !important;
+}
+
+#tours.mod_article {
+  padding-top: 30px !important;
+}
+
+#tours .center.heading--section {
+  margin-bottom: 20px !important;
+}
+
+#tours .center.heading--section h2 {
+  margin-top: 0 !important;
+  margin-bottom: 20px !important;
+}
+
+/* ===== FIX 2: Hide old wanderhotels side-wall text/logos ===== */
+.content-slider::before,
+.content-slider::after {
+  content: '' !important;
+  display: none !important;
+}
+
+img[src*="wanderhotels-logo"] {
+  display: none !important;
+}
+
+/* ===== FIX 3a: Card buttons — uniform height, text fits ===== */
+.tz-wh-card__btns {
+  display: flex;
+  gap: 8px;
+  padding: 12px 14px 16px;
+  align-items: stretch;
+}
+
+.tz-wh-btn-outline,
+.tz-wh-btn-fill {
+  flex: 1 1 0;
+  min-width: 0;
+  min-height: 46px;
+  height: auto;
+  padding: 10px 10px;
+  font-size: 0.8em;
+  font-weight: 600;
+  line-height: 1.3;
+  text-align: center;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  white-space: normal;
+  word-break: break-word;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background 0.2s, color 0.2s, border-color 0.2s;
+  box-sizing: border-box;
+}
+
+.tz-wh-btn-outline {
+  background: #fff;
+  border: 1.5px solid rgba(137, 12, 100, 0.35);
+  color: var(--col1, #890C64);
+}
+
+.tz-wh-btn-outline:hover {
+  background: rgba(137, 12, 100, 0.06);
+  border-color: var(--col1, #890C64);
+}
+
+.tz-wh-btn-fill {
+  background: var(--col1, #890C64);
+  border: 1.5px solid transparent;
+  color: #fff;
+}
+
+.tz-wh-btn-fill:hover {
+  background: var(--violett, #6B0B4E);
+}
+
+/* ===== FIX 3b: Catalog horizontal scroll ===== */
+.tz-catalog-track-wrapper {
+  overflow-x: auto !important;
+  overflow-y: visible !important;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(137, 12, 100, 0.25) transparent;
+  cursor: grab;
+}
+
+.tz-catalog-track-wrapper:active {
+  cursor: grabbing;
+}
+
+.tz-catalog-track-wrapper::-webkit-scrollbar {
+  height: 4px;
+}
+
+.tz-catalog-track-wrapper::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.tz-catalog-track-wrapper::-webkit-scrollbar-thumb {
+  background: rgba(137, 12, 100, 0.25);
+  border-radius: 2px;
+}
+
+.tz-catalog-track {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: nowrap !important;
+  gap: 24px;
+  padding: 8px 4px 24px;
+  width: max-content;
+  min-width: 100%;
+}
+
+.tz-wh-card {
+  flex: 0 0 290px !important;
+  width: 290px !important;
 }

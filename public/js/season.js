@@ -6,6 +6,14 @@
   if (window.__seasonJsInitialized) return;
   window.__seasonJsInitialized = true;
 
+  // FIX 1: Always start at top on page reload (unless there's a hash anchor)
+  if ('scrollRestoration' in history) {
+    history.scrollRestoration = 'manual';
+  }
+  if (!window.location.hash) {
+    window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+  }
+
   const SEASONS = ['spring', 'summer', 'autumn', 'winter'];
   const KEY = 'tz-season';
   const html = document.documentElement;
@@ -69,13 +77,18 @@
   }
 
   function applyVisibility(season) {
-    document.querySelectorAll('.spring, .summer, .autumn, .winter').forEach((el) => {
-      if (el === body) return;
-      if (isSeasonUi(el)) {
-        el.style.display = '';
-        return;
+    // Season change ONLY affects hero video sliders (.start-slider in #article-833)
+    // Everything else stays visible regardless of season
+    document.querySelectorAll('#article-833 .start-slider').forEach((el) => {
+      const isMatch = el.classList.contains(season);
+      el.style.display = isMatch ? '' : 'none';
+      if (isMatch) {
+        el.querySelectorAll('video').forEach(v => {
+          try { v.muted = true; v.play().catch(() => {}); } catch(e) {}
+        });
+      } else {
+        el.querySelectorAll('video').forEach(v => { try { v.pause(); } catch(e) {} });
       }
-      el.style.display = el.classList.contains(season) ? '' : 'none';
     });
   }
 

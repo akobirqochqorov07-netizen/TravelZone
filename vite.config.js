@@ -45,6 +45,7 @@ function apiMiddleware(req, res, next) {
 export default defineConfig({
   root: '.',
   publicDir: 'public',
+  base: '/TravelZone/',
   server: {
     port: 3000,
     open: '/?season=summer',

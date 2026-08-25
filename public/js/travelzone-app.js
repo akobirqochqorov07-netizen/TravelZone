@@ -92,6 +92,13 @@
       }
     });
 
+    // Handle standalone data-i18n-html (without data-i18n)
+    document.querySelectorAll('[data-i18n-html]:not([data-i18n])').forEach((el) => {
+      const key = el.getAttribute('data-i18n-html');
+      const val = t(key);
+      if (typeof val === 'string') el.innerHTML = val;
+    });
+
     document.querySelectorAll('[data-i18n-placeholder]').forEach((el) => {
       el.setAttribute('placeholder', t(el.getAttribute('data-i18n-placeholder')));
     });
@@ -166,19 +173,16 @@
             b.setAttribute('aria-disabled', b.dataset.season === newSeason ? 'true' : 'false');
           });
 
-          // Instantly hide non-current season sliders and show current one
-          document.querySelectorAll('.start-slider').forEach(slider => {
-            const isMatch = allSeasons.some(s => slider.classList.contains(s) && s === newSeason)
-              || (!allSeasons.some(s => slider.classList.contains(s)));
+          // Season change: only affect hero video sliders, nothing else
+          document.querySelectorAll('#article-833 .start-slider').forEach(slider => {
+            const isMatch = slider.classList.contains(newSeason);
             slider.style.display = isMatch ? '' : 'none';
-            if (isMatch) {
-              // Force video play for the active slider
-              slider.querySelectorAll('video').forEach(v => {
-                try { v.muted = true; v.play().catch(() => { }); } catch (e) { }
-              });
-            } else {
-              slider.querySelectorAll('video').forEach(v => { try { v.pause(); } catch (e) { } });
-            }
+            slider.querySelectorAll('video').forEach(v => {
+              try {
+                if (isMatch) { v.muted = true; v.play().catch(() => {}); }
+                else v.pause();
+              } catch(e) {}
+            });
           });
 
           // Update hero slogan
@@ -212,47 +216,85 @@
 </video>
 </div>`;
       article.insertBefore(block, summerSlider);
+
+      // Ensure video plays when this season becomes active
+      const video = block.querySelector('video');
+      if (video) {
+        video.muted = true;
+        video.defaultMuted = true;
+        // Try playing immediately (CSS may hide it, browser may block — safe to ignore)
+        const tryPlay = () => { try { video.play().catch(() => { }); } catch (e) { } };
+        tryPlay();
+        document.addEventListener('season:changed', (e) => {
+          if (e.detail?.season === season) { tryPlay(); }
+          else { try { video.pause(); } catch (e) { } }
+        });
+      }
     });
   }
 
   function setCardImage(link, src, alt) {
     if (!link || !src) return;
 
-    // 1. RockSolid slider dynamic main background container (.rsts-main-image)
-    const bgContainers = link.querySelectorAll('.rsts-main-image, [data-rsts-background]');
-    bgContainers.forEach((bg) => {
+    // Primary: set as direct background on the card link (most reliable)
+    link.style.backgroundImage = `url('${src}')`;
+    link.style.backgroundSize = 'cover';
+    link.style.backgroundPosition = 'center center';
+    link.style.backgroundRepeat = 'no-repeat';
+    link.style.position = 'relative';
+    link.style.overflow = 'hidden';
+
+    // Also update any RockSolid background containers
+    link.querySelectorAll('.rsts-main-image, [data-rsts-background]').forEach((bg) => {
       bg.style.backgroundImage = `url('${src}')`;
       bg.style.backgroundSize = 'cover';
-      bg.style.backgroundPosition = 'center';
+      bg.style.backgroundPosition = 'center center';
       bg.style.opacity = '1';
       bg.style.visibility = 'visible';
+      bg.style.position = 'absolute';
+      bg.style.inset = '0';
+      bg.style.width = '100%';
+      bg.style.height = '100%';
     });
 
-    // 2. Picture and Img element update
+    // Update img element
     const img = link.querySelector('img');
     if (img) {
       img.src = src;
       img.srcset = src;
       if (alt) img.alt = alt;
-      img.style.objectFit = 'cover';
+      img.style.position = 'absolute';
+      img.style.inset = '0';
       img.style.width = '100%';
       img.style.height = '100%';
+      img.style.objectFit = 'cover';
+      img.style.objectPosition = 'center center';
       img.style.display = 'block';
     }
-    link.querySelectorAll('source').forEach((s) => {
-      s.srcset = src;
-    });
 
-    // 3. Directly set background on card container link as fallback
-    link.style.backgroundImage = `linear-gradient(to top, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.2) 60%, transparent 100%), url('${src}')`;
-    link.style.backgroundSize = 'cover';
-    link.style.backgroundPosition = 'center';
-    link.style.backgroundRepeat = 'no-repeat';
+    // Update picture element
+    const pic = link.querySelector('picture');
+    if (pic) {
+      pic.style.position = 'absolute';
+      pic.style.inset = '0';
+      pic.style.width = '100%';
+      pic.style.height = '100%';
+      pic.style.display = 'block';
+    }
 
-    // 4. Ensure .rte background overlay doesn't block the image with solid black
+    link.querySelectorAll('source').forEach((s) => { s.srcset = src; });
+
+    // Keep text overlay visible
     const rte = link.querySelector('.rte');
     if (rte) {
-      rte.style.background = 'linear-gradient(to top, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.1) 70%, transparent 100%)';
+      rte.style.background = 'linear-gradient(to top, rgba(0,0,0,0.75) 0%, rgba(0,0,0,0.1) 70%, transparent 100%)';
+      rte.style.position = 'relative';
+      rte.style.zIndex = '2';
+    }
+    const ct = link.querySelector('.content-text');
+    if (ct) {
+      ct.style.position = 'relative';
+      ct.style.zIndex = '2';
     }
   }
 
@@ -326,14 +368,14 @@
   }
 
   const CARD_IMAGES = {
-    findTours: '/assets/images/cards/findtours.jpg',
-    agencies: 'https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80',
-    stories: 'https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=1200&q=80',
-    deals: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
-    concierge: '/assets/images/cards/concierge.jpg',
-    partner: '/assets/images/cards/partner.png',
-    newsletter: '/assets/images/cards/newsletter.jpg',
-    scout: '/assets/images/cards/scout.jpg'
+    findTours: '/assets/images/services/find-tours-card.png',
+    agencies: '/assets/images/services/agencies-card.png',
+    stories: '/assets/images/services/stories-card.png',
+    deals: '/assets/images/services/deals-card.png',
+    concierge: '/assets/images/services/concierge-card.jpg',
+    partner: '/assets/images/services/b2b-card.jpg',
+    newsletter: '/assets/images/services/newsletter-card.png',
+    scout: '/assets/images/services/scout-reward-card.png'
   };
 
   function updateContentSliders() {
@@ -345,8 +387,8 @@
         const card = t(`cards.${cfg.key}`);
         const tour = tours[cfg.tourIdx] || tours[i % tours.length];
         const dest = tour ? destinations.find((d) => d.id === tour.destinationId) : null;
-        link.href = '#';
-        link.removeAttribute('data-rsts-name');
+
+        // Do NOT remove data-rsts-name or change href — that breaks the RockSolid slider
         const rte = link.querySelector('.content-text .rte');
         if (rte && card && typeof card === 'object') {
           rte.innerHTML = `<p>${card.subtitle}</p><h3>${card.title}</h3>`;
@@ -355,7 +397,7 @@
         const imgSrc = (details && typeof details === 'object' && details.image) || CARD_IMAGES[cfg.key] || tour?.coverImage || dest?.coverImage;
         if (imgSrc) setCardImage(link, imgSrc, localized(card?.title || tour?.title));
         const copy = link.querySelector('.rsts-copyright');
-        if (copy) copy.textContent = 'Travel Zone';
+        if (copy) copy.textContent = '';
 
         link.onclick = (e) => {
           e.preventDefault();
@@ -400,18 +442,7 @@
   }
 
   function updateWhyImages() {
-    const summerImg = document.querySelector('.slider-over.summer img');
-    const winterImg = document.querySelector('.slider-over.winter img');
-    const t1 = tours.find((x) => x.destinationId === 'samarkand') || tours[0];
-    const t2 = tours.find((x) => x.destinationId === 'chimgan') || tours[1];
-    if (summerImg && t1) {
-      summerImg.src = t1.coverImage;
-      summerImg.alt = localized(t1.title);
-    }
-    if (winterImg && t2) {
-      winterImg.src = t2.coverImage;
-      winterImg.alt = localized(t2.title);
-    }
+    // Images set directly in HTML — no override needed
   }
 
   function injectSections() {
@@ -497,16 +528,25 @@
       const card = document.createElement('div');
       card.className = 'tz-agency-card';
       card.innerHTML = `
-        <div class="list-content" style="padding:24px;border:1px solid rgba(0,0,0,.08);border-radius:12px;background:#fff;box-shadow:0 4px 12px rgba(0,0,0,0.03);height:100%;display:flex;flex-direction:column;justify-content:space-between;">
-          <div>
-            <h3 style="margin:0 0 8px;font-size:1.25em;">${agency.name}${agency.verified ? ` · <span style="font-size:0.7em;background:rgba(107,76,122,0.1);color:#6b4c7a;padding:2px 8px;border-radius:12px;font-weight:600;">${t('agency.verified')}</span>` : ''}</h3>
-            <p style="margin:0 0 12px;opacity:0.75;font-size:0.95em;line-height:1.4;">${localized(agency.description).slice(0, 100)}…</p>
+        <div class="tz-agency-card-inner">
+          <div class="tz-agency-card-body">
+            <h3>${agency.name}${agency.verified ? ` <span class="tz-agency-badge">${t('agency.verified')}</span>` : ''}</h3>
+            <p class="tz-agency-desc">${localized(agency.description).slice(0, 100)}…</p>
+            <p class="tz-agency-meta">📍 ${agency.location} &nbsp;·&nbsp; ★ ${agency.rating} &nbsp;·&nbsp; ${agency.tourCount} ${t('nav.tours')}</p>
           </div>
-          <div>
-            <p style="margin:0 0 16px;font-size:0.85em;opacity:0.6;font-weight:500;">📍 ${agency.location} · ★ ${agency.rating} · ${agency.tourCount} ${t('nav.tours')}</p>
-            <div class="list-buttons"><div class="hotel-details list-btn" style="width:100%;text-align:center;"><a href="#tours" style="display:block;width:100%;">${t('nav.tours')}</a></div></div>
+          <div class="tz-agency-card-footer">
+            <button class="tz-agency-tours-btn" data-agency-id="${agency.id}">${t('nav.tours')}</button>
           </div>
         </div>`;
+
+      // Wire button: open agency website in new tab
+      const btn = card.querySelector('.tz-agency-tours-btn');
+      btn.addEventListener('click', () => {
+        if (agency.website) {
+          window.open(agency.website, '_blank', 'noopener noreferrer');
+        }
+      });
+
       track.appendChild(card);
     });
 
@@ -533,6 +573,9 @@
     }
 
     let filteredTours = tours.filter((tour) => {
+      // Agency filter (from agencies carousel button click)
+      if (window._tzActiveAgencyId && tour.agencyId !== window._tzActiveAgencyId) return false;
+
       const dest = destinations.find((d) => d.id === tour.destinationId);
       const cat = getCategoryBadge(dest);
       if (activeCatalogTab === 'all') return true;
@@ -543,74 +586,117 @@
       return true;
     });
 
+    // If agency filter active but no tours found, show all tours of that agency regardless of tab
+    if (window._tzActiveAgencyId && filteredTours.length === 0) {
+      filteredTours = tours.filter(t => t.agencyId === window._tzActiveAgencyId);
+    }
+
     if (filteredTours.length === 0) filteredTours = [...tours];
 
-    container.innerHTML = `
-      <div class="tz-catalog-tabs-bar">
-        <button type="button" class="tz-tab-btn ${activeCatalogTab === 'all' ? 'active' : ''}" data-tab="all">${t('catalogTabs.all')}</button>
-        <button type="button" class="tz-tab-btn ${activeCatalogTab === 'foreign' ? 'active' : ''}" data-tab="foreign">${t('catalogTabs.foreign')}</button>
-        <button type="button" class="tz-tab-btn ${activeCatalogTab === 'uzbekistan' ? 'active' : ''}" data-tab="uzbekistan">${t('catalogTabs.uzbekistan')}</button>
-        <button type="button" class="tz-tab-btn ${activeCatalogTab === 'mountains' ? 'active' : ''}" data-tab="mountains">${t('catalogTabs.mountains')}</button>
-        <button type="button" class="tz-tab-btn ${activeCatalogTab === 'hotels' ? 'active' : ''}" data-tab="hotels">${t('catalogTabs.hotels')}</button>
-      </div>
-
-      <div class="tz-slider-controls-wrap">
-        <button type="button" class="tz-slider-arrow prev" aria-label="Previous">&larr;</button>
-        <div class="tz-catalog-track-wrapper">
-          <div class="tz-catalog-track">
-            ${filteredTours.map((tour) => {
+    const cardsHTML = filteredTours.map((tour) => {
       const dest = destinations.find((d) => d.id === tour.destinationId);
       const agency = agencies.find((a) => a.id === tour.agencyId);
       const catBadge = getCategoryBadge(dest);
+      const location = [
+        dest ? localized(dest.name) : '',
+        dest?.region ? localized(dest.region) : '',
+        dest?.country ? localized(dest.country) : ''
+      ].filter(Boolean).join(' · ');
       return `
-                <div class="cm_listing tz-catalog-card">
-                  <div class="list-image">
-                    <a href="#inquiry" draggable="false">
-                      <picture><img draggable="false" src="${tour.coverImage}" alt="${localized(tour.title)}" loading="lazy" decoding="async" width="500" height="500"></picture>
-                    </a>
-                    <span class="tz-card-cat-badge ${catBadge.key}">${catBadge.label}</span>
-                    <div class="watchlist-wrapper">
-                      <button type="button" class="watchlist-button add-button" data-id="${tour.id}" aria-pressed="false">
-                        <span>${t('cta.favorites')}</span>
-                      </button>
-                    </div>
-                  </div>
-                  <div class="list-content">
-                    <h3><a href="#inquiry" draggable="false">${localized(tour.title)}</a></h3>
-                    <p class="list-location">${dest ? localized(dest.name) : ''}${agency ? ` · ${agency.name}` : ''}${agency?.verified ? ` · ${t('agency.verified')}` : ''}</p>
-                    <p class="list-price">${priceLabel()} $${tour.startingPrice} · ${tour.durationDays}d</p>
-                    <div class="list-buttons">
-                      <div class="hotel-details list-btn"><a href="#inquiry" draggable="false">${t('catalog.inquire')}</a></div>
-                      <div class="bookinglink list-btn"><a href="#inquiry" draggable="false" data-tour-id="${tour.id}">${t('catalog.book')}</a></div>
-                    </div>
-                  </div>
-                </div>
-              `;
-    }).join('')}
+        <div class="tz-wh-card">
+          <div class="tz-wh-card__image">
+            <a href="#inquiry" draggable="false">
+              <img src="${tour.coverImage}" alt="${localized(tour.title)}" loading="lazy" draggable="false">
+            </a>
+            <span class="tz-wh-badge ${catBadge.key}">${catBadge.label}</span>
+            <button type="button" class="tz-wh-watchlist watchlist-button add-button" data-id="${tour.id}" aria-pressed="false" aria-label="${t('cta.favorites')}"></button>
           </div>
-        </div>
-        <button type="button" class="tz-slider-arrow next" aria-label="Next">&rarr;</button>
-      </div>
-    `;
+          <div class="tz-wh-card__ort">
+            <span class="tz-wh-location">${location}</span>
+          </div>
+          <div class="tz-wh-card__body">
+            <h3><a href="#inquiry" draggable="false">${localized(tour.title)}</a></h3>
+            ${agency ? `<p class="tz-wh-agency">${agency.name}${agency.verified ? ` <span class="tz-wh-verified">${t('agency.verified')}</span>` : ''}</p>` : ''}
+          </div>
+          <div class="tz-wh-card__prices">
+            <div class="tz-wh-price">
+              <img src="/files/content/graphics/summer.svg" width="16" height="16" alt="Summer" onerror="this.style.display='none'">
+              <span>${priceLabel()} $${tour.startingPrice}</span>
+            </div>
+            <div class="tz-wh-price">
+              <img src="/files/content/graphics/winter.svg" width="16" height="16" alt="Winter" onerror="this.style.display='none'">
+              <span>${priceLabel()} $${Math.round(tour.startingPrice * 1.15)}</span>
+            </div>
+          </div>
+          <div class="tz-wh-card__btns">
+            <a href="#inquiry" class="tz-wh-btn-outline" draggable="false">${t('catalog.inquire')}</a>
+            <a href="#inquiry" class="tz-wh-btn-fill" draggable="false" data-tour-id="${tour.id}">${t('catalog.book')}</a>
+          </div>
+        </div>`;
+    }).join('');
 
-    container.querySelectorAll('.tz-tab-btn').forEach((btn) => {
-      btn.onclick = () => {
-        activeCatalogTab = btn.dataset.tab;
-        renderTourCatalog();
-      };
-    });
+    // First render: build full structure
+    if (!container.querySelector('.tz-catalog-tabs-bar')) {
+      container.innerHTML = `
+        <div class="tz-catalog-tabs-bar">
+          <button type="button" class="tz-tab-btn ${activeCatalogTab === 'all' ? 'active' : ''}" data-tab="all">${t('catalogTabs.all')}</button>
+          <button type="button" class="tz-tab-btn ${activeCatalogTab === 'foreign' ? 'active' : ''}" data-tab="foreign">${t('catalogTabs.foreign')}</button>
+          <button type="button" class="tz-tab-btn ${activeCatalogTab === 'uzbekistan' ? 'active' : ''}" data-tab="uzbekistan">${t('catalogTabs.uzbekistan')}</button>
+          <button type="button" class="tz-tab-btn ${activeCatalogTab === 'mountains' ? 'active' : ''}" data-tab="mountains">${t('catalogTabs.mountains')}</button>
+          <button type="button" class="tz-tab-btn ${activeCatalogTab === 'hotels' ? 'active' : ''}" data-tab="hotels">${t('catalogTabs.hotels')}</button>
+        </div>
+        <div class="tz-catalog-slider-wrap">
+          <div class="tz-catalog-track-wrapper">
+            <div class="tz-catalog-track">${cardsHTML}</div>
+          </div>
+        </div>`;
+    } else {
+      // Tab click: only update active state and cards, keep scroll wrapper intact
+      container.querySelectorAll('.tz-tab-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.tab === activeCatalogTab);
+      });
+      const trackEl = container.querySelector('.tz-catalog-track');
+      if (trackEl) trackEl.innerHTML = cardsHTML;
+    }
+
+    // Wire tab buttons only on first render
+    if (container.querySelectorAll('.tz-tab-btn[data-wired]').length === 0) {
+      container.querySelectorAll('.tz-tab-btn').forEach((btn) => {
+        btn.dataset.wired = '1';
+        btn.onclick = () => {
+          activeCatalogTab = btn.dataset.tab;
+          window._tzActiveAgencyId = null;
+          renderTourCatalog();
+        };
+      });
+    }
 
     const track = container.querySelector('.tz-catalog-track-wrapper');
-    const prevBtn = container.querySelector('.tz-slider-arrow.prev');
-    const nextBtn = container.querySelector('.tz-slider-arrow.next');
+    const prevBtn = container.querySelector('.tz-catalog-prev');
+    const nextBtn = container.querySelector('.tz-catalog-next');
 
     if (track && prevBtn && nextBtn) {
-      prevBtn.onclick = () => {
-        track.scrollBy({ left: -360, behavior: 'smooth' });
-      };
-      nextBtn.onclick = () => {
-        track.scrollBy({ left: 360, behavior: 'smooth' });
-      };
+      prevBtn.onclick = () => track.scrollBy({ left: -360, behavior: 'smooth' });
+      nextBtn.onclick = () => track.scrollBy({ left: 360, behavior: 'smooth' });
+    }
+
+    // Mouse drag scroll
+    if (track) {
+      let isDragging = false, startX = 0, scrollLeft = 0;
+      track.addEventListener('mousedown', (e) => {
+        isDragging = true;
+        startX = e.pageX - track.offsetLeft;
+        scrollLeft = track.scrollLeft;
+        track.style.cursor = 'grabbing';
+      });
+      track.addEventListener('mouseleave', () => { isDragging = false; track.style.cursor = 'grab'; });
+      track.addEventListener('mouseup', () => { isDragging = false; track.style.cursor = 'grab'; });
+      track.addEventListener('mousemove', (e) => {
+        if (!isDragging) return;
+        e.preventDefault();
+        const x = e.pageX - track.offsetLeft;
+        track.scrollLeft = scrollLeft - (x - startX);
+      });
     }
 
     document.dispatchEvent(new CustomEvent('tz:catalog-updated'));
@@ -758,17 +844,51 @@
     window.TravelZone = { lang, t, localized, destinations, tours, agencies, contact, setLang };
 
     injectSeasonHeroes();
+
+    // After injection, clear any inline styles on hero sliders so CSS takes over
+    requestAnimationFrame(() => {
+      const curSeason = window.SEASON || document.documentElement.getAttribute('data-season') || 'summer';
+      document.querySelectorAll('#article-833 .start-slider').forEach(sl => {
+        sl.style.display = '';
+      });
+      // Re-set data-season to retrigger CSS attribute selector
+      document.documentElement.setAttribute('data-season', curSeason);
+      // Play video for current season
+      const active = document.querySelector(`#article-833 .start-slider.${curSeason}`);
+      if (active) {
+        active.querySelectorAll('video').forEach(v => {
+          v.muted = true;
+          v.play().catch(() => { });
+        });
+      }
+    });
     injectSections();
     fixGlobalLinks();
     applyText();
     applySeasonLabels();
-    updateContentSliders();
     updateCompareSection();
     updateWhyImages();
     wireLangSwitcher();
     wireInquiry();
     wireContactActions();
     renderTourCatalog();
+
+    // Wire new services slider prev/next buttons
+    const servicesTrack = document.querySelector('.tz-services-track');
+    const servicesPrev = document.querySelector('.tz-services-prev');
+    const servicesNext = document.querySelector('.tz-services-next');
+    if (servicesTrack && servicesPrev && servicesNext) {
+      servicesPrev.addEventListener('click', () => servicesTrack.scrollBy({ left: -340, behavior: 'smooth' }));
+      servicesNext.addEventListener('click', () => servicesTrack.scrollBy({ left: 340, behavior: 'smooth' }));
+    }
+
+    // Wire service card clicks for modal
+    document.querySelectorAll('.tz-service-card[data-card-key]').forEach((card) => {
+      card.addEventListener('click', (e) => {
+        e.preventDefault();
+        openCardModal(card.dataset.cardKey);
+      });
+    });
 
     document.addEventListener('season:changed', () => {
       updateHeroSlogan();

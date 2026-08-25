@@ -102,7 +102,7 @@
     "findTours": {
       "title": "Discover & Book Tours",
       "badge": "Travel Zone Marketplace",
-      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
+      "image": "/assets/images/services/find-tours-card.png",
       "description": "Find hundreds of verified tour packages across Uzbekistan and worldwide. Every tour includes transparent pricing and expert agency support.",
       "highlights": [
         "100% verified travel agencies",
@@ -113,7 +113,7 @@
     "agencies": {
       "title": "Verified Travel Agencies",
       "badge": "Verified Partners",
-      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80",
+      "image": "/assets/images/services/agencies-card.png",
       "description": "We partner exclusively with licensed travel agencies holding top traveler review ratings.",
       "highlights": [
         "Licensed tour operators",
@@ -124,7 +124,7 @@
     "stories": {
       "title": "Travel Zone Stories & Inspiration",
       "badge": "Travel Stories",
-      "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=1200&q=80",
+      "image": "/assets/images/services/stories-card.png",
       "description": "Real traveler experiences, mountain peak photo stories, and expert destination guides.",
       "highlights": [
         "Exclusive travel guides & tips",
@@ -133,20 +133,20 @@
       ]
     },
     "deals": {
-      "title": "Exclusive Travel Deals & Specials",
-      "badge": "Special Deals",
-      "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-      "description": "Seasonal discounts on top destinations, last-minute tour offers, and gift vouchers.",
+      "title": "Special Offers & Deals",
+      "badge": "Exclusive Discounts",
+      "image": "/assets/images/services/deals-card.png",
+      "description": "Seasonal discounts, last-minute tours and special promotions on the best destinations. Travel smarter and save more!",
       "highlights": [
         "Up to 30% seasonal discounts",
-        "Family & group package specials",
-        "Early bird booking perks"
+        "Special packages for families and groups",
+        "Early booking bonuses"
       ]
     },
     "concierge": {
       "title": "Personal Travel Concierge",
       "badge": "VIP Support",
-      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80",
+      "image": "/assets/images/services/concierge-card.jpg",
       "description": "Our dedicated travel concierge assists you with tailored tour selection and custom itinerary planning.",
       "highlights": [
         "Bespoke itinerary & flight selection",
@@ -157,7 +157,7 @@
     "partner": {
       "title": "Travel Zone B2B Partner Network",
       "badge": "Business Integration",
-      "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=1200&q=80",
+      "image": "/assets/images/services/b2b-card.jpg",
       "description": "Are you a licensed travel agency? List your tours on Travel Zone and connect with thousands of active travelers.",
       "highlights": [
         "Intuitive management dashboard & analytics",
@@ -168,7 +168,7 @@
     "newsletter": {
       "title": "Exclusive Travel News & Offers",
       "badge": "Newsletter",
-      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80",
+      "image": "/assets/images/services/newsletter-card.png",
       "description": "Subscribe to receive instant updates on new tours, flash deals, and travel inspiration.",
       "highlights": [
         "Weekly top tour picks",
@@ -179,7 +179,7 @@
     "scout": {
       "title": "Travel Scout — Share & Get Rewarded",
       "badge": "Travel Scout",
-      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "image": "/assets/images/services/scout-reward-card.png",
       "description": "Travel, submit photos & reviews, level up your profile, and claim travel vouchers & gifts.",
       "highlights": [
         "Bonus points for reviews",

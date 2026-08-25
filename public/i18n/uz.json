@@ -102,7 +102,7 @@
     "findTours": {
       "title": "Turlarni topish va band qilish",
       "badge": "Travel Zone Marketplace",
-      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
+      "image": "/assets/images/services/find-tours-card.png",
       "description": "Travel Zone orqali dunyo va O'zbekiston bo'ylab yuzlab tasdiqlangan turpaketlarni toping. Har bir tur qulay narxlar, shaffof shartlar va mutaxassislar hamrohligini o'z ichiga oladi.",
       "highlights": [
         "100% tasdiqlangan turistik agentliklar",
@@ -113,7 +113,7 @@
     "agencies": {
       "title": "Ishonchli Sayohat Agentliklari",
       "badge": "Verified Partners",
-      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80",
+      "image": "/assets/images/services/agencies-card.png",
       "description": "Biz faqat o'z faoliyatini rasmiy tasdiqlagan va yuqori mijoz reytingiga ega bo'lgan nufuzli sayohat agentliklari bilan hamkorlik qilamiz.",
       "highlights": [
         "Litsenziyalangan tur operatorlar",
@@ -124,7 +124,7 @@
     "stories": {
       "title": "Travel Zone Hikoyalari va Ilhom",
       "badge": "Travel Stories",
-      "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=1200&q=80",
+      "image": "/assets/images/services/stories-card.png",
       "description": "Sayohatchilar tajribalari, tog' cho'qqilaridan fotoreportajlar va dunyoning eng chiroyli burchaklariga oid foydali maslahatlar.",
       "highlights": [
         "Eksklyuziv sayohat gidlari va maslahatlar",
@@ -133,20 +133,20 @@
       ]
     },
     "deals": {
-      "title": "Eksklyuziv Sayohat Chegirmalari va Takliflar",
-      "badge": "Special Deals",
-      "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
-      "description": "Eng ommabop yo'nalishlar bo'yicha mavsumiy chegirmalar, so'nggi daqiqa turlari (last minute) va sovg'a sertifikatlari.",
+      "title": "Maxsus Takliflar va Aksiyalar",
+      "badge": "Eksklyuziv Chegirmalar",
+      "image": "/assets/images/services/deals-card.png",
+      "description": "Eng yaxshi yo'nalishlar bo'yicha mavsumiy chegirmalar, so'nggi daqiqa turlari va aksiyalar. Sayohatingizni arzonroq va qulay rejalashtiring!",
       "highlights": [
         "Mavsumiy 30% gacha chegirmalar",
         "Oila va guruhlar uchun maxsus paketlar",
-        "Erta band qilish bo'yicha bonuslar"
+        "Erta band qilish uchun bonuslar"
       ]
     },
     "concierge": {
       "title": "Travel Zone Shaxsiy Concierge Xizmati",
       "badge": "VIP Support",
-      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80",
+      "image": "/assets/images/services/concierge-card.jpg",
       "description": "Sayohat konsyerjimiz sizning individual xohishlaringizga mos tur tanlashda va marshrut tuzishda yordam beradi.",
       "highlights": [
         "Individual marshrut va chipta tanlash",
@@ -157,7 +157,7 @@
     "partner": {
       "title": "Travel Zone B2B Hamkorlik Dasturi",
       "badge": "Business Integration",
-      "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=1200&q=80",
+      "image": "/assets/images/services/b2b-card.jpg",
       "description": "Sayohat agentligingiz bormi? Turlaringizni Travel Zone platformasiga joylashtiring va minglab yangi sayohatchilarni jalb qiling.",
       "highlights": [
         "Qulay boshqaruv paneli va statistika",
@@ -168,7 +168,7 @@
     "newsletter": {
       "title": "Eksklyuziv Yangiliklar va Chegirmalar Obunasi",
       "badge": "Newsletter",
-      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80",
+      "image": "/assets/images/services/newsletter-card.png",
       "description": "Obuna bo'ling va eng so'nggi turlar, qaynoq aktsiyalar hamda sayohat sirlari haqidagi ma'lumotlarni birinchilardan bo'lib oling.",
       "highlights": [
         "Haftalik eng yaxshi tur toptoplari",
@@ -179,7 +179,7 @@
     "scout": {
       "title": "Travel Zone Scout — Tajriba Alashing va Sovrin Oling",
       "badge": "Travel Scout",
-      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "image": "/assets/images/services/scout-reward-card.png",
       "description": "Sayohat qiling, rasm va sharhlaringiz bilan bo'lishing, reytingingizni oshiring va kelgusi turlar uchun vaucher hamda sovg'alarga ega bo'ling.",
       "highlights": [
         "Sharhlar uchun bonus ballar",
