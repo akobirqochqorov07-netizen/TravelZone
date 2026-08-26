@@ -231,10 +231,10 @@
       block.innerHTML = `
 <div data-rsts-slide-class="morning">
 <div class="slide-loader"><div class="spinner"></div></div>
-<video muted playsinline loop autoplay preload="auto" poster="${media.poster}"
+<video muted playsinline loop autoplay preload="auto" poster="${baseUrl(media.poster)}"
   data-rsts-background data-rsts-scale-mode="crop" style="width:100%;height:100%;object-fit:cover;">
-  <source src="${media.videoMobile}" type="video/mp4" media="(max-width: 1024px)">
-  <source src="${media.videoHd}" type="video/mp4" media="(min-width: 1025px)">
+  <source src="${baseUrl(media.videoMobile)}" type="video/mp4" media="(max-width: 1024px)">
+  <source src="${baseUrl(media.videoHd)}" type="video/mp4" media="(min-width: 1025px)">
 </video>
 </div>`;
       article.insertBefore(block, summerSlider);

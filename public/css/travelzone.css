@@ -1423,3 +1423,216 @@ img[src*="wanderhotels-logo"] {
   flex: 0 0 290px !important;
   width: 290px !important;
 }
+
+/* ===== TRAVEL ZONE CUSTOM OVERRIDES ===== */
+
+/* 1. Fix side-wall branding text */
+.start #main::before,
+.start #main::before,
+.vertical-text #main::before {
+  content: "Travel Zone" !important;
+}
+
+.start #main::after,
+.start #main::after,
+.vertical-text #main::after {
+  content: "Travel Zone" !important;
+}
+
+/* 2. Fix second page mountain-shape top border relative path */
+.parallax #wrapper::before {
+  background-image: url('../files/content/graphics/mountain-scroll.svg') !important;
+}
+
+.parallax.white #wrapper::before {
+  background-image: url('../files/content/graphics/mountain-scroll-white.svg') !important;
+}
+
+/* 3. Two bottom buttons uniform sizes (Newsletter & Guides) */
+#last .ce_rs_column_start.grid-two {
+  display: flex !important;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: stretch;
+  gap: 40px;
+}
+
+#last .ce_rs_column_start.grid-two>div {
+  flex: 1 1 300px;
+  max-width: 500px;
+}
+
+#last .bigbuttn.buttn {
+  margin-top: 40px !important;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+#last .bigbuttn.buttn a {
+  width: 100% !important;
+  min-height: 80px;
+  height: auto !important;
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  padding: 20px 40px !important;
+  font-size: 1.3em !important;
+  text-align: center;
+  border-radius: 50px;
+}
+
+/* Ensure arrow doesn't absolute position strangely */
+#last .bigbuttn.buttn a::before {
+  position: static !important;
+  margin-right: 15px;
+  flex-shrink: 0;
+}
+
+/* 4. Mobile Header UI Alignment (Logo and Language Switcher) */
+@media (max-width: 799px) {
+  .before-header {
+    display: flex !important;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+
+  .before-header>div:first-child {
+    display: flex !important;
+    align-items: center;
+    gap: 8px;
+    z-index: 10;
+  }
+
+  /* Absolute center the logo */
+  .logo,
+  .logo-beige {
+    position: absolute !important;
+    left: 50% !important;
+    top: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    margin: 0 !important;
+    z-index: 5;
+    width: 70px !important;
+  }
+
+  .logo img,
+  .logo-beige img {
+    max-height: 32px;
+    width: auto !important;
+    object-fit: contain;
+  }
+
+  .logo-text-sub {
+    display: none !important;
+    /* Hide tiny subtext to clean up mobile header */
+  }
+
+  .switcher {
+    z-index: 10;
+    padding-right: 0 !important;
+  }
+
+  /* Compact language switcher */
+  .mod_changelanguage ul {
+    margin-left: 8px !important;
+    gap: 4px;
+  }
+
+  .mod_changelanguage li {
+    margin-right: 0 !important;
+  }
+
+  .mod_changelanguage li a {
+    font-size: 0.75em !important;
+    padding: 3px 5px !important;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    border-radius: 4px;
+    background: rgba(255, 255, 255, 0.1);
+    color: var(--white) !important;
+  }
+
+  body.is-scrolled .mod_changelanguage li a,
+  body.dark-header .mod_changelanguage li a {
+    border-color: rgba(0, 0, 0, 0.15);
+    background: rgba(0, 0, 0, 0.05);
+    color: var(--black) !important;
+  }
+}
+
+/* 5. Mobile Tour Catalog Tabs positioning and full-width cards */
+@media (max-width: 799px) {
+  #catalog-list-container {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 20px !important;
+  }
+
+  /* Horizontal scroll tabs at the top */
+  .tz-catalog-tabs-bar {
+    flex-direction: row !important;
+    overflow-x: auto !important;
+    white-space: nowrap !important;
+    position: static !important;
+    width: 100% !important;
+    padding: 4px 15px 16px !important;
+    justify-content: flex-start !important;
+    align-self: center !important;
+    scrollbar-width: none;
+    /* Firefox */
+  }
+
+  .tz-catalog-tabs-bar::-webkit-scrollbar {
+    display: none;
+    /* Chrome/Safari */
+  }
+
+  .tz-tab-btn {
+    flex: 0 0 auto !important;
+    width: auto !important;
+    display: inline-block !important;
+    padding: 6px 14px !important;
+    font-size: 0.85em !important;
+  }
+
+  /* Allow full cards rendering */
+  .tz-catalog-slider-wrap {
+    width: 100% !important;
+    overflow: visible !important;
+  }
+
+  .tz-catalog-track-wrapper {
+    overflow-x: auto !important;
+  }
+
+  .tz-catalog-track {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+
+  .tz-wh-card {
+    flex: 0 0 280px !important;
+    width: 280px !important;
+  }
+}
+
+/* 6. Mobile Center "Nega Travel Zone" Rasm */
+@media (max-width: 799px) {
+  #marquee-section+.mod_article img[src*="nega.png"] {
+    max-width: 90% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-top: 25px !important;
+    margin-bottom: 10px !important;
+    float: none !important;
+    display: block !important;
+  }
+
+  #marquee-section+.mod_article .rs-column {
+    text-align: center !important;
+  }
+}
