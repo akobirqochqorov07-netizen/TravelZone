@@ -73,5 +73,13 @@ export default defineConfig(({ command }) => ({
   build: {
     outDir: 'dist',
     emptyOutDir: true,
+    rollupOptions: {
+      input: {
+        main: path.resolve('index.html'),
+        activity: path.resolve('activity.html'),
+        experience: path.resolve('experience.html'),
+        service: path.resolve('service.html'),
+      },
+    },
   },
 }));
