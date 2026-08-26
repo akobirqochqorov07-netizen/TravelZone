@@ -4,7 +4,7 @@
  */
 (function () {
   // Base URL: read from <base href> tag (Vite sets this correctly for both local and GitHub Pages)
-  const BASE = (function() {
+  const BASE = (function () {
     const tag = document.querySelector('base[href]');
     if (!tag) return '';
     try {
@@ -14,7 +14,7 @@
         return new URL(href).pathname.replace(/\/$/, '');
       }
       return href.replace(/\/$/, '');
-    } catch(e) { return ''; }
+    } catch (e) { return ''; }
   })();
 
   function baseUrl(path) {
@@ -201,9 +201,9 @@
             slider.style.display = isMatch ? '' : 'none';
             slider.querySelectorAll('video').forEach(v => {
               try {
-                if (isMatch) { v.muted = true; v.play().catch(() => {}); }
+                if (isMatch) { v.muted = true; v.play().catch(() => { }); }
                 else v.pause();
-              } catch(e) {}
+              } catch (e) { }
             });
           });
 
@@ -643,11 +643,11 @@
           </div>
           <div class="tz-wh-card__prices">
             <div class="tz-wh-price">
-              <img src="/files/content/graphics/summer.svg" width="16" height="16" alt="Summer" onerror="this.style.display='none'">
+              <img src="${baseUrl('/files/content/graphics/summer.svg')}" width="16" height="16" alt="Summer" onerror="this.style.display='none'">
               <span>${priceLabel()} $${tour.startingPrice}</span>
             </div>
             <div class="tz-wh-price">
-              <img src="/files/content/graphics/winter.svg" width="16" height="16" alt="Winter" onerror="this.style.display='none'">
+              <img src="${baseUrl('/files/content/graphics/winter.svg')}" width="16" height="16" alt="Winter" onerror="this.style.display='none'">
               <span>${priceLabel()} $${Math.round(tour.startingPrice * 1.15)}</span>
             </div>
           </div>
@@ -760,11 +760,11 @@
     const before = document.querySelector('.before-buttons');
     if (before) {
       before.innerHTML = `
-<a href="#partner" title="Partner"><img loading="lazy" src="files/content/graphics/partner.svg" alt=""> <span data-i18n="nav.partner">Become a Partner</span></a>
-<a href="#agencies" title="Agencies"><img loading="lazy" src="files/content/graphics/wanderer.svg" alt=""> <span data-i18n="nav.agencies">Travel Agencies</span></a>
-<a href="#contact" title="Contact"><img loading="lazy" src="files/content/graphics/member.svg" alt=""> <span data-i18n="contact.title">Contact</span></a>
-<a href="#support" title="Support"><img loading="lazy" src="files/content/graphics/rucksack.svg" alt=""> <span data-i18n="contact.supportTitle">Support</span></a>
-<a href="#about" title="About"><img loading="lazy" src="files/content/graphics/presse.svg" alt=""> <span data-i18n="nav.about">About Travel Zone</span></a>`;
+<a href="#partner" title="Partner"><img loading="lazy" src="${baseUrl('/files/content/graphics/partner.svg')}" alt=""> <span data-i18n="nav.partner">Become a Partner</span></a>
+<a href="#agencies" title="Agencies"><img loading="lazy" src="${baseUrl('/files/content/graphics/wanderer.svg')}" alt=""> <span data-i18n="nav.agencies">Travel Agencies</span></a>
+<a href="#contact" title="Contact"><img loading="lazy" src="${baseUrl('/files/content/graphics/member.svg')}" alt=""> <span data-i18n="contact.title">Contact</span></a>
+<a href="#support" title="Support"><img loading="lazy" src="${baseUrl('/files/content/graphics/rucksack.svg')}" alt=""> <span data-i18n="contact.supportTitle">Support</span></a>
+<a href="#about" title="About"><img loading="lazy" src="${baseUrl('/files/content/graphics/presse.svg')}" alt=""> <span data-i18n="nav.about">About Travel Zone</span></a>`;
     }
   }
 

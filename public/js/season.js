@@ -84,10 +84,10 @@
       el.style.display = isMatch ? '' : 'none';
       if (isMatch) {
         el.querySelectorAll('video').forEach(v => {
-          try { v.muted = true; v.play().catch(() => {}); } catch(e) {}
+          try { v.muted = true; v.play().catch(() => { }); } catch (e) { }
         });
       } else {
-        el.querySelectorAll('video').forEach(v => { try { v.pause(); } catch(e) {} });
+        el.querySelectorAll('video').forEach(v => { try { v.pause(); } catch (e) { } });
       }
     });
   }
@@ -186,12 +186,7 @@
     syncButtons(season);
     if (updateHistory) updateUrl(season, historyMode);
     if (saveSession) {
-      fetch((window.BASE_URL||'') + '/set-season', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-        body: new URLSearchParams({ season }),
-        credentials: 'same-origin',
-      }).catch(() => { });
+      // GitHub Pages is static — no server endpoint. Season persisted via sessionStorage + URL.
     }
     if (updateSlider) refreshSlider(season);
     document.dispatchEvent(new CustomEvent('season:changed', { detail: { season } }));
