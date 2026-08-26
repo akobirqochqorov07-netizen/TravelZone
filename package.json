@@ -6,7 +6,7 @@
   "scripts": {
     "download": "node scripts/download-assets.mjs",
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && node scripts/fix-dist-paths.mjs",
     "preview": "vite preview"
   },
   "devDependencies": {

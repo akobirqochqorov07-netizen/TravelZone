@@ -68,6 +68,35 @@
     return 'from';
   }
 
+  function onRequestPrice() {
+    return lang === 'ru' ? 'Цена по запросу' : lang === 'en' ? 'Price on request' : "Narx so‘rov bo‘yicha";
+  }
+
+  function addExpandedCatalog() {
+    const extraDestinations = [
+      ['tbilisi','Tbilisi','Georgia','https://images.unsplash.com/photo-1565008576549-57569a49371d?auto=format&fit=crop&w=1600&q=80'],
+      ['phuket','Phuket','Thailand','https://images.unsplash.com/photo-1589394815804-964ed0be2eb5?auto=format&fit=crop&w=1600&q=80'],
+      ['seoul','Seoul','South Korea','https://images.unsplash.com/photo-1538485399081-7c8979d0d6b3?auto=format&fit=crop&w=1600&q=80'],
+      ['zomin','Zomin',"O'zbekiston",'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1600&q=80'],
+      ['parkent','Parkent',"O'zbekiston",'https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1600&q=80'],
+      ['tovoqsoy','Tovoqsoy',"O'zbekiston",'https://images.unsplash.com/photo-1464278533981-50106e6176b1?auto=format&fit=crop&w=1600&q=80'],
+      ['moynaq',"Mo'ynoq", "O'zbekiston",'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80'],
+      ['shahrisabz','Shahrisabz',"O'zbekiston",'https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=1600&q=80'],
+    ].map(([id,name,country,coverImage]) => ({ id, name:{uz:name,en:name,ru:name}, country:{uz:country,en:country === "O'zbekiston" ? 'Uzbekistan' : country,ru:country}, coverImage, tags: id === 'zomin' || id === 'tovoqsoy' ? ['mountains','nature'] : ['culture','nature'] }));
+    destinations.push(...extraDestinations.filter(d => !destinations.some(existing => existing.id === d.id)));
+    const extraTours = [
+      ['tbilisi-weekend','tbilisi','Tbilisi: vino va eski shahar — 4 kun',['city','culture'],['spring','autumn']],
+      ['phuket-island','phuket','Phuket orollari va plyajlari — 7 kun',['beach','resort'],['winter','spring']],
+      ['seoul-culture','seoul','Seul: zamonaviylik va an’ana — 6 kun',['city','culture'],['spring','autumn']],
+      ['zomin-nature','zomin','Zomin: archa o‘rmonlari va tabiat — 3 kun',['mountains','nature'],['spring','summer','autumn']],
+      ['parkent-vineyards','parkent','Parkent uzumzorlari bo‘ylab sayr — 1 kun',['nature','culture'],['spring','autumn']],
+      ['tovoqsoy-hike','tovoqsoy','Tovoqsoy: ikki kunlik trek — 2 kun',['mountains','adventure'],['spring','summer','autumn']],
+      ['moynaq-aral','moynaq','Mo‘ynoq va Orol qirg‘og‘i — 3 kun',['nature','culture'],['spring','autumn']],
+      ['shahrisabz-hisarak','shahrisabz','Shahrisabz va Hisorak — 3 kun',['mountains','culture'],['spring','summer','autumn']],
+    ].map(([id,destinationId,title,tags,seasons]) => ({ id, slug:id, destinationId, agencyId:'silk-road-travel', durationDays:Number(title.match(/\d+/)?.[0] || 1), startingPrice:null, currency:'USD', title:{uz:title,en:title,ru:title}, description:{uz:'Rasmiy turistik marshrutlardan ilhomlangan dastur. Aniq tarkib va sana bo‘yicha narx uchun Travel Zone mutaxassisiga murojaat qiling.',en:'An itinerary inspired by official tourism routes. Contact Travel Zone for dates and an exact quote.',ru:'Маршрут вдохновлён официальными туристическими программами. Для дат и точной цены обратитесь в Travel Zone.'}, coverImage:extraDestinations.find(d => d.id === destinationId).coverImage, tags, seasons, availability:'on-request' }));
+    tours.push(...extraTours.filter(tour => !tours.some(existing => existing.id === tour.id)));
+  }
+
   function getInitialLang() {
     const q = (new URLSearchParams(location.search).get('lang') || '').toLowerCase();
     if (SUPPORTED.includes(q)) return q;
@@ -171,49 +200,6 @@
       const span = btn.querySelector('span');
       if (span && s) span.textContent = t(`seasons.${s}`);
       btn.title = `Travel Zone ${t(`seasons.${s}`)}`;
-
-      // Wire season click: update SEASON, dispatch event, update slogan immediately
-      // Use a flag to avoid re-registering on each applySeasonLabels call
-      if (!btn.dataset.tzSeasonWired) {
-        btn.dataset.tzSeasonWired = '1';
-        btn.addEventListener('click', () => {
-          const newSeason = btn.dataset.season;
-          if (!newSeason) return;
-          window.SEASON = newSeason;
-
-          // Toggle html[data-season] and body season classes immediately
-          document.documentElement.setAttribute('data-season', newSeason);
-          const allSeasons = ['spring', 'summer', 'autumn', 'winter'];
-          allSeasons.forEach(x => {
-            document.documentElement.classList.toggle('season-' + x, x === newSeason);
-            document.body.classList.toggle(x, x === newSeason);
-          });
-
-          // Update active button highlight
-          document.querySelectorAll('.season-switch').forEach(b => {
-            b.classList.toggle('is-active', b.dataset.season === newSeason);
-            b.setAttribute('aria-disabled', b.dataset.season === newSeason ? 'true' : 'false');
-          });
-
-          // Season change: only affect hero video sliders, nothing else
-          document.querySelectorAll('#article-833 .start-slider').forEach(slider => {
-            const isMatch = slider.classList.contains(newSeason);
-            slider.style.display = isMatch ? '' : 'none';
-            slider.querySelectorAll('video').forEach(v => {
-              try {
-                if (isMatch) { v.muted = true; v.play().catch(() => { }); }
-                else v.pause();
-              } catch (e) { }
-            });
-          });
-
-          // Update hero slogan
-          updateHeroSlogan();
-
-          // Notify other listeners (like tour catalog)
-          document.dispatchEvent(new CustomEvent('season:changed', { detail: { season: newSeason } }));
-        });
-      }
     });
   }
 
@@ -460,8 +446,8 @@
     }
     const left = compare.querySelector('.compare-link-left');
     const right = compare.querySelector('.compare-link-right');
-    if (left) left.href = '#destinations';
-    if (right) right.href = '#destinations';
+    if (left) left.href = baseUrl('/activity.html?activity=summer-hiking');
+    if (right) right.href = baseUrl('/activity.html?activity=winter-ski');
   }
 
   function updateWhyImages() {
@@ -625,10 +611,14 @@
         dest?.region ? localized(dest.region) : '',
         dest?.country ? localized(dest.country) : ''
       ].filter(Boolean).join(' · ');
+      const isForeign = dest?.country?.en !== 'Uzbekistan';
+      const discoveryAction = isForeign
+        ? `<a href="https://www.aviasales.uz/" class="tz-wh-btn-outline" target="_blank" rel="noopener noreferrer" draggable="false">Aviasales’da narx</a>`
+        : `<a href="https://uzbekistan.travel/uz/c/turistik-marshrutlar/" class="tz-wh-btn-outline" target="_blank" rel="noopener noreferrer" draggable="false">Rasmiy marshrut</a>`;
       return `
         <div class="tz-wh-card">
           <div class="tz-wh-card__image">
-            <a href="#inquiry" draggable="false">
+            <a href="#contact" draggable="false">
               <img src="${tour.coverImage}" alt="${localized(tour.title)}" loading="lazy" draggable="false">
             </a>
             <span class="tz-wh-badge ${catBadge.key}">${catBadge.label}</span>
@@ -638,22 +628,22 @@
             <span class="tz-wh-location">${location}</span>
           </div>
           <div class="tz-wh-card__body">
-            <h3><a href="#inquiry" draggable="false">${localized(tour.title)}</a></h3>
+            <h3><a href="#contact" draggable="false">${localized(tour.title)}</a></h3>
             ${agency ? `<p class="tz-wh-agency">${agency.name}${agency.verified ? ` <span class="tz-wh-verified">${t('agency.verified')}</span>` : ''}</p>` : ''}
           </div>
           <div class="tz-wh-card__prices">
             <div class="tz-wh-price">
               <img src="${baseUrl('/files/content/graphics/summer.svg')}" width="16" height="16" alt="Summer" onerror="this.style.display='none'">
-              <span>${priceLabel()} $${tour.startingPrice}</span>
+              <span>${tour.startingPrice ? `${priceLabel()} $${tour.startingPrice}` : onRequestPrice()}</span>
             </div>
             <div class="tz-wh-price">
               <img src="${baseUrl('/files/content/graphics/winter.svg')}" width="16" height="16" alt="Winter" onerror="this.style.display='none'">
-              <span>${priceLabel()} $${Math.round(tour.startingPrice * 1.15)}</span>
+              <span>${tour.startingPrice ? `${priceLabel()} $${Math.round(tour.startingPrice * 1.15)}` : onRequestPrice()}</span>
             </div>
           </div>
           <div class="tz-wh-card__btns">
-            <a href="#inquiry" class="tz-wh-btn-outline" draggable="false">${t('catalog.inquire')}</a>
-            <a href="#inquiry" class="tz-wh-btn-fill" draggable="false" data-tour-id="${tour.id}">${t('catalog.book')}</a>
+            ${discoveryAction}
+            <a href="#contact" class="tz-wh-btn-fill" draggable="false" data-tour-id="${tour.id}">${t('catalog.book')}</a>
           </div>
         </div>`;
     }).join('');
@@ -704,7 +694,8 @@
     }
 
     // Mouse drag scroll
-    if (track) {
+    if (track && track.dataset.scrollWired !== 'true') {
+      track.dataset.scrollWired = 'true';
       let isDragging = false, startX = 0, scrollLeft = 0;
       track.addEventListener('mousedown', (e) => {
         isDragging = true;
@@ -720,6 +711,11 @@
         const x = e.pageX - track.offsetLeft;
         track.scrollLeft = scrollLeft - (x - startX);
       });
+      track.addEventListener('wheel', (e) => {
+        if (!e.shiftKey || Math.abs(e.deltaY) <= Math.abs(e.deltaX)) return;
+        e.preventDefault();
+        track.scrollLeft += e.deltaY;
+      }, { passive: false });
     }
 
     document.dispatchEvent(new CustomEvent('tz:catalog-updated'));
@@ -727,6 +723,11 @@
   }
 
   function fixGlobalLinks() {
+    const guideLink = document.querySelector('[data-open-overlay="#hotelguide-overlay"]');
+    if (guideLink) guideLink.setAttribute('href', '#destinations');
+    const newsletterLink = document.querySelector('[data-open-overlay="#newsletter-overlay"]');
+    if (newsletterLink) newsletterLink.setAttribute('href', '#contact');
+
     document.querySelectorAll('a[href^="/en/"], a[href*="wanderhotel"], a[href*="book-a-wander"]').forEach((a) => {
       const h = a.getAttribute('href') || '';
       if (h.includes('hotel') || h.includes('wander') || h.includes('offer') || h.includes('watchlist')) {
@@ -740,7 +741,10 @@
       }
     });
     document.querySelectorAll('a[href="/en/"], a[href="/"]').forEach((a) => {
-      if (!a.closest('.lang-switch')) a.setAttribute('href', '/?season=' + (window.SEASON || 'summer'));
+      if (!a.closest('.lang-switch')) {
+        const query = new URLSearchParams({ season: window.SEASON || 'summer', lang });
+        a.setAttribute('href', baseUrl('/?' + query.toString()));
+      }
     });
     const form = document.querySelector('.buchungsleiste form');
     if (form) {
@@ -776,6 +780,36 @@
         if (!SUPPORTED.includes(next) || next === lang) return;
         await setLang(next);
       });
+    });
+  }
+
+  function wireMobileQuickControls() {
+    const controls = document.querySelector('.mobile-quick-controls');
+    if (!controls) return;
+    const closePanels = () => {
+      controls.querySelectorAll('.mobile-quick-panel').forEach((panel) => { panel.hidden = true; });
+      controls.querySelectorAll('[data-mobile-panel-trigger]').forEach((trigger) => {
+        trigger.setAttribute('aria-expanded', 'false');
+      });
+    };
+    controls.querySelectorAll('[data-mobile-panel-trigger]').forEach((trigger) => {
+      trigger.addEventListener('click', () => {
+        const panel = controls.querySelector(`#mobile-${trigger.dataset.mobilePanelTrigger}-panel`);
+        if (!panel) return;
+        const opening = panel.hidden;
+        closePanels();
+        panel.hidden = !opening;
+        trigger.setAttribute('aria-expanded', String(opening));
+      });
+    });
+    controls.querySelectorAll('a, .season-switch').forEach((item) => {
+      item.addEventListener('click', closePanels);
+    });
+    document.addEventListener('click', (event) => {
+      if (!controls.contains(event.target)) closePanels();
+    });
+    document.addEventListener('keydown', (event) => {
+      if (event.key === 'Escape') closePanels();
     });
   }
 
@@ -826,6 +860,71 @@
     });
   }
 
+  function wireLocalWatchlist() {
+    const storageKey = 'tz-watchlist';
+    const read = () => {
+      try {
+        const ids = JSON.parse(localStorage.getItem(storageKey) || '[]');
+        return Array.isArray(ids) ? ids.map(String) : [];
+      } catch { return []; }
+    };
+    const write = (ids) => localStorage.setItem(storageKey, JSON.stringify([...new Set(ids)]));
+    const sync = () => {
+      const ids = read();
+      document.querySelectorAll('.watchlist-button[data-id]').forEach((button) => {
+        const active = ids.includes(String(button.dataset.id));
+        button.classList.toggle('add-button', !active);
+        button.classList.toggle('remove-button', active);
+        button.setAttribute('aria-pressed', String(active));
+      });
+      document.querySelectorAll('#watchlist-count, #watchlist-overlay-count').forEach((el) => {
+        el.textContent = String(ids.length);
+      });
+      return ids;
+    };
+    const renderOverlay = () => {
+      const ids = sync();
+      const list = document.getElementById('watchlist-items');
+      if (!list) return;
+      const selected = tours.filter((tour) => ids.includes(String(tour.id)));
+      if (!selected.length) {
+        list.innerHTML = `<p>${t('favorites.empty', 'No favorites yet.')}</p>`;
+        return;
+      }
+      list.innerHTML = selected.map((tour) => `
+        <article class="cm_listing_overlay default">
+          <a href="#inquiry">
+            <img src="${tour.coverImage}" alt="${localized(tour.title)}" loading="lazy">
+            <h3>${localized(tour.title)}</h3>
+          </a>
+        </article>`).join('');
+    };
+    document.addEventListener('click', (event) => {
+      const button = event.target.closest('.tz-wh-watchlist[data-id]');
+      if (!button) return;
+      event.preventDefault();
+      event.stopPropagation();
+      const id = String(button.dataset.id);
+      const ids = read();
+      const next = ids.includes(id) ? ids.filter((value) => value !== id) : [...ids, id];
+      write(next);
+      sync();
+    });
+    document.querySelector('a[title="Favorites"]')?.addEventListener('click', (event) => {
+      event.preventDefault();
+      const overlay = document.getElementById('watchlist-overlay');
+      if (!overlay) return;
+      overlay.hidden = !overlay.hidden;
+      if (!overlay.hidden) renderOverlay();
+    });
+    document.getElementById('close-watchlist')?.addEventListener('click', () => {
+      const overlay = document.getElementById('watchlist-overlay');
+      if (overlay) overlay.hidden = true;
+    });
+    document.addEventListener('tz:catalog-updated', sync);
+    sync();
+  }
+
   function wireContactActions() {
     document.querySelectorAll('[data-tz-action]').forEach((el) => {
       el.onclick = (e) => {
@@ -854,6 +953,7 @@
     destinations = Array.isArray(destinationsData) ? destinationsData : destinationsData.destinations || [];
     tours = Array.isArray(toursData) ? toursData : toursData.tours || [];
     agencies = Array.isArray(agenciesData) ? agenciesData : agenciesData.agencies || [];
+    addExpandedCatalog();
     contact = contactData;
     seasons = seasonsData;
 
@@ -892,7 +992,9 @@
     updateCompareSection();
     updateWhyImages();
     wireLangSwitcher();
+    wireMobileQuickControls();
     wireInquiry();
+    wireLocalWatchlist();
     wireContactActions();
     renderTourCatalog();
 
@@ -905,12 +1007,11 @@
       servicesNext.addEventListener('click', () => servicesTrack.scrollBy({ left: 340, behavior: 'smooth' }));
     }
 
-    // Wire service card clicks for modal
+    // Every service card leads to its own shareable detail page.
     document.querySelectorAll('.tz-service-card[data-card-key]').forEach((card) => {
-      card.addEventListener('click', (e) => {
-        e.preventDefault();
-        openCardModal(card.dataset.cardKey);
-      });
+      const params = new URLSearchParams(location.search);
+      params.set('service', card.dataset.cardKey);
+      card.href = `${baseUrl('/service.html')}?${params.toString()}`;
     });
 
     document.addEventListener('season:changed', () => {

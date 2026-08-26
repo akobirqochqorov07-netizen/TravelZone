@@ -1,0 +1,114 @@
+:root { color-scheme: light; --ink:#13223b; --paper:#f6f3ef; --gold:#ffb900; --plum:#890c64; }
+* { box-sizing:border-box; }
+html { scroll-behavior:smooth; }
+body { margin:0; color:var(--ink); background:var(--paper); font-family:Arial, Helvetica, sans-serif; }
+.service-page { overflow:hidden; }
+.service-back { position:fixed; z-index:10; top:26px; left:30px; padding:12px 17px; border:1px solid rgba(255,255,255,.65); border-radius:999px; color:#fff; background:rgba(0,0,0,.18); text-decoration:none; backdrop-filter:blur(10px); }
+.service-hero { position:relative; min-height:88vh; display:grid; align-items:end; overflow:hidden; color:#fff; }
+.service-hero img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+.service-hero__shade { position:absolute; inset:0; background:linear-gradient(90deg,rgba(7,17,31,.8),rgba(7,17,31,.26) 72%),linear-gradient(0deg,rgba(7,17,31,.6),transparent 55%); }
+.service-hero__content { position:relative; z-index:1; width:min(760px,calc(100% - 120px)); padding:0 0 90px 9vw; }
+.service-kicker,.service-eyebrow { display:block; margin-bottom:18px; color:var(--gold); font-size:.76rem; font-weight:700; letter-spacing:.16em; }
+h1,h2 { margin:0; font-family:Georgia, 'Times New Roman', serif; font-weight:400; line-height:.95; }
+h1 { max-width:720px; font-size:clamp(3.7rem,8vw,7.5rem); }
+.service-hero p { max-width:610px; margin:28px 0 34px; font-size:clamp(1.05rem,1.7vw,1.35rem); line-height:1.55; }
+.service-primary { display:inline-flex; align-items:center; min-height:56px; padding:14px 28px; border-radius:999px; color:#172033; background:var(--gold); font-weight:700; text-decoration:none; }
+.service-intro,.service-steps { width:min(1160px,calc(100% - 64px)); margin:0 auto; padding:130px 0; }
+.service-intro { display:grid; grid-template-columns:1fr 1.35fr; gap:70px; }
+.service-intro h2,.service-steps h2 { font-size:clamp(2.7rem,5vw,5rem); }
+.service-intro > p:last-child { max-width:680px; margin:0; font-size:1.2rem; line-height:1.75; }
+.service-benefits { padding:0 32px 100px; }
+.service-benefit-list { display:grid; grid-template-columns:repeat(3,1fr); gap:18px; width:min(1280px,100%); margin:auto; }
+.service-benefit { min-height:220px; padding:32px; border-radius:25px; background:#fff; box-shadow:0 10px 35px rgba(24,31,42,.08); }
+.service-benefit__number { color:var(--plum); font-size:.75rem; font-weight:700; letter-spacing:.12em; }
+.service-benefit h3 { margin:30px 0 12px; font-size:1.25rem; }
+.service-benefit p { margin:0; color:#4c5565; line-height:1.6; }
+.service-steps { display:grid; grid-template-columns:.85fr 1.15fr; gap:70px; border-top:1px solid rgba(19,34,59,.16); }
+.service-steps ol { margin:0; padding:0; list-style:none; counter-reset:steps; }
+.service-steps li { position:relative; min-height:108px; padding:0 0 28px 84px; counter-increment:steps; font-size:1.1rem; line-height:1.6; }
+.service-steps li::before { content:counter(steps, decimal-leading-zero); position:absolute; left:0; top:0; color:var(--plum); font-weight:700; font-size:1.1rem; }
+.service-closing { padding:120px 32px; text-align:center; color:#fff; background:var(--ink); }
+.service-closing p { max-width:700px; margin:0 auto 32px; font:400 clamp(2.7rem,5vw,5rem)/.98 Georgia,serif; }
+@media (max-width:700px) { .service-back{top:16px;left:16px;font-size:.85rem}.service-hero{min-height:760px}.service-hero__content{width:100%;padding:0 24px 70px}.service-intro,.service-steps{width:min(100% - 40px,620px);padding:76px 0;display:block}.service-intro>p:last-child{margin-top:28px}.service-benefits{padding:0 20px 60px}.service-benefit-list{grid-template-columns:1fr}.service-steps ol{margin-top:45px}.service-closing{padding:80px 20px} }
+
+/* Each service has an individual art direction, not a shared card template. */
+.service-page::before,
+.service-page::after { content:""; position:fixed; z-index:-1; pointer-events:none; border-radius:50%; filter:blur(1px); opacity:.5; }
+.service-page::before { width:38vw; height:38vw; top:38%; left:-15vw; }
+.service-page::after { width:30vw; height:30vw; right:-12vw; bottom:8%; }
+.service-page .service-benefit { overflow:hidden; }
+.service-page .service-benefit::after { display:block; margin-top:23px; color:var(--plum); font:700 1.7rem/1 Georgia,serif; }
+
+/* Concierge — elegant, hand-planned journey with a floating path. */
+.service--concierge { --gold:#e8b76c; --plum:#6c4835; }
+.service--concierge::before { background:#e8b76c; }
+.service--concierge::after { background:#b89070; }
+.service--concierge .service-hero__content::before { content:""; position:absolute; width:210px; height:100px; top:-80px; right:6%; border-top:2px solid rgba(232,183,108,.9); border-radius:50%; transform:rotate(-12deg); animation:tz-route 5s ease-in-out infinite; }
+.service--concierge .service-benefit { border-top:4px solid #e8b76c; }
+.service--concierge .service-benefit::after { content:"✦"; }
+
+/* Partner — precise B2B network and connected business nodes. */
+.service--partner { --gold:#54d6c4; --plum:#135f78; }
+.service--partner .service-hero__shade { background:linear-gradient(90deg,rgba(4,34,57,.88),rgba(0,135,155,.28)),linear-gradient(0deg,rgba(4,34,57,.65),transparent 60%); }
+.service--partner .service-hero::after { content:""; position:absolute; inset:0; opacity:.38; background-image:radial-gradient(#54d6c4 1px,transparent 1px); background-size:34px 34px; animation:tz-grid 14s linear infinite; }
+.service--partner .service-benefit { border-radius:8px; border-left:5px solid #54d6c4; }
+.service--partner .service-benefit::after { content:"↗"; }
+.service--partner .service-steps li::after { content:""; position:absolute; left:8px; top:27px; width:2px; height:calc(100% - 24px); background:#54d6c4; }
+
+/* Newsletter — tactile editorial cards and a calm reading rhythm. */
+.service--newsletter { --gold:#f3bb5a; --plum:#b44a67; }
+.service--newsletter::before { background:#f6d99f; }
+.service--newsletter .service-hero__shade { background:linear-gradient(90deg,rgba(64,19,32,.75),rgba(64,19,32,.13)),linear-gradient(0deg,rgba(64,19,32,.58),transparent 63%); }
+.service--newsletter .service-intro { transform:rotate(-.4deg); }
+.service--newsletter .service-benefit { border-radius:2px 22px 2px 22px; box-shadow:12px 12px 0 rgba(180,74,103,.09); }
+.service--newsletter .service-benefit:nth-child(2) { transform:translateY(28px) rotate(1.2deg); }
+.service--newsletter .service-benefit::after { content:"✉"; }
+
+/* Scout — playful passport stamps, motion and community energy. */
+.service--scout { --gold:#ff9e43; --plum:#d54c50; }
+.service--scout::after { background:#ffb66d; }
+.service--scout .service-hero__content::after { content:"TZ • SCOUT"; display:grid; place-items:center; position:absolute; width:108px; height:108px; right:2%; top:-78px; border:3px dashed #ffb66d; border-radius:50%; color:#ffb66d; font-size:.72rem; font-weight:700; letter-spacing:.12em; transform:rotate(-12deg); animation:tz-stamp 5s ease-in-out infinite; }
+.service--scout .service-benefit { border:2px dashed rgba(213,76,80,.5); background:#fffaf4; }
+.service--scout .service-benefit::after { content:"★"; }
+.service--scout .service-steps li::before { color:#d54c50; transform:rotate(-7deg); }
+
+/* Tours — map-like routing and compass-inspired cards. */
+.service--findTours { --gold:#78cfaa; --plum:#167a61; }
+.service--findTours::before { background:#a9dcb5; }
+.service--findTours .service-hero__shade { background:linear-gradient(90deg,rgba(4,55,45,.8),rgba(4,55,45,.13)); }
+.service--findTours .service-benefits { background:linear-gradient(135deg,transparent 49%,rgba(120,207,170,.11) 50%,transparent 51%); background-size:44px 44px; }
+.service--findTours .service-benefit { border-radius:50% 50% 18px 18px; text-align:center; }
+.service--findTours .service-benefit::after { content:"⌖"; }
+.service--findTours .service-steps ol { border-left:2px dashed #78cfaa; padding-left:28px; }
+
+/* Agencies — trustworthy, structured and verification-led. */
+.service--agencies { --gold:#76a7e6; --plum:#294c8f; }
+.service--agencies::after { background:#b7d2f2; }
+.service--agencies .service-hero__shade { background:linear-gradient(90deg,rgba(12,28,69,.82),rgba(12,28,69,.18)); }
+.service--agencies .service-benefit { border-radius:14px; border:1px solid rgba(41,76,143,.2); }
+.service--agencies .service-benefit::after { content:"✓"; width:35px; height:35px; display:grid; place-items:center; border:1px solid #294c8f; border-radius:50%; }
+.service--agencies .service-steps li { border-bottom:1px solid rgba(41,76,143,.15); }
+
+/* Stories — an editorial journal with layered paper-like cards. */
+.service--stories { --gold:#e1876a; --plum:#8d3c50; }
+.service--stories::before { background:#efbbab; }
+.service--stories .service-hero__shade { background:linear-gradient(90deg,rgba(60,21,34,.78),rgba(60,21,34,.13)); }
+.service--stories .service-intro h2 { font-style:italic; }
+.service--stories .service-benefit { border-radius:0; border-bottom:5px solid #e1876a; }
+.service--stories .service-benefit:nth-child(2) { transform:translateY(38px); }
+.service--stories .service-benefit::after { content:"❦"; }
+.service--stories .service-steps { background:linear-gradient(90deg,transparent 0 8%,rgba(141,60,80,.12) 8% 8.2%,transparent 8.2%); }
+
+/* Deals — energetic, clear and offer-led without looking generic. */
+.service--deals { --gold:#ffbd18; --plum:#9a1758; }
+.service--deals::after { background:#ffc94d; }
+.service--deals .service-hero__shade { background:linear-gradient(90deg,rgba(48,8,40,.82),rgba(48,8,40,.16)); }
+.service--deals .service-kicker { display:inline-block; padding:9px 13px; background:#ffbd18; color:#37112c; transform:rotate(-2deg); }
+.service--deals .service-benefit { border-radius:28px 4px 28px 4px; background:#fff9e7; }
+.service--deals .service-benefit::after { content:"%"; font-size:2.4rem; }
+.service--deals .service-steps li::before { display:grid; width:45px; height:45px; place-items:center; border-radius:50%; background:#ffbd18; color:#37112c; }
+
+@keyframes tz-route { 50% { transform:translate(16px,8px) rotate(-5deg); } }
+@keyframes tz-grid { to { background-position:68px 68px; } }
+@keyframes tz-stamp { 45%,55% { transform:rotate(-4deg) scale(1.06); } }
+@media (prefers-reduced-motion:reduce) { *,*::before,*::after { scroll-behavior:auto !important; animation:none !important; transition:none !important; } }

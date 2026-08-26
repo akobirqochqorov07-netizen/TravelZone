@@ -166,6 +166,7 @@
       scrollHashAfterUpdate = true,
       smoothHashScroll = false,
       updateSlider = true,
+      resetToHero = false,
     } = opts;
 
     if (!isValid(season)) return;
@@ -176,6 +177,7 @@
       restoreSwitcher();
       if (saveSession) setStored(season);
       if (updateHistory) updateUrl(season, historyMode);
+      if (resetToHero) window.scrollTo({ top: 0, left: 0, behavior: 'auto' });
       if (scrollHashAfterUpdate) deferHash(smoothHashScroll, 50);
       return;
     }
@@ -190,6 +192,7 @@
     }
     if (updateSlider) refreshSlider(season);
     document.dispatchEvent(new CustomEvent('season:changed', { detail: { season } }));
+    if (resetToHero) window.scrollTo({ top: 0, left: 0, behavior: 'auto' });
     if (scrollHashAfterUpdate) deferHash(smoothHashScroll, 120);
   }
 
@@ -223,9 +226,10 @@
         updateHistory: true,
         historyMode: 'replace',
         saveSession: true,
-        scrollHashAfterUpdate: true,
-        smoothHashScroll: true,
+        scrollHashAfterUpdate: false,
+        smoothHashScroll: false,
         updateSlider: true,
+        resetToHero: true,
       });
     });
   });

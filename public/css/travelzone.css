@@ -197,12 +197,101 @@ h3,
   opacity: 0.75;
 }
 
+.mobile-quick-controls {
+  display: none;
+}
+
+/* Keep the desktop header balanced regardless of language/season label width. */
+@media (min-width: 800px) {
+  .before-header {
+    box-sizing: border-box;
+    height: 150px;
+    min-height: 0;
+  }
+
+  .before-header > .flex,
+  .before-header > .switcher,
+  .before-header > .logo,
+  .before-header > .logo-beige {
+    position: absolute;
+    top: 50%;
+    margin: 0;
+  }
+
+  .before-header > .flex {
+    left: 60px;
+    transform: translateY(-50%);
+  }
+
+  .before-header > .switcher {
+    right: 60px;
+    transform: translateY(-50%);
+  }
+
+  .before-header > .logo,
+  .before-header > .logo-beige {
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
+
 /* ===== SEASON ISOLATION — hero video only =====
    Season switching ONLY affects .start-slider inside #article-833 (the hero).
    NO other page sections (intro, catalog, compare, etc.) are affected.
    Default: hide all seasonal sliders, show only the active one. */
 #article-833 .start-slider {
   will-change: transform;
+}
+
+/* All four hero videos use the same full-screen reel frame. The injected
+   spring/autumn slides do not receive RockSolid's generated wrappers, so the
+   frame is explicit instead of relying on that plugin's runtime markup. */
+#article-833 {
+  position: relative;
+  height: 100vh;
+  min-height: 520px;
+  overflow: hidden;
+}
+
+#article-833 .start-slider,
+#article-833 .start-slider > div,
+#article-833 .start-slider .rsts-slides,
+#article-833 .start-slider .rsts-slide,
+#article-833 .start-slider .rsts-slide > div {
+  width: 100% !important;
+  height: 100% !important;
+  min-height: 0 !important;
+}
+
+#article-833 .start-slider {
+  position: absolute !important;
+  inset: 0 !important;
+  margin: 0 !important;
+}
+
+#article-833 .start-slider video {
+  position: absolute !important;
+  inset: 0 !important;
+  display: block !important;
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  object-position: center center !important;
+  margin: 0 !important;
+}
+
+#article-833 .heading--hero {
+  position: absolute !important;
+  inset: 0 !important;
+  height: 100% !important;
+  z-index: 4;
+  pointer-events: none;
+}
+
+/* The legacy slider arrows look like a stray vertical scroll indicator. */
+#article-833 .rsts-next,
+#article-833 .rsts-prev {
+  display: none !important;
 }
 
 /* Hide all seasonal sliders by default */
@@ -623,11 +712,16 @@ html[data-season="winter"] #article-833 .start-slider.winter {
 .tz-catalog-slider-wrap {
   position: relative;
   display: flex;
+  flex: 1 1 0;
+  min-width: 0;
+  width: 0;
   gap: 24px;
   align-items: flex-start;
 }
 
 .tz-catalog-track-wrapper {
+  width: 100%;
+  min-width: 0;
   overflow-x: auto;
   scroll-behavior: smooth;
   scroll-snap-type: x mandatory;
@@ -1238,7 +1332,10 @@ html[data-season="winter"] #article-833 .start-slider.winter {
 
 .tz-tab-btn {
   position: relative;
-  padding: 10px 8px;
+  box-sizing: border-box;
+  height: 56px;
+  min-height: 56px;
+  padding: 8px 12px;
   width: 160px;
   min-width: 0;
   text-align: center;
@@ -1256,6 +1353,9 @@ html[data-season="winter"] #article-833 .start-slider.winter {
   font-family: inherit;
   white-space: normal;
   line-height: 1.3;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .tz-tab-btn:hover {
@@ -1442,6 +1542,7 @@ img[src*="wanderhotels-logo"] {
 /* 2. Fix second page mountain-shape top border relative path */
 .parallax #wrapper::before {
   background-image: url('../files/content/graphics/mountain-scroll.svg') !important;
+  z-index: 3;
 }
 
 .parallax.white #wrapper::before {
@@ -1492,13 +1593,52 @@ img[src*="wanderhotels-logo"] {
 
 /* 4. Mobile Header UI Alignment (Logo and Language Switcher) */
 @media (max-width: 799px) {
+  html,
+  body {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
+  #wrapper,
+  #full,
+  #last,
+  #before-footer,
+  #footer,
+  #marquee-section,
+  #marquee-section .inside,
+  #marquee-section .rs-columns,
+  #marquee-section .rs-column {
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+
+  #marquee-section {
+    overflow-x: clip;
+  }
+
+  #marquee-section .rs-columns,
+  #marquee-section .rs-column {
+    width: 100% !important;
+    min-width: 0;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
   .before-header {
     display: flex !important;
     align-items: center;
     justify-content: space-between;
     position: relative;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 100%;
     padding-left: 15px !important;
     padding-right: 15px !important;
+  }
+
+  .before-header > .flex {
+    margin-right: auto;
   }
 
   .before-header>div:first-child {
@@ -1517,12 +1657,13 @@ img[src*="wanderhotels-logo"] {
     transform: translate(-50%, -50%) !important;
     margin: 0 !important;
     z-index: 5;
-    width: 70px !important;
+    width: 112px !important;
   }
 
   .logo img,
   .logo-beige img {
-    max-height: 32px;
+    max-height: 50px !important;
+    height: 50px !important;
     width: auto !important;
     object-fit: contain;
   }
@@ -1532,35 +1673,134 @@ img[src*="wanderhotels-logo"] {
     /* Hide tiny subtext to clean up mobile header */
   }
 
-  .switcher {
-    z-index: 10;
-    padding-right: 0 !important;
+  /* Desktop controls remain unchanged; mobile gets two compact quick controls. */
+  .before-header .mod_changelanguage,
+  .before-header > .switcher {
+    display: none !important;
   }
 
-  /* Compact language switcher */
-  .mod_changelanguage ul {
-    margin-left: 8px !important;
-    gap: 4px;
+  .mobile-quick-controls {
+    display: flex;
+    position: absolute;
+    right: 14px;
+    top: 50%;
+    z-index: 12;
+    gap: 8px;
+    transform: translateY(-50%);
   }
 
-  .mod_changelanguage li {
-    margin-right: 0 !important;
+  .mobile-quick-trigger {
+    display: grid;
+    width: 40px;
+    height: 40px;
+    place-items: center;
+    padding: 0;
+    border: 1px solid currentColor;
+    border-radius: 50%;
+    background: rgba(20, 20, 20, 0.18);
+    color: inherit;
+    font: 700 1.3rem/1 Arial, sans-serif;
+    box-shadow: 0 5px 18px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
   }
 
-  .mod_changelanguage li a {
-    font-size: 0.75em !important;
-    padding: 3px 5px !important;
-    border: 1px solid rgba(255, 255, 255, 0.25);
-    border-radius: 4px;
-    background: rgba(255, 255, 255, 0.1);
-    color: var(--white) !important;
+  .mobile-quick-trigger:focus-visible,
+  .mobile-quick-options a:focus-visible,
+  .mobile-quick-options .season-switch:focus-visible {
+    outline: 2px solid currentColor;
+    outline-offset: 3px;
   }
 
-  body.is-scrolled .mod_changelanguage li a,
-  body.dark-header .mod_changelanguage li a {
-    border-color: rgba(0, 0, 0, 0.15);
-    background: rgba(0, 0, 0, 0.05);
-    color: var(--black) !important;
+  .mobile-quick-panel {
+    position: absolute;
+    top: calc(100% + 12px);
+    right: 0;
+    width: min(230px, calc(100vw - 28px));
+    padding: 13px;
+    border: 1px solid rgba(255, 255, 255, 0.45);
+    border-radius: 16px;
+    background: rgba(26, 26, 26, 0.82);
+    color: #fff;
+    box-shadow: 0 14px 30px rgba(0, 0, 0, 0.28);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+  }
+
+  .mobile-quick-panel[hidden] {
+    display: none !important;
+  }
+
+  .mobile-quick-label {
+    display: block;
+    margin: 0 0 9px;
+    font-size: 0.65rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+
+  .mobile-quick-options {
+    display: grid;
+    gap: 7px;
+  }
+
+  .mobile-quick-options.lang-switch {
+    grid-template-columns: repeat(3, 1fr);
+    margin: 0;
+  }
+
+  .mobile-season-options {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .mobile-quick-options a,
+  .mobile-quick-options .season-switch {
+    display: grid;
+    min-height: 38px;
+    place-items: center;
+    padding: 7px;
+    border: 1px solid rgba(255, 255, 255, 0.68);
+    border-radius: 9px;
+    background: transparent;
+    color: inherit;
+    font: inherit;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .mobile-quick-options a.is-active,
+  .mobile-quick-options .season-switch.is-active {
+    border-color: #fff;
+    background: #fff;
+    color: #1d1d1d;
+    opacity: 1;
+  }
+
+  /* Hero copy stays inside the reel at every phone width. */
+  #article-833 .heading--hero p {
+    box-sizing: border-box;
+    width: 100% !important;
+    max-width: 100%;
+    padding-right: 24px !important;
+    padding-left: 24px !important;
+    overflow-wrap: anywhere;
+  }
+
+  .tz-services-track {
+    padding-right: calc(50% - 37.5vw);
+    padding-left: calc(50% - 37.5vw);
+  }
+
+  .tz-service-card {
+    scroll-snap-align: center;
+  }
+}
+
+@media (max-width: 360px) {
+  .logo,
+  .logo-beige {
+    width: 96px !important;
   }
 }
 
@@ -1595,6 +1835,8 @@ img[src*="wanderhotels-logo"] {
     flex: 0 0 auto !important;
     width: auto !important;
     display: inline-block !important;
+    height: 48px;
+    min-height: 48px;
     padding: 6px 14px !important;
     font-size: 0.85em !important;
   }
@@ -1622,7 +1864,8 @@ img[src*="wanderhotels-logo"] {
 
 /* 6. Mobile Center "Nega Travel Zone" Rasm */
 @media (max-width: 799px) {
-  #marquee-section+.mod_article img[src*="nega.png"] {
+  #marquee-section img[src*="nega.png"] {
+    width: min(90%, 520px) !important;
     max-width: 90% !important;
     margin-left: auto !important;
     margin-right: auto !important;

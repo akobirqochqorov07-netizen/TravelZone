@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Travel Zone — Discover Tours & Travel Experiences</title>
     <base href="/">
-    <link rel="preload" as="image" href="/assets/images/a/thumb_sommer_morgen-7eft52c7hmp4j6s.webp"
+    <link rel="preload" as="image" href="assets/images/a/thumb_sommer_morgen-7eft52c7hmp4j6s.webp"
         fetchpriority="high">
     <meta name="robots" content="index,follow">
     <meta name="description"
@@ -37,20 +37,19 @@
             document.documentElement.classList.remove("season-spring", "season-summer", "season-autumn", "season-winter"); document.documentElement.classList.add("season-" + initialSeason); document.documentElement.setAttribute("data-season", initialSeason); window.__INITIAL_SEASON__ = initialSeason
         })()</script>
     <meta name="viewport" content="width=device-width,initial-scale=1.0,shrink-to-fit=no">
-    <link rel="stylesheet" href="/bundles/daesigncalendarfield/flatpickr/flatpickr.min.css?v=7e9ac4f9">
-    <link rel="preload" as="style" href="/bundles/contaowowjs/animate.min.css?v=cc65f6e2"
+    <link rel="stylesheet" href="bundles/daesigncalendarfield/flatpickr/flatpickr.min.css?v=7e9ac4f9">
+    <link rel="preload" as="style" href="bundles/contaowowjs/animate.min.css?v=cc65f6e2"
         onload="this.onload=null;this.rel='stylesheet'"><noscript>
-        <link rel="stylesheet" href="/bundles/contaowowjs/animate.min.css?v=cc65f6e2">
+        <link rel="stylesheet" href="bundles/contaowowjs/animate.min.css?v=cc65f6e2">
     </noscript>
     <link rel="stylesheet"
-        href="/assets/css/layout.min.css,responsive.min.css,rocksolid-slider.min.css,defau...-222f0dd8.css">
+        href="assets/css/layout.min.css,responsive.min.css,rocksolid-slider.min.css,defau...-222f0dd8.css">
     <script>window.ACTIVITY_LINK_MAP = { "sommer": { "13": "https://www.travelzone.uz/en/active-in-summer/pure-hiking", "18": "https://www.travelzone.uz/en/active-in-summer/hiking-biking", "14": "https://www.travelzone.uz/en/active-in-summer/hiking-climbing", "15": "https://www.travelzone.uz/en/active-in-summer/hiking-wellness", "16": "https://www.travelzone.uz/en/active-in-summer/hiking-yoga", "17": "https://www.travelzone.uz/en/active-in-summer/hiking-golfing" }, "winter": { "3": "https://www.travelzone.uz/en/active-in-winter/pure-winter-hiking", "6": "https://www.travelzone.uz/en/active-in-winter/snowshoe-hiking", "7": "https://www.travelzone.uz/en/active-in-winter/cross-country-skiing", "9": "https://www.travelzone.uz/en/active-in-winter/skiing", "8": "https://www.travelzone.uz/en/active-in-winter/ski-tours", "4": "https://www.travelzone.uz/en/active-in-winter/winter-hiking-wellness", "5": "https://www.travelzone.uz/en/active-in-winter/winter-hiking-yoga" } }</script>
     <script src="assets/js/nav-accordion.js,text-animation.js,hammer.min.js,images-compare....-d57c18ca.js"
         defer></script>
     <script src="assets/js/jquery.min.js,rocksolid-slider.min.js-49acb026.js"></script>
-    <script src="/bundles/daesigncalendarfield/flatpickr/flatpickr.min.js?v=7e9ac4f9"></script>
-    <script src="/bundles/daesigncalendarfield/flatpickr/l10n/en.js"></script>
-    <script defer src="/bundles/terminal42conditionalformfields/conditionalformfields.js?v=f9a36529"></script>
+    <script src="bundles/daesigncalendarfield/flatpickr/flatpickr.min.js?v=7e9ac4f9"></script>
+    <script defer src="bundles/terminal42conditionalformfields/conditionalformfields.js?v=f9a36529"></script>
     <link rel="alternate" hreflang="de" href="https://www.travelzone.uz/de/">
     <link rel="alternate" hreflang="x-default" href="https://www.travelzone.uz/de/">
     <link rel="alternate" hreflang="en" href="/">
@@ -66,8 +65,8 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400&display=swap"
         rel="stylesheet">
-    <link rel="stylesheet" href="/css/travelzone.css">
-    <link rel="icon" href="/branding/travel-zone-logo.png">
+    <link rel="stylesheet" href="css/travelzone.css">
+    <link rel="icon" href="branding/travel-zone-logo.png">
 </head>
 
 <body id="top" class="parallax start">
@@ -205,21 +204,7 @@
                             </ul>
                         </nav>
                     </div>
-                    <div class="logo">
-                        <a href="/" title="Travel Zone" class="logo-link">
-                            <img loading="lazy" src="/branding/travel-zone-logo-white-transparent.png"
-                                alt="Travel Zone Logo" title="Travel Zone">
-                            <span class="logo-text-sub">Travel Zone</span>
-                        </a>
-                    </div>
-                    <div class="logo-beige">
-                        <a href="/" title="Travel Zone" class="logo-link">
-                            <img loading="lazy" src="/branding/travel-zone-logo-dark-transparent.png"
-                                alt="Travel Zone Logo" title="Travel Zone">
-                            <span class="logo-text-sub">Travel Zone</span>
-                        </a>
-                    </div>
-                    <div class="switcher">
+                    <div class="switcher" aria-label="Season">
                         <button class="season-switch" data-season="spring" title="Travel Zone Spring">
                             <span data-i18n="seasons.spring">Spring</span>
                         </button>
@@ -233,6 +218,47 @@
                             <span data-i18n="seasons.winter">Winter</span>
                         </button>
                     </div>
+                    <div class="logo">
+                        <a href="/" title="Travel Zone" class="logo-link">
+                            <img loading="lazy" src="branding/travel-zone-logo-white-transparent.png"
+                                alt="Travel Zone Logo" title="Travel Zone">
+                            <span class="logo-text-sub">Travel Zone</span>
+                        </a>
+                    </div>
+                    <div class="logo-beige">
+                        <a href="/" title="Travel Zone" class="logo-link">
+                            <img loading="lazy" src="branding/travel-zone-logo-dark-transparent.png"
+                                alt="Travel Zone Logo" title="Travel Zone">
+                            <span class="logo-text-sub">Travel Zone</span>
+                        </a>
+                    </div>
+                    <div class="mobile-quick-controls" aria-label="Quick settings">
+                        <button type="button" class="mobile-quick-trigger" data-mobile-panel-trigger="language"
+                            aria-controls="mobile-language-panel" aria-expanded="false" title="Language">
+                            <span aria-hidden="true">◎</span><span class="sr-only">Language</span>
+                        </button>
+                        <button type="button" class="mobile-quick-trigger" data-mobile-panel-trigger="season"
+                            aria-controls="mobile-season-panel" aria-expanded="false" title="Season">
+                            <span aria-hidden="true">✦</span><span class="sr-only">Season</span>
+                        </button>
+                        <div id="mobile-language-panel" class="mobile-quick-panel" hidden>
+                            <span class="mobile-quick-label">Language</span>
+                            <div class="mobile-quick-options lang-switch">
+                                <a href="?lang=uz" data-lang="uz" hreflang="uz" aria-label="Oʻzbek">UZ</a>
+                                <a href="?lang=ru" data-lang="ru" hreflang="ru" aria-label="Русский">RU</a>
+                                <a href="?lang=en" data-lang="en" hreflang="en" aria-label="English">EN</a>
+                            </div>
+                        </div>
+                        <div id="mobile-season-panel" class="mobile-quick-panel" hidden>
+                            <span class="mobile-quick-label">Season</span>
+                            <div class="mobile-quick-options mobile-season-options">
+                                <button class="season-switch" data-season="spring"><span data-i18n="seasons.spring">Spring</span></button>
+                                <button class="season-switch" data-season="summer"><span data-i18n="seasons.summer">Summer</span></button>
+                                <button class="season-switch" data-season="autumn"><span data-i18n="seasons.autumn">Autumn</span></button>
+                                <button class="season-switch" data-season="winter"><span data-i18n="seasons.winter">Winter</span></button>
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <div class="mod_article block" id="article-833">
                     <div class="heading--hero homepage-heading content-text">
@@ -240,18 +266,12 @@
                             <p>Travel<br>Escapes<br>at Their<br>Best.</p>
                         </div>
                     </div>
-                    <link rel="preload" as="video" type="video/mp4"
-                        href="files/content/media/video/mobile/thevisualvein-wanderhotels-sommer-video-morgen-CUT_1_mobile.mp4"
-                        media="(max-width: 1024px)">
-                    <link rel="preload" as="video" type="video/mp4"
-                        href="files/content/media/video/HD/thevisualvein-wanderhotels-sommer-video-morgen-CUT_1.mp4"
-                        media="(min-width: 1025px)">
                     <div class="mod_rocksolid_slider start-slider summer block">
                         <div data-rsts-name="Sommer Video Header &#40;Morgen&#41;" data-rsts-slide-class="morning">
                             <div class="slide-loader">
                                 <div class="spinner"></div>
                             </div>
-                            <video poster="/assets/images/a/thumb_sommer_morgen-7eft52c7hmp4j6s.webp" muted playsinline
+                            <video poster="assets/images/a/thumb_sommer_morgen-7eft52c7hmp4j6s.webp" muted playsinline
                                 loop autoplay preload="auto" data-rsts-background data-rsts-scale-mode="crop"
                                 style="width:100%;height:100%;object-fit:cover;">
                                 <source
@@ -708,9 +728,9 @@
                                 </picture>
                             </figure>
                         </div>
-                        <a href="#destinations" class="compare-link-left" aria-label="summer vacation"
+                        <a href="activity.html?activity=summer-hiking" class="compare-link-left" aria-label="summer vacation"
                             draggable="false"></a>
-                        <a href="#destinations" class="compare-link-right" aria-label="winter vacation"
+                        <a href="activity.html?activity=winter-ski" class="compare-link-right" aria-label="winter vacation"
                             draggable="false"></a>
                     </div>
                 </div>
@@ -1343,7 +1363,7 @@
                 <div class="footer-inner">
                     <div>
                         <div class="flogo">
-                            <a href="/"><img loading="lazy" src="/branding/travel-zone-logo-dark-transparent.png"
+                            <a href="/"><img loading="lazy" src="branding/travel-zone-logo-dark-transparent.png"
                                     alt="Travel Zone Logo"></a>
                         </div>
                     </div>
@@ -1424,15 +1444,12 @@
     </div>
     </footer>
     </div>
-    <script src="/bundles/contaowowjs/wow.min.js" defer></script>
+    <script src="bundles/contaowowjs/wow.min.js" defer></script>
     <script>document.addEventListener('DOMContentLoaded', function () { if (typeof WOW !== 'undefined') { new WOW().init() } })</script>
-    <script src="/bundles/plentacontaofriendlycaptcha/webpack/friendlyCaptcha.fac30225.js" defer></script>
-    <script defer src="/js/season.js"></script><!-- hotels ajax replaced by Travel Zone tours -->
+    <script defer src="js/season.js"></script><!-- hotels ajax replaced by Travel Zone tours -->
     <script defer src="files/theme/js/custom-slider.js?v=f41a44fc"></script>
     <script defer src="files/theme/js/quick-nav.js?v=bb576635"></script>
     <script defer src="files/theme/js/fixed-navbar.js?v=b2cc35cf"></script>
-    <script defer src="files/theme/js/watchlist-core.js?v=99012441"></script>
-    <script defer src="files/theme/js/watchlist-overlay.js?v=ef26de70"></script>
     <script>document.addEventListener('DOMContentLoaded', function () {
             var $ = jQuery.noConflict(); $("header .lines-button").off("click").on("click", function () { $(this).toggleClass("close"); $("body").toggleClass("sidePanelOpen") }); (function () {
                 const compassImg = document.querySelector('.compass-wrapper img'); const counter = document.querySelector('.compass-counter'); let lastScrollTop = 0; let ticking = !1; function rotateCompass() { const theta = lastScrollTop / 10; compassImg.style.transform = `rotate(${theta}deg)`; counter.style.transform = `rotate(${-theta}deg)`; ticking = !1 }
@@ -1490,9 +1507,9 @@
 
     </div>
 
-    <link rel="stylesheet" href="/bundles/contaousernameinserttag/css/username.css">
-    <script defer src="/bundles/contaousernameinserttag/js/username.js"></script>
-    <script defer src="/js/travelzone-app.js"></script>
+    <link rel="stylesheet" href="bundles/contaousernameinserttag/css/username.css">
+    <script defer src="bundles/contaousernameinserttag/js/username.js"></script>
+    <script defer src="js/travelzone-app.js"></script>
 </body>
 
 </html>
