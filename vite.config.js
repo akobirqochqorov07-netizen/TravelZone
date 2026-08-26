@@ -59,9 +59,10 @@ export default defineConfig(({ command }) => ({
     },
     {
       name: 'fix-base-href',
-      transformIndexHtml(html, ctx) {
-        if (ctx.server) return html; // dev mode — keep as is
-        // production: fix <base href> to match repo subfolder
+      transformIndexHtml(html) {
+        if (command !== 'build') return html; // dev mode — keep as is
+        // Production: fix <base href> to match the GitHub Pages project subfolder.
+        // Checking `command` is stable across Vite versions; `ctx.server` is not.
         return html.replace(
           /<base href="[^"]*">/,
           '<base href="/TravelZone/">'
